@@ -1,8 +1,8 @@
 # ru-translit (kiwi0fruit's)
 
-### Uniquely reversible lossless Russian to English transliteration (without use of extra letters, diacritics and non-letter spelling marks). Uniquely reversible lossless Romanization of Russian with extended alphabet (Ââ,Ĉĉ,Čč,Êê,Ěě,Ĥĥ,Îî,Ĵĵ,Ôô,Šš,Ûû,Ŵŵ,Ŷŷ,Žž)
+### Uniquely reversible lossless Russian to English transliteration (without use of extra letters, diacritics and non-letter spelling marks). Uniquely reversible lossless Romanization of Russian with extended alphabet (two types of diacritics only: Êê, Ěě)
 
-### Однозначно обратимая транслитерация без потерь из русского в английский алфавит (без использования дополнительных букв, диакритических и небуквенных знаков). Однозначно обратимая русская латиница без потерь на основе этого транслита с расширенным алфавитом (Ââ,Ĉĉ,Čč,Êê,Ěě,Ĥĥ,Îî,Ĵĵ,Ôô,Šš,Ûû,Ŵŵ,Ŷŷ,Žž)
+### Однозначно обратимая транслитерация без потерь из русского в английский алфавит (без использования дополнительных букв, диакритических и небуквенных знаков). Однозначно обратимая русская латиница без потерь на основе этого транслита с расширенным алфавитом (только два вида диакритических знаков: Êê, Ěě)
 
 Придумал в качестве развлечения ещё один транслит. Развлечением было удовлетворить ограничениям:
 
