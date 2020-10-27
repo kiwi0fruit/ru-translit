@@ -23,10 +23,10 @@
 
 ## Кириллица <=> латиница
 
-| **е/сье/ые/съе** | **ё/сьё/ыё/съё** | **и/сьи/ыи/ыи/съи**  |
+| **е/сье/ые/съе** | **ё/сьё/ыё/съё** | **и/сьи/сыи/ыи/съи** |
 |:----------------:|:----------------:|:--------------------:|
-| e/sjye/yje/sje   | yo/sjyo/yjo/sjo  | i/sjyi/yi/yyi/sji    |
-| e/sjê/yê/sje     | ô/sjô/yô/sjo     | i/sjî/yi/ŷi/sji      |
+| e/sjye/yje/sje   | yo/sjyo/yjo/sjo  | i/sjyi/syi/yyi/sji   |
+| e/sjê/yê/sje     | ô/sjô/yô/sjo     | i/sjî/syi/ŷi/sji     |
 | **ю/сью/ыю/съю** | **я/сья/ыя/съя** | **э/экз/экс/эх/эч**  |
 | yu/sjyu/yju/sju  | ya/sjya/yja/sja  | eh/exz/ex/ehch/ehchh |
 | û/sjû/yû/sju     | â/sjâ/yâ/sja     | ě/ěxz/ěx/ěch/ěĉ      |
