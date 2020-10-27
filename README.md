@@ -128,4 +128,4 @@
 * [ ] Попробовать сделать однострочный джавастрипт, которым можно перевести любую уже открытую страницу в интернете.
 
 
-[latin capital letter j with stroke, latin small letter dotless j, latin small letter dotless j with stroke](https://en.m.wikipedia.org/wiki/List_of_Unicode_characters).
+[latin capital letter j with stroke, latin small letter dotless j, latin small letter dotless j with stroke U+025F](https://en.m.wikipedia.org/wiki/List_of_Unicode_characters).
