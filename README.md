@@ -73,8 +73,10 @@
 | ь/jh/ȷ (Ь/JH/JH) | `ь`         | `jh`                | Чан**ь**ол/Сhan**jh**ol/Čan**ȷ**ol, Мур**ьй**ин/Mur**jhj**in/Mur**ȷj**in, Чан**ь**ын/Сhan**jh**yn/Čan**ȷ**yn |
 | ые/yje/yê, ыё/yjo/yô, ыю/yju/yû, ыя/yja/yâ | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**/bel**yê**, бедн**ыя**/bedn**yja**/bedn**yâ** |
 | ые/yyje/ŷê, ыё/yyjo/ŷô, ыю/yyju/ŷû, ыя/yyja/ŷâ | `(?<=ы)ы[еёюя]` | `yyj[eoua]` | ы**ые**/yy**yyje**/ŷ**ŷê**                  |
-| ы/yy/ŷ | `ы(?=[эоуаы])`        | `yy`                | в**ы**игрывать/v**yy**igryvatj/v**ŷ**igryvatj, в**ы**искивать/v**yy**iskivatj/v**ŷ**iskivatj, **ы**а/**yy**a/**ŷ**a, **ы**я/**y**ja/**y**â, в**ы**йигрывать/v**yy**jjigryvatj/v**ŷ**ĵigryvatj |
+| ы/yy/ŷ | `ы(?=[эоуаы])`        | `yy`                | **ы**а/**yy**a/**ŷ**a, **ы**я/**y**ja/**y**â, в**ы**йигрывать/v**yy**jjigryvatj/v**ŷ**ĵigryvatj |
 | ы/yy/ŷ | `(?<=ы)ы`             | `yy`                | **ыы**/**yyyy**/**ŷŷ** |
+| ыи/yyi/ŷi | `(?<!\c)ыи`        | `yyi`               | а**ыи**/a**yyi**/a**ŷi** |
+| ыи/yi/yi | `(?<=\c)ыи`         | `yi`                | в**ы**игрывать/v**yy**igryvatj/v**ŷ**igryvatj, в**ы**искивать/v**yy**iskivatj/v**ŷ**iskivatj  |
 | ы/y    | `ы`                   | `y`                 | кр**ы**ска/kr**y**ska, **ы**пся/**y**psya/**y**psâ, п**ы**хтел/p**y**htel |
 | ый/yj  | `(?<=\c)ый(?=[_\c\W])` | `yj(?=[_\c\W])`    | бел**ый**/bel**yj**, бел**ый**с/bel**yj**s                            |
 | ый/yjj/yĵ | `(?<=\c)ый(?![_\c\W])` | `yjj`           | л**ый**ес/l**yjj**es/l**yĵ**es, бел**ый**а/bel**yjj**a/bel**yĵ**a, бел**ый**е/bel**yjj**e/bel**yĵ**e  |
