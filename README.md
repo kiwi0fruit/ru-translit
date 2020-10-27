@@ -71,7 +71,7 @@
 | ье/jye/jê, ьё/jyo/jô, ьи/jyi/jî, ью/jyu/jû, ья/jya/jâ | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa/p**jê**sa, п**ья**н/p**jya**n/p**jâ**n, лад**ьи**/lad**jyi**/lad**jî**, плат**ьи**це/plat**jyi**ce/plat**jî**ce, Мур**ьи**н/Mur**jyi**n/Mur**jî**n |
 | ь/j    | `(?<=\c)ь(?![эоуaйы])` | `(?<=\c)j`         | пряч**ь**ся/pryach**j**sya/prâč**j**sâ, мыт**ь**ся/myt**j**sya/myt**j**sâ, кон**ь**/kon**j** |
 | ь/jh/ȷ (Ь/JH/JH) | `ь`         | `jh`                | Чан**ь**ол/Сhan**jh**ol/Čan**ȷ**ol, Мур**ьй**ин/Mur**jhj**in/Mur**ȷj**in, Чан**ь**ын/Сhan**jh**yn/Čan**ȷ**yn |
-| ые/yje/yê, ыё/yjo/yô, ыю/yju/yû, ыя/yja/yâ | `ы[еёюяи]` | `yj[eouai]` | бел**ые**/bel**yje**/bel**yê**, бедн**ыя**/bedn**yja**/bedn**yâ** |
+| ые/yje/yê, ыё/yjo/yô, ыю/yju/yû, ыя/yja/yâ | `ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**/bel**yê**, бедн**ыя**/bedn**yja**/bedn**yâ** |
 | ый/yjj/yĵ | `ый(?![_\c\W])`    | `yjj`               | л**ый**ес/l**yjj**es/l**yĵ**es, бел**ый**а/bel**yjj**a/bel**yĵ**a, бел**ый**е/bel**yjj**e/bel**yĵ**e  |
 | ый/yj  | `ый(?=[_\c\W])`       | `yj(?=[_\c\W])`     | бел**ый**/bel**yj**, бел**ый**с/bel**yj**s                            |
 | ы/y    | `ы`                   | `y`                 | кр**ы**ска/kr**y**ska, **ы**пся/**y**psya/**y**psâ, п**ы**хтел/p**y**htel |
