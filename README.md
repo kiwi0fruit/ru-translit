@@ -1,6 +1,6 @@
 # ru-translit (kiwi0fruit's)
 
-### Uniquely reversible lossless Russian to English transliteration (without use of extra letters, diacritics and non-letter spelling marks). Uniquely reversible lossless Romanization of Russian (russkaya latinica) with extended alphabet (mostly like Êê, Žž)
+### Uniquely reversible and lossless: Russian to English transliteration (no extra letters, diacritics and non-letters) together with dual romanization of Russian (russkaâ latinica) with extended alphabet (Êê,Žž,...)
 
 ### Однозначно обратимая транслитерация без потерь из русского в английский алфавит (без использования дополнительных букв, диакритических и небуквенных знаков). Однозначно обратимая русская латиница без потерь на основе этого транслита с расширенным алфавитом (в основном как Êê, Žž)
 
