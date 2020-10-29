@@ -95,6 +95,28 @@ Imeyetsya neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo 
 V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyashchaya ot neskoljkih predkov), drugiye priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
+## Примеры текстов на латинице
+
+Pjânyj master sdelal mehaničeskij objekt s izjanom. Êsli brak ne obnaružitsâ, to belyj bolid boljše ne smožet vyigryvatj gonki.
+
+V pjêse pro devušku v zelônom platjîce vse sadilisj na ladjî i plyli po reke. No tut iz lesa vyšel konj v paljto i prikazal vsem mytjsâ.
+
+Prepodobnyj Bajyes podkinul igraljnyê kosti. Vypalo šestj, značit êmu pridôtsâ mazatj jod na ranu.
+
+Męr neboljšogo gorodiški otkryl tablicu exelâ i vozmutilsâ cenoj novogo exkavatora. Až ekzema snova stala êgo bespokoitj. Oh už eta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aeroplana-ekranolôta. Êsli tak pojdôt i daljše, to bûdžetu pridôtsâ hudo.
+
+V etom vide fraza ot A to Â načinaêt vyglâdetj sovsem po-drugomu. Sejčas ščôtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda êgo češut êû. Ôž kolûčij i pohož na neô.
+
+Sĥod mestnyh žytelej indijskoj derevni sikĥov rešal čto že delatj s otĥodami kompanii "The LLC". Odin iz prisutstvuûščih nosil hoholok na golove. On i našôl vyhod iz situacii.
+
+"Kto s mečom k nam pridôt, tot ot meča i..." - ne smog dogovoritj staršij mehanik Vasilij.
+
+Imeêtsâ neskoljko gipotez proisĥoždeniâ sobaki, naiboleê veroâtnymi êô predkami sčitaûtsâ volk i nekotoryê vidy šakalov.
+
+V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreniâ. Odni sčitaût, čto sobaki - polifiletičeskaâ gruppa (proisĥodâščaâ ot neskoljkih predkov), drugiê priderživaûtsâ mneniâ, čto vse sobaki proizošli ot odnogo predka (monofiletičeskaâ teoriâ).
+
+
+
 ## Кириллица => латиница
 
 Пока что это только зачатки двух алгоритмов прямого и обратного пребразования.
