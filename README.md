@@ -44,10 +44,10 @@
 
 Подробная версия:
 
-| **е/се/сье/ые/съе** | **ё/сьё/ыё/съё** | **и/сьи/сыи/ыи/съи**    |
+| **е/се/сье/ые/съе** | **ё/сьё/ыё/съё** | **и/сьи/сыи/аыи/съи**   |
 |:-------------------:|:----------------:|:-----------------------:|
-| ye/se/sjye/yje/sje  | yo/sjyo/yjo/sjo  | i/sjyi/syi/yyi/sji      |
-| ê/se/sjê/yê/sje     | ô/sjô/yô/sjo     | i/sjî/syi/ŷi/sji        |
+| ye/se/sjye/yje/sje  | yo/sjyo/yjo/sjo  | i/sjyi/syi/ayyi/sji     |
+| ê/se/sjê/yê/sje     | ô/sjô/yô/sjo     | i/sjî/syi/aŷi/sji       |
 | **ю/сью/ыю/съю**    | **я/сья/ыя/съя** | **э/сэ/саэ/аэ/экз/экс** |
 | yu/sjyu/yju/sju     | ya/sjya/yja/sja  | e/sae/saae/ae/exz/exs   |
 | û/sjû/yû/sju        | â/sjâ/yâ/sja     | e/sę/saę/ae/exz/exs     |
