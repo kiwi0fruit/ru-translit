@@ -97,7 +97,7 @@
 |     | Cyrillic RegEx | Latin RegEx | Примеры                                      |
 | --------- | --------------:|:----- | -------------------------------------------- |
 | ъе/je, ъё/jo, ъи/ji, ъю/ju, ъя/ja | `(?<=\c)ъ[еёюяи]` | `(?<=\c)j[eouai]` | об**ъе**кт/ob**je**kt, из**ъя**н/iz**ja**n, м**е**ра/m**e**ra, **е**сли/**ye**sli/**ê**sli, з**я**ка/z**ya**ka/z**â**ka, Мур**ъи**н/Mur**ji**n |
-| ъ/jhjh/ɉɉ/ĵ̵ | `ъ`           | `jhjh` | он**ъ**/on**jhjh**/on**ɉɉ**/on**ĵ̵**, Му**ъ**минат/Mu**jhjh**minat/Mu**ĵ̵**minat, Чан**ъ**ань/Chan**jhjh**anj/Chan**ĵ̵**anj, Мур**ъйи**н/Mur**jhjhji**n/Mur**ĵ̵ji**n |
+| ъ/jhjh/ɉɉ/ɉ̂ | `ъ`           | `jhjh` | он**ъ**/on**jhjh**/on**ɉɉ**/on**ɉ̂**, Му**ъ**минат/Mu**jhjh**minat/Mu**ɉ̂**minat, Чан**ъ**ань/Chan**jhjh**anj/Chan**ɉ̂**anj, Мур**ъйи**н/Mur**jhjhji**n/Mur**ɉ̂ji**n |
 | | | | |
 | ье/jye/jê, ьё/jyo/jô, ьи/jyi/jî, ью/jyu/jû, ья/jya/jâ | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa/p**jê**sa, п**ья**н/p**jya**n/p**jâ**n, лад**ьи**/lad**jyi**/lad**jî**, плат**ьи**це/plat**jyi**ce/plat**jî**ce, Мур**ьи**н/Mur**jyi**n/Mur**jî**n |
 | ь/j               | `(?<=\c)ь(?![эоуaйы])` | `(?<=\c)j` | пряч**ь**ся/pryach**j**sya/prâč**j**sâ, мыт**ь**ся/myt**j**sya/myt**j**sâ, кон**ь**/kon**j** |
