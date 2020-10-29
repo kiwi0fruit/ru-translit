@@ -73,6 +73,25 @@
 Так же нужно специальное правило для аббревиатур: АЭС/AES, АЕС/AES/AÊS, ФМШ/FMS/FMŠ, ЭЮЯ/EUA/EÛÂ.
 То есть, использовать не модификатор а модифицируемую букву (отбросить диакритический знак в латинице).
 
+
+## Примеры текстов в транслитерации
+
+Pjyanyj master sdelal mehanicheskij objekt s izjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
+
+V pjyese pro devushku v zelyonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsya.
+
+Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridyotsya mazatj jod na ranu.
+
+Maer neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak pojdyot i daljshe, to byudzhetu pridyotsya hudo.
+
+V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas shchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda ego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
+
+Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashyol vyhod iz situacii.
+
+"Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
+
+
+
 ## Кириллица => латиница
 
 Пока что это только зачатки двух алгоритмов прямого и обратного пребразования.
