@@ -49,8 +49,8 @@
 | ye/se/sjye/yje/sje  | yo/sjyo/yjo/sjo  | i/sjyi/syi/ayyi/sji     |
 | ê/se/sjê/yê/sje     | ô/sjô/yô/sjo     | i/sjî/syi/aŷi/sji       |
 | **ю/сью/ыю/съю**    | **я/сья/ыя/съя** | **э/сэ/саэ/аэ/экз/экс** |
-| yu/sjyu/yju/sju     | ya/sjya/yja/sja  | e/sae/saae/ae/exz/exs   |
-| û/sjû/yû/sju        | â/sjâ/yâ/sja     | e/sę/saę/ae/exz/exs     |
+| yu/sjyu/yju/sju     | ya/sjya/yja/sja  | e/sae/saae/ae/exz/ex    |
+| û/sjû/yû/sju        | â/sjâ/yâ/sja     | e/sę/saę/ae/exz/ex      |
 
 | **ж** | **ч** | **х**     | **ш/шч**    | **щ**       |
 |:-----:|:-----:|:---------:|:-----------:|:-----------:|
@@ -111,13 +111,13 @@
 | е/ye/ê |     `(?<!\c)е` | `ye`          | за**е**зд/za**ye**zd/za**ê**zd, бай**е**с/baj**ye**s/baj**ê**s, **е**сли/**ye**sli/**ê**sli, **е**хо/**ye**ho/êho |
 | е/e    |     `(?<=\c)е` | `e`           | м**е**х/m**e**h                                                                    |
 | экз/exz | `экз`         | `exz`         | **экз**амен/**exz**amen, **экз**ема/**exz**ema                                     |
-| экс/exs | `экс`         | `exs`         | **экс**каватор/**exs**kavator, **экс**ель/**exs**elj                               |
+| экс/ex  | `экс(?!з)`    | `ex`          | **экс**каватор/**ex**kavator, **экс**ель/**ex**elj, м**экс**/m**ex**, эксз/eksz    |
 | э/ae/ę  | `(?<=\ca?)э`  | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, д**э**хо/d**ae**ho/d**ę**ho, ма**э**р/ma**ae**r/ma**ę**r, ааэро/aaero, еаэро/yeaero/êaero, в**эч**ный/v**aech**nyj/v**ęč**nyj |
 | э/e     | `(?<!\c)э`    | `e`           | **эх**о/**eh**o, **э**тот/**e**tot, **э**он/**e**on, **э**кран/**e**kran, радио**э**хо/radio**e**ho, а**э**роплан/a**e**roplan, **э**ротика/**e**rotika, Но**э**ль/No**e**lj |
 | | | | |
 | шч/shwch/šwč | `шч`     | `shwch`       | **шч**ётка/**shwch**yotka/**šwč**ôtka                                              |
 | щ/shch/šč    | `щ`      | `shch`        | **щ**ётка/**shch**yotka/**šč**ôtka, **cч**ёт/**sch**yot/**sč**ôt                   |
-| ж/zh/ž | `ж`            | `zh`          | ё**ж**/yo**zh**/ô**ž**                                                             |
+| ж/zh/ž | `ж`            | `zh`          | ё**ж**/yo**zh**/ô**ž**, во**зж**и/vo**zzh**i, по**зж**е/po**zzh**e                 |
 | ч/ch/č | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh/**č**ernyš, с**ч**ётная/s**ch**yotnaya/s**č**ôtnaâ         |
 | ш/sh/š | `ш`            | `sh`          | **ш**лем/**sh**lem/**š**lem                                                        |
 | х/kh/ĥ | `(?=[хтсшзжцчщъьйк])х` | `kh` | с**х**од/s**kh**od/s**ĥ**od, **кх**е/**kkh**e/**kĥ**e, си**кх**/si**kkh**/si**kĥ**, ме**х**/me**h**/me**h**, Муръ**х**ин/Murwjh**kh**in/Murwɉ**ĥ**in, Мурь**х**ин/Murj**kh**in/Murj**ĥ**in, от**х**од/ot**kh**od/ot**ĥ**od |
