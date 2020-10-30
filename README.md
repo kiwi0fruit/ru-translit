@@ -76,6 +76,8 @@
 
 ## Примеры текстов в транслитерации
 
+По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем вариант с диакритическими знаками.
+
 Pjyanyj master sdelal mehanicheskij objekt s izjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
 V pjyese pro devushku v zelyonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsya.
@@ -96,6 +98,8 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 
 ## Примеры текстов на латинице
+
+Какой-то неудобный вариант - набирать сложнее или даже средства набора плохо доступны. И для русско-английских билингвов это будет уже третье сопоставление букв со звуками - избыточно.
 
 Pjânyj master sdelal mehaničeskij objekt s izjanom. Êsli brak ne obnaružitsâ, to belyj bolid boljše ne smožet vyigryvatj gonki.
 
