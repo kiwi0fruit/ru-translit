@@ -105,7 +105,7 @@ Pjânyj master sdelal mehaničeskij objekt s izjanom. Êsli brak ne obnaružits�
 
 V pjêse pro devušku v zelônom platjîce vse sadilisj na ladjî i plyli po reke. No tut iz lesa vyšel konj v paljto i prikazal vsem mytjsâ.
 
-Prepodobnyj Bajyes podkinul igraljnyê kosti. Vypalo šestj, značit êmu pridôtsâ mazatj jod na ranu.
+Prepodobnyj Bajês podkinul igraljnyê kosti. Vypalo šestj, značit êmu pridôtsâ mazatj jod na ranu.
 
 Męr neboljšogo gorodiški otkryl tablicu exelâ i vozmutilsâ cenoj novogo exkavatora. Až ekzema snova stala êgo bespokoitj. Oh už eta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aeroplana-ekranolôta. Êsli tak pojdôt i daljše, to bûdžetu pridôtsâ hudo.
 
