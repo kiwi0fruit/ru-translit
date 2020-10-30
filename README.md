@@ -120,7 +120,6 @@ Imeêtsâ neskoljko gipotez proisĥoždeniâ sobaki, naiboleê veroâtnymi êô 
 V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreniâ. Odni sčitaût, čto sobaki - polifiletičeskaâ gruppa (proisĥodâščaâ ot neskoljkih predkov), drugiê priderživaûtsâ mneniâ, čto vse sobaki proizošli ot odnogo predka (monofiletičeskaâ teoriâ).
 
 
-
 ## Кириллица => латиница
 
 Пока что это только зачатки двух алгоритмов прямого и обратного пребразования.
