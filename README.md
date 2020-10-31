@@ -147,7 +147,7 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 | | | | |
 | й/jj/ĵ    | `(?<=[й\c])й`  | `jj`  | **йй**/**jjjj**/**ĵĵ**, под**й**езд/pod**jj**yezd/pod**ĵ**êzd, под**й**од/pod**jj**od/pod**ĵ**od, Мур**й**ин/Mur**jj**in/Mur**ĵ**in |
 | й/jj/ĵ    | `й(?=й)`       | `jj`  | **йй**/**jjjj**/**ĵĵ** |
-| й/jj/ĵ | `(?<=ы)й(?=[эоуа])` | `jj` | белы**й**а/bely**jj**a/bely**ĵ**a, белы**й**е/bely**jj**ye/bely**ĵ**ê, **й**эс/**jj**es/**ĵ**es |
+| й/jj/ĵ | `(?<=ы)й(?=[эоуа])` | `jj` | белы**й**а/bely**jj**a/bely**ĵ**a, белы**й**е/bely**jj**ye/bely**ĵ**ê, **й**эс/**jj**aes/**ĵ**ęs |
 | й/j       | `й`            | `j`   | ба**й**ес/ba**j**yes/ba**j**ês, белы**й**/bely**j**, **й**од/**j**od, **й**иппи/**j**ippi, ба**й**ас/ba**j**as, ба**й**яс/ba**j**yas/ba**j**âs, баян/bayan/baân |
 
 
@@ -160,7 +160,7 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 | е/e    | `е`            | `e`           | м**е**х/m**e**h, про**е**кт/pro**e**kt, за**е**зд/za**e**zd                        |
 | экс/ex | `экс      `    | `ex`          | **экс**каватор/**ex**kavator, **экс**ель/**ex**elj, м**экс**/m**ex**, экзамен/ekzamen, экзема/ekzema, Мексика/Meksika, мех/meh |
 | э/e    | `^э`           | `e`           | **эх**о/**eh**o, **э**тот/**e**tot, **э**он/**e**on, **э**кран/**e**kran, **э**ротика/**e**rotika |
-| э/ae/ę | `э`            | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, Но**э**ль/No**ae**lj, а**э**роплан/a**ae**roplan, радио**э**хо/radio**ae**ho, ма**э**р/ma**ae**r/ma**ę**r, аа**э**ро/aa**ae**ro, в**эч**ный/v**aech**nyj/v**ęč**nyj |
+| э/ae/ę | `э`            | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, Но**э**ль/No**ae**lj, а**э**роплан/a**ae**roplan, радио**э**хо/radio**ae**ho, ма**э**р/ma**ae**r/ma**ę**r, аа**э**ро/aa**ae**ro, в**эч**ный/v**aech**nyj/v**ęč**nyj, й**э**с/jj**ae**s/ĵ**ę**s |
 | | | | |
 | шч/shwch/šwč | `шч`     | `shwch`       | **шч**ётка/**shwch**yotka/**šwč**ôtka                                              |
 | щ/shch/šč    | `щ`      | `shch`        | **щ**ётка/**shch**yotka/**šč**ôtka, **cч**ёт/**sch**yot/**sč**ôt                   |
