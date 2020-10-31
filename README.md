@@ -78,30 +78,30 @@
 
 *По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем вариант с диакритическими знаками.*
 
-Pjyanyj master sdelal mehanicheskij objekt s izjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
+Pjyanyj master po proektu sdelal mehanicheskij objekt s izjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
 V pjyese pro devushku v zelyonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsya.
 
 Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridyotsya mazatj jod na ranu.
 
-Maer neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak pojdyot i daljshe, to byudzhetu pridyotsya hudo.
+Maer neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aaeroplana-ekranolyota. Yesli tak pojdyot i daljshe, to byudzhetu pridyotsya hudo.
 
-V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas shchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinaet vyglyadetj sovsem po-drugomu. Sejchas shchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
 
 Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashyol vyhod iz situacii.
 
 "Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
-Imeyetsya neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryje vidy shakalov.
+Imeetsya neskoljko gipotez proiskhozhdeniya sobaki, naibolee veroyatnymi yeyo predkami schitayutsya volk i nekotoryje vidy shakalov.
 
-V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyashchaya ot neskoljkih predkov), drugiye priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyashchaya ot neskoljkih predkov), drugie priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Примеры текстов на латинице
 
 *Этот вариант станет удобным только при наличии удобных програмных средств ввода. Для мобильных устройств: словаря для swipe-клавиатуры и экранной клавиатуры, в которой все 34 буквы основного расширенного алфавита расположены отдельно. Для десктопа скорее всего придется переиспользовать именно русскую раскладку - нужно, чтобы одновременно были доступны все буквы.*
 
-Pjânyj master sdelal mehaničeskij objekt s izjanom. Êsli brak ne obnaružitsâ, to belyj bolid boljše ne smožet vyigryvatj gonki.
+Pjânyj master po proektu sdelal mehaničeskij objekt s izjanom. Êsli brak ne obnaružitsâ, to belyj bolid boljše ne smožet vyigryvatj gonki.
 
 V pjêse pro devušku v zelônom platjîce vse sadilisj na ladjî i plyli po reke. No tut iz lesa vyšel konj v paljto i prikazal vsem mytjsâ.
 
@@ -109,15 +109,15 @@ Prepodobnyj Bajês podkinul igraljnyê kosti. Vypalo šestj, značit êmu pridô
 
 Męr neboljšogo gorodiški otkryl tablicu exelâ i vozmutilsâ cenoj novogo exkavatora. Až ekzema snova stala êgo bespokoitj. Oh už eta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aeroplana-ekranolôta. Êsli tak pojdôt i daljše, to bûdžetu pridôtsâ hudo.
 
-V etom vide fraza ot A to Â načinaêt vyglâdetj sovsem po-drugomu. Sejčas ščôtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda êgo češut êû. Ôž kolûčij i pohož na neô.
+V etom vide fraza ot A to Â načinaet vyglâdetj sovsem po-drugomu. Sejčas ščôtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda êgo češut êû. Ôž kolûčij i pohož na neô.
 
 Sĥod mestnyh žytelej indijskoj derevni sikĥov rešal čto že delatj s otĥodami kompanii "The LLC". Odin iz prisutstvuûščih nosil hoholok na golove. On i našôl vyhod iz situacii.
 
 "Kto s mečom k nam pridôt, tot ot meča i..." - ne smog dogovoritj staršij mehanik Vasilij.
 
-Imeêtsâ neskoljko gipotez proisĥoždeniâ sobaki, naiboleê veroâtnymi êô predkami sčitaûtsâ volk i nekotoryê vidy šakalov.
+Imeetsâ neskoljko gipotez proisĥoždeniâ sobaki, naibolee veroâtnymi êô predkami sčitaûtsâ volk i nekotoryê vidy šakalov.
 
-V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreniâ. Odni sčitaût, čto sobaki - polifiletičeskaâ gruppa (proisĥodâščaâ ot neskoljkih predkov), drugiê priderživaûtsâ mneniâ, čto vse sobaki proizošli ot odnogo predka (monofiletičeskaâ teoriâ).
+V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreniâ. Odni sčitaût, čto sobaki - polifiletičeskaâ gruppa (proisĥodâščaâ ot neskoljkih predkov), drugie priderživaûtsâ mneniâ, čto vse sobaki proizošli ot odnogo predka (monofiletičeskaâ teoriâ).
 
 
 ## Кириллица => латиница
