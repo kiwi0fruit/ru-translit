@@ -118,13 +118,13 @@ Męr neboljšogo gorodiški otkryl tablicu exelâ i vozmutilsâ cenoj novogo exk
 
 V etom vide fraza ot A to Â načinaêt vyglâdetj sovsem po-drugomu. Sejčas ščôtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda êgo češut êû. Ôž kolûčij i pohož na neô.
 
-Sĥod mestnyh žytelej indijskoj derevni sikĥov rešal čto že delatj s otĥodami kompanii "The LLC". Odin iz prisutstvuûščih nosil hoholok na golove. On i našôl vyhod iz situacii.
+Shod mestnyh žytelej indijskoj derevni sikhov rešal čto že delatj s othodami kompanii "The LLC". Odin iz prisutstvuûščih nosil hoholok na golove. On i našôl vyhod iz situacii.
 
 "Kto s mečom k nam pridôt, tot ot meča i..." - ne smog dogovoritj staršij mehanik Vasilij.
 
-Imeetsâ neskoljko gipotez proisĥoždeniâ sobaki, naibolee veroâtnymi êô predkami sčitaûtsâ volk i nekotoryê vidy šakalov.
+Imeetsâ neskoljko gipotez proishoždeniâ sobaki, naibolee veroâtnymi êô predkami sčitaûtsâ volk i nekotoryê vidy šakalov.
 
-V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreniâ. Odni sčitaût, čto sobaki - polifiletičeskaâ gruppa (proisĥodâščaâ ot neskoljkih predkov), drugie priderživaûtsâ mneniâ, čto vse sobaki proizošli ot odnogo predka (monofiletičeskaâ teoriâ).
+V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreniâ. Odni sčitaût, čto sobaki - polifiletičeskaâ gruppa (proishodâščaâ ot neskoljkih predkov), drugie priderživaûtsâ mneniâ, čto vse sobaki proizošli ot odnogo predka (monofiletičeskaâ teoriâ).
 
 
 ## Кириллица => латиница
