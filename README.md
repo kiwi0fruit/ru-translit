@@ -107,7 +107,7 @@ V pjêse pro devušku v zelônom platjîce vse sadilisj na ladjî i plyli po rek
 
 Prepodobnyj Bajês podkinul igraljnyê kosti. Vypalo šestj, značit êmu pridôtsâ mazatj jod na ranu.
 
-Męr neboljšogo gorodiški otkryl tablicu exelâ i vozmutilsâ cenoj novogo exkavatora. Až ekzema snova stala êgo bespokoitj. Oh už eta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aeroplana-ekranolôta. Êsli tak pojdôt i daljše, to bûdžetu pridôtsâ hudo.
+Męr neboljšogo gorodiški otkryl tablicu exelâ i vozmutilsâ cenoj novogo exkavatora. Až ekzema snova stala êgo bespokoitj. Oh už eta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aęroplana-ekranolôta. Êsli tak pojdôt i daljše, to bûdžetu pridôtsâ hudo.
 
 V etom vide fraza ot A to Â načinaet vyglâdetj sovsem po-drugomu. Sejčas ščôtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda êgo češut êû. Ôž kolûčij i pohož na neô.
 
