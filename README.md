@@ -88,7 +88,7 @@ Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridyo
 
 Maer neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aaeroplana-ekranolyota. Yesli tak pojdyot i daljshe, to byudzhetu pridyotsya hudo.
 
-V etom vide fraza ot A to Ya nachinaet vyglyadetj sovsem po-drugomu. Sejchas shchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas shchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
 
 Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashyol vyhod iz situacii.
 
@@ -109,7 +109,7 @@ Prepodobnyj Bajês podkinul igraljnyê kosti. Vypalo šestj, značit êmu pridô
 
 Męr neboljšogo gorodiški otkryl tablicu exelâ i vozmutilsâ cenoj novogo exkavatora. Až ekzema snova stala êgo bespokoitj. Oh už eta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aęroplana-ekranolôta. Êsli tak pojdôt i daljše, to bûdžetu pridôtsâ hudo.
 
-V etom vide fraza ot A to Â načinaet vyglâdetj sovsem po-drugomu. Sejčas ščôtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda êgo češut êû. Ôž kolûčij i pohož na neô.
+V etom vide fraza ot A to Â načinaêt vyglâdetj sovsem po-drugomu. Sejčas ščôtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda êgo češut êû. Ôž kolûčij i pohož na neô.
 
 Sĥod mestnyh žytelej indijskoj derevni sikĥov rešal čto že delatj s otĥodami kompanii "The LLC". Odin iz prisutstvuûščih nosil hoholok na golove. On i našôl vyhod iz situacii.
 
