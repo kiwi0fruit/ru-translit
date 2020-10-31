@@ -43,8 +43,8 @@
 | e/ye/je | yo/jo | zh    | i/yi/ji | j/jj  | h/kh  | ch      | sh      | shch    |
 | e/ê     | ô     | ž     | i/î     | j/ĵ   | h/ĥ   | č       | š       | šč      |
 | **ъ**   | **ы** | **ь** | **э**   | **ю** | **я** | **экс** | **шч**  | **ьь**  |
-| j/jhjh  | y/yy  | j/jh  | e/ae    | yu/ju | ya/ja | ex      | shwch   | jhwjh   |
-| j/ɉɉ/ɉ̂  | y/ŷ   | j/ɉ   | e/ę     | û     | â     | ex      | šwč     | ɉwɉ     |
+| j/jhjh  | y/yy  | j/jh  | ae/e    | yu/ju | ya/ja | ex      | shwch   | jhwjh   |
+| j/ɉɉ/ɉ̂  | y/ŷ   | j/ɉ   | ę/e     | û     | â     | ex      | šwč     | ɉwɉ     |
 
 Подробнее:
 
