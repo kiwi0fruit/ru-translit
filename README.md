@@ -155,7 +155,7 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 
 |        | Cyrillic RegEx | Latin RegEx   | Примеры                                                                            |
 | ------ | --------------:|:------------- | ---------------------------------------------------------------------------------- |
-| е/ye/ê | `(?<=j)е`      | `ye`          | бай**е**с/baj**ye**s/baj**ê**s                                                     |
+| е/ye/ê | `(?<=ай)е`     | `ye`          | бай**е**с/baj**ye**s/baj**ê**s, Ра**е**вская/Ra**ye**vskaya, за**е**м/za**ye**m, заём/zayom |
 | е/ye/ê | `^е`           | `ye`          | **е**сли/**ye**sli/**ê**sli, **е**хо/**ye**ho/êho                                  |
 | е/e    | `е`            | `e`           | м**е**х/m**e**h, про**е**кт/pro**e**kt, за**е**зд/za**e**zd                        |
 | экс/ex | `экс      `    | `ex`          | **экс**каватор/**ex**kavator, **экс**ель/**ex**elj, м**экс**/m**ex**, экзамен/ekzamen, экзема/ekzema, Мексика/Meksika, мех/meh |
