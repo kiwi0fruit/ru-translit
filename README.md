@@ -145,12 +145,12 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 | ь/jh/ɉ    | `ь`            | `jh`  | Чан**ь**ол/Сhan**jh**ol/Čan**ɉ**ol, Мур**ьй**ин/Mur**jhj**in/Mur**ɉj**in, Чан**ь**ын/Сhan**jh**yn/Čan**ɉ**yn |
 | | | | |
 | ые/yje/yê, ыё/yjo/yô, ыю/yju/yû, ыя/yja/yâ | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**/bel**yê**, бедн**ыя**/bedn**yja**/bedn**yâ** |
-| ые/yyje/ŷê, ыё/yyjo/ŷô, ыю/yyju/ŷû, ыя/yyja/ŷâ | `(?<=ы)ы[еёюя]` | `yyj[eoua]` | ы**ые**/yy**yyje**/ŷ**ŷê** |
-| ы/yy/ŷ    | `ы(?=[эоуаы])` | `yy`  | **ы**а/**yy**a/**ŷ**a, **ы**я/**y**ja/**y**â |
-| ы/yy/ŷ    | `(?<=ы)ы`      | `yy`  | **ыы**/**yyyy**/**ŷŷ**                       |
-| ыи/yyi/ŷi | `(?<![й\c])ыи` | `yyi` | а**ыи**/a**yyi**/a**ŷi**                     |
+| ые/yyje/ŷê, ыё/yyjo/ŷô, ыю/yyju/ŷû, ыя/yyja/ŷâ | `(?<=ы)ы[еёюя]` | `yyj[eoua]` | ы**ые**/yy**yyje**/y**yê** |
+| ы/yy/ŷ    | `ы(?=[эоуаы])` | `yy`  | **ы**а/**yy**a/**y**a, **ы**я/**y**ja/**y**â |
+| ы/yy/ŷ    | `(?<=ы)ы`      | `yy`  | **ыы**/**yyyy**/**yy**                       |
+| ыи/yyi/ŷi | `(?<![й\c])ыи` | `yyi` | а**ыи**/a**yyi**/a**yi**                     |
 | ыи/yi/yi  | `(?<=[й\c])ыи` | `yi`  | в**ыи**грывать/v**yi**gryvatj, в**ыи**скивать/v**yi**skivatj |
-| ы/y       | `ы`            | `y`   | кр**ы**ска/kr**y**ska, **ы**пся/**y**psya/**y**psâ, п**ы**хтел/p**y**htel, бел**ы**й/bel**y**j, в**ы**йигрывать/v**y**jjigryvatj/v**y**ĵigryvatj, ба**й**ыс/ba**j**ys |
+| ы/y       | `ы`            | `y`   | кр**ы**ска/kr**y**ska, **ы**пся/**y**psya/**y**psâ, п**ы**хтел/p**y**htel, бел**ы**й/bel**y**j, в**ы**йигрывать/v**y**jigryvatj/v**y**jigryvatj, ба**й**ыс/ba**j**ys |
 | | | | |
 | й/jj/ĵ    | `(?<=[й\c])й`  | `jj`  | **йй**/**jjjj**/**ĵĵ**, под**й**езд/pod**jj**yezd/pod**ĵ**êzd, под**й**од/pod**jj**od/pod**ĵ**od, Мур**й**ин/Mur**jj**in/Mur**ĵ**in |
 | й/jj/ĵ    | `й(?=й)`       | `jj`  | **йй**/**jjjj**/**ĵĵ** |
@@ -162,11 +162,11 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 
 |        | Cyrillic RegEx | Latin RegEx   | Примеры                                                                            |
 | ------ | --------------:|:------------- | ---------------------------------------------------------------------------------- |
-| е/ye/ê | `(?<=аяй)е`    | `ye`          | бай**е**с/baj**ye**s/baj**ê**s, Ра**е**вская/Ra**ye**vskaya, зя**е**/zya**ye**, за**е**м/za**ye**m, заём/zayom |
+| е/ye/ê | `(?<=аяй)е`    | `ye`          | бай**е**с/baj**ye**s/baj**ê**s, Ра**е**вская/Ra**ye**vskaya/Ra**ê**vskaâ, зя**е**/zya**ye**/zâ**ê**, за**е**м/za**ye**m/za**ê**m, заём/zayom/zaôm |
 | е/ye/ê | `^е`           | `ye`          | **е**сли/**ye**sli/**ê**sli, **е**хо/**ye**ho/êho                                  |
 | е/e    | `е`            | `e`           | м**е**х/m**e**h, про**е**кт/pro**e**kt, за**е**зд/za**e**zd                        |
-| экс/ex | `экс      `    | `ex`          | **экс**каватор/**ex**kavator, **экс**ель/**ex**elj, м**экс**/m**ex**, экзамен/ekzamen, экзема/ekzema, Мексика/Meksika, мех/meh |
-| э/e    | `^э`           | `e`           | **эх**о/**eh**o, **э**тот/**e**tot, **э**он/**e**on, **э**кран/**e**kran, **э**ротика/**e**rotika |
+| экс/ex | `экс      `    | `ex`          | **экс**каватор/**ex**kavator/**ęx**kavator, **экс**ель/**ex**elj/**ęx**elj, м**экс**/m**ex**/m**ęx**, экзамен/ekzamen/ękzamen, экзема/ekzema/ękzema, Мексика/Meksika, мех/meh |
+| э/e    | `^э`           | `e`           | **эх**о/**eh**o/**ęh**o, **э**тот/**e**tot/**ę**tot, **э**он/**e**on/**ę**on, **э**кран/**e**kran/**ę**kran, **э**ротика/**e**rotika/**ę**rotika |
 | э/ae/ę | `э`            | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, Но**э**ль/No**ae**lj/No**ę**lj, а**э**роплан/a**ae**roplan/a**ę**roplan, радио**э**хо/radio**ae**ho/radio**ę**ho, ма**э**р/ma**ae**r/ma**ę**r, в**эч**ный/v**aech**nyj/v**ęč**nyj, й**э**с/jj**ae**s/ĵ**ę**s |
 | | | | |
 | шч/shwch/šwč | `шч`     | `shwch`       | **шч**ётка/**shwch**yotka/**šwč**ôtka                                              |
@@ -174,8 +174,8 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 | ж/zh/ž | `ж`            | `zh`          | ё**ж**/yo**zh**/ô**ž**, во**зж**и/vo**zzh**i/vo**zž**i, по**зж**е/po**zž**e        |
 | ч/ch/č | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh/**č**ernyš, с**ч**ётная/s**ch**yotnaya/s**č**ôtnaâ         |
 | ш/sh/š | `ш`            | `sh`          | **ш**лем/**sh**lem/**š**lem                                                        |
-| х/kh/ĥ | `(?=[хтсшзжцчщъьйк])х` | `kh` | с**х**од/s**kh**od/s**ĥ**od, **кх**е/**kkh**e/**kĥ**e, си**кх**/si**kkh**/si**kĥ**, ме**х**/me**h**/me**h**, Муръ**х**ин/Murwjh**kh**in/Murwɉ**ĥ**in, Мурь**х**ин/Murj**kh**in/Murj**ĥ**in, от**х**од/ot**kh**od/ot**ĥ**od |
-| х/h    | `х`            | `h`           | **х**о**х**олок/**h**o**h**olok, в**ы**ход/v**y**hod, ме**х**а/me**h**a, э**х**о/e**h**o, вече/veche/veče, меча/mecha/meča, эч/ech/eč, мэч/maech/męch, **х**ья/**h**jya/**h**jâ, **х**ьан/**h**jhan/**h**ɉan |
+| х/kh/ĥ | `(?=[хтсшзжцчщъьйк])х` | `kh` | с**х**од/s**kh**od/s**h**od, **кх**е/**kkh**e/**kh**e, си**кх**/si**kkh**/si**kh**, ме**х**/me**h**/me**h**, Муръ**х**ин/Murjhjh**kh**in/Murɉɉ**h**in, Мурь**х**ин/Murj**kh**in/Murj**h**in, от**х**од/ot**kh**od/ot**h**od |
+| х/h    | `х`            | `h`           | **х**о**х**олок/**h**o**h**olok, в**ы**ход/v**y**hod, ме**х**а/me**h**a, э**х**о/e**h**o, вече/veche/veče, меча/mecha/meča, эч/ech/ęč, мэч/maech/męč, **х**ья/**h**jya/**h**jâ, **х**ьан/**h**jhan/**h**ɉan |
 | | | | |
 | ё/yo/ô | `ё`            | `yo`          | **ё**мко/**yo**mko/**ô**mko, м**ё**д/m**yo**d/m**ô**d                              |
 | ю/yu/û | `ю`            | `yu`          | **Ю**ля/**Yu**lya/**Û**lâ                                                          |
