@@ -51,15 +51,15 @@
 | **е/сье/ые/съе/^e/[аяй]e** | **ё/сьё/ыё/съё** | **и/сьи/сыи/аыи/съи** |
 |:---------------------:|:----------------:|:-------------------:|
 | e/sjye/yje/sje/^ye/ye | yo/sjyo/yjo/sjo  | i/sjyi/syi/ayyi/sji |
-| e/sjê/yê/sje/^ê/ê     | ô/sjô/yô/sjo     | i/sjî/syi/aŷi/sji   |
+| e/sjê/ye/sje/^e/e     | ô/sjô/yô/sjo     | i/sjî/syi/ayi/sji   |
 | **ю/сью/ыю/съю**      | **я/сья/ыя/съя** | **э/^э/экс**        |
 | yu/sjyu/yju/sju       | ya/sjya/yja/sja  | ae/^e/ex            |
-| û/sjû/yû/sju          | â/sjâ/yâ/sja     | ę/^e/ex             |
+| û/sjû/yû/sju          | â/sjâ/yâ/sja     | ę/^ę/ęx             |
 
 | **й/сй/ыйа** | **съе/ъ/съи** | **ы/ые/ы/ыи** | **ь/сье/ь/сьи** |
 |:------------:|:-------------:|:-------------:|:---------------:|
 | j/sjj/yjja   | sje/jhjh/sji  | y/yje/yy/yi   | j/sjye/jh/sjyi  |
-| j/sĵ/sĵa     | sje/ɉɉ/sji    | y/yê/y/yi     | j/sjê/ɉ/sjî     |
+| j/sĵ/sĵa     | sje/ɉɉ/sji    | y/ye/y/yi     | j/sjê/ɉ/sjî     |
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
@@ -137,15 +137,15 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 
 |     | Cyrillic RegEx | Latin RegEx | Примеры                                      |
 | --------- | --------------:|:----- | -------------------------------------------- |
-| ъе/je, ъё/jo, ъи/ji, ъю/ju, ъя/ja | `(?<=\c)ъ[еёюяи]` | `(?<=\c)j[eouai]` | об**ъе**кт/ob**je**kt, из**ъя**н/iz**ja**n, м**е**ра/m**e**ra, **е**сли/**ye**sli/**ê**sli, з**я**ка/z**ya**ka/z**â**ka, Мур**ъи**н/Mur**ji**n |
+| ъе/je, ъё/jo, ъи/ji, ъю/ju, ъя/ja | `(?<=\c)ъ[еёюяи]` | `(?<=\c)j[eouai]` | об**ъе**кт/ob**je**kt, из**ъя**н/iz**ja**n, м**е**ра/m**e**ra, **е**сли/**ye**sli/**e**sli, з**я**ка/z**ya**ka/z**â**ka, Мур**ъи**н/Mur**ji**n |
 | ъ/jhjh/ɉɉ | `ъ`           | `jhjh` | он**ъ**/on**jhjh**/on**ɉɉ**, Му**ъ**минат/Mu**jhjh**minat/Mu**ɉɉ**minat, Чан**ъ**ань/Chan**jhjh**anj/Čan**ɉɉ**anj, Мур**ъйи**н/Mur**jhjhji**n/Mur**ɉɉji**n |
 | | | | |
 | ье/jye/jê, ьё/jyo/jô, ьи/jyi/jî, ью/jyu/jû, ья/jya/jâ | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa/p**jê**sa, п**ья**н/p**jya**n/p**jâ**n, лад**ьи**/lad**jyi**/lad**jî**, плат**ьи**це/plat**jyi**ce/plat**jî**ce, Мур**ьи**н/Mur**jyi**n/Mur**jî**n |
 | ь/j               | `(?<=\c)ь(?![эоуaйы])` | `(?<=\c)j` | пряч**ь**ся/pryach**j**sya/prâč**j**sâ, мыт**ь**ся/myt**j**sya/myt**j**sâ, кон**ь**/kon**j** |
 | ь/jh/ɉ    | `ь`            | `jh`  | Чан**ь**ол/Сhan**jh**ol/Čan**ɉ**ol, Мур**ьй**ин/Mur**jhj**in/Mur**ɉj**in, Чан**ь**ын/Сhan**jh**yn/Čan**ɉ**yn |
 | | | | |
-| ые/yje/yê, ыё/yjo/yô, ыю/yju/yû, ыя/yja/yâ | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**/bel**yê**, бедн**ыя**/bedn**yja**/bedn**yâ** |
-| ые/yyje/ŷê, ыё/yyjo/ŷô, ыю/yyju/ŷû, ыя/yyja/ŷâ | `(?<=ы)ы[еёюя]` | `yyj[eoua]` | ы**ые**/yy**yyje**/y**yê** |
+| ые/yje/yê, ыё/yjo/yô, ыю/yju/yû, ыя/yja/yâ | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**/bel**ye**, бедн**ыя**/bedn**yja**/bedn**yâ** |
+| ые/yyje/ŷê, ыё/yyjo/ŷô, ыю/yyju/ŷû, ыя/yyja/ŷâ | `(?<=ы)ы[еёюя]` | `yyj[eoua]` | ы**ые**/yy**yyje**/y**ye** |
 | ы/yy/ŷ    | `ы(?=[эоуаы])` | `yy`  | **ы**а/**yy**a/**y**a, **ы**я/**y**ja/**y**â |
 | ы/yy/ŷ    | `(?<=ы)ы`      | `yy`  | **ыы**/**yyyy**/**yy**                       |
 | ыи/yyi/ŷi | `(?<![й\c])ыи` | `yyi` | а**ыи**/a**yyi**/a**yi**                     |
@@ -154,19 +154,19 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 | | | | |
 | й/jj/ĵ    | `(?<=[й\c])й`  | `jj`  | **йй**/**jjjj**/**ĵĵ**, под**й**езд/pod**jj**yezd/pod**ĵ**êzd, под**й**од/pod**jj**od/pod**ĵ**od, Мур**й**ин/Mur**jj**in/Mur**ĵ**in |
 | й/jj/ĵ    | `й(?=й)`       | `jj`  | **йй**/**jjjj**/**ĵĵ** |
-| й/jj/ĵ | `(?<=ы)й(?=[эоуа])` | `jj` | белы**й**а/bely**jj**a/bely**ĵ**a, белы**й**е/bely**jj**ye/bely**ĵ**ê, **й**эс/**jj**aes/**ĵ**ęs |
-| й/j       | `й`            | `j`   | ба**й**ес/ba**j**yes/ba**j**ês, белы**й**/bely**j**, **й**од/**j**od, **й**иппи/**j**ippi, ба**й**ас/ba**j**as, ба**й**яс/ba**j**yas/ba**j**âs, баян/bayan/baân |
+| й/jj/ĵ | `(?<=ы)й(?=[эоуа])` | `jj` | белы**й**а/bely**jj**a/bely**ĵ**a, белы**й**е/bely**jj**ye/bely**ĵ**e, **й**эс/**jj**aes/**ĵ**ęs |
+| й/j       | `й`            | `j`   | ба**й**ес/ba**j**yes/ba**j**es, белы**й**/bely**j**, **й**од/**j**od, **й**иппи/**j**ippi, ба**й**ас/ba**j**as, ба**й**яс/ba**j**yas/ba**j**âs, баян/bayan/baân |
 
 
 ### Таблица No.2 (простые составные)
 
 |        | Cyrillic RegEx | Latin RegEx   | Примеры                                                                            |
 | ------ | --------------:|:------------- | ---------------------------------------------------------------------------------- |
-| е/ye/ê | `(?<=аяй)е`    | `ye`          | бай**е**с/baj**ye**s/baj**ê**s, Ра**е**вская/Ra**ye**vskaya/Ra**ê**vskaâ, зя**е**/zya**ye**/zâ**ê**, за**е**м/za**ye**m/za**ê**m, заём/zayom/zaôm |
-| е/ye/ê | `^е`           | `ye`          | **е**сли/**ye**sli/**ê**sli, **е**хо/**ye**ho/êho                                  |
+| е/ye/e | `(?<=аяй)е`    | `ye`          | бай**е**с/baj**ye**s/baj**e**s, Ра**е**вская/Ra**ye**vskaya/Ra**e**vskaâ, зя**е**/zya**ye**/zâ**e**, за**е**м/za**ye**m/za**e**m, заём/zayom/zaôm |
+| е/ye/e | `^е`           | `ye`          | **е**сли/**ye**sli/**e**sli, **е**хо/**ye**ho/eho                                  |
 | е/e    | `е`            | `e`           | м**е**х/m**e**h, про**е**кт/pro**e**kt, за**е**зд/za**e**zd                        |
-| экс/ex | `экс      `    | `ex`          | **экс**каватор/**ex**kavator/**ęx**kavator, **экс**ель/**ex**elj/**ęx**elj, м**экс**/m**ex**/m**ęx**, экзамен/ekzamen/ękzamen, экзема/ekzema/ękzema, Мексика/Meksika, мех/meh |
-| э/e    | `^э`           | `e`           | **эх**о/**eh**o/**ęh**o, **э**тот/**e**tot/**ę**tot, **э**он/**e**on/**ę**on, **э**кран/**e**kran/**ę**kran, **э**ротика/**e**rotika/**ę**rotika |
+| экс/ex/ęx | `экс`       | `ex`          | **экс**каватор/**ex**kavator/**ęx**kavator, **экс**ель/**ex**elj/**ęx**elj, м**экс**/m**ex**/m**ęx**, экзамен/ekzamen/ękzamen, экзема/ekzema/ękzema, Мексика/Meksika, мех/meh |
+| э/e/ę  | `^э`           | `e`           | **эх**о/**eh**o/**ęh**o, **э**тот/**e**tot/**ę**tot, **э**он/**e**on/**ę**on, **э**кран/**e**kran/**ę**kran, **э**ротика/**e**rotika/**ę**rotika |
 | э/ae/ę | `э`            | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, Но**э**ль/No**ae**lj/No**ę**lj, а**э**роплан/a**ae**roplan/a**ę**roplan, радио**э**хо/radio**ae**ho/radio**ę**ho, ма**э**р/ma**ae**r/ma**ę**r, в**эч**ный/v**aech**nyj/v**ęč**nyj, й**э**с/jj**ae**s/ĵ**ę**s |
 | | | | |
 | шч/shwch/šwč | `шч`     | `shwch`       | **шч**ётка/**shwch**yotka/**šwč**ôtka                                              |
