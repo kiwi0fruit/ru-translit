@@ -158,9 +158,10 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 | е/ye/ê | `(?<=j)е`      | `ye`          | бай**е**с/baj**ye**s/baj**ê**s                                                     |
 | е/ye/ê | `^е`           | `ye`          | **е**сли/**ye**sli/**ê**sli, **е**хо/**ye**ho/êho                                  |
 | е/e    | `е`            | `e`           | м**е**х/m**e**h, про**е**кт/pro**e**kt, за**е**зд/za**e**zd                        |
-| экс/ex  | `экс     `    | `ex`          | **экс**каватор/**ex**kavator, **экс**ель/**ex**elj, м**экс**/m**ex**, экзамен/ekzamen, экзема/ekzema, Мексика/Meksika, мех/meh |
-| э/ae/ę  | `(?<=\ca?)э`  | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, д**э**хо/d**ae**ho/d**ę**ho, ма**э**р/ma**ae**r/ma**ę**r, ааэро/aaero, еаэро/yeaero/êaero, в**эч**ный/v**aech**nyj/v**ęč**nyj |
-| э/e     | `(?<!\c)э`    | `e`           | **эх**о/**eh**o, **э**тот/**e**tot, **э**он/**e**on, **э**кран/**e**kran, радио**э**хо/radio**e**ho, а**э**роплан/a**e**roplan, **э**ротика/**e**rotika, Но**э**ль/No**e**lj |
+| экс/ex | `экс      `    | `ex`          | **экс**каватор/**ex**kavator, **экс**ель/**ex**elj, м**экс**/m**ex**, экзамен/ekzamen, экзема/ekzema, Мексика/Meksika, мех/meh |
+| э/e    | `^э`           | `e`           | **эх**о/**eh**o, **э**тот/**e**tot, **э**он/**e**on, **э**кран/**e**kran, **э**ротика/**e**rotika |
+| э/ae/ę | `э`            | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, Но**э**ль/No**ae**lj, а**э**роплан/a**ae**roplan, радио**э**хо/radio**ae**ho, ма**э**р/ma**ae**r/ma**ę**r, аа**э**ро/aa**ae**ro, в**эч**ный/v**aech**nyj/v**ęč**nyj |
+
 | | | | |
 | шч/shwch/šwč | `шч`     | `shwch`       | **шч**ётка/**shwch**yotka/**šwč**ôtka                                              |
 | щ/shch/šč    | `щ`      | `shch`        | **щ**ётка/**shch**yotka/**šč**ôtka, **cч**ёт/**sch**yot/**sč**ôt                   |
