@@ -114,7 +114,7 @@ V pjêse pro devušku v zelënom platjîce vse sadilisj na ladjî i plyli po rek
 
 Prepodobnyj Bajes podkinul igraljnye kosti. Vypalo šestj, značit emu pridëtsâ mazatj jod na ranu.
 
-Męr neboljšogo gorodiški otkryl tablicu ęxelâ i vozmutilsâ cenoj novogo ęxkavatora. Až ękzema snova stala ego bespokoitj. Oh už ęta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aęroplana-ękranolôta. Esli tak pojdët i daljše, to bûdžetu pridëtsâ hudo.
+Męr neboljšogo gorodiški otkryl tablicu ęxelâ i vozmutilsâ cenoj novogo ęxkavatora. Až ękzema snova stala ego bespokoitj. Oh už ęta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aęroplana-ękranolëta. Esli tak pojdët i daljše, to bûdžetu pridëtsâ hudo.
 
 V ętom vide fraza ot A to Â načinaet vyglâdetj sovsem po-drugomu. Sejčas ščëtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda ego češut eû. Ëž kolûčij i pohož na neë.
 
