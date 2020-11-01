@@ -41,7 +41,7 @@
 | **е**   | **ё** | **ж** | **и**   | **й** | **х** | **ч**   | **ш**   | **щ**   | 
 |:-------:|:-----:|:-----:|:-------:|:-----:|:-----:|:-------:|:-------:|:-------:|
 | е/ye/je | yo/jo | zh    | i/yi/ji | j/jj  | h/kh  | ch      | sh      | shch    |
-| е/ê     | ô     | ž     | i/î     | j/ĵ   | h     | č       | š       | šč      |
+| е/ê     | ë     | ž     | i/î     | j/ĵ   | h     | č       | š       | šč      |
 | **ъ**   | **ы** | **ь** | **э**   | **ю** | **я** | **экс** | **шч**  | **ьь**  |
 | j/jhjh  | y/yy  | j/jh  | ae/e    | yu/ju | ya/ja | ex      | shwch   | jhwjh   |
 | j/ɉɉ    | y     | j/ɉ   | ę       | û     | â     | ęx      | šwč     | ɉwɉ     |
@@ -51,7 +51,7 @@
 | **е/сье/ые/съе/^e/[аяй]e** | **ё/сьё/ыё/съё** | **и/сьи/сыи/аыи/съи** |
 |:---------------------:|:----------------:|:-------------------:|
 | e/sjye/yje/sje/^ye/ye | yo/sjyo/yjo/sjo  | i/sjyi/syi/ayyi/sji |
-| e/sjê/ye/sje/^e/e     | ô/sjô/yô/sjo     | i/sjî/syi/ayi/sji   |
+| e/sjê/ye/sje/^e/e     | ë/sjë/yë/sjo     | i/sjî/syi/ayi/sji   |
 | **ю/сью/ыю/съю**      | **я/сья/ыя/съя** | **э/^э/экс**        |
 | yu/sjyu/yju/sju       | ya/sjya/yja/sja  | ae/^e/ex            |
 | û/sjû/yû/sju          | â/sjâ/yâ/sja     | ę/^ę/ęx             |
@@ -63,21 +63,21 @@
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
-Алфавит транслитерации состоит из **24+1** букв (английский алфавит без Qq. А Ww нужна для неестественных сочетаний). Основной расширенный алфавит для латиницы без диграфов состоит из **33+3** букв (английский алфавит без Qq, плюс Ââ,Čč,Ęę,Êê,Îî,Ɉɉ,Ĵĵ,Ôô,Šš,Ûû,Žž. А Ɉɉ,Ĵĵ,Ww нужны для неестественных сочетаний). Из диакритических знаков для естественных русских языковых конструкций используются только [циркумфлекс](https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%80%D0%BA%D1%83%D0%BC%D1%84%D0%BB%D0%B5%D0%BA%D1%81), [гачек](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%87%D0%B5%D0%BA) и [ę – типичное сокращение для ae](https://ru.wikipedia.org/wiki/%C3%86_%28%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%29). Все буквы поддерживаются клавиатурой Google, кроме зачеркнутой j (Ɉɉ), используемой для обозначения ъ в неестественных позициях.
+Алфавит транслитерации состоит из **24+1** букв (английский алфавит без Qq. А Ww нужна для неестественных сочетаний). Основной расширенный алфавит для латиницы без диграфов состоит из **33+3** букв (английский алфавит без Qq, плюс Ââ,Čč,Ëë,Ęę,Êê,Îî,Ɉɉ,Ĵĵ,Šš,Ûû,Žž. А Ɉɉ,Ĵĵ,Ww нужны для неестественных сочетаний). Из диакритических знаков для естественных русских языковых конструкций используются только [циркумфлекс](https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%80%D0%BA%D1%83%D0%BC%D1%84%D0%BB%D0%B5%D0%BA%D1%81), [гачек](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%87%D0%B5%D0%BA) и [ę – типичное сокращение для ae](https://ru.wikipedia.org/wiki/%C3%86_%28%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%29). Все буквы поддерживаются клавиатурой Google, кроме зачеркнутой j (Ɉɉ), используемой для обозначения ъ в неестественных позициях.
 
 ***Слово на латинице является грамматически верным если:***
 
 1. его образ от прообраза совпадает с самим словом (`lat_word == RUtoEN(ENtoRU(lat_word))`),
 2. его прообраз грамматически верен (`ENtoRU(lat_word)`).
 
-Так же нужно специальное правило для аббревиатур: АЭС/AES/AĘS, АЕС/AES/AES, ФМШ/FMS/FMŠ, ЭЮЯ/EUA/ĘÛÂ, ЁМ/EM/EM.
-То есть, использовать не модификатор а модифицируемую букву (отбросить диакритический знак в латинице). Так же не стоит забывать, что все слова с буквой ё могут быть корректно написаны с буквой е, так что ô и yo становятся E в качестве общего знаменателя.
+Так же нужно специальное правило для аббревиатур: АЭС/AES/AĘS, АЕС/AES/AES, ФМШ/FMS/FMŠ, ЭЮЯ/EUA/ĘÛÂ, ЁМ/EM/ËM.
+То есть, использовать не модификатор а модифицируемую букву (отбросить диакритический знак в латинице). Так же не стоит забывать, что все слова с буквой ё могут быть корректно написаны с буквой е, так что ë/yo становятся Ë/E в качестве общего знаменателя.
 
 *Латиница без диграфов станет удобной только при наличии удобных програмных средств ввода. Для мобильных устройств: словаря для swipe-клавиатуры, в которой все главные 30 буквы основного расширенного алфавита расположены отдельно и занимают 31 позицию (без ê,î,ĵ,x,w,ɉ. Jj - дважды, и за й, и за ь. Ww доступна только в английской клавиатуре. А остальные спрятаны в более частые варианты, x спрятана в ę). Для десктопа скорее всего придется переиспользовать именно русскую раскладку - нужно, чтобы одновременно были доступны все буквы.* Например, вот такая:
 
 | .       | .   | @ ɉ | .   | ; Ɉ | .   | .   | .   | .   | .       | .   | .   | .   | .   |
 | -------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-------:|:---:|:---:|:---:|:---:|
-| ё **ê** | й j | ц c | у u | к k | е e | н n | г g | ш š | щ **ô** | з z | х h | ъ **x** | \ **î** |
+| ё **ê** | й j | ц c | у u | к k | е e | н n | г g | ш š | щ **ë** | з z | х h | ъ **x** | \ **î** |
 |         | ф f | ы y | в v | а a | п p | р r | о o | л l | д d     | ж ž | э ę |     | = **ĵ** |
 |         |     | я â | ч č | с s | м m | и i | т t | ь j | б b     | ю û | . , |     |     |
 
@@ -112,19 +112,19 @@ Pjânyj master po proektu sdelal mehaničeskij objekt s izjanom. Esli brak ne ob
 
 V pjêse pro devušku v zelônom platjîce vse sadilisj na ladjî i plyli po reke. No tut iz lesa vyšel konj v paljto i prikazal vsem mytjsâ.
 
-Prepodobnyj Bajes podkinul igraljnye kosti. Vypalo šestj, značit emu pridôtsâ mazatj jod na ranu.
+Prepodobnyj Bajes podkinul igraljnye kosti. Vypalo šestj, značit emu pridëtsâ mazatj jod na ranu.
 
-Męr neboljšogo gorodiški otkryl tablicu ęxelâ i vozmutilsâ cenoj novogo ęxkavatora. Až ękzema snova stala ego bespokoitj. Oh už ęta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aęroplana-ękranolôta. Esli tak pojdôt i daljše, to bûdžetu pridôtsâ hudo.
+Męr neboljšogo gorodiški otkryl tablicu ęxelâ i vozmutilsâ cenoj novogo ęxkavatora. Až ękzema snova stala ego bespokoitj. Oh už ęta pokupka večnogo dvigatelâ v prošlom godu! A tak že pokupka aęroplana-ękranolôta. Esli tak pojdët i daljše, to bûdžetu pridëtsâ hudo.
 
-V ętom vide fraza ot A to Â načinaet vyglâdetj sovsem po-drugomu. Sejčas ščôtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda ego češut eû. Ôž kolûčij i pohož na neô.
+V ętom vide fraza ot A to Â načinaet vyglâdetj sovsem po-drugomu. Sejčas ščëtka novaâ, no pozže ona stanet staraâ. Černyš lûbit kogda ego češut eû. Ëž kolûčij i pohož na neë.
 
-Shod mestnyh žytelej indijskoj derevni sikhov rešal čto že delatj s othodami kompanii "The LLC". Odin iz prisutstvuûščih nosil hoholok na golove. On i našôl vyhod iz situacii.
+Shod mestnyh žytelej indijskoj derevni sikhov rešal čto že delatj s othodami kompanii "The LLC". Odin iz prisutstvuûščih nosil hoholok na golove. On i našël vyhod iz situacii.
 
-"Kto s mečom k nam pridôt, tot ot meča i..." - ne smog dogovoritj staršij mehanik Vasilij.
+"Kto s mečom k nam pridët, tot ot meča i..." - ne smog dogovoritj staršij mehanik Vasilij.
 
-Imeetsâ neskoljko gipotez proishoždeniâ sobaki, naibolee veroâtnymi eô predkami sčitaûtsâ volk i nekotorye vidy šakalov.
+Imeetsâ neskoljko gipotez proishoždeniâ sobaki, naibolee veroâtnymi eë predkami sčitaûtsâ volk i nekotorye vidy šakalov.
 
-V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreniâ. Odni sčitaût, čto sobaki - polifiletičeskaâ gruppa (proishodâščaâ ot neskoljkih predkov), drugie priderživaûtsâ mneniâ, čto vse sobaki proizošli ot odnogo predka (monofiletičeskaâ teoriâ).
+V suždeniâh učënyh o predkah domašnej sobaki prisutstvuût dve točki zreniâ. Odni sčitaût, čto sobaki - polifiletičeskaâ gruppa (proishodâščaâ ot neskoljkih predkov), drugie priderživaûtsâ mneniâ, čto vse sobaki proizošli ot odnogo predka (monofiletičeskaâ teoriâ).
 
 
 ## Кириллица => латиница
@@ -140,19 +140,19 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 | ъе/je, ъё/jo, ъи/ji, ъю/ju, ъя/ja | `(?<=\c)ъ[еёюяи]` | `(?<=\c)j[eouai]` | об**ъе**кт/ob**je**kt, из**ъя**н/iz**ja**n, м**е**ра/m**e**ra, **е**сли/**ye**sli/**e**sli, з**я**ка/z**ya**ka/z**â**ka, Мур**ъи**н/Mur**ji**n |
 | ъ/jhjh/ɉɉ | `ъ`           | `jhjh` | он**ъ**/on**jhjh**/on**ɉɉ**, Му**ъ**минат/Mu**jhjh**minat/Mu**ɉɉ**minat, Чан**ъ**ань/Chan**jhjh**anj/Čan**ɉɉ**anj, Мур**ъйи**н/Mur**jhjhji**n/Mur**ɉɉji**n |
 | | | | |
-| ье/jye/jê, ьё/jyo/jô, ьи/jyi/jî, ью/jyu/jû, ья/jya/jâ | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa/p**jê**sa, п**ья**н/p**jya**n/p**jâ**n, лад**ьи**/lad**jyi**/lad**jî**, плат**ьи**це/plat**jyi**ce/plat**jî**ce, Мур**ьи**н/Mur**jyi**n/Mur**jî**n |
+| ье/jye/jê, ьё/jyo/jë, ьи/jyi/jî, ью/jyu/jû, ья/jya/jâ | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa/p**jê**sa, п**ья**н/p**jya**n/p**jâ**n, лад**ьи**/lad**jyi**/lad**jî**, плат**ьи**це/plat**jyi**ce/plat**jî**ce, Мур**ьи**н/Mur**jyi**n/Mur**jî**n |
 | ь/j               | `(?<=\c)ь(?![эоуaйы])` | `(?<=\c)j` | пряч**ь**ся/pryach**j**sya/prâč**j**sâ, мыт**ь**ся/myt**j**sya/myt**j**sâ, кон**ь**/kon**j** |
 | ь/jh/ɉ    | `ь`            | `jh`  | Чан**ь**ол/Сhan**jh**ol/Čan**ɉ**ol, Мур**ьй**ин/Mur**jhj**in/Mur**ɉj**in, Чан**ь**ын/Сhan**jh**yn/Čan**ɉ**yn |
 | | | | |
-| ые/yje/yê, ыё/yjo/yô, ыю/yju/yû, ыя/yja/yâ | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**/bel**ye**, бедн**ыя**/bedn**yja**/bedn**yâ** |
-| ые/yyje/ŷê, ыё/yyjo/ŷô, ыю/yyju/ŷû, ыя/yyja/ŷâ | `(?<=ы)ы[еёюя]` | `yyj[eoua]` | ы**ые**/yy**yyje**/y**ye** |
-| ы/yy/ŷ    | `ы(?=[эоуаы])` | `yy`  | **ы**а/**yy**a/**y**a, **ы**я/**y**ja/**y**â |
-| ы/yy/ŷ    | `(?<=ы)ы`      | `yy`  | **ыы**/**yyyy**/**yy**                       |
-| ыи/yyi/ŷi | `(?<![й\c])ыи` | `yyi` | а**ыи**/a**yyi**/a**yi**                     |
+| ые/yje/ye, ыё/yjo/yë, ыю/yju/yû, ыя/yja/yâ | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**/bel**ye**, бедн**ыя**/bedn**yja**/bedn**yâ** |
+| ые/yyje/ye, ыё/yyjo/yë, ыю/yyju/yû, ыя/yyja/yâ | `(?<=ы)ы[еёюя]` | `yyj[eoua]` | ы**ые**/yy**yyje**/y**ye** |
+| ы/yy/y    | `ы(?=[эоуаы])` | `yy`  | **ы**а/**yy**a/**y**a, **ы**я/**y**ja/**y**â |
+| ы/yy/y    | `(?<=ы)ы`      | `yy`  | **ыы**/**yyyy**/**yy**                       |
+| ыи/yyi/yi | `(?<![й\c])ыи` | `yyi` | а**ыи**/a**yyi**/a**yi**                     |
 | ыи/yi/yi  | `(?<=[й\c])ыи` | `yi`  | в**ыи**грывать/v**yi**gryvatj, в**ыи**скивать/v**yi**skivatj |
 | ы/y       | `ы`            | `y`   | кр**ы**ска/kr**y**ska, **ы**пся/**y**psya/**y**psâ, п**ы**хтел/p**y**htel, бел**ы**й/bel**y**j, в**ы**йигрывать/v**y**jigryvatj/v**y**jigryvatj, ба**й**ыс/ba**j**ys |
 | | | | |
-| й/jj/ĵ    | `(?<=[й\c])й`  | `jj`  | **йй**/**jjjj**/**ĵĵ**, под**й**езд/pod**jj**yezd/pod**ĵ**êzd, под**й**од/pod**jj**od/pod**ĵ**od, Мур**й**ин/Mur**jj**in/Mur**ĵ**in |
+| й/jj/ĵ    | `(?<=[й\c])й`  | `jj`  | **йй**/**jjjj**/**ĵĵ**, под**й**езд/pod**jj**yezd/pod**ĵ**ezd, под**й**од/pod**jj**od/pod**ĵ**od, Мур**й**ин/Mur**jj**in/Mur**ĵ**in |
 | й/jj/ĵ    | `й(?=й)`       | `jj`  | **йй**/**jjjj**/**ĵĵ** |
 | й/jj/ĵ | `(?<=ы)й(?=[эоуа])` | `jj` | белы**й**а/bely**jj**a/bely**ĵ**a, белы**й**е/bely**jj**ye/bely**ĵ**e, **й**эс/**jj**aes/**ĵ**ęs |
 | й/j       | `й`            | `j`   | ба**й**ес/ba**j**yes/ba**j**es, белы**й**/bely**j**, **й**од/**j**od, **й**иппи/**j**ippi, ба**й**ас/ba**j**as, ба**й**яс/ba**j**yas/ba**j**âs, баян/bayan/baân |
@@ -162,22 +162,22 @@ V suždeniâh učônyh o predkah domašnej sobaki prisutstvuût dve točki zreni
 
 |        | Cyrillic RegEx | Latin RegEx   | Примеры                                                                            |
 | ------ | --------------:|:------------- | ---------------------------------------------------------------------------------- |
-| е/ye/e | `(?<=аяй)е`    | `ye`          | бай**е**с/baj**ye**s/baj**e**s, Ра**е**вская/Ra**ye**vskaya/Ra**e**vskaâ, зя**е**/zya**ye**/zâ**e**, за**е**м/za**ye**m/za**e**m, заём/zayom/zaôm |
+| е/ye/e | `(?<=аяй)е`    | `ye`          | бай**е**с/baj**ye**s/baj**e**s, Ра**е**вская/Ra**ye**vskaya/Ra**e**vskaâ, зя**е**/zya**ye**/zâ**e**, за**е**м/za**ye**m/za**e**m, заём/zayom/zaëm |
 | е/ye/e | `^е`           | `ye`          | **е**сли/**ye**sli/**e**sli, **е**хо/**ye**ho/eho                                  |
 | е/e    | `е`            | `e`           | м**е**х/m**e**h, про**е**кт/pro**e**kt, за**е**зд/za**e**zd                        |
 | экс/ex/ęx | `экс`       | `ex`          | **экс**каватор/**ex**kavator/**ęx**kavator, **экс**ель/**ex**elj/**ęx**elj, м**экс**/m**ex**/m**ęx**, экзамен/ekzamen/ękzamen, экзема/ekzema/ękzema, Мексика/Meksika, мех/meh |
 | э/e/ę  | `^э`           | `e`           | **эх**о/**eh**o/**ęh**o, **э**тот/**e**tot/**ę**tot, **э**он/**e**on/**ę**on, **э**кран/**e**kran/**ę**kran, **э**ротика/**e**rotika/**ę**rotika |
 | э/ae/ę | `э`            | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, Но**э**ль/No**ae**lj/No**ę**lj, а**э**роплан/a**ae**roplan/a**ę**roplan, радио**э**хо/radio**ae**ho/radio**ę**ho, ма**э**р/ma**ae**r/ma**ę**r, в**эч**ный/v**aech**nyj/v**ęč**nyj, й**э**с/jj**ae**s/ĵ**ę**s |
 | | | | |
-| шч/shwch/šwč | `шч`     | `shwch`       | **шч**ётка/**shwch**yotka/**šwč**ôtka                                              |
-| щ/shch/šč    | `щ`      | `shch`        | **щ**ётка/**shch**yotka/**šč**ôtka, **cч**ёт/**sch**yot/**sč**ôt                   |
-| ж/zh/ž | `ж`            | `zh`          | ё**ж**/yo**zh**/ô**ž**, во**зж**и/vo**zzh**i/vo**zž**i, по**зж**е/po**zž**e        |
-| ч/ch/č | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh/**č**ernyš, с**ч**ётная/s**ch**yotnaya/s**č**ôtnaâ         |
+| шч/shwch/šwč | `шч`     | `shwch`       | **шч**ётка/**shwch**yotka/**šwč**ëtka                                              |
+| щ/shch/šč    | `щ`      | `shch`        | **щ**ётка/**shch**yotka/**šč**ëtka, **cч**ёт/**sch**yot/**sč**ët                   |
+| ж/zh/ž | `ж`            | `zh`          | ё**ж**/yo**zh**/ë**ž**, во**зж**и/vo**zzh**i/vo**zž**i, по**зж**е/po**zž**e        |
+| ч/ch/č | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh/**č**ernyš, с**ч**ётная/s**ch**yotnaya/s**č**ëtnaâ         |
 | ш/sh/š | `ш`            | `sh`          | **ш**лем/**sh**lem/**š**lem                                                        |
 | х/kh/ĥ | `(?=[хтсшзжцчщъьйк])х` | `kh` | с**х**од/s**kh**od/s**h**od, **кх**е/**kkh**e/**kh**e, си**кх**/si**kkh**/si**kh**, ме**х**/me**h**/me**h**, Муръ**х**ин/Murjhjh**kh**in/Murɉɉ**h**in, Мурь**х**ин/Murj**kh**in/Murj**h**in, от**х**од/ot**kh**od/ot**h**od |
 | х/h    | `х`            | `h`           | **х**о**х**олок/**h**o**h**olok, в**ы**ход/v**y**hod, ме**х**а/me**h**a, э**х**о/e**h**o, вече/veche/veče, меча/mecha/meča, эч/ech/ęč, мэч/maech/męč, **х**ья/**h**jya/**h**jâ, **х**ьан/**h**jhan/**h**ɉan |
 | | | | |
-| ё/yo/ô | `ё`            | `yo`          | **ё**мко/**yo**mko/**ô**mko, м**ё**д/m**yo**d/m**ô**d                              |
+| ё/yo/ë | `ё`            | `yo`          | **ё**мко/**yo**mko/**ë**mko, м**ё**д/m**yo**d/m**ë**d                              |
 | ю/yu/û | `ю`            | `yu`          | **Ю**ля/**Yu**lya/**Û**lâ                                                          |
 | я/ya/â | `я`            | `ya`          | Из**я**/Iz**ya**/Iz**â**                                                           |
 | ERROR  |                | `[qwx]`       |                                                                                    |
