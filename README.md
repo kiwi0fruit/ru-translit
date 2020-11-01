@@ -138,7 +138,7 @@ V suždeniąh učënyh o predkah domašnej sobaki prisutstvuųt dve točki zreni
 |     | Cyrillic RegEx | Latin RegEx | Примеры                                      |
 | --------- | --------------:|:----- | -------------------------------------------- |
 | ъе/je, ъё/jo, ъи/ji, ъю/ju, ъя/ja | `(?<=\c)ъ[еёюяи]` | `(?<=\c)j[eouai]` | об**ъе**кт/ob**je**kt/ob**ję**kt, из**ъя**н/iz**ja**n, м**е**ра/m**e**ra, **е**сли/**ye**sli/**e**sli, з**я**ка/z**ya**ka/z**ą**ka, Мур**ъи**н/Mur**ji**n |
-| ъ/jhjh/ɉ  | `ъ`           | `jhjh` | он**ъ**/on**jhjh**/on**ɉ**, Му**ъ**минат/Mu**jhjh**minat/Mu**ɉ**minat, Чан**ъ**ань/Chan**jhjh**anj/Čan**ɉ*anj, Мур**ъйи**н/Mur**jhjhji**n/Mur**ɉji**n |
+| ъ/jhjh/ɉ  | `ъ`           | `jhjh` | он**ъ**/on**jhjh**/on**ɉ**, Му**ъ**минат/Mu**jhjh**minat/Mu**ɉ**minat, Чан**ъ**ань/Chan**jhjh**anj/Čan**ɉ**anj, Мур**ъйи**н/Mur**jhjhji**n/Mur**ɉji**n |
 | | | | |
 | ье/jye/je, ьё/jyo/jë, ьи/jyi/jį, ью/jyu/jų, ья/jya/ją | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa/p**je**sa, п**ья**н/p**jya**n/p**ją**n, лад**ьи**/lad**jyi**/lad**jį**, плат**ьи**це/plat**jyi**ce/plat**jį**ce, Мур**ьи**н/Mur**jyi**n/Mur**jį**n |
 | ь/j               | `(?<=\c)ь(?![эоуaйы])` | `(?<=\c)j` | пряч**ь**ся/pryach**j**sya/prąč**j**są, мыт**ь**ся/myt**j**sya/myt**j**są, кон**ь**/kon**j** |
