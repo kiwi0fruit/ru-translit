@@ -211,4 +211,4 @@ V suždeniąh učënyh o predkah domašnej sobaki prisutstvuųt dve točki zreni
 * [ ] Попробовать сделать однострочный джавастрипт, которым можно перевести любую уже открытую страницу в интернете.
 
 
-[latin capital letter j with stroke, latin small letter dotless j, latin small letter dotless j with stroke U+025F](https://en.m.wikipedia.org/wiki/List_of_Unicode_characters), [List of Latin-script letters](https://en.m.wikipedia.org/wiki/List_of_Latin-script_letters).
+[latin capital letter j with stroke, latin small letter dotless j, latin small letter dotless j with stroke U+025F](https://en.wikipedia.org/wiki/List_of_Unicode_characters), [List of Latin-script letters](https://en.wikipedia.org/wiki/List_of_Latin-script_letters).
