@@ -63,7 +63,7 @@
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
-Алфавит транслитерации состоит из **24+1** букв (английский алфавит без Qq. А Ww нужна для неестественных сочетаний). Основной расширенный алфавит для латиницы без диграфов состоит из **33+3** букв (английский алфавит без Qq, плюс Ââ,Čč,Ëë,Ęę,Êê,Îî,Ɉɉ,Ĵĵ,Šš,Ûû,Žž. А Ɉɉ,Ĵĵ,Ww нужны для неестественных сочетаний). Из диакритических знаков для естественных русских языковых конструкций используются только [циркумфлекс](https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%80%D0%BA%D1%83%D0%BC%D1%84%D0%BB%D0%B5%D0%BA%D1%81), [гачек](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%87%D0%B5%D0%BA) и [ę – типичное сокращение для ae](https://ru.wikipedia.org/wiki/%C3%86_%28%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%29). Все буквы поддерживаются клавиатурой Google, кроме зачеркнутой j (Ɉɉ), используемой для обозначения ъ в неестественных позициях.
+Алфавит транслитерации состоит из **24+1** букв (английский алфавит без Qq. А Ww нужна для неестественных сочетаний). Основной расширенный алфавит для латиницы без диграфов состоит из **33+3** букв (английский алфавит без Qq, плюс Ââ,Čč,Ëë,Ęę,Êê,Îî,Ɉɉ,Ĵĵ,Šš,Ûû,Žž. А Ɉɉ,Ĵĵ,Ww нужны для неестественных сочетаний). Из диакритических знаков для естественных русских языковых конструкций используются только [циркумфлекс](https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%80%D0%BA%D1%83%D0%BC%D1%84%D0%BB%D0%B5%D0%BA%D1%81), [гачек](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%87%D0%B5%D0%BA), ["ę" – типичное сокращение для ae](https://ru.wikipedia.org/wiki/%C3%86_%28%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%29) и "ë", ибо дуальность е/ё в русском языке слишком глубока, чтобы проигнорировать её. Все буквы поддерживаются клавиатурой Google, кроме зачеркнутой j (Ɉɉ), используемой для обозначения ъ в неестественных позициях.
 
 ***Слово на латинице является грамматически верным если:***
 
@@ -110,7 +110,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 Pjânyj master po proektu sdelal mehaničeskij objekt s izjanom. Esli brak ne obnaružitsâ, to belyj bolid boljše ne smožet vyigryvatj gonki.
 
-V pjêse pro devušku v zelônom platjîce vse sadilisj na ladjî i plyli po reke. No tut iz lesa vyšel konj v paljto i prikazal vsem mytjsâ.
+V pjêse pro devušku v zelënom platjîce vse sadilisj na ladjî i plyli po reke. No tut iz lesa vyšel konj v paljto i prikazal vsem mytjsâ.
 
 Prepodobnyj Bajes podkinul igraljnye kosti. Vypalo šestj, značit emu pridëtsâ mazatj jod na ranu.
 
