@@ -41,19 +41,19 @@
 |:-------:|:-----:|:-----:|:-------:|:-----:|:-----:|:-------:|:-------:|:-------:|
 | е/ye/je | yo/jo | zh    | i/yi/ji | j/jj  | h/kh  | ch      | sh      | shch    |
 | **ъ**   | **ы** | **ь** | **э**   | **ю** | **я** | **экс** | **шч**  | **ьь**  |
-| j/wj/wjh | y/yw | j/jh  | ae/e    | yu/ju | ya/ja | ex      | shwch   | jhwjh   |
+| j/wj(ĵ)/wjh(ĵh) | y/yw | j/jh  | ae(ę)/e    | yu/ju | ya/ja | ex      | shwch   | jhwjh   |
 
 Подробнее:
 
 | **е/сье/ые/съе/сe**  | **ё/сьё/ыё/съё/сё**  | **и/сьи/сыи/аыи/съи** |
 |:--------------------:|:--------------------:|:---------------------:|
-| ye/sjye/yje/swje/se  | yo/sjyo/yjo/swjo/sjo | i/sjyi/syi/aywi/swji  |
+| ye/sjye/yje/swje(sĵe)/se  | yo/sjyo/yjo/swjo(sĵo)/sjo | i/sjyi/syi/aywi/swji(sĵi)  |
 | **ю/сью/ыю/съю/сю**  | **я/сья/ыя/съя/ся**  | **э/сэ/экс**       |
-| yu/sjyu/yju/swju/sju | ya/sjya/yja/swja/sja | e/sae/ex           |
+| yu/sjyu/yju/swju(sĵu)/sju | ya/sjya/yja/swja(sĵu)/sja | e/sae(sę)/ex           |
 
 | **й/сй/ыйа** | **съе/със/съа/съи**  | **ы/ые/ыа/ыи** | **ь/сье/ь/сьи** |
 |:------------:|:--------------------:|:--------------:|:---------------:|
-| j/sjj/yjja   | swje/swjs/swjha/swji | y/yje/ywa/yi   | j/sjye/jh/sjyi  |
+| j/sjj/yjja   | swje(sĵe)/swjs(sĵs)/swjha(sĵha)/swji | y/yje/ywa/yi   | j/sjye/jh/sjyi  |
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
@@ -101,9 +101,9 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 |        | Cyrillic RegEx | Latin RegEx | Примеры                                      |
 | ------ | --------------:|:----- | -------------------------------------------- |
-| ъе/wje, ъё/wjo, ъи/wji, ъю/wju, ъя/wja | `(?<=\c)ъ[еёюяи]` | `(?<=\c)wj[eouai]` | об**ъе**кт/ob**wje**kt, из**ъя**н/iz**wja**n, мера/mera, если/yesli, зяка/zjaka, Мур**ъи**н/Mur**wji**n |
-| ъ/wj  | `ъ(?![эоуaйы])` | `wj ` | он**ъ**/on**wj**, Му**ъ**минат/Mu**wj**minat |
-| ъ/wjh  | `ъ`            | `wjh` | Чан**ъ**ань/Chan**wjh**anj, Мур**ъ**йин/Mur**wjh**jin |
+| ъе/wje(ĵe), ъё/wjo(ĵo), ъи/wji(ĵi), ъю/wju(ĵu), ъя/wja(ĵa) | `(?<=\c)ъ[еёюяи]` | `(?<=\c)wj[eouai]` | об**ъе**кт/ob**wje**kt/ob**ĵe**kt, из**ъя**н/iz**wja**n/iz**ĵa**n, мера/mera, если/yesli, зяка/zjaka, Мур**ъи**н/Mur**wji**n/Mur**ĵi**n |
+| ъ/wj/ĵ  | `ъ(?![эоуайы])` | `wj ` | он**ъ**/on**wj**/on**ĵ**, Му**ъ**минат/Mu**wj**minat/Mu**ĵ**minat |
+| ъ/wjh/ĵh  | `ъ`            | `wjh` | Чан**ъ**ань/Chan**wjh**anj/Chan**ĵh**anj, Мур**ъ**йин/Mur**wjh**jin/Mur**ĵh**jin |
 | | | | |
 | ье/jye, ьё/jyo, ьи/jyi, ью/jyu, ья/jya | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**jyi**, плат**ьи**це/plat**jyi**ce, Мур**ьи**н/Mur**jyi**n |
 | ь/j    | `(?<=\c)ь(?![эоуaйы])` | `(?<=\c)j` | пряч**ь**ся/prjach**j**sja, мыт**ь**ся/myt**j**sja, кон**ь**/kon**j** |
