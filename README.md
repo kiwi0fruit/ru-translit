@@ -109,7 +109,7 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | ь/jh   | `ь`            | `jh`  | Чан**ь**ол/Сhan**jh**ol, Мур**ьй**ин/Mur**jhj**in, Чан**ь**ын/Сhan**jh**yn |
 | | | | |
 | ые/yje, ыё/yjo, ыю/yju, ыя/yja | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**, бедн**ыя**/bedn**yja** |
-| ы/yw   | `ы(?=[эоуа])`  | `yw`  | **ы**а/**yw**a, ыя/yja |
+| ы/yw   | `ы(?=[эоуа])`  | `yw`  | **ы**а/**yw**a, ыя/yja, Нарва-Й**ыэ**суу/Narva-J**ywe**suu |
 | ыи/ywi | `(?<![й\c])ыи` | `ywi` | а**ыи**/a**ywi** |
 | ыи/yi  | `(?<=[й\c])ыи` | `yi`  | в**ыи**грывать/v**yi**gryvatj, в**ыи**скивать/v**yi**skivatj |
 | ы/y    | `ы`            | `y`   | кр**ы**ска/kr**y**ska, **ы**пся/**y**psja, п**ы**хтел/p**y**htel, бел**ы**й/bel**y**j, в**ы**йигрывать/v**y**jigryvatj, ба**й**ыс/ba**j**ys |
