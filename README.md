@@ -145,10 +145,8 @@ V suzhdeniyah uchënyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | ь/jh/ʝ    | `ь`            | `jh`  | Чан**ь**ол/Сhan**jh**ol/Čan**ʝ**ol, Мур**ьй**ин/Mur**jhj**in/Mur**ʝj**in, Чан**ь**ын/Сhan**jh**yn/Čan**ʝ**yn |
 | | | | |
 | ые/yje/ye, ыё/yjo/yë, ыю/yju/yų, ыя/yja/yą | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**/bel**ye**, бедн**ыя**/bedn**yja**/bedn**yą** |
-| ые/yyje/ye, ыё/yyjo/yë, ыю/yyju/yų, ыя/yyja/yą | `(?<=ы)ы[еёюя]` | `yyj[eoua]` | ы**ые**/yy**yyje**/y**ye** |
-| ы/yy/y    | `ы(?=[эоуаы])` | `yy`  | **ы**а/**yy**a/**y**a, **ы**я/**y**ja/**y**ą |
-| ы/yy/y    | `(?<=ы)ы`      | `yy`  | **ыы**/**yyyy**/**yy**                       |
-| ыи/yyi/yi | `(?<![й\c])ыи` | `yyi` | а**ыи**/a**yyi**/a**yi**                     |
+| ы/yw/y    | `ы(?=[эоуа])`  | `yw`  | **ы**а/**yw**a/**y**a, **ы**я/**y**ja/**y**ą |
+| ыи/ywi/yi | `(?<![й\c])ыи` | `ywi` | а**ыи**/a**ywi**/a**yi**                     |
 | ыи/yi/yi  | `(?<=[й\c])ыи` | `yi`  | в**ыи**грывать/v**yi**gryvatj, в**ыи**скивать/v**yi**skivatj |
 | ы/y       | `ы`            | `y`   | кр**ы**ска/kr**y**ska, **ы**пся/**y**psya/**y**psą, п**ы**хтел/p**y**htel, бел**ы**й/bel**y**j, в**ы**йигрывать/v**y**jigryvatj/v**y**jigryvatj, ба**й**ыс/ba**j**ys |
 | | | | |
