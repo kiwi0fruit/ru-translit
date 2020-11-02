@@ -116,7 +116,7 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | | | | |
 | й/jj   | `(?<=\c)й`     | `jj`  | под**й**езд/pod**jj**yezd, под**й**од/pod**jj**od, Мур**й**ин/Mur**jj**in, под**йй**од/pod**jjj**od |
 | й/jj   | `(?<=ы)й(?=[эоуа])` | `jj` | белы**й**а/bely**jj**a, белы**й**э/bely**jj**e, белыйе/belyjye  |
-| й/j       | `й`            | `j`   | ба**й**ес/ba**j**yes/ba**j**es, белы**й**/bely**j**, **й**од/**j**od, **й**иппи/**j**ippi, ба**й**яс/ba**j**yas, ба**й**ас/ba**j**as, **й**эс/**j**es, баян/bayan |
+| й/j    | `й`            | `j`   | ба**й**ес/ba**j**yes, белы**й**/bely**j**, **й**од/**j**od, **й**иппи/**j**ippi, ба**й**яс/ba**j**yas, ба**й**ас/ba**j**as, **й**эс/**j**es, баян/bayan |
 
 
 ### Таблица No.2 (простые составные)
