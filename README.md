@@ -1,8 +1,8 @@
 # ru-translit (kiwi0fruit's)
 
-### Uniquely reversible and lossless: Russian to English transliteration (no extra letters, diacritics and non-letters) together with dual romanization of Russian (russkaya latinica) with extended alphabet (Žž,...)
+### Uniquely reversible and lossless: Russian to English transliteration (no extra letters, diacritics and non-letters) together with dual romanization of Russian (russkaya latinica) with extended alphabet (Ęę,...)
 
-### Однозначно обратимые и без потерь: транслитерация из русского в английский алфавит (без дополнительных букв, диакритических и небуквенных знаков) и дуальная русская латиница на основе этого транслита с расширенным алфавитом (Žž,...)
+### Однозначно обратимые и без потерь: транслитерация из русского в английский алфавит (без дополнительных букв, диакритических и небуквенных знаков) и дуальная русская латиница на основе этого транслита с расширенным алфавитом (Ęę,...)
 
 Придумал в качестве развлечения ещё один транслит. Моими новшествами являются: обратимое без потерь кодирование й,ъ,ы,ь через j,y. А так же кодирование э через ae. В остальном взял лучшее из уже существующего.
 
@@ -63,14 +63,14 @@
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
-Алфавит транслитерации состоит из **24+1** букв (английский алфавит без Qq. А Ww нужна для неестественных сочетаний). Основной расширенный алфавит для латиницы без диграфов состоит из **32+4** букв (английский алфавит без Qq, плюс Ąą,Čč,Ëë,Ęę,Įį,Šš,Ųų,Žž,Ĵĵ, Ɉɉ, Ʝʝ. А Ĵĵ, Ɉɉ, Ʝʝ, Ww нужны для неестественных сочетаний). Все буквы поддерживаются клавиатурой Google, кроме зачеркнутой и вьющейся j (Ɉɉ, Ʝʝ), используемых для обозначения ъ и ь в неестественных позициях.
+Алфавит транслитерации состоит из **24+1** букв (английский алфавит без Qq. А Ww нужна для неестественных сочетаний). Основной расширенный алфавит для латиницы с диакритикой состоит из **32+4** букв (английский алфавит без Qq, плюс Ąą,Čč,Ëë,Ęę,Įį,Šš,Ųų,Žž,Ĵĵ, Ɉɉ, Ʝʝ. А Ĵĵ, Ɉɉ, Ʝʝ, Ww нужны для неестественных сочетаний). Все буквы поддерживаются клавиатурой Google, кроме зачеркнутой и вьющейся j (Ɉɉ, Ʝʝ), используемых для обозначения ъ и ь в неестественных позициях.
 
 ***Слово на латинице является грамматически верным если:***
 
 1. его образ от прообраза совпадает с самим словом (`lat_word == RUtoEN(ENtoRU(lat_word))`),
 2. его прообраз грамматически верен (`ENtoRU(lat_word)`).
 
-Так же нужно специальное правило для аббревиатур: АЭС/AES/AĘS, АЕС/AES/AES, ФМШ/FMS/FMŠ, ЭЮЯ/EUA/ĘŲĄ, ЁМ/EM/ËM.
+Так же нужно специальное правило для аббревиатур: АЭС/AES/AĘS, АЕС/AES, ФМШ/FMS, ЭЮЯ/EUA/ĘUA, ЁМ/EM/ËM.
 То есть, использовать не модификатор а модифицируемую букву (отбросить диакритический знак в латинице). Так же не стоит забывать, что все слова с буквой ё могут быть корректно написаны с буквой е, так что ë/yo становятся Ë/E в качестве общего знаменателя.
 
 *Латиница без диграфов станет удобной только при наличии удобных програмных средств ввода. Для мобильных устройств: словаря для swipe-клавиатуры, в которой все главные 30 буквы основного расширенного алфавита расположены отдельно и занимают 31 позицию (без į,ĵ,x,w,ɉ,ʝ. Jj - дважды, и за й, и за ь. Ww доступна только в английской клавиатуре. А остальные спрятаны в более частые варианты, x спрятана в ę). Для десктопа скорее всего придется переиспользовать именно русскую раскладку - нужно, чтобы одновременно были доступны все буквы.* Например, вот такая:
@@ -112,9 +112,9 @@ Pjyanyj master po proektu sdelal mehanicheskij obɉekt s izɉyanom. Esli brak ne
 
 V pjese pro devushku v zelënom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsja.
 
-Prepodobnyj Bajes podkinul igraljnye kosti. Vypalo šestj, značit emu pridëtsą mazatj jod na ranu.
+Prepodobnyj Bajes podkinul igraljnye kosti. Vypalo shestj, znachit emu pridëtsja mazatj jod na ranu.
 
-Męr neboljšogo gorodiški otkryl tablicu ęxelą i vozmutilsą cenoj novogo ęxkavatora. Až ękzema snova stala ego bespokoitj. Oh už ęta pokupka večnogo dvigatelą v prošlom godu! A tak že pokupka aęroplana-ękranolëta. Esli tak pojdët i daljše, to bųdžetu pridëtsą hudo.
+Męr neboljshogo gorodishki otkryl tablicu ęxelja i vozmutilsja cenoj novogo ęxkavatora. Azh ękzema snova stala ego bespokoitj. Oh uzh ęta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aęroplana-ękranolëta. Esli tak pojdët i daljshe, to bjudzhetu pridëtsja hudo.
 
 V ętom vide fraza ot A to Ą načinaet vyglądetj sovsem po-drugomu. Sejčas ščëtka novaą, no pozže ona stanet staraą. Černyš lųbit kogda ego češut eų. Ëž kolųčij i pohož na neë.
 
