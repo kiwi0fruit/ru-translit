@@ -110,7 +110,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 Pjyanyj master po proektu sdelal mehanicheskij obɉekt s izɉyanom. Esli brak ne obnaruzhitsja, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
-V pjese pro devušku v zelënom platjįce vse sadilisj na ladjį i plyli po reke. No tut iz lesa vyšel konj v paljto i prikazal vsem mytjsą.
+V pjese pro devushku v zelënom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsja.
 
 Prepodobnyj Bajes podkinul igraljnye kosti. Vypalo šestj, značit emu pridëtsą mazatj jod na ranu.
 
