@@ -132,7 +132,7 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | э/ae   | `(?<=\cа*)э` | `ae`          | м**э**р/m**ae**r, мер/mer, ма**э**р/ma**ae**r, маа**э**р/maa**ae**r, маер/mayer, моаэр/moaer, в**эч**ный/v**aech**nyj |
 | | | | |
 | шч/shwch | `шч`       | `shwch`       | **шч**ётка/**shwch**jotka |
-| щ/shch   | `щ`        | `shch`        | **щ**ётка/**shch**jotka, **cч**ёт/**sch**jot |
+| щ/shch   | `щ`        | `shch`        | **щ**ётка/**shch**jotka, cчёт/schjot |
 | ж/zh | `ж`            | `zh`          | ё**ж**/yo**zh**, во**зж**и/vo**zzh**i, по**зж**е/po**zzh**e |
 | ч/ch | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh, с**ч**ётная/s**ch**jotnaya |
 | ш/sh | `ш`            | `sh`          | **ш**лем/**sh**lem |
