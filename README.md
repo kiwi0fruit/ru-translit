@@ -1,8 +1,8 @@
 # ru-translit (kiwi0fruit's)
 
-### Uniquely reversible and lossless: Russian to English transliteration (no extra letters, diacritics and non-letters) together with dual romanization of Russian (russkaya latinica) with extended alphabet (Ęę,...)
+### Uniquely reversible and lossless: Russian to English transliteration (no extra letters, diacritics and non-letters)
 
-### Однозначно обратимые и без потерь: транслитерация из русского в английский алфавит (без дополнительных букв, диакритических и небуквенных знаков) и дуальная русская латиница на основе этого транслита с расширенным алфавитом (Ęę,...)
+### Однозначно обратимые и без потерь: транслитерация из русского в английский алфавит (без дополнительных букв, диакритических и небуквенных знаков)
 
 Придумал в качестве развлечения ещё один транслит. Моими новшествами являются: обратимое без потерь кодирование й,ъ,ы,ь через j,y. А так же кодирование э через ae. В остальном взял лучшее из уже существующего.
 
@@ -17,18 +17,17 @@
 * х в контекстах, где её нельзя перепутать с составными буквами, кодировалась h, а иначе – kh,
 * j после согласных означала ь, а в остальных случаях – й или йот,
 * ы кодировалась как y.
-* ъe/ъя в разрешённых русским языком местах кодировались je/ja,
+* ъe/ъя в разрешённых русским языком местах кодировались wje/wja,
 * ьe/ья в типичных местах кодировались jye/jya,
 * ыe/ыя в типичных местах кодировались yje/yja,
 * э кодировалась как ae.
-* в остальных случаях е/я кодировались e/ya,
-* нетипичное использование русских букв можно было закодировать контекстно-независимыми обозначения типа й/jj, ы/yy, ъ/jhjh, ь/jh,
-* НО, в итоге из-за логики кодирования й,ъ,ы,ъ пришлось е кодировать как ye кроме случаев после согласных - там "e". А э кодировать как "e", кроме случаев после согласной - там ae.
+* нетипичное использование русских букв можно было закодировать контекстно-независимыми обозначения типа й/jj, ы/yw, ъ/jhjh, ь/jh,
+* НО, в итоге из-за логики кодирования й,ъ,ы,ъ и э пришлось е кодировать как ye в начале или после `[аяй]`. А э, наоборот, кодировать как "e" в начале или после `[аяй]`.
 
 
 ## Кириллица <=> латиница
 
-Главной целью проекта была обратимая транслитерация в английский алфавит, близкая к английскому чтению. Латиница с диакритическими знаками является простой, но стилистически однородной, производной от транслитерации.
+Главной целью проекта была обратимая транслитерация в английский алфавит, близкая к английскому чтению.
 
 | **a** | **б** | **в** | **г** | **д** | **з** | **к** | **л** | **м** |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -63,29 +62,20 @@
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
-Алфавит транслитерации состоит из **24+1** букв (английский алфавит без Qq. А Ww нужна для неестественных сочетаний). Основной расширенный алфавит для латиницы с диакритикой состоит из **32+4** букв (английский алфавит без Qq, плюс Ąą,Čč,Ëë,Ęę,Įį,Šš,Ųų,Žž,Ĵĵ, Ɉɉ, Ʝʝ. А Ĵĵ, Ɉɉ, Ʝʝ, Ww нужны для неестественных сочетаний). Все буквы поддерживаются клавиатурой Google, кроме зачеркнутой и вьющейся j (Ɉɉ, Ʝʝ), используемых для обозначения ъ и ь в неестественных позициях.
+Алфавит транслитерации состоит из **25** букв (английский алфавит без Qq).
 
 ***Слово на латинице является грамматически верным если:***
 
 1. его образ от прообраза совпадает с самим словом (`lat_word == RUtoEN(ENtoRU(lat_word))`),
 2. его прообраз грамматически верен (`ENtoRU(lat_word)`).
 
-Так же нужно специальное правило для аббревиатур: АЭС/AES/AĘS, АЕС/AES, ФМШ/FMS, ЭЮЯ/EUA/ĘUA, ЁМ/EM/ËM.
-То есть, использовать не модификатор а модифицируемую букву (отбросить диакритический знак в латинице). Так же не стоит забывать, что все слова с буквой ё могут быть корректно написаны с буквой е, так что ë/yo становятся Ë/E в качестве общего знаменателя.
-
-*Латиница с диакритикой станет удобной только при наличии удобных програмных средств ввода. Для мобильных устройств: словаря для swipe-клавиатуры, в которой все главные буквы основного расширенного алфавита расположены отдельно (в том же порядке, что и для декстопа). Ww доступна только в английской клавиатуре. А редкие варианты спрятаны в более частые варианты, x спрятана в ę). Для десктопа скорее всего придется переиспользовать именно русскую раскладку - нужно, чтобы одновременно были доступны все буквы. Например, вот такую*:
-
-| ё ĵ |     |     |     | ; ʝ | % Ʝ |     |     |     |         |     |     |         | = ɉ     |
-| ---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-------:|:---:|:---:|:-------:|:-------:|
-|     | й j | ц c | у u | к k | е e | н n | г g | ш š | **щ ë** | з z | х h | **ъ x** | **\ į** |
-|     | ф f | ы y | в v | а a | п p | р r | о o | л l | д d     | ж ž | э ę |         |         |
-|     |     | я ą | ч č | с s | м m | и i | т t | ь j | б b     | ю ų | . , |         |         |
-
+Так же нужно специальное правило для аббревиатур: АЭС/AES, АЕС/AES, ФМШ/FMS, ЭЮЯ/EUA, ЁМ/EM (не OM).
+То есть, использовать не модификатор а модифицируемую букву (отбросить диакритический знак в латинице). Так же не стоит забывать, что все слова с буквой ё могут быть корректно написаны с буквой е, так что yo становится E в качестве общего знаменателя.
 
 
 ## Примеры текстов в транслитерации
 
-*По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем вариант с диакритическими знаками.*
+*По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем вариант с варианты с диакритическими знаками. Я пробовал придумать вариант с диакритическими знаками такой, чтобы его было удобнее читать, чем этот - не смог.*
 
 Pjyanyj master po proektu sdelal mehanicheskij obwjekt s izwjanom. Yesli brak ne obnaruzhitsja, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
@@ -104,27 +94,6 @@ Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhod
 Imeetsya neskoljko gipotez proiskhozhdeniya sobaki, naibolee veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
 
 V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjashchaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
-
-
-## Примеры текстов на латинице
-
-Pjyanyj master po proektu sdelal mehanicheskij obɉekt s izɉyanom. Esli brak ne obnaruzhitsja, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
-
-V pjese pro devushku v zelënom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsja.
-
-Prepodobnyj Bajes podkinul igraljnye kosti. Vypalo shestj, znachit emu pridëtsja mazatj jod na ranu.
-
-Męr neboljshogo gorodishki otkryl tablicu ęxelja i vozmutilsja cenoj novogo ęxkavatora. Azh ękzema snova stala ego bespokoitj. Oh uzh ęta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aęroplana-ękranolëta. Esli tak pojdët i daljshe, to bjudzhetu pridëtsja hudo.
-
-V ętom vide fraza ot A do Ya nachinaet vygljadetj sovsem po-drugomu. Sejchas sçhëtka novaya, no pozzhe ona stanet staraya Chernysh ljubit kogda ego cheshut eyu. Ëzh koljuchij i pohozh na neë.
-
-Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s othodami kompanii "The LLC". Odin iz prisutstvuyusçhih nosil hoholok na golove. On i nashël vyhod iz situacii.
-
-"Kto s mechom k nam pridët, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
-
-Imeetsja neskoljko gipotez proishozhdeniya sobaki, naibolee veroyatnymi eë predkami schitayutsja volk i nekotorye vidy shakalov.
-
-V suzhdeniyah uchënyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proishodjasçhaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Кириллица => латиница
@@ -160,8 +129,7 @@ V suzhdeniyah uchënyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 |        | Cyrillic RegEx | Latin RegEx   | Примеры                                                                            |
 | ------ | --------------:|:------------- | ---------------------------------------------------------------------------------- |
-| е/ye/e | `(?<=[аяй])е`  | `ye`          | бай**е**с/baj**ye**s/baj**e**s, Ра**е**вская/Ra**ye**vskaya/Ra**e**vskaą, зя**е**/zya**ye**/zą**e**, за**е**м/za**ye**m/za**e**m, заём/zayom/zaëm |
-| е/ye/e | `^е`           | `ye`          | **е**сли/**ye**sli/**e**sli, **е**хо/**ye**ho/eho                                  |
+| е/ye/e | `^е`&#124;`(?<=[аяй])е` | `ye` | **е**сли/**ye**sli/**e**sli, бай**е**с/baj**ye**s/baj**e**s, Ра**е**вская/Ra**ye**vskaya/Ra**e**vskaą, зя**е**/zya**ye**/zą**e**, за**е**м/za**ye**m/za**e**m, заём/zayom/zaëm, **е**хо/**ye**ho/eho |
 | е/e    | `е`            | `e`           | м**е**х/m**e**h, про**е**кт/pro**e**kt, за**е**зд/za**e**zd                        |
 | экс/ex/ęx | `экс`       | `ex`          | **экс**каватор/**ex**kavator/**ęx**kavator, **экс**ель/**ex**elj/**ęx**elj, м**экс**/m**ex**/m**ęx**, экзамен/ekzamen/ękzamen, экзема/ekzema/ękzema, Мексика/Meksika, мех/meh |
 | э/e/ę | `^э`&#124;`(?<=[аяй])э` | `e`   | **эх**о/**eh**o/**ęh**o, а**э**роплан/a**e**roplan/a**ę**roplan, **э**тот/**e**tot/**ę**tot, **э**он/**e**on/**ę**on, **э**кран/**e**kran/**ę**kran, **э**ротика/**e**rotika/**ę**rotika |
