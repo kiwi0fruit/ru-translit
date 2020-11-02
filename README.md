@@ -115,15 +115,15 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | ы/y    | `ы`            | `y`   | кр**ы**ска/kr**y**ska, **ы**пся/**y**psja, п**ы**хтел/p**y**htel, бел**ы**й/bel**y**j, в**ы**йигрывать/v**y**jigryvatj, ба**й**ыс/ba**j**ys |
 | | | | |
 | й/jj   | `(?<=\c)й`     | `jj`  | под**й**езд/pod**jj**yezd, под**й**од/pod**jj**od, Мур**й**ин/Mur**jj**in, под**йй**од/pod**jjj**od |
-| й/jj/ĵ | `(?<=ы)й(?=[эоуа])` | `jj` | белы**й**а/bely**jj**a/bely**ĵ**a, белы**й**е/bely**jj**ye/bely**ĵ**e, **й**эс/**jj**es/**ĵ**ęs |
-| й/j       | `й`            | `j`   | ба**й**ес/ba**j**yes/ba**j**es, белы**й**/bely**j**, **й**од/**j**od, **й**иппи/**j**ippi, ба**й**ас/ba**j**as, ба**й**яс/ba**j**yas/ba**j**ąs, баян/bayan/baąn |
+| й/jj   | `(?<=ы)й(?=[эоуа])` | `jj` | белы**й**а/bely**jj**a, белы**й**э/bely**jj**e, белыйе/belyjye  |
+| й/j       | `й`            | `j`   | ба**й**ес/ba**j**yes/ba**j**es, белы**й**/bely**j**, **й**од/**j**od, **й**иппи/**j**ippi, ба**й**яс/ba**j**yas, ба**й**ас/ba**j**as, **й**эс/**j**es, баян/bayan |
 
 
 ### Таблица No.2 (простые составные)
 
 |        | Cyrillic RegEx | Latin RegEx   | Примеры                                                                            |
 | ------ | --------------:|:------------- | ---------------------------------------------------------------------------------- |
-| е/ye   | `^е`&#124;`(?<=[аяй])е` | `ye` | **е**сли/**ye**sli/**e**sli, бай**е**с/baj**ye**s/baj**e**s, Ра**е**вская/Ra**ye**vskaya/Ra**e**vskaą, зя**е**/zya**ye**/zą**e**, за**е**м/za**ye**m/za**e**m, заём/zayom/zaëm, **е**хо/**ye**ho/eho |
+| е/ye   | `^е`&#124;`(?<=[аяй])е` | `ye` | **е**сли/**ye**sli/**e**sli, бай**е**с/baj**ye**s/baj**e**s, Ра**е**вская/Ra**ye**vskaya/Ra**e**vskaą, зя**е**/zya**ye**/zą**e**, за**е**м/za**ye**m/za**e**m, заём/zayom/zaëm, **е**хо/**ye**ho/eho, йeс/j**ye**s |
 | е/e    | `е`            | `e`           | м**е**х/m**e**h, про**е**кт/pro**e**kt, за**е**зд/za**e**zd                        |
 | экс/ex/ęx | `экс`       | `ex`          | **экс**каватор/**ex**kavator/**ęx**kavator, **экс**ель/**ex**elj/**ęx**elj, м**экс**/m**ex**/m**ęx**, экзамен/ekzamen/ękzamen, экзема/ekzema/ękzema, Мексика/Meksika, мех/meh |
 | э/e/ę | `^э`&#124;`(?<=[аяйы])э` | `e`  | **эх**о/**eh**o/**ęh**o, а**э**роплан/a**e**roplan/a**ę**roplan, **э**тот/**e**tot/**ę**tot, **э**он/**e**on/**ę**on, **э**кран/**e**kran/**ę**kran, **э**ротика/**e**rotika/**ę**rotika, , й**э**с/jj**e**s/ĵ**ę**s |
@@ -142,7 +142,7 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | ю/ju | `(?<=\c)ю`     | `ju`          | м**ю**сли/m**ju**sli |
 | ю/yu | `ю`            | `yu`          | **Ю**ля/**Yu**lja |
 | я/ja | `(?<=\c)я`     | `ja`          | Из**я**/Iz**ja** |
-| я/ya | `я`            | `ya`          | **Я**корь/**Ya**korj |
+| я/ya | `я`            | `ya`          | **Я**корь/**Ya**korj, ба**я**н/ba**ya**n |
 | ERR  |                | `[qwx]`       |                  |
 
 
