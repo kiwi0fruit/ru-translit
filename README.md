@@ -86,7 +86,7 @@ DIAC: Męr neboljshogo gorodishki otkryl tablicu exelja. A tak zhe pokupka aęro
 
 V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Sejchas shchjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchij i pohozh na neyo.
 
-DIAC: Sejchas şchjotka novaya, no pozzhe ona stanet staraya.
+DIAC: V etom vide fraza ot A to Ya nachinaet vygljadetj sovsem po-drugomu. Sejchas şchjotka novaya, no pozzhe ona stanet staraya.
 
 Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
