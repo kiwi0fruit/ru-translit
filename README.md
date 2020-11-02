@@ -120,11 +120,11 @@ V ętom vide fraza ot A do Ya nachinaet vygljadetj sovsem po-drugomu. Sejchas s�
 
 Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s othodami kompanii "The LLC". Odin iz prisutstvuyusçhih nosil hoholok na golove. On i nashël vyhod iz situacii.
 
-"Kto s mečom k nam pridët, tot ot meča i..." - ne smog dogovoritj staršij mehanik Vasilij.
+"Kto s mechom k nam pridët, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
-Imeetsą neskoljko gipotez proishoždenią sobaki, naibolee veroątnymi eë predkami sčitaųtsą volk i nekotorye vidy šakalov.
+Imeetsja neskoljko gipotez proishozhdeniya sobaki, naibolee veroyatnymi eë predkami schitayutsja volk i nekotorye vidy shakalov.
 
-V suždeniąh učënyh o predkah domašnej sobaki prisutstvuųt dve točki zrenią. Odni sčitaųt, čto sobaki - polifiletičeskaą gruppa (proishodąščaą ot neskoljkih predkov), drugie priderživaųtsą mnenią, čto vse sobaki proizošli ot odnogo predka (monofiletičeskaą teorią).
+V suzhdeniyah uchënyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proishodjasçhaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Кириллица => латиница
