@@ -72,7 +72,7 @@
 
 *По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем варианты с диакритическими знаками. Я пробовал придумать вариант с диакритическими знаками такой, чтобы его было удобнее читать, чем этот - не смог.*
 
-Pjyanyj master po proektu sdelal mehanicheskij obwjekt s izwjanom. Yesli brak ne obnaruzhitsja, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
+Pjyanyj master po prowektu sdelal mehanicheskij obwjekt s izwjanom. Yesli brak ne obnaruzhitsja, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
 V pjyese pro devushku v zeljonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsja.
 
@@ -86,7 +86,7 @@ Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhod
 
 "Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
-Imeetsja neskoljko gipotez proiskhozhdeniya sobaki, naibolee veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
+Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
 
 V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjashchaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
