@@ -1,8 +1,8 @@
 # ru-translit (kiwi0fruit's)
 
-### Uniquely reversible and lossless: Russian to English transliteration (no extra letters, diacritics and non-letters)
+### Uniquely reversible Russian to English transliteration (no extra letters, diacritics and non-letters)
 
-### Однозначно обратимые и без потерь: транслитерация из русского в английский алфавит (без дополнительных букв, диакритических и небуквенных знаков)
+### Однозначно обратимая транслитерация из русского в английский алфавит (без дополнительных букв, диакритических и небуквенных знаков)
 
 Придумал в качестве развлечения ещё один транслит.
 
