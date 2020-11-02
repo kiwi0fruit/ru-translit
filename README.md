@@ -140,7 +140,7 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | | | | |
 | ё/jo | `(?<=\c)ё`     | `je`          | м**ё**д/m**jo**d |
 | ё/yo | `ё`            | `yo`          | **ё**мко/**yo**mko |
-| ю/ju | `(?<=\c)ю`     | `ju`          | м**ю**сли/m**ju**сли |
+| ю/ju | `(?<=\c)ю`     | `ju`          | м**ю**сли/m**ju**sli |
 | ю/yu | `ю`            | `yu`          | **Ю**ля/**Yu**lja |
 | я/ja | `(?<=\c)я`     | `ja`          | Из**я**/Iz**ja** |
 | я/ya | `я`            | `ya`          | **Я**корь/**Ya**korj |
