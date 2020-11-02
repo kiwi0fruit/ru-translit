@@ -116,9 +116,9 @@ Prepodobnyj Bajes podkinul igraljnye kosti. Vypalo shestj, znachit emu pridëtsj
 
 Męr neboljshogo gorodishki otkryl tablicu ęxelja i vozmutilsja cenoj novogo ęxkavatora. Azh ękzema snova stala ego bespokoitj. Oh uzh ęta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aęroplana-ękranolëta. Esli tak pojdët i daljshe, to bjudzhetu pridëtsja hudo.
 
-V ętom vide fraza ot A to Ą načinaet vyglądetj sovsem po-drugomu. Sejčas ščëtka novaą, no pozže ona stanet staraą. Černyš lųbit kogda ego češut eų. Ëž kolųčij i pohož na neë.
+V ętom vide fraza ot A do Ya nachinaet vygljadetj sovsem po-drugomu. Sejchas sçhëtka novaya, no pozzhe ona stanet staraya Chernysh ljubit kogda ego cheshut eyu. Ëzh koljuchij i pohozh na neë.
 
-Shod mestnyh žytelej indijskoj derevni sikhov rešal čto že delatj s othodami kompanii "The LLC". Odin iz prisutstvuųščih nosil hoholok na golove. On i našël vyhod iz situacii.
+Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s othodami kompanii "The LLC". Odin iz prisutstvuyusçhih nosil hoholok na golove. On i nashël vyhod iz situacii.
 
 "Kto s mečom k nam pridët, tot ot meča i..." - ne smog dogovoritj staršij mehanik Vasilij.
 
