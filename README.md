@@ -127,7 +127,7 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | е/e    | `е`            | `e`           | м**е**х/m**e**h, про**е**кт/pro**e**kt                        |
 | экс/ex | `экс`          | `ex`          | **экс**каватор/**ex**kavator, **экс**ель/**ex**elj, м**экс**/m**ex**, экзамен/ekzamen, экзема/ekzema, Мексика/Meksika, мех/meh |
 | э/e    | `^э`&#124;`(?<=[аяйы])э` | `e`  | **эх**о/**eh**o, а**э**роплан/a**e**roplan, **э**тот/**e**tot, **э**он/**e**on, **э**кран/**e**kran, **э**ротика/**e**rotika, й**э**с/j**e**s |
-| э/ae   | `э`            | `ae`          | м**э**р/m**ae**r, мер/mer, Но**э**ль/No**ae**lj, радио**э**хо/radio**ae**ho, ма**э**р/ma**ae**r, в**эч**ный/v**aech**nyj |
+| э/ae   | `э`            | `ae`          | м**э**р/m**ae**r, мер/mer, Но**э**ль/No**ae**lj, ало**э**/alo**ae**, радио**э**хо/radio**ae**ho, ма**э**р/ma**ae**r, в**эч**ный/v**aech**nyj |
 | | | | |
 | шч/shwch/šwč | `шч`     | `shwch`       | **шч**ётка/**shwch**yotka/**šwč**ëtka                                              |
 | щ/shch/šč    | `щ`      | `shch`        | **щ**ётка/**shch**yotka/**šč**ëtka, **cч**ёт/**sch**yot/**sč**ët                   |
