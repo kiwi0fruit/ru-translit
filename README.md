@@ -86,7 +86,7 @@ DIAC: Męr neboljshogo gorodishki otkryl tablicu exelja. A tak zhe pokupka aęro
 
 V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Sejchas shchjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchij i pohozh na neyo.
 
-DIAC: V etom vide fraza ot A to Ya nachinaet vygljadetj sovsem po-drugomu. Sejchas şchjotka novaya, no pozzhe ona stanet staraya.
+DIAC: Sejchas şchjotka novaya, no pozzhe ona stanet staraya.
 
 Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
@@ -96,7 +96,6 @@ DIAC: Odin iz prisutstvuyuşchih nosil hoholok na golove.
 
 Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
 
-DIAC: Imeetsja neskoljko gipotez proiskhozhdeniya sobaki, naibolee veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
 
 V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjashchaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
@@ -137,7 +136,7 @@ DIAC: proiskhodjaşchaya ot neskoljkih predkov
 |        | Cyrillic RegEx | Latin RegEx   | Примеры                                                                            |
 | ------ | ------------:|:------------- | ---------------------------------------------------------------------------------- |
 | проект/.../we(e) | `проект`&#124;`...` | `we` | про**е**кт/pro**we**kt/pro**e**kt (слова, которые должны были быть с `ye`, но произносятся с **ударным** "э") (в случае с диакритикой эта замена не нужна) |
-| е/ye(ye/e) | `^е`&#124;`(?<!\c)е` | `ye`  | **е**сли/**ye**sli, бай**е**с/baj**ye**s, Ра**е**вская/Ra**ye**vskaya/Ra**e**vskaya, зя**е**/zja**ye**/zja**e**, за**е**м/za**ye**m/za**e**m, заём/zayom, **е**хо/**ye**ho, йeс/j**ye**s, та**е**ц/ta**ye**c/ta**e**c, за**е**зд/za**ye**zd/za**e**zd, тра**е**ктория/tra**ye**ktoriya/tra**e**ktoriya (в случае с диакритикой е после гласных можно брать просто "e") |
+| е/ye | `^е`&#124;`(?<!\c)е` | `ye`  | **е**сли/**ye**sli, бай**е**с/baj**ye**s, Ра**е**вская/Ra**ye**vskaya, зя**е**/zja**ye**, за**е**м/za**ye**m, заём/zayom, **е**хо/**ye**ho, йeс/j**ye**s, та**е**ц/ta**ye**c, за**е**зд/za**ye**zd, тра**е**ктория/tra**ye**ktoriya |
 | е/e    | `е`          | `e`           | м**е**х/m**e**h |
 | экс/ex | `экс`        | `ex`          | **экс**каватор/**ex**kavator, **экс**ель/**ex**elj, м**экс**/m**ex**, экзамен/ekzamen, экзема/ekzema, Мексика/Meksika, мех/meh |
 | э/e    | `^э`&#124;`(?<!\c)э` | `e`   | **эх**о/**eh**o, а**э**роплан/a**e**roplan/a**ę**roplan, **э**тот/**e**tot, **э**он/**e**on, **э**кран/**e**kran, **э**ротика/**e**rotika, й**э**с/j**e**s, Но**э**ль/No**e**lj/No**ę**lj, ало**э**/alo**e**/alo**ę**, радио**э**хо/radio**e**ho/radio**ę**ho (с диакритикой э после гласных всегда должна всегда быть в варианте ę - чтобы убрать необходимость в we) |
