@@ -86,7 +86,7 @@ Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhod
 
 "Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
-Imeetsya neskoljko gipotez proiskhozhdeniya sobaki, naibolee veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
+Imeetsja neskoljko gipotez proiskhozhdeniya sobaki, naibolee veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
 
 V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjashchaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
