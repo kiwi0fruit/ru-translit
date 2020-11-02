@@ -82,11 +82,11 @@ Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridjo
 
 Maer neboljshogo gorodishki otkryl tablicu exelja i vozmutilsja cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aeroplana-ekranoljota. Yesli tak pojdjot i daljshe, to bjudzhetu pridjotsja hudo.
 
-DIA: Męr neboljshogo gorodishki otkryl tablicu exelja.
+DIAC: Męr neboljshogo gorodishki otkryl tablicu exelja. A tak zhe pokupka aęroplana-ekranoljota.
 
 V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Sejchas shchjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchij i pohozh na neyo.
 
-DIA: Sejchas şchjotka novaya, no pozzhe ona stanet staraya.
+DIAC: Sejchas şchjotka novaya, no pozzhe ona stanet staraya.
 
 Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
