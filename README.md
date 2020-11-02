@@ -130,12 +130,12 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | э/e    | `^э`&#124;`(?<!\c)э` | `e`   | **эх**о/**eh**o, а**э**роплан/a**e**roplan, **э**тот/**e**tot, **э**он/**e**on, **э**кран/**e**kran, **э**ротика/**e**rotika, й**э**с/j**e**s, Но**э**ль/No**e**lj, ало**э**/alo**e**, радио**э**хо/radio**e**ho |
 | э/ae   | `(?<=\cа*)э` | `ae`          | м**э**р/m**ae**r, мер/mer, ма**э**р/ma**ae**r, маа**э**р/maa**ae**r, маер/mayer, моаэр/moaer, в**эч**ный/v**aech**nyj |
 | | | | |
-| шч/shwch | `шч`       | `shwch`       | **шч**ётка/**shwch**yotka |
-| щ/shch   | `щ`        | `shch`        | **щ**ётка/**shch**yotka, **cч**ёт/**sch**yot |
-| ж/zh | `ж`            | `zh`          | ё**ж**/yo**zh**, во**зж**и/vo**zzh**i, по**зж**е/po**zž**e |
-| ч/ch | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh, с**ч**ётная/s**ch**yotnaya |
+| шч/shwch | `шч`       | `shwch`       | **шч**ётка/**shwch**jotka |
+| щ/shch   | `щ`        | `shch`        | **щ**ётка/**shch**jotka, **cч**ёт/**sch**jot |
+| ж/zh | `ж`            | `zh`          | ё**ж**/yo**zh**, во**зж**и/vo**zzh**i, по**зж**е/po**zzh**e |
+| ч/ch | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh, с**ч**ётная/s**ch**jotnaya |
 | ш/sh | `ш`            | `sh`          | **ш**лем/**sh**lem |
-| х/kh | `(?=[хтсшзжцчщъьйк])х` | `kh`  | с**х**од/s**kh**od, **кх**е/**kkh**e, си**кх**/si**kkh**, ме**х**/me**h**, Муръ**х**ин/Murjhjh**kh**in, Мурь**х**ин/Murj**kh**in, от**х**од/ot**kh**od |
+| х/kh | `(?=[хтсшзжцчщъьйк])х` | `kh`  | с**х**од/s**kh**od, **кх**е/**kkh**e, си**кх**/si**kkh**, ме**х**/me**h**, Муръ**х**ин/Murwjh**kh**in, Мурь**х**ин/Murj**kh**in, от**х**од/ot**kh**od |
 | х/h  | `х`            | `h`           | **х**о**х**олок/**h**o**h**olok, в**ы**ход/v**y**hod, ме**х**а/me**h**a, э**х**о/e**h**o, вече/veche, меча/mecha, эч/ech, мэч/maech, **х**ья/**h**jya, **х**ьан/**h**jhan |
 | | | | |
 | ё/jo | `(?<=\c)ё`     | `je`          | м**ё**д/m**jo**d |
