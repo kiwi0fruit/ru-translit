@@ -102,7 +102,7 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 |        | Cyrillic RegEx | Latin RegEx | Примеры                                      |
 | ------ | --------------:|:----- | -------------------------------------------- |
 | ъе/wje, ъё/wjo, ъи/wji, ъю/wju, ъя/wja | `(?<=\c)ъ[еёюяи]` | `(?<=\c)wj[eouai]` | об**ъе**кт/ob**wje**kt, из**ъя**н/iz**wja**n, мера/mera, если/yesli, зяка/zjaka, Мур**ъи**н/Mur**wji**n |
-| ъ/wj   | `ъ(?=[\c\w_])` | `wj ` | он**ъ**/on**wj**, Му**ъ**минат/Mu**wj**minat, Чан**ъ**ань/Chan**wjh**anj, Мур**ъ**йин/Mur**wjh**jin |
+| ъ/wj   | `ъ(?=[\c\w_])` | `wj ` | он**ъ**/on**wj**, Му**ъ**минат/Mu**wj**minat |
 | ъ/wjh  | `ъ`            | `wjh` | Чан**ъ**ань/Chan**wjh**anj, Мур**ъ**йин/Mur**wjh**jin |
 | | | | |
 | ье/jye, ьё/jyo, ьи/jyi, ью/jyu, ья/jya | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**jyi**, плат**ьи**це/plat**jyi**ce, Мур**ьи**н/Mur**jyi**n |
