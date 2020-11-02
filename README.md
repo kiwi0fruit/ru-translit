@@ -106,7 +106,7 @@ V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | | | | |
 | ье/jye, ьё/jyo, ьи/jyi, ью/jyu, ья/jya | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**jyi**, плат**ьи**це/plat**jyi**ce, Мур**ьи**н/Mur**jyi**n |
 | ь/j    | `(?<=\c)ь(?![эоуaйы])` | `(?<=\c)j` | пряч**ь**ся/prjach**j**sja, мыт**ь**ся/myt**j**sja, кон**ь**/kon**j** |
-| ь/jh   | `ь`            | `jh`  | Чан**ь**ол/Сhan**jh**ol, Мур**ьй**ин/Mur**jhj**in, Чан**ь**ын/Сhan**jh**yn |
+| ь/jh   | `ь`            | `jh`  | батал**ь**он/batal**jh**on, Чан**ь**ол/Сhan**jh**ol, Мур**ьй**ин/Mur**jhj**in, Чан**ь**ын/Сhan**jh**yn |
 | | | | |
 | ые/yje, ыё/yjo, ыю/yju, ыя/yja | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**, бедн**ыя**/bedn**yja** |
 | ы/yw   | `ы(?=[эоуа])`  | `yw`  | Нарва-Й**ыэ**суу/Narva-J**ywe**suu, Баймакл**ыа**ул/Bajmakl**ywa**ul |
