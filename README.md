@@ -90,6 +90,8 @@ DIAC: V etom vide fraza ot A to Ya nachinaet vygljadetj sovsem po-drugomu. Sejch
 
 Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
+DIAC: Odin iz prisutstvuyuşchih nosil hoholok na golove.
+
 "Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
 Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
