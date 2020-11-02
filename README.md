@@ -108,7 +108,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ## Примеры текстов на латинице
 
-Pjąnyj master po proektu sdelal mehaničeskij objękt s izjanom. Esli brak ne obnaružitsą, to belyj bolid boljše ne smožet vyigryvatj gonki.
+Pjyanyj master po proektu sdelal mehanicheskij obɉekt s izɉyanom. Esli brak ne obnaruzhitsja, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
 V pjese pro devušku v zelënom platjįce vse sadilisj na ladjį i plyli po reke. No tut iz lesa vyšel konj v paljto i prikazal vsem mytjsą.
 
