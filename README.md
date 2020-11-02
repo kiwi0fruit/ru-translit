@@ -100,6 +100,8 @@ DIAC: Imeetsja neskoljko gipotez proiskhozhdeniya sobaki, naibolee veroyatnymi y
 
 V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjashchaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
+DIAC: proiskhodjaşchaya ot neskoljkih predkov
+
 
 ## Кириллица => латиница
 
