@@ -39,9 +39,9 @@
 
 | **е**   | **ё** | **ж** | **и**   | **й** | **х** | **ч**   | **ш**   | **щ**   | 
 |:-------:|:-----:|:-----:|:-------:|:-----:|:-----:|:-------:|:-------:|:-------:|
-| е/ye/je | yo/jo | zh    | i/yi/ji | j/jj  | h/kh  | ch      | sh      | shch(şch)    |
-| **ъ**   | **ы** | **ь** | **э**   | **ю** | **я** | **экс** | **шч**  |   |
-| j/wj(ĵ)/wjh(ĵh) | y/yw(ŷ) | j/jh  | ae(ę)/e    | yu/ju | ya/ja | ex      | shwch(shch)   |    |
+| е/ye/je | yo/jo | zh    | i/yi/ji | j/jj  | h/kh  | ch      | sh      | sjch(şch)    |
+| **ъ**   | **ы** | **ь** | **э**   | **ю** | **я** | **экс** | **сьч**  |   |
+| j/wj(ĵ)/wjh(ĵh) | y/yw(ŷ) | j/jh  | ae(ę)/e    | yu/ju | ya/ja | ex      | sjwch(sjch)   |    |
 
 Подробнее:
 
@@ -84,11 +84,11 @@ Maer neboljshogo gorodishki otkryl tablicu exelja i vozmutilsja cenoj novogo exk
 
 DIAC: Męr neboljshogo gorodishki otkryl tablicu exelja. A tak zhe pokupka aęroplana-ekranoljota.
 
-V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Sejchas shchjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchij i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Sejchas sjchjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchij i pohozh na neyo.
 
 DIAC: Sejchas şchjotka novaya, no pozzhe ona stanet staraya.
 
-Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashjol vyhod iz situacii.
+Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyusjchih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
 DIAC: Odin iz prisutstvuyuşchih nosil hoholok na golove.
 
@@ -96,8 +96,7 @@ DIAC: Odin iz prisutstvuyuşchih nosil hoholok na golove.
 
 Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
 
-
-V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjashchaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjasjchaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 DIAC: proiskhodjaşchaya ot neskoljkih predkov
 
@@ -142,8 +141,8 @@ DIAC: proiskhodjaşchaya ot neskoljkih predkov
 | э/e    | `^э`&#124;`(?<!\c)э` | `e`   | **эх**о/**eh**o, а**э**роплан/a**e**roplan/a**ę**roplan, **э**тот/**e**tot, **э**он/**e**on, **э**кран/**e**kran, **э**ротика/**e**rotika, й**э**с/j**e**s, Но**э**ль/No**e**lj/No**ę**lj, ало**э**/alo**e**/alo**ę**, радио**э**хо/radio**e**ho/radio**ę**ho (с диакритикой э после гласных всегда должна всегда быть в варианте ę - чтобы убрать необходимость в we) |
 | э/ae(ę)   | `(?<=\cа*)э` | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, ма**э**р/ma**ae**r/ma**ę**r, маа**э**р/maa**ae**r/maa**ę**r, маер/mayer/maer, моаэр/moaer/moaęr |
 | | | | |
-| шч/shwch | `шч`       | `shwch`       | **шч**ётка/**shwch**jotka (в случае с диакритикой эта замена не нужна) |
-| щ/shch(şch)   | `щ`        | `shch`        | **щ**ётка/**shch**jotka/**şch**jotka, счёт/schjot |
+| сьч/sjwch | `сьч`       | `sjwch`       | **сьч**/**sjwch** (в случае с диакритикой эта замена не нужна) |
+| щ/sjch(şch)   | `щ`        | `shch`        | **щ**ётка/**sjch**jotka/**şch**jotka, счёт/schjot |
 | ж/zh | `ж`            | `zh`          | ё**ж**/yo**zh**, во**зж**и/vo**zzh**i, по**зж**е/po**zzh**e |
 | ч/ch | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh, с**ч**ётная/s**ch**jotnaya |
 | ш/sh | `ш`            | `sh`          | **ш**лем/**sh**lem |
