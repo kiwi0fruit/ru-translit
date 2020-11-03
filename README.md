@@ -45,15 +45,15 @@
 
 Подробнее:
 
-| **е/сье/ые/съе/сe/e=[ɛ]=[э]**  | **ё/сьё/ыё/съё/сё**       | **и/сьи/сыи/аыи/съи**          |
+| **е/сье/ые/съе/се/е=[ɛ]=[э]**  | **ё/сьё/ыё/съё**       | **и/сьи/сыи/аыи/съи**          |
 |:------------------------------:|:-------------------------:|:------------------------------:|
-| ye/sjye/yje/swje(sĵe)/se/we(ê) | yo/sjyo/yjo/swjo(sĵo)/sjo | i/sjyi/syi/aywi(aŷi)/swji(sĵi) |
-| **ю/сью/ыю/съю/сю**            | **я/сья/ыя/съя/ся**       | **э/сэ/экс**                   |
-| yu/sjyu/yju/swju(sĵu)/sju      | ya/sjya/yja/swja(sĵa)/sja | e/sae(sę)/ex                   |
+| ye/sjye/yje/swje(sĵe)/se/we(ê) | yo/sjyo/yjo/swjo(sĵo) | i/sji/syi/aywi(aŷi)/swji(sĵi) |
+| **ю/сью/ыю/съю**            | **я/сья/ыя/съя**       | **э/сэ/экс**                   |
+| yu/sjyu/yju/swju(sĵu)      | ya/sjya/yja/swja(sĵa) | e/sae(sę)/ex                   |
 
 | **й/сй/ыйа** | **съе/със/съа/съи**                       | **ы/ые/ыа/ыи**   | **ь/сье/ь/сьи** |
 |:------------:|:-----------------------------------------:|:----------------:|:---------------:|
-| j/sjj/yjja   | swje(sĵe)/swjs(sĵs)/swjha(sĵha)/swji(sĵi) | y/yje/ywa(ŷa)/yi | j/sjye/jh/sjyi  |
+| j/sjj/yjja   | swje(sĵe)/swjs(sĵs)/swjha(sĵha)/swji(sĵi) | y/yje/ywa(ŷa)/yi | j/sjye/jh/sji  |
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
