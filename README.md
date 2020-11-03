@@ -101,9 +101,9 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 |        | Cyrillic RegEx | Latin RegEx | Примеры                                      |
 | ------ | --------------:|:----- | -------------------------------------------- |
-| ъе/wje(ĵe), ъё/wjo(ĵo), ъи/wji(ĵi), ъю/wju(ĵu), ъя/wja(ĵa) | `(?<=\c)ъ[еёюяи]` | `(?<=\c)wj[eouai]` | об**ъе**кт/ob**wje**kt/ob**ĵe**kt, из**ъя**н/iz**wja**n/iz**ĵa**n, мера/mera, если/yesli, зяка/zjaka, Мур**ъи**н/Mur**wji**n/Mur**ĵi**n |
-| ъ/wj(ĵ)  | `ъ(?![эоуайы])` | `wj ` | он**ъ**/on**wj**/on**ĵ**, Му**ъ**минат/Mu**wj**minat/Mu**ĵ**minat |
-| ъ/wjh(ĵh)  | `ъ`            | `wjh` | Чан**ъ**ань/Chan**wjh**anj/Chan**ĵh**anj, Мур**ъ**йин/Mur**wjh**jin/Mur**ĵh**jin |
+| ъе/wje, ъё/wjo, ъи/wji, ъю/wju, ъя/wja | `(?<=\c)ъ[еёюяи]` | `(?<=\c)wj[eouai]` | об**ъе**кт/ob**wje**kt, из**ъя**н/iz**wja**n, мера/mera, если/yesli, зяка/zyaka, Мур**ъи**н/Mur**wji**n |
+| ъ/wj  | `ъ(?![эоуайы])` | `wj ` | он**ъ**/on**wj**, Му**ъ**минат/Mu**wj**minat |
+| ъ/wjh  | `ъ`            | `wjh` | Чан**ъ**ань/Chan**wjh**anj, Мур**ъ**йин/Mur**wjh**jin |
 | | | | |
 | ь/j    | `(?<=\c)ь(?![йьъ])` | `(?<=\c)j` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**ji**, плат**ьи**це/plat**ji**ce, пряч**ь**ся/pryach**j**sya, мыт**ь**ся/myt**j**sya, кон**ь**/kon**j**, батал**ь**он/batal**j**on, лос**ь**он/los**j**on, сен**ь**ор/sen**j**or, Чан**ь**ол/Сhan**j**ol, Мур**ьи**н/Mur**ji**n, Чан**ь**ын/Сhan**j**yn |
 | ь/jh   | `ь`            | `jh`  | Мур**ьй**ин/Mur**jhj**in |
