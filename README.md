@@ -76,29 +76,29 @@ Pjyanyj master po prowektu sdelal mehanicheskij obwjekt s izwjanom. Yesli brak n
 
 DIAC: Pjyanyj master po proêktu sdelal mehanicheskij obĵekt s izĵanom.
 
-V pjyese pro devushku v zeljonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsja.
+V pjyese pro devushku v zelyonom platjice vse sadilisj na ladji i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsya.
 
-Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridjotsja mazatj jod na ranu.
+Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridyotsya mazatj jod na ranu.
 
-Maer neboljshogo gorodishki otkryl tablicu exelja i vozmutilsja cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aeroplana-ekranoljota. Yesli tak pojdjot i daljshe, to bjudzhetu pridjotsja hudo.
+Maer neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak pojdyot i daljshe, to byudzhetu pridyotsya hudo.
 
-DIAC: Męr neboljshogo gorodishki otkryl tablicu exelja.
+DIAC: Męr neboljshogo gorodishki otkryl tablicu exelya.
 
-V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Sejchas sjchjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchij i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas sjchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
 
-DIAC: Sejchas şchjotka novaya, no pozzhe ona stanet staraya.
+DIAC: Sejchas şchyotka novaya, no pozzhe ona stanet staraya.
 
-Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyusjchih nosil hoholok na golove. On i nashjol vyhod iz situacii.
+Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyusjchih nosil hoholok na golove. On i nashyol vyhod iz situacii.
 
 DIAC: Odin iz prisutstvuyuşchih nosil hoholok na golove.
 
-"Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
+"Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
-Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryje vidy shakalov.
+Imeyetsya neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryje vidy shakalov.
 
-V suzhdeniyah uchjonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjasjchaya ot neskoljkih predkov), drugie priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyasjchaya ot neskoljkih predkov), drugie priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
-DIAC: proiskhodjaşchaya ot neskoljkih predkov
+DIAC: proiskhodyaşchaya ot neskoljkih predkov
 
 
 ## Кириллица => латиница
