@@ -125,7 +125,7 @@ DIAC: proiskhodyaşchaya ot neskoljkih predkov
 | ыи/yi  | `(?<=[й\c])ыи` | `yi`  | в**ыи**грывать/v**yi**gryvatj, в**ыи**скивать/v**yi**skivatj |
 | ы/y    | `ы`            | `y`   | кр**ы**ска/kr**y**ska, **ы**пся/**y**psja, п**ы**хтел/p**y**htel, бел**ы**й/bel**y**j, в**ы**йигрывать/v**y**jigryvatj, ба**й**ыс/ba**j**ys |
 | | | | |
-| й/jj   | `(?<=\c)й`     | `jj`  | под**й**езд/pod**jj**yezd, под**й**од/pod**jj**od, Мур**й**ин/Mur**jj**in, под**йй**од/pod**jjj**od |
+| й/jj   | `(?<=[й\c])й`&#124;`й(?=й)` | `jj`  | под**й**езд/pod**jj**yezd, под**й**од/pod**jj**od, Мур**й**ин/Mur**jj**in, под**йй**од/pod**jjjj**od |
 | й/jj   | `(?<=ы)й(?=[эоуа])` | `jj` | белы**й**а/bely**jj**a, белы**й**э/bely**jj**e, белыйе/belyjye  |
 | й/j    | `й`            | `j`   | ба**й**ес/ba**j**yes, белы**й**/bely**j**, **й**од/**j**od, **й**иппи/**j**ippi, ба**й**яс/ba**j**yas, ба**й**ас/ba**j**as, **й**эс/**j**es, баян/bayan |
 
