@@ -74,31 +74,21 @@
 
 Pjyanyj master po prowektu sdelal mehanicheskij obwjekt s izwjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
-DIAC: Pjyanyj master po proêktu sdelal mehanicheskij obĵekt s izĵanom.
-
 V pjyese pro devushku v zelyonom platjice vse sadilisj na ladji i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsya.
 
 Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridyotsya mazatj jod na ranu.
 
 Maer neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak pojdyot i daljshe, to byudzhetu pridyotsya hudo.
 
-DIAC: Męr neboljshogo gorodishki otkryl tablicu exelya.
-
 V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas sjchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
 
-DIAC: Sejchas şchyotka novaya, no pozzhe ona stanet staraya.
-
 Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyusjchih nosil hoholok na golove. On i nashyol vyhod iz situacii.
-
-DIAC: Odin iz prisutstvuyuşchih nosil hoholok na golove.
 
 "Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
 Imeyetsya neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryje vidy shakalov.
 
 V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyasjchaya ot neskoljkih predkov), drugie priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
-
-DIAC: proiskhodyaşchaya ot neskoljkih predkov
 
 
 ## Кириллица => латиница
@@ -115,9 +105,8 @@ DIAC: proiskhodyaşchaya ot neskoljkih predkov
 | ъ/wj(ĵ)  | `ъ(?![эоуайы])` | `wj ` | он**ъ**/on**wj**/on**ĵ**, Му**ъ**минат/Mu**wj**minat/Mu**ĵ**minat |
 | ъ/wjh(ĵh)  | `ъ`            | `wjh` | Чан**ъ**ань/Chan**wjh**anj/Chan**ĵh**anj, Мур**ъ**йин/Mur**wjh**jin/Mur**ĵh**jin |
 | | | | |
-| ье/jye, ьё/jyo, ьи/jyi, ью/jyu, ья/jya | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**jyi**, плат**ьи**це/plat**jyi**ce, Мур**ьи**н/Mur**jyi**n |
-| ь/j    | `(?<=\c)ь(?![эоуaйы])` | `(?<=\c)j` | пряч**ь**ся/prjach**j**sja, мыт**ь**ся/myt**j**sja, кон**ь**/kon**j** |
-| ь/jh   | `ь`            | `jh`  | батал**ь**он/batal**jh**on, лос**ь**он/los**jh**on, сен**ь**ор/sen**jh**or, Чан**ь**ол/Сhan**jh**ol, Мур**ьй**ин/Mur**jhj**in, Чан**ь**ын/Сhan**jh**yn |
+| ь/j    | `(?<=\c)ь(?![йьъ])` | `(?<=\c)j` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**ji**, плат**ьи**це/plat**ji**ce, пряч**ь**ся/prjach**j**sya, мыт**ь**ся/myt**j**sya, кон**ь**/kon**j**, Мур**ьи**н/Mur**jyi**n |
+| ь/jh   | `ь`            | `jh`  | батал**ь**он/batal**jh**on, лос**ь**он/los**jh**on, сен**ь**ор/sen**jh**or, Чан**ь**ол/Сhan**jh**ol, Мур**ьй**ин/Mur**jhj**in, Чан**ь**ын/Сhan**j**yn |
 | | | | |
 | ые/yje, ыё/yjo, ыю/yju, ыя/yja | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**, бедн**ыя**/bedn**yja** |
 | ы/yw(ŷ)   | `ы(?=[эоуа])`  | `yw`  | Нарва-Й**ыэ**суу/Narva-J**ywe**suu/Narva-J**ŷe**suu, Баймакл**ыа**ул/Bajmakl**ywa**ul/Bajmakl**ŷa**ul |
@@ -147,14 +136,11 @@ DIAC: proiskhodyaşchaya ot neskoljkih predkov
 | ч/ch | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh, с**ч**ётная/s**ch**jotnaya |
 | ш/sh | `ш`            | `sh`          | **ш**лем/**sh**lem |
 | х/kh | `(?=[хтсшзжцчщъьйк])х` | `kh`  | с**х**од/s**kh**od, **кх**е/**kkh**e, си**кх**/si**kkh**, ме**х**/me**h**, Муръ**х**ин/Murwjh**kh**in, Мурь**х**ин/Murj**kh**in, от**х**од/ot**kh**od |
-| х/h  | `х`            | `h`           | **х**о**х**олок/**h**o**h**olok, в**ы**ход/v**y**hod, ме**х**а/me**h**a, э**х**о/e**h**o, вече/veche, меча/mecha, эч/ech, мэч/maech, **х**ья/**h**jya, **х**ьан/**h**jhan |
+| х/h  | `х`            | `h`           | **х**о**х**олок/**h**o**h**olok, в**ы**ход/v**y**hod, ме**х**а/me**h**a, э**х**о/e**h**o, вече/veche, меча/mecha, эч/ech, мэч/maech, **х**ья/**h**jya, **х**ьан/**h**jan |
 | | | | |
-| ё/jo | `(?<=\c)ё`     | `jo`          | м**ё**д/m**jo**d |
-| ё/yo | `ё`            | `yo`          | **ё**мко/**yo**mko |
-| ю/ju | `(?<=\c)ю`     | `ju`          | м**ю**сли/m**ju**sli |
-| ю/yu | `ю`            | `yu`          | **Ю**ля/**Yu**lja |
-| я/ja | `(?<=\c)я`     | `ja`          | Из**я**/Iz**ja** |
-| я/ya | `я`            | `ya`          | **Я**корь/**Ya**korj, ба**я**н/ba**ya**n |
+| ё/yo | `ё`            | `yo`          | м**ё**д/m**jo**d, **ё**мко/**yo**mko |
+| ю/yu | `ю`            | `yu`          | м**ю**сли/m**yu**sli, **Ю**ля/**Yu**lja |
+| я/ya | `я`            | `ya`          | Из**я**/Iz**ya**, **Я**корь/**Ya**korj, ба**я**н/ba**ya**n |
 | ERR  |                | `[qwx]`       |                  |
 
 
