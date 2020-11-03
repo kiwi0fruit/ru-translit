@@ -142,14 +142,14 @@ DIAC: proiskhodjaşchaya ot neskoljkih predkov
 | э/ae(ę)   | `(?<=\cа*)э` | `ae`          | м**э**р/m**ae**r/m**ę**r, мер/mer, ма**э**р/ma**ae**r/ma**ę**r, маа**э**р/maa**ae**r/maa**ę**r, маер/mayer/maer, моаэр/moaer/moaęr |
 | | | | |
 | сьч/sjwch | `сьч`       | `sjwch`       | **сьч**/**sjwch** (в случае с диакритикой эта замена не нужна) |
-| щ/sjch(şch)   | `щ`        | `shch`        | **щ**ётка/**sjch**jotka/**şch**jotka, счёт/schjot |
+| щ/sjch(şch)   | `щ`        | `sjch`        | **щ**ётка/**sjch**jotka/**şch**jotka, счёт/schjot |
 | ж/zh | `ж`            | `zh`          | ё**ж**/yo**zh**, во**зж**и/vo**zzh**i, по**зж**е/po**zzh**e |
 | ч/ch | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh, с**ч**ётная/s**ch**jotnaya |
 | ш/sh | `ш`            | `sh`          | **ш**лем/**sh**lem |
 | х/kh | `(?=[хтсшзжцчщъьйк])х` | `kh`  | с**х**од/s**kh**od, **кх**е/**kkh**e, си**кх**/si**kkh**, ме**х**/me**h**, Муръ**х**ин/Murwjh**kh**in, Мурь**х**ин/Murj**kh**in, от**х**од/ot**kh**od |
 | х/h  | `х`            | `h`           | **х**о**х**олок/**h**o**h**olok, в**ы**ход/v**y**hod, ме**х**а/me**h**a, э**х**о/e**h**o, вече/veche, меча/mecha, эч/ech, мэч/maech, **х**ья/**h**jya, **х**ьан/**h**jhan |
 | | | | |
-| ё/jo | `(?<=\c)ё`     | `je`          | м**ё**д/m**jo**d |
+| ё/jo | `(?<=\c)ё`     | `jo`          | м**ё**д/m**jo**d |
 | ё/yo | `ё`            | `yo`          | **ё**мко/**yo**mko |
 | ю/ju | `(?<=\c)ю`     | `ju`          | м**ю**сли/m**ju**sli |
 | ю/yu | `ю`            | `yu`          | **Ю**ля/**Yu**lja |
