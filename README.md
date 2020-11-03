@@ -105,8 +105,8 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | ъ/wj(ĵ)  | `ъ(?![эоуайы])` | `wj ` | он**ъ**/on**wj**/on**ĵ**, Му**ъ**минат/Mu**wj**minat/Mu**ĵ**minat |
 | ъ/wjh(ĵh)  | `ъ`            | `wjh` | Чан**ъ**ань/Chan**wjh**anj/Chan**ĵh**anj, Мур**ъ**йин/Mur**wjh**jin/Mur**ĵh**jin |
 | | | | |
-| ь/j    | `(?<=\c)ь(?![йьъ])` | `(?<=\c)j` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**ji**, плат**ьи**це/plat**ji**ce, пряч**ь**ся/prjach**j**sya, мыт**ь**ся/myt**j**sya, кон**ь**/kon**j**, Мур**ьи**н/Mur**jyi**n |
-| ь/jh   | `ь`            | `jh`  | батал**ь**он/batal**jh**on, лос**ь**он/los**jh**on, сен**ь**ор/sen**jh**or, Чан**ь**ол/Сhan**jh**ol, Мур**ьй**ин/Mur**jhj**in, Чан**ь**ын/Сhan**j**yn |
+| ь/j    | `(?<=\c)ь(?![йьъ])` | `(?<=\c)j` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**ji**, плат**ьи**це/plat**ji**ce, пряч**ь**ся/pryach**j**sya, мыт**ь**ся/myt**j**sya, кон**ь**/kon**j**, батал**ь**он/batal**j**on, лос**ь**он/los**j**on, сен**ь**ор/sen**j**or, Чан**ь**ол/Сhan**j**ol, Мур**ьи**н/Mur**ji**n, Чан**ь**ын/Сhan**j**yn |
+| ь/jh   | `ь`            | `jh`  | Мур**ьй**ин/Mur**jhj**in |
 | | | | |
 | ые/yje, ыё/yjo, ыю/yju, ыя/yja | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**, бедн**ыя**/bedn**yja** |
 | ы/yw(ŷ)   | `ы(?=[эоуа])`  | `yw`  | Нарва-Й**ыэ**суу/Narva-J**ywe**suu/Narva-J**ŷe**suu, Баймакл**ыа**ул/Bajmakl**ywa**ul/Bajmakl**ŷa**ul |
