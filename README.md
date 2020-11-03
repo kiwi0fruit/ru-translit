@@ -72,7 +72,7 @@
 
 *По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем варианты с большим количеством диакритических знаков. В английском нет диакритики, в русском - почти нет (ё ставят только при опасности неправильного прочтения, й трудно считать диакритикой). Так что не удивительно, что диакритика будет вызывать отторжение. В варианте минималистичной диакритики она ставится тоже в очень малом числе случаев.*
 
-Pjyanyj master po prowektu sdelal mehanicheskij obwjekt s izwjanom. Yesli brak ne obnaruzhitsja, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
+Pjyanyj master po prowektu sdelal mehanicheskij obwjekt s izwjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
 DIAC: Pjyanyj master po proêktu sdelal mehanicheskij obĵekt s izĵanom.
 
