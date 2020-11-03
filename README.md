@@ -117,7 +117,7 @@ DIAC: proiskhodjaşchaya ot neskoljkih predkov
 | | | | |
 | ье/jye, ьё/jyo, ьи/jyi, ью/jyu, ья/jya | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**jyi**, плат**ьи**це/plat**jyi**ce, Мур**ьи**н/Mur**jyi**n |
 | ь/j    | `(?<=\c)ь(?![эоуaйы])` | `(?<=\c)j` | пряч**ь**ся/prjach**j**sja, мыт**ь**ся/myt**j**sja, кон**ь**/kon**j** |
-| ь/jh   | `ь`            | `jh`  | батал**ь**он/batal**jh**on, сен**ь**ор/sen**jh**or, Чан**ь**ол/Сhan**jh**ol, Мур**ьй**ин/Mur**jhj**in, Чан**ь**ын/Сhan**jh**yn |
+| ь/jh   | `ь`            | `jh`  | батал**ь**он/batal**jh**on, лос**ь**он/los**jh**on, сен**ь**ор/sen**jh**or, Чан**ь**ол/Сhan**jh**ol, Мур**ьй**ин/Mur**jhj**in, Чан**ь**ын/Сhan**jh**yn |
 | | | | |
 | ые/yje, ыё/yjo, ыю/yju, ыя/yja | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**, бедн**ыя**/bedn**yja** |
 | ы/yw(ŷ)   | `ы(?=[эоуа])`  | `yw`  | Нарва-Й**ыэ**суу/Narva-J**ywe**suu/Narva-J**ŷe**suu, Баймакл**ыа**ул/Bajmakl**ywa**ul/Bajmakl**ŷa**ul |
