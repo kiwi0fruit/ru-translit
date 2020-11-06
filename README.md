@@ -101,9 +101,9 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 |        | Cyrillic RegEx | Latin RegEx | Примеры                                      |
 | ------ | --------------:|:----- | -------------------------------------------- |
-| ъе/wje, ъё/wjo, ъи/wji, ъю/wju, ъя/wja | `(?<=\c)ъ[еёюяи]` | `(?<=\c)wj[eouai]` | об**ъе**кт/ob**wje**kt, из**ъя**н/iz**wja**n, мера/mera, если/yesli, зяка/zyaka, Мур**ъи**н/Mur**wji**n |
-| ъ/wj  | `ъ(?![эоуайы])` | `wj ` | он**ъ**/on**wj**, Му**ъ**минат/Mu**wj**minat |
-| ъ/wjh  | `ъ`            | `wjh` | Чан**ъ**ань/Chan**wjh**anj, Мур**ъ**йин/Mur**wjh**jin |
+| ъе/je, ъё/jo, ъю/ju, ъя/ja | `(?<=\c)ъ[еёюя]` | `(?<=\c)j[eoua]` | об**ъе**кт/ob**je**kt, из**ъя**н/iz**ja**n |
+| ъ/wjh  | `ъ`            | `wjh` | он**ъ**/on**wjh**, об**ъ**известить/ob**wjh**izvestitj, Йон**ъ**ин/Jon**wjh**in, Чан**ъ**ань/Chan**wjh**anj, Му**ъ**минат/Mu**wjh**minat |
+| ъи/ji  | `ъ`            | `wjh` | ИСКЛЮЧЕНИЯ: об**ъи**мать/ob**ji**matj  |
 | | | | |
 | ь/j    | `(?<=\c)ь(?![йьъ])` | `(?<=\c)j` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**ji**, плат**ьи**це/plat**ji**ce, пряч**ь**ся/pryach**j**sya, мыт**ь**ся/myt**j**sya, кон**ь**/kon**j**, батал**ь**он/batal**j**on, лос**ь**он/los**j**on, сен**ь**ор/sen**j**or, Чан**ь**ол/Сhan**j**ol, Мур**ьи**н/Mur**ji**n, Чан**ь**ын/Сhan**j**yn |
 | ь/jh   | `ь`            | `jh`  | Мур**ьй**ин/Mur**jhj**in |
@@ -135,7 +135,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | ж/zh | `ж`            | `zh`          | ё**ж**/yo**zh**, во**зж**и/vo**zzh**i, по**зж**е/po**zzh**e |
 | ч/ch | `ч`            | `ch`          | **ч**ерныш/**ch**ernysh, с**ч**ётная/s**ch**jotnaya |
 | ш/sh | `ш`            | `sh`          | **ш**лем/**sh**lem |
-| х/kh | `(?=[хтсшзжцчщъьйк])х` | `kh`  | с**х**од/s**kh**od, **кх**е/**kkh**e, си**кх**/si**kkh**, ме**х**/me**h**, Муръ**х**ин/Murwjh**kh**in, Мурь**х**ин/Murj**kh**in, от**х**од/ot**kh**od |
+| х/kh | `(?=[хтсшзжцчщъьйк])х`&#124;`(?=экс)x` | `kh`  | с**х**од/s**kh**od, **кх**е/**kkh**e, си**кх**/si**kkh**, ме**х**/me**h**, Муръ**х**ин/Murwjh**kh**in, Мурь**х**ин/Murj**kh**in, от**х**од/ot**kh**od |
 | х/h  | `х`            | `h`           | **х**о**х**олок/**h**o**h**olok, в**ы**ход/v**y**hod, ме**х**а/me**h**a, э**х**о/e**h**o, вече/veche, меча/mecha, эч/ech, мэч/maech, **х**ья/**h**jya, **х**ьан/**h**jan |
 | | | | |
 | ё/yo | `ё`            | `yo`          | м**ё**д/m**jo**d, **ё**мко/**yo**mko |
