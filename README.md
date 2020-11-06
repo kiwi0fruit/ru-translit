@@ -103,7 +103,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 | ------ | --------------:|:----- | -------------------------------------------- |
 | ъе/je, ъё/jo, ъю/ju, ъя/ja | `(?<=\c)ъ[еёюя]` | `(?<=\c)j[eoua]` | об**ъе**кт/ob**je**kt, из**ъя**н/iz**ja**n |
 | ъ/wjh  | `ъ`            | `wjh` | он**ъ**/on**wjh**, об**ъ**известить/ob**wjh**izvestitj, Йон**ъ**ин/Jon**wjh**in, Чан**ъ**ань/Chan**wjh**anj, Му**ъ**минат/Mu**wjh**minat |
-| ъи/ji  | `ъ`            | `wjh` | ИСКЛЮЧЕНИЯ: об**ъи**мать/ob**ji**matj  |
+| ъи/ji  | `объимат`            | `objimat` | ИСКЛЮЧЕНИЯ: об**ъи**мать/ob**ji**matj  |
 | | | | |
 | ь/j    | `(?<=\c)ь(?![йьъ])` | `(?<=\c)j` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**ji**, плат**ьи**це/plat**ji**ce, пряч**ь**ся/pryach**j**sya, мыт**ь**ся/myt**j**sya, кон**ь**/kon**j**, батал**ь**он/batal**j**on, лос**ь**он/los**j**on, сен**ь**ор/sen**j**or, Чан**ь**ол/Сhan**j**ol, Мур**ьи**н/Mur**ji**n, Чан**ь**ын/Сhan**j**yn |
 | ь/jh   | `ь`            | `jh`  | Мур**ьй**ин/Mur**jhj**in |
