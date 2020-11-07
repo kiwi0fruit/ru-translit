@@ -91,6 +91,27 @@ Imeyetsya neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo 
 V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyaşhaya ot neskoljkih predkov), drugie priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
+### Альтернативный вариант
+
+Pjįanyj master po proektu sdelal mehanicheskij objekt s izjanom. Įesli brak ne obnaruzhitsįa, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
+
+V pjįese pro devushku v zelįonom platjįice vse sadilisj na ladjįi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryj cho-to vyiskival, i prikazal vsem mytjsįa i gotovitj buljyon. Zhachit snova pjįom.
+
+Prepodobnyj Bajįes podkinul igraljnyįe kosti. Vypalo shestj, znachit įemu pridįotsįa mazatj jod na ranu.
+
+Męr neboljshogo gorodishki otkryl tablicu exelįa i vozmutilsįa cenoj novogo exkavatora. Azh ekzema snova stala įego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelįa v proshlom godu! A tak zhe pokupka aeroplana-ekranolįota. Įesli tak pojdįot i daljshe, to bįudzhetu pridįotsįa hudo.
+
+V etom vide fraza ot A to Įa nachinaįet vyglįadetj sovsem po-drugomu. Sejchas şhįotka novaįa, no pozzhe ona stanet staraįa. Chernysh lįubit kogda įego cheshut įeįu. Įozh kolįuchij i pohozh na neįo.
+
+Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuįuşhih nosil hoholok na golove. On i nashįol vyhod iz situacii.
+
+"Kto s mechom k nam pridįot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
+
+Imeįetsįa neskoljko gipotez proiskhozhdeniįa sobaki, naiboleįe veroįatnymi įeįo predkami schitaįutsįa volk i nekotoryįe vidy shakalov.
+
+V suzhdeniįah uchįonyh o predkah domashnej sobaki prisutstvuįut dve tochki zreniįa. Odni schitaįut, chto sobaki - polifileticheskaįa gruppa (proiskhodįaşhaįa ot neskoljkih predkov), drugiįe priderzhivaįutsįa mneniįa, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaįa teoriįa).
+
+
 ## Кириллица => латиница
 
 Пока что это только зачатки двух алгоритмов прямого и обратного пребразования.
