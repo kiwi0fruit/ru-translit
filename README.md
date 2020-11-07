@@ -99,7 +99,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 Pjįanyj master po proektu sdelal mehanicheskij objekt s izjanom. Įesli brak ne obnaruzhitsįa, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
-V pjįese pro devushku v zelįonom platjįice vse sadilisj na ladjįi i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsįa.
+V pjįese pro devushku v zelįonom platjįice vse sadilisj na ladjįi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryj cho-to vyiskival, i prikazal vsem mytjsįa i gotovitj buljyon. Zhachit snova pjįom.
 
 Prepodobnyj Bajįes podkinul igraljnyįe kosti. Vypalo shestj, znachit įemu pridįotsįa mazatj jod na ranu.
 
