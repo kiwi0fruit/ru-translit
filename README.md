@@ -93,6 +93,8 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ### Альтернативный вариант
 
+Частные новые буквы: Çç, Ęę, Įį, Şş.
+
 Pįyanyį master po proectu sdelal mehanichesciy obįect s izįanom. Įesli brac ne obnarujitsįa, to belyį bolid bolįshe ne smojet vyigryvatį gonci.
 
 V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį cho-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįyion. Znachit snova pįyom.
