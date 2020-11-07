@@ -93,23 +93,23 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ### Альтернативный вариант
 
-Pįyanyį master po proektu sdelal mehanicheskiį obįekt s izįanom. Yesli brak ne obnarujitsya, to belyį bolid bolįshe ne smojet vyigryvatį gonki.
+Pįyanyį master po proectu sdelal mehanichesciį obįect s izįanom. Yesli brac ne obnarujitsya, to belyį bolid bolįshe ne smojet vyigryvatį gonci.
 
-V pįyese pro devushku v zelyonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel konį v palįto, kotoryį cho-to vyiskival, i prikazal vsem mytįsya i gotovitį bulįyion. Znachit snova pįyom.
+V pįyese pro devushcu v zelyonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį cho-to vyiscival, i pricazal vsem mytįsya i gotovitį bulįyion. Znachit snova pįyom.
 
-Prepodobnyį Baįyes podkinul igralįnyįe kosti. Vypalo shestį, znachit yemu pridyotsya mazatį įod na ranu.
+Prepodobnyį Baįyes podcinul igralįnyįe costi. Vypalo shestį, znachit yemu pridyotsya mazatį įod na ranu.
 
-Męr nebolįshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoį novogo exkavatora. Aj ekzema snova stala yego bespokoitį. Oh uj eta pokupka vechnogo dvigatelya v proshlom godu! A tak je pokupka aeroplana-ekranolyota. Yesli tak poįdyot i dalįshe, to byudjetu pridyotsya hudo.
+Męr nebolįshogo gorodishci otcryl tabliçu exelya i vozmutilsya çenoį novogo excavatora. Aj eczema snova stala yego bespocoitį. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranolyota. Yesli tac poįdyot i dalįshe, to byudjetu pridyotsya hudo.
 
-V etom vide fraza ot A to Ya nachinayet vyglyadetį sovsem po-drugomu. Seįchas şhyotka novaya, no pozje ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yoj kolyuchiį i pohoj na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglyadetį sovsem po-drugomu. Seįchas şhyotca novaya, no pozje ona stanet staraya. Chernysh lyubit cogda yego cheshut yeyu. Yoj colyuchiį i pohoj na neyo.
 
-Skhod mestnyh jyteleį indiįskoį derevni sikkhov reshal chto je delatį s otkhodami kompanii "The LLC". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situacii.
+Skhod mestnyh jyteleį indiįscoį derevni sickhov reshal chto je delatį s otkhodami companii "The LLC". Odin iz prisutstvuyuşhih nosil hoholoc na golove. On i nashyol vyhod iz situaçii.
 
-"Kto s mechom k nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiį mehanik Vasiliį.
+"Cto s mechom c nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiį mehanic Vasiliį.
 
-Imeyetsya neskolįko gipotez proiskhojdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryįe vidy shakalov.
+Imeyetsya nescolįco gipotez proiskhojdeniya sobaci, naiboleye veroyatnymi yeyo predcami schitayutsya volc i necotoryįe vidy shacalov.
 
-V sujdeniyah uchyonyh o predkah domashneį sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyaşhaya ot neskolįkih predkov), drugiye priderjivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V sujdeniyah uchyonyh o predcah domashneį sobaci prisutstvuyut dve toçhci zreniya. Odni schitayut, chto sobaci - polifiletichescaya gruppa (proiskhodyaşhaya ot nescolįcih predcov), drugiye priderjivayutsya mneniya, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaya teoriya).
 
 
 ## Кириллица => латиница
