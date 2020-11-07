@@ -74,7 +74,7 @@
 
 Pjyanyj master po proektu sdelal mehanicheskij objekt s izjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
-V pjyese pro devushku v zelyonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryj cho-to vyiskival, i prikazal vsem mytjsya i gotovitj buljyion. Zhachit snova pjyom.
+V pjyese pro devushku v zelyonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryj cho-to vyiskival, i prikazal vsem mytjsya i gotovitj buljyion. Znachit snova pjyom.
 
 Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridyotsya mazatj jod na ranu.
 
@@ -93,23 +93,23 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ### Альтернативный вариант
 
-Pjįanyj master po proektu sdelal mehanicheskij objekt s izjanom. Įesli brak ne obnaruzhitsįa, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
+Pįyanyį master po proektu sdelal mehanicheskiį obįekt s izįanom. Yesli brak ne obnaruzhitsya, to belyį bolid bolįshe ne smozhet vyigryvatį gonki.
 
-V pjįese pro devushku v zelįonom platjįice vse sadilisj na ladjįi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryj cho-to vyiskival, i prikazal vsem mytjsįa i gotovitj buljyon. Zhachit snova pjįom.
+V pįyese pro devushku v zelyonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel konį v palįto, kotoryį cho-to vyiskival, i prikazal vsem mytįsya i gotovitį bulįyion. Znachit snova pįyom.
 
-Prepodobnyj Bajįes podkinul igraljnyįe kosti. Vypalo shestj, znachit įemu pridįotsįa mazatj jod na ranu.
+Prepodobnyį Baįyes podkinul igraljnyįe kosti. Vypalo shestj, znachit yemu pridyotsya mazatį įod na ranu.
 
-Męr neboljshogo gorodishki otkryl tablicu exelįa i vozmutilsįa cenoj novogo exkavatora. Azh ekzema snova stala įego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelįa v proshlom godu! A tak zhe pokupka aeroplana-ekranolįota. Įesli tak pojdįot i daljshe, to bįudzhetu pridįotsįa hudo.
+Męr nebolįshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak poįdyot i dalįshe, to byudzhetu pridyotsya hudo.
 
-V etom vide fraza ot A to Įa nachinaįet vyglįadetj sovsem po-drugomu. Sejchas şhįotka novaįa, no pozzhe ona stanet staraįa. Chernysh lįubit kogda įego cheshut įeįu. Įozh kolįuchij i pohozh na neįo.
+V etom vide fraza ot A to Ya nachinayet vyglyadetį sovsem po-drugomu. Seįchas şhyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
 
-Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuįuşhih nosil hoholok na golove. On i nashįol vyhod iz situacii.
+Skhod mestnyh zhyteleį indiįskoį derevni sikkhov reshal chto zhe delatį s otkhodami kompanii "The LLC". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situacii.
 
-"Kto s mechom k nam pridįot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
+"Kto s mechom k nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiį mehanik Vasiliį.
 
-Imeįetsįa neskoljko gipotez proiskhozhdeniįa sobaki, naiboleįe veroįatnymi įeįo predkami schitaįutsįa volk i nekotoryįe vidy shakalov.
+Imeyetsya neskolįko gipotez proiskhojdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryįe vidy shakalov.
 
-V suzhdeniįah uchįonyh o predkah domashnej sobaki prisutstvuįut dve tochki zreniįa. Odni schitaįut, chto sobaki - polifileticheskaįa gruppa (proiskhodįaşhaįa ot neskoljkih predkov), drugiįe priderzhivaįutsįa mneniįa, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaįa teoriįa).
+V suzhdeniyah uchyonyh o predkah domashneį sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyaşhaya ot neskolįkih predkov), drugiye priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Кириллица => латиница
