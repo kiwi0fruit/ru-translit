@@ -82,7 +82,7 @@ Męr neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exk
 
 V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas şhyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
 
-Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situaciyi.
+Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situacii.
 
 "Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
@@ -125,7 +125,6 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 |        | Cyrillic RegEx | Latin RegEx   | Примеры                                                                            |
 | ------ | ------------:|:------------- | ---------------------------------------------------------------------------------- |
-| ии/iyai | `ии`        | `iyi`         | ситуации/situaciyi |
 | проект/.../we(ê) | `проект`&#124;`...` | `we` | про**е**кт/pro**we**kt/pro**ê**kt (слова, которые должны были быть с `ye`, но произносятся с **ударным** "э") |
 | е/ye | `^е`&#124;`(?<!\c)е` | `ye`  | **е**сли/**ye**sli, бай**е**с/baj**ye**s, Ра**е**вская/Ra**ye**vskaya, зя**е**/zja**ye**, за**е**м/za**ye**m, заём/zayom, **е**хо/**ye**ho, йeс/j**ye**s, та**е**ц/ta**ye**c, за**е**зд/za**ye**zd, тра**е**ктория/tra**ye**ktoriya |
 | е/e    | `е`          | `e`           | м**е**х/m**e**h |
