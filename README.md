@@ -72,23 +72,23 @@
 
 *По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем варианты с большим количеством диакритических знаков. В английском нет диакритики, в русском - почти нет (ё ставят только при опасности неправильного прочтения, й трудно считать диакритикой). Так что не удивительно, что диакритика будет вызывать отторжение. В варианте минималистичной диакритики она ставится тоже в очень малом числе случаев.*
 
-Pjyanyj master po prowektu sdelal mehanicheskij obwjekt s izwjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
+Pjyanyj master po proektu sdelal mehanicheskij objekt s izjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
 
-V pjyese pro devushku v zelyonom platjice vse sadilisj na ladji i plyli po reke. No tut iz lesa vyshel konj v paljto i prikazal vsem mytjsya.
+V pjyese pro devushku v zelyonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryj cho-to vyiskival, i prikazal vsem mytjsya i gotovitj buljyion. Zhachit snova pjyom.
 
 Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridyotsya mazatj jod na ranu.
 
-Maer neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak pojdyot i daljshe, to byudzhetu pridyotsya hudo.
+Męr neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak pojdyot i daljshe, to byudzhetu pridyotsya hudo.
 
-V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas sjchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas şhyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
 
-Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyusjchih nosil hoholok na golove. On i nashyol vyhod iz situacii.
+Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situaciyi.
 
 "Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
 Imeyetsya neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryje vidy shakalov.
 
-V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyasjchaya ot neskoljkih predkov), drugie priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyaşhaya ot neskoljkih predkov), drugie priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Кириллица => латиница
@@ -125,6 +125,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 |        | Cyrillic RegEx | Latin RegEx   | Примеры                                                                            |
 | ------ | ------------:|:------------- | ---------------------------------------------------------------------------------- |
+| ии/iyai | `ии`        | `iyi`         | ситуации/situaciyi |
 | проект/.../we(ê) | `проект`&#124;`...` | `we` | про**е**кт/pro**we**kt/pro**ê**kt (слова, которые должны были быть с `ye`, но произносятся с **ударным** "э") |
 | е/ye | `^е`&#124;`(?<!\c)е` | `ye`  | **е**сли/**ye**sli, бай**е**с/baj**ye**s, Ра**е**вская/Ra**ye**vskaya, зя**е**/zja**ye**, за**е**м/za**ye**m, заём/zayom, **е**хо/**ye**ho, йeс/j**ye**s, та**е**ц/ta**ye**c, за**е**зд/za**ye**zd, тра**е**ктория/tra**ye**ktoriya |
 | е/e    | `е`          | `e`           | м**е**х/m**e**h |
