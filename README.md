@@ -97,7 +97,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 Pįyanyį master po proectu sdelal mehanichesciy object s izjanom. Įesli brac ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonci.
 
-V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį cho-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįyion. Znachit snova pįyom.
+V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį cho-to vyiscival, i pricazal vsem mytįsįa i gotovitį buljyon. Znachit snova pįyom.
 
 Prepodobnyį Bayįes podcinul igralįnyįe costi. Vypalo shestį, znachit įemu pridįotsįa mazatį yod na ranu.
 
