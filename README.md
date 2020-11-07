@@ -82,7 +82,7 @@ Męr neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exk
 
 V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas şhyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
 
-Skhod mestnyh zhytelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situacii.
+Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "The LLC". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situacii.
 
 "Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
@@ -103,7 +103,7 @@ Męr nebolįshogo gorodishci otcryl tabliçu exelya i vozmutilsya çenoį novogo
 
 V etom vide fraza ot A to Ya nachinayet vyglyadetį sovsem po-drugomu. Seįchas şhyotca novaya, no pozje ona stanet staraya. Chernysh lyubit cogda yego cheshut yeyu. Yoj colyuchiį i pohoj na neyo.
 
-Skhod mestnyh jyteleį indiįscoį derevni sickhov reshal chto je delatį s otkhodami companii "The LLC". Odin iz prisutstvuyuşhih nosil hoholoc na golove. On i nashyol vyhod iz situaçii.
+Skhod mestnyh jiteleį indiįscoį derevni sickhov reshal chto je delatį s otkhodami companii "The LLC". Odin iz prisutstvuyuşhih nosil hoholoc na golove. On i nashyol vyhod iz situaçii.
 
 "Cto s mechom c nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiį mehanic Vasiliį.
 
