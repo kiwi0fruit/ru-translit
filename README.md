@@ -93,7 +93,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ### Альтернативный вариант
 
-Pįyanyį master po proectu sdelal mehanichesciį obįect s izįanom. Įesli brac ne obnarujitsįa, to belyį bolid bolįshe ne smojet vyigryvatį gonci.
+Pįyanyį master po proectu sdelal mehanichesciy obįect s izįanom. Įesli brac ne obnarujitsįa, to belyį bolid bolįshe ne smojet vyigryvatį gonci.
 
 V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį cho-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįyion. Znachit snova pįyom.
 
@@ -103,13 +103,13 @@ Męr nebolįshogo gorodishci otcryl tabliçu exelįa i vozmutilsįa çenoy novog
 
 V etom vide fraza ot A to Įa nachinaįet vyglįadetį sovsem po-drugomu. Seychas şhįotca novaįa, no pozje ona stanet staraįa. Chernysh lįubit cogda įego cheshut įeįu. Įoj colįuchiy i pohoj na neįo.
 
-Skhod mestnyh jiteleį indiyscoy derevni sickhov reshal chto je delatį s otkhodami companii "Gay Įuliy Çezarį". Odin iz prisutstvuįuşhih nosil hoholoc na golove. On i nashįol vyhod iz situaçii.
+Skhod mestnyh jiteley indiyscoy derevni sickhov reshal chto je delatį s otkhodami companii "Gay Įuliy Çezarį". Odin iz prisutstvuįuşhih nosil hoholoc na golove. On i nashįol vyhod iz situaçii.
 
 "Cto s mechom c nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiy mehanic Vasiliy.
 
 Imeįetsįa nescolįco gipotez proiskhojdeniįa sobaci, naiboleįe veroįatnymi įeįo predcami schitaįutsįa volc i necotoryįe vidy shacalov.
 
-V sujdeniįah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zreniįa. Odni schitaįut, chto sobaci - polifiletichescaįa gruppa (proiskhodįaşhaįa ot nescolįcih predcov), drugiįe priderjivaįutsįa mneniįa, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaįa teoriįa).
+V sujdeniįah uchįonyh o predcah domashney sobaci prisutstvuįut dve tochci zreniįa. Odni schitaįut, chto sobaci - polifiletichescaįa gruppa (proiskhodįaşhaįa ot nescolįcih predcov), drugiįe priderjivaįutsįa mneniįa, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaįa teoriįa).
 
 
 ## Кириллица => латиница
