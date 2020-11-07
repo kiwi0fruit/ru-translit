@@ -95,7 +95,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(йот). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Â(Я),Ê(Е),Ô(Ё),Û(Ю),Ĉ(Ч),Ĥ(Х),Ŝ(Ш),Ẑ(Ж),Ŷ(Й) (для Ъ, Ы, Ь диакритики для аббревиатур нет).
 
-Pįyanyį master po proectu sdelal mehanichesciy object s izjanom. Įesli brac ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonci.
+Pįyanyį master po proectu sdelal mehanichesciy objyect s izjyanom. Įesli brac ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonci.
 
 V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį cho-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįjon. Znachit snova pįyom.
 
