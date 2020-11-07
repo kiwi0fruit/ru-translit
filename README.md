@@ -93,7 +93,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ### Альтернативный вариант
 
-Частые новые буквы: Çç, Ęę, Įį, Şş. Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: ÂЯ,ÊЕ,ÔЁ,ÛЮ,ĈЧ,ĤХ,ŜШ,ŶЫ. Старые примечательные: JЖ.
+Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(йот). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Â(Я),Ê(Е),Ô(Ё),Û(Ю),Ĉ(Ч),Ĥ(Х),Ŝ(Ш),Ŷ(Ы), ?(Й). Старые примечательные: J(Ж).
 
 Pįyanyį master po proectu sdelal mehanichesciy obįect s izįanom. Įesli brac ne obnarujitsįa, to belyį bolid bolįshe ne smojet vyigryvatį gonci.
 
