@@ -93,23 +93,23 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ### Альтернативный вариант
 
-Pįyanyį master po proektu sdelal mehanicheskiį obįekt s izįanom. Yesli brak ne obnaruzhitsya, to belyį bolid bolįshe ne smozhet vyigryvatį gonki.
+Pįyanyį master po proektu sdelal mehanicheskiį obįekt s izįanom. Yesli brak ne obnarujitsya, to belyį bolid bolįshe ne smojet vyigryvatį gonki.
 
 V pįyese pro devushku v zelyonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel konį v palįto, kotoryį cho-to vyiskival, i prikazal vsem mytįsya i gotovitį bulįyion. Znachit snova pįyom.
 
-Prepodobnyį Baįyes podkinul igraljnyįe kosti. Vypalo shestj, znachit yemu pridyotsya mazatį įod na ranu.
+Prepodobnyį Baįyes podkinul igralįnyįe kosti. Vypalo shestį, znachit yemu pridyotsya mazatį įod na ranu.
 
-Męr nebolįshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak poįdyot i dalįshe, to byudzhetu pridyotsya hudo.
+Męr nebolįshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoį novogo exkavatora. Aj ekzema snova stala yego bespokoitį. Oh uj eta pokupka vechnogo dvigatelya v proshlom godu! A tak je pokupka aeroplana-ekranolyota. Yesli tak poįdyot i dalįshe, to byudjetu pridyotsya hudo.
 
-V etom vide fraza ot A to Ya nachinayet vyglyadetį sovsem po-drugomu. Seįchas şhyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglyadetį sovsem po-drugomu. Seįchas şhyotka novaya, no pozje ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yoj kolyuchiį i pohoj na neyo.
 
-Skhod mestnyh zhyteleį indiįskoį derevni sikkhov reshal chto zhe delatį s otkhodami kompanii "The LLC". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situacii.
+Skhod mestnyh jyteleį indiįskoį derevni sikkhov reshal chto je delatį s otkhodami kompanii "The LLC". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situacii.
 
 "Kto s mechom k nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiį mehanik Vasiliį.
 
 Imeyetsya neskolįko gipotez proiskhojdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryįe vidy shakalov.
 
-V suzhdeniyah uchyonyh o predkah domashneį sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyaşhaya ot neskolįkih predkov), drugiye priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V sujdeniyah uchyonyh o predkah domashneį sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyaşhaya ot neskolįkih predkov), drugiye priderjivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Кириллица => латиница
