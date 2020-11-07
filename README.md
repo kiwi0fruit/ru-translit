@@ -101,14 +101,14 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 |         | Cyrillic RegEx | Latin RegEx | Примеры                                      |
 | ------- | --------------:|:----- | -------------------------------------------- |
-| ъе/je, ъё/jo, ъю/ju, ъя/ja | `(?<=\c)ъ[еёюя]` | `(?<=\c)j[eoua]` | об**ъе**кт/ob**je**kt, из**ъя**н/iz**ja**n |
-| ъ/wjh   | `ъ`            | `wjh` | он**ъ**/on**wjh**, об**ъ**известить/ob**wjh**izvestitj, Йон**ъ**ин/Jon**wjh**in, Чан**ъ**ань/Chan**wjh**anj, Му**ъ**минат/Mu**wjh**minat (не йотированные) |
-| ъи/ji   | `объимат`            | `objimat` | ИСКЛЮЧЕНИЯ: об**ъи**мать/ob**ji**matj (йотированные) |
+| ъе/je, ъё/jo, ъю/ju, ъя/ja | `(?<=\c)ъ[еёюя]` (после согласных перед йотированными гласными) | `(?<=\c)j[eoua]` | объект/objekt, изъян/izjan |
+| ъ/wjh/ĵh | `ъ`           | `wjh` | онъ/onwjh/onĵh, объизвестить/obwjhizvestitj/obĵhizvestitj, Йонъин/Jonwjhin/Jonĵhin, Чанъань/Chanwjhanj/Chanĵhanj, Муъминат/Muwjhminat/Muĵhminat (не йотированные) |
+| ъи/ji   | `объимат` (исключения отображения) | `objimat` | объимать/objimatj (йотированные) |
 | | | | |
-| ье/jye, ьё/jyo, ью/jyu, ья/jya, ьи/jyi | `(?<=\c)ь[еёюяи]` | `(?<=\c)jy[eouai]` | п**ье**са/p**jye**sa, п**ья**н/p**jya**n, лад**ьи**/lad**jyi**, плат**ьи**це/plat**jyi**ce |
-| ьо/jyio | `(?<=\c)ьо` | `(?<=\c)jyio` | батал**ь**он/batal**jyi**on, лос**ь**он/los**jyi**on, сен**ь**ор/sen**jyi**or |
-| ь/j    | `(?<=\c)ь(?![йьъ])` | `(?<=\c)j` | пряч**ь**ся/pryach**j**sya, мыт**ь**ся/myt**j**sya, кон**ь**/kon**j**, Чан**ь**ол/Сhan**j**ol, Мур**ьи**н/Mur**ji**n, Чан**ь**ын/Сhan**j**yn |
-| ь/jh   | `ь`            | `jh`  | Мур**ьй**ин/Mur**jhj**in |
+| ье/jye, ьё/jyo, ью/jyu, ья/jya, ьи/jyi | `(?<=\c)ь[еёюяи]` (после согласных перед и или йотированными гласными) | `(?<=\c)jy[eouai]` | пьеса/pjyesa, пьян/pjyan, ладьи/ladjyi, платьице/platjyice |
+| ьо/jyio | `(?<=\c)ьо` (после согласных перед о) | `(?<=\c)jyio` | батальон/bataljyion, лосьон/losjyion, сеньор/senjyior |
+| ь/j    | `(?<=\c)ь(?=[\w\c])` (после согласных перед согласными или в конце слова) | `(?<=\c)j` | прячься/pryachjsya, мыться/mytjsya, конь/konj |
+| ь/jh   | `ь`            | `jh`  | Мурьйин/Murjhjin, Чаньын/Сhanjhyn (придуманные слова) |
 | | | | |
 | ые/yje, ыё/yjo, ыю/yju, ыя/yja | `(?<!ы)ы[еёюя]` | `yj[eoua]` | бел**ые**/bel**yje**, бедн**ыя**/bedn**yja** |
 | ы/yw(ŷ)   | `ы(?=[эоуа])`  | `yw`  | Нарва-Й**ыэ**суу/Narva-J**ywe**suu/Narva-J**ŷe**suu, Баймакл**ыа**ул/Bajmakl**ywa**ul/Bajmakl**ŷa**ul |
