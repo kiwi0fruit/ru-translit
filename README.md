@@ -93,25 +93,25 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ### Альтернативный вариант
 
-Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(йот). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Â(Я),Ê(Е),Ô(Ё),Û(Ю),Ĉ(Ч),Ĥ(Х),Ŝ(Ш),Ŷ(Й) (для Ъ, Ы, Ь диакритики для аббревиатур нет). Старые примечательные: J(Ж).
+Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(йот). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Â(Я),Ê(Е),Ô(Ё),Û(Ю),Ĉ(Ч),Ĥ(Х),Ŝ(Ш),Ẑ(Ж),Ŷ(Й) (для Ъ, Ы, Ь диакритики для аббревиатур нет).
 
-Pįyanyį master po proectu sdelal mehanichesciy obįect s izįanom. Įesli brac ne obnarujitsįa, to belyį bolid bolįshe ne smojet vyigryvatį gonci.
+Pįyanyį master po proectu sdelal mehanichesciy object s izjanom. Įesli brac ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonci.
 
 V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį cho-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįyion. Znachit snova pįyom.
 
 Prepodobnyį Bayįes podcinul igralįnyįe costi. Vypalo shestį, znachit įemu pridįotsįa mazatį yod na ranu.
 
-Męr nebolįshogo gorodishci otcryl tabliçu exelįa i vozmutilsįa çenoy novogo excavatora. Aj eczema snova stala įego bespocoitį. Oh uj eta pocupca vechnogo dvigatelįa v proshlom godu! A tac je pocupca aeroplana-ecranolįota. Įesli tac poydįot i dalįshe, to bįudjetu pridįotsįa hudo.
+Męr nebolįshogo gorodishci otcryl tabliçu exelįa i vozmutilsįa çenoy novogo excavatora. Azh eczema snova stala įego bespocoitį. Oh uzh eta pocupca vechnogo dvigatelįa v proshlom godu! A tac zhe pocupca aeroplana-ecranolįota. Įesli tac poydįot i dalįshe, to bįudzhetu pridįotsįa hudo.
 
-V etom vide fraza ot A to Įa nachinaįet vyglįadetį sovsem po-drugomu. Seychas şhįotca novaįa, no pozje ona stanet staraįa. Chernysh lįubit cogda įego cheshut įeįu. Įoj colįuchiy i pohoj na neįo.
+V etom vide fraza ot A to Įa nachinaįet vyglįadetį sovsem po-drugomu. Seychas şhįotca novaįa, no pozzhe ona stanet staraįa. Chernysh lįubit cogda įego cheshut įeįu. Įozh colįuchiy i pohozh na neįo.
 
-Skhod mestnyh jiteley indiyscoy derevni sickhov reshal chto je delatį s otkhodami companii "Gay Įuliy Çezarį". Odin iz prisutstvuįuşhih nosil hoholoc na golove. On i nashįol vyhod iz situaçii.
+Skhod mestnyh zhiteley indiyscoy derevni sickhov reshal chto zhe delatį s otkhodami companii "Gay Įuliy Çezarį". Odin iz prisutstvuįuşhih nosil hoholoc na golove. On i nashįol vyhod iz situaçii.
 
 "Cto s mechom c nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiy mehanic Vasiliy.
 
-Imeįetsįa nescolįco gipotez proiskhojdeniįa sobaci, naiboleįe veroįatnymi įeįo predcami schitaįutsįa volc i necotoryįe vidy shacalov.
+Imeįetsįa nescolįco gipotez proiskhozhdeniįa sobaci, naiboleįe veroįatnymi įeįo predcami schitaįutsįa volc i necotoryįe vidy shacalov.
 
-V sujdeniįah uchįonyh o predcah domashney sobaci prisutstvuįut dve tochci zreniįa. Odni schitaįut, chto sobaci - polifiletichescaįa gruppa (proiskhodįaşhaįa ot nescolįcih predcov), drugiįe priderjivaįutsįa mneniįa, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaįa teoriįa).
+V suzhdeniįah uchįonyh o predcah domashney sobaci prisutstvuįut dve tochci zreniįa. Odni schitaįut, chto sobaci - polifiletichescaįa gruppa (proiskhodįaşhaįa ot nescolįcih predcov), drugiįe priderzhivaįutsįa mneniįa, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaįa teoriįa).
 
 
 ## Кириллица => латиница
