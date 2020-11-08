@@ -95,19 +95,19 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(Йот,Ь). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Ĉĉ(Ч),Ĥĥ(Х),Ŝŝ(Ш),Ẑẑ(Ж),Ŷŷ(Й),Ȳȳ(Ы), Îî(Ь), Ĵĵ(Ъ). Примечательные старые: Jj(Ъ).
 
-Pįyanyį master po proectu sdelal mehanichesciy object s izjanom. Įesli brac ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonci.
+Pįjanyį master po proectu sdelal mehanichescij object s izjanom. Įesli brac ne obnaruzhitsįa, to belyj bolid bolįshe ne smozhet vyigryvatį gonci.
 
-V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį chto-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįjon. Znachit snova pįyom.
+V pįjese pro devushcu v zelįonom platįjiçe vse sadilisį na ladįji i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryj chto-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįyon. Znachit snova pįjom.
 
-Prepodobnyį Bayįes podcinul igralįnyįe costi. Vypalo shestį, znachit įemu pridįotsįa mazatį yod na ranu.
+Prepodobnyj Bajįes podcinul igralįnyįe costi. Vypalo shestį, znachit įemu pridįotsįa mazatį jod na ranu.
 
-Męr nebolįshogo gorodishci otcryl tabliçu exelįa i vozmutilsįa çenoy novogo excavatora. Azh eczema snova stala įego bespocoitį. Oh uzh eta pocupca vechnogo dvigatelįa v proshlom godu! A tac zhe pocupca aeroplana-ecranolįota. Įesli tac poydįot i dalįshe, to bįudzhetu pridįotsįa hudo.
+Męr nebolįshogo gorodishci otcryl tabliçu exelįa i vozmutilsįa çenoj novogo excavatora. Azh eczema snova stala įego bespocoitį. Oh uzh eta pocupca vechnogo dvigatelįa v proshlom godu! A tac zhe pocupca aeroplana-ecranolįota. Įesli tac pojdįot i dalįshe, to bįudzhetu pridįotsįa hudo.
 
-V etom vide fraza ot A to Įa nachinaįet vyglįadetį sovsem po-drugomu. Seychas şhįotca novaįa, no pozzhe ona stanet staraįa. Chernysh lįubit cogda įego cheshut įeįu. Įozh colįuchiy i pohozh na neįo.
+V etom vide fraza ot A to Įa nachinaįet vyglįadetį sovsem po-drugomu. Sejchas şhįotca novaįa, no pozzhe ona stanet staraįa. Chernysh lįubit cogda įego cheshut įeįu. Įozh colįuchij i pohozh na neįo.
 
-Skhod mestnyh zhiteley indiyscoy derevni sickhov reshal chto zhe delatį s otkhodami companii "Gay Įuliy Çezarį". Odin iz prisutstvuįuşhih nosil hoholoc na golove. On i nashįol vyhod iz situaçii.
+Skhod mestnyh zhitelej indijscoj derevni sickhov reshal chto zhe delatį s otkhodami companii "Gaj Įulij Çezarį". Odin iz prisutstvuįuşhih nosil hoholoc na golove. On i nashįol vyhod iz situaçii.
 
-"Cto s mechom c nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiy mehanic Vasiliy.
+"Cto s mechom c nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshij mehanic Vasilij.
 
 Imeįetsįa nescolįco gipotez proiskhozhdeniįa sobaci, naiboleįe veroįatnymi įeįo predcami schitaįutsįa volc i necotoryįe vidy shacalov.
 
