@@ -145,6 +145,7 @@ V suzhdeniįah uchįonyh o predcah domashney sobaci prisutstvuįut dve tochci zr
 | й/jj                 |         `(?<=ы)й(?=[эоуа])` | `jj`          | белыйа/belyjja, белыйэ/belyjje, белыйе/belyjye                                                                            |
 | й/j                  |                         `й` | `j`           | байес/bajyes, белый/belyj, йод/jod, йиппи/jippi, байяс/bajyas, байас/bajas, йэс/jes, баян/bayan                           |
 
+----
 
 |                      |              Cyrillic RegEx | Latiniça RE  | Примеры                                                                                                                                   |
 | -------------------- | ---------------------------:|:------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -164,7 +165,7 @@ V suzhdeniįah uchįonyh o predcah domashney sobaci prisutstvuįut dve tochci zr
 | ыи/yi                |              `(?<=[й\c])ыи` | `yi`         | выигрывать/vyigryvatj, выискивать/vyiskivatj                                                                                              |
 | ы/y                  |                         `ы` | `y`          | крыска/kryska, ыпся/ypsja, пыхтел/pyhtel, белый/belyj, выйигрывать/vyjigryvatj, байыс/bajys                                               |
 |                      |                             |              |                                                                                                                                           |
-| й/ŷ                  |                  `(?<=\c)й` | `ŷ`          | подйезд/podŷįezd, подйод/podŷod, Мурйин/Murŷin, подййод/podŷyod, аййод/ayyod                                                                      |
+| й/ŷ                  |                  `(?<=\c)й` | `ŷ`          | Сёркйосен/Sįorkŷosen                                                                      |
 | й/į                  |         `(?<=ы)й(?=[\w\c])` | `į`          | белый/belyį, белыйс/belyįs                                                                                                                |
 | й/ŷ                  |         `(?<=ы)й(?![\w\c])` | `ŷ`          | белыйа/belyja, белыйя/belyįya                                                                                                             |
 | йы/įȳ                |                  `(?<!ы)йы` | `įȳ`         | Нарва-Йыэсуу/Narva-Įȳesuu                                                                                                                 |
