@@ -169,7 +169,6 @@ V suzhdeniįah uchįonyh o predcah domashney sobaci prisutstvuįut dve tochci zr
 | й/į                  |         `(?<=ы)й(?=[\w\c])` | `į`          | белый/belyį, белыйс/belyįs                                                                                                                |
 | й/ŷ                  |         `(?<=ы)й(?![\w\c])` | `ŷ`          | белыйа/belyja, белыйя/belyįya                                                                                                             |
 | йы/įȳ                |                  `(?<!ы)йы` | `įȳ`         | Нарва-Йыэсуу/Narva-Įȳesuu                                                                                                                 |
-| й/jj                 | `(?<=[й\c])й`&#124;`й(?=й)` | `jj`         | подйезд/podjjyezd, подйод/podjjod, Мурйин/Murjjin, подййод/podjjjjod                                                                      |
 | й/jj                 |         `(?<=ы)й(?=[эоуа])` | `jj`         | белыйа/belyjja, белыйэ/belyjje, белыйе/belyjye                                                                                            |
 | й/j                  |                         `й` | `j`          | байес/bajyes, белый/belyj, йод/jod, йиппи/jippi, байяс/bajyas, байас/bajas, йэс/jes, баян/bayan                                           |
 
