@@ -93,7 +93,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ### Альтернативный вариант
 
-Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(Йот,Ь,Й). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Čč(Ч),Šš(Ш),Žž(Ж),Ĭĭ(Й),Ĥĥ(Х),Ŷŷ(Ы),Îî(Ь),Ĵĵ(Ъ). Примечательные старые: Jj(ДЖдж,Ъъ),ЭКСэкс(EXex).
+Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(Йот,Ь,Й), Ĭĭ(Й). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Čč(Ч),Šš(Ш),Žž(Ж),Ĥĥ(Х),Ŷŷ(Ы),Îî(Ь),Ĵĵ(Ъ). Примечательные старые: Jj(ДЖдж,Ъъ),Xx(КСкс).
 
 Pįyanyį master po proectu sdelal mehanichesciį objyect s izjyanom. Įesli brac ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonci.
 
@@ -146,10 +146,9 @@ V suzhdeniyah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zr
 | й/jj                 |         `(?<=ы)й(?=[эоуа])` | `jj`           | белыйа/belyjja, белыйэ/belyjje, белыйе/belyjye                                                                                                          |     |
 | й/j                  |                         `й` | `j`            | байес/bajyes, белый/belyj, йод/jod, йиппи/jippi, байяс/bajyas, байас/bajas, йэс/jes, баян/bayan                                                         |     |
 |                      |                             |                |                                                                                                                                                         |     |
-| проект/.../e         |         `проект`&#124;`...` | `e`            | *(исключения отображения)* проект/proekt, проэкт/proękt (слова, которые произносятся с ударным звуком э)             |     |
+| проект/.../e         |         `проект`&#124;`...` | `e`            | *(исключения отображения)* проект/proekt, проэкт/proękt (слова, которые произносятся с ударным звуком э)                                                |     |
 | е/ye                 |        `^е`&#124;`(?<!\c)е` | `ye`           | если/yesli, байес/bajyes, Раевская/Rayevskaya, зяе/zyaye, заем/zayem, заём/zayom, ехо/yeho, йeс/jyes, таец/tayec, заезд/zayezd, траектория/trayektoriya |     |
 | е/e                  |                         `е` | `e`            | мех/meh                                                                                                                                                 |     |
-|                      |                             |                |                                                                                                                                                         |     |
 | экс/ex               |                       `экс` | `ex`           | экскаватор/exkavator, эксель/exelj, мэкс/mex, экзамен/ekzamen, экзема/ekzema, Мексика/Meksika, мех/meh                                                  |     |
 | э/e                  |        `^э`&#124;`(?<!\c)э` | `e`            | эхо/eho, аэроплан/aeroplan, этот/etot, эон/eon, экран/ekran, эротика/erotika, йэс/jes, Ноэль/Noelj, алоэ/aloe, радиоэхо/radioeho                        |     |
 | э/ae                 |                `(?<=\cа*)э` | `ae`           | мэр/maer, мер/mer, маэр/maaer, мааэр/maaaer, маер/mayer, моаэр/moaer                                                                                    |     |
@@ -214,10 +213,8 @@ V suzhdeniyah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zr
 | ы/y                  |                                                      | ынлу/ynlu, ыы/yy, Шайыр/Shaįyr                                                                                                              |                   `ы` | `y`            |
 |                      |                                                      |                                                                                                                                             |                       |                |
 | е/e                  | после согласных                                      | мех/meh                                                                                                                                     |            `(?<=\c)е` | `e`            |
-| e/e                  | не йотированные исключения отображения               | проект/proect, проэкт/proęct (слова, которые произносятся с ударным звуком э)                                                                  |              `проект` | `proect`       |
+| e/e                  | не йотированные исключения отображения               | проект/proect, проэкт/proęct (слова, которые произносятся с ударным звуком э)                                                               |              `проект` | `proect`       |
 | е/įe                 |                                                      | если/įesli, байес/baįyes, Раевская/Raįevscaįa, заем/zaįem, заём/zaįom, заезд/zaįezd, траектория/traįectoriįa                                |                   `е` | `įe`           |
-|                      |                                                      |                                                                                                                                             |                       |                |
-| экс/ex               | перед кс                                             | экскаватор/excavator, эксель/exelį, мэкс/mex, экзамен/eczamen, экзема/eczema, Мексика/Mecsica, мех/meh                                      |                 `экс` | `ex`           |
 | э/ę                  | после согласных                                      | мэр/męr                                                                                                                                     |            `(?<=\c)э` | `ę`            |
 | э/e                  |                                                      | эхо/eho, аэроплан/aeroplan, этот/etot, эон/eon, экран/ecran, эротика/erotica, йэс/ĭes, маэр/maer, Ноэль/Noelį, алоэ/aloe, радиоэхо/radioeho |                   `э` | `e`            |
 
@@ -226,20 +223,23 @@ V suzhdeniyah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zr
 
 В аббревиатуры J идёт как D для совместимости с кириллицей.
 
-|       |     Cyrillic RegEx | Latiniça RegEx | Примеры                                                                                                                                                                                      |
-| ----- | ------------------:|:-------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| щ/şh  |                `щ` | `şh`           | щётка/şhįotca, счёт/schįot                                                                                                                                                                   |
-| ж/zh  |                `ж` | `zh`           | ёж/įozh, возжи/vozzhi, позже/pozzhe                                                                                                                                                          |
-| дж/j  |               `дж` | `j`            | *(в словах, где д и ж не попадают в разные морфемы)* Джимми/Jimmi, доджо/dojo, додзё/dodzįo, аджика/ajika, поджигать/podzhigatį, обджект/object, обджэкт/objęct, изджан/izjan, изджян/izjįan |
-| ч/ch  |                `ч` | `ch`           | Черныш/Chernysh, счётная/schįotnaįa                                                                                                                                                          |
-| ш/sh  |                `ш` | `sh`           | шлем/shlem                                                                                                                                                                                   |
-| х/kh  | `(?=[тсшзжцчщк])х` | `kh`           | *(после некоторых согласных)* сход/skhod, кхе/ckhe, сикх/sickh, шхуна/shkhuna, чхать/chkhatį, джхо/jkho, мех/meh, нъхи/nĵhi, ньхи/nįhi, отход/otkhod, эксхорт/exhort, хахх/hahh              |
-| х/h   |                `х` | `h`            | хохолок/hoholoc, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha, эч/ech, мэч/męch, хья/hįya, хьан/hîan                                                                              |
-|       |                    |                |                                                                                                                                                                                              |
-| ё/yo  |                `ё` | `yo`           | мёд/mįod, ёмко/įomco                                                                                                                                                                         |
-| ю/yu  |                `ю` | `yu`           | мюсли/mįusli, Юля/Įulįa                                                                                                                                                                      |
-| я/ya  |                `я` | `ya`           | Изя/Izįa, Якорь/Įakorį, баян/baįan                                                                                                                                                           |
-| ERROR |                    | `[qwx]`        |                                                                                                                                                                                              |
+|        |     Cyrillic RegEx | Latiniça RegEx | Примеры                                                                                                                                                                                      |
+| ------ | ------------------:|:-------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| джх/jh |              `джх` | `jh`           | *(в словах, где д и ж не попадают в разные морфемы)* джхо/jho                                                                                                                                |
+| дж/j   |               `дж` | `j`            | *(в словах, где д и ж не попадают в разные морфемы)* Джимми/Jimmi, доджо/dojo, додзё/dodzįo, аджика/ajika, поджигать/podzhigatį, обджект/object, обджэкт/objęct, изджан/izjan, изджян/izjįan |
+| ксх/xh |              `ксх` | `xh`           | *(в словах, где к и с не попадают в разные морфемы)* эксхорт/exhort                                                                                                                          |
+| кс/x   |               `кс` | `x`            | *(в словах, где к и с не попадают в разные морфемы)* максима/maxima, экскаватор/excavator, эксель/exelį, Мексика/Mexica, плакса/placsa, экзамен/eczamen, экзема/eczema                       |
+| щ/şh   |                `щ` | `şh`           | щётка/şhįotca, счёт/schįot                                                                                                                                                                   |
+| ж/zh   |                `ж` | `zh`           | ёж/įozh, возжи/vozzhi, позже/pozzhe                                                                                                                                                          |
+| ч/ch   |                `ч` | `ch`           | Черныш/Chernysh, счётная/schįotnaįa                                                                                                                                                          |
+| ш/sh   |                `ш` | `sh`           | шлем/shlem                                                                                                                                                                                   |
+| х/kh   | `(?=[тсшзжцчщк])х` | `kh`           | *(после некоторых согласных)* сход/skhod, кхе/ckhe, сикх/sickh, шхуна/shkhuna, чхать/chkhatį, мех/meh, нъхи/nĵhi, ньхи/nįhi, отход/otkhod, хахх/hahh                                         |
+| х/h    |                `х` | `h`            | хохолок/hoholoc, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha, эч/ech, мэч/męch, хья/hįya, хьан/hîan                                                                              |
+|        |                    |                |                                                                                                                                                                                              |
+| ё/yo   |                `ё` | `yo`           | мёд/mįod, ёмко/įomco                                                                                                                                                                         |
+| ю/yu   |                `ю` | `yu`           | мюсли/mįusli, Юля/Įulįa                                                                                                                                                                      |
+| я/ya   |                `я` | `ya`           | Изя/Izįa, Якорь/Įakorį, баян/baįan                                                                                                                                                           |
+| ERROR  |                    | `[qwx]`        |                                                                                                                                                                                              |
 
 
 ### Таблица Latiniça No.3
@@ -258,6 +258,20 @@ V suzhdeniyah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zr
 | `м` | `m` | `ц` | `ç` |
 
 
+### Раскладка клавиатуры для латиницы
+
+| Ĭĭ(\`~ё) | 1!  | 2"(@") | 3#(#№) | 4;($;) | 5:(%) | 6^(^:) | 7&(&?) | 8\* | 9(  | 0)          | -\_         | =+             |
+|:--------:|:---:|:------:|:------:|:------:| ----- | ------ | ------ | --- | --- | ----------- | ----------- | -------------- |
+|          | Qq  |   Wq   |   Ee   |   Rr   | Tt    | Yy     | Uu     | Ii  | Oo  | Pp          | **Çç**([{х) | **Şş**(]}ъ)    |
+|          | Aa  |   Ss   |   Dd   |   Ff   | Gg    | Hh     | Jj     | Kk  | Ll  | **Įį**(;:ж) | **Ęę**('"э) | **\\'**(\\\|/) |
+|          |     |   Zz   |   Xx   |   Cc   | Vv    | Bb     | Nn     | Mm  | ,<  | .>          | /?          |                |
+
+| Ĭĭ(\`~ё) | 1!  | 2"(@") | 3#(#№) | 4;($;) | 5:(%) | 6^(^:) | 7&(&?) | 8\* | 9(  | 0)          | -\_         | =+             |
+|:--------:|:---:|:------:|:------:|:------:| ----- | ------ | ------ | --- | --- | ----------- | ----------- | -------------- |
+|          | Qq  |   Wq   |   Ee   |   Rr   | Tt    | Yy     | Uu     | Ii  | Oo  | Pp          | **Çç**([{х) | **Şş**(]}ъ)    |
+|          | Aa  |   Ss   |   Dd   |   Ff   | Gg    | Hh     | Jj     | Kk  | Ll  | **Įį**(;:ж) | **Ęę**('"э) | **\\'**(\\\|/) |
+|          |     |   Zz   |   Xx   |   Cc   | Vv    | Bb     | Nn     | Mm  | ,<  | .>          | /?          |                |
+
 ## TO DO
 
 * [ ] Написать кодировщик и декодировщик на питоне, а потом проверить на каком-нибудь словаре, а так же на случайно-сгенерированных словах. Я не проверял алгоритм декодирования даже мысленно. Но интуитивно чувствую, что он хорошо определён и реализуем. Собственно, алгоритм кодировки строился такой, чтобы не было такого, чтобы разные русские слова (любые) отображались в одну и ту же транслитерацию.
@@ -267,5 +281,7 @@ V suzhdeniyah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zr
 * [ ] Написать инструкцию как сконвертировать произвольную страницу в интернете с помощью сохранения как html и конвертации фильтром/пандоком.
 * [ ] Попробовать сделать однострочный джавастрипт, которым можно перевести любую уже открытую страницу в интернете.
 
+Mics:
 
-[latin capital letter j with stroke, latin small letter dotless j, latin small letter dotless j with stroke U+025F](https://en.wikipedia.org/wiki/List_of_Unicode_characters), [List of Latin-script letters](https://en.wikipedia.org/wiki/List_of_Latin-script_letters).
+* [latin capital letter j with stroke, latin small letter dotless j, latin small letter dotless j with stroke U+025F](https://en.wikipedia.org/wiki/List_of_Unicode_characters), [List of Latin-script letters](https://en.wikipedia.org/wiki/List_of_Latin-script_letters).
+* [Частотность](https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
