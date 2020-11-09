@@ -93,7 +93,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 ### Альтернативный вариант
 
-Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(Йот,Ь). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Ĉĉ(Ч),Ĥĥ(Х),Ŝŝ(Ш),Ẑẑ(Ж),Ĵĵ(Й),Ŷŷ(Ы),ɨɨ(Ь),ɟɟ(Ъ).
+Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(Йот,Ь). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Ĉĉ(Ч),Ĥĥ(Х),Ŝŝ(Ш),Ẑẑ(Ж),Ĵĵ(Й),Ŷŷ(Ы),Ɨɨ(Ь),Ɉɉ(Ъ).
 
 Pįyanyj master po proectu sdelal mehanichescij object s izjanom. Įesli brac ne obnaruzhitsįa, to belyj bolid bolįshe ne smozhet vyigryvatį gonci.
 
@@ -109,9 +109,9 @@ Skhod mestnyh zhitelej indijscoj derevni sickhov reshal chto zhe delatį s otkho
 
 "Cto s mechom c nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshij mehanic Vasilij.
 
-Imeįetsįa nescolįco gipotez proiskhozhdeniįa sobaci, naiboleįe veroįatnymi įeįo predcami schitaįutsįa volc i necotoryįe vidy shacalov.
+Imeįetsįa nescolįco gipotez proiskhozhdeniya sobaci, naiboleįe veroįatnymi įeįo predcami schitaįutsįa volc i necotoryįe vidy shacalov.
 
-V suzhdeniįah uchįonyh o predcah domashnej sobaci prisutstvuįut dve tochci zreniįa. Odni schitaįut, chto sobaci - polifiletichescaįa gruppa (proiskhodįaşhaįa ot nescolįcih predcov), drugiįe priderzhivaįutsįa mneniįa, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaįa teoriįa).
+V suzhdeniyah uchįonyh o predcah domashnej sobaci prisutstvuįut dve tochci zreniya. Odni schitaįut, chto sobaci - polifiletichescaįa gruppa (proiskhodįaşhaįa ot nescolįcih predcov), drugiye priderzhivaįutsįa mneniya, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaįa teoriya).
 
 
 ## Кириллица => латиница
@@ -151,26 +151,26 @@ V suzhdeniįah uchįonyh o predcah domashnej sobaci prisutstvuįut dve tochci zr
 | -------------------- | ---------------------:|:------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | ъ[еёюя] / j[eoua]    |      `(?<=\c)ъ[еёюя]` | `j[eoua]`    | *(после согласных перед йотированными гласными)* объект/object, изъян/izjan                                                                 |
 | ъи/ji                |              `объима` | `objima`     | *(исключения отображения; йотированные)* объимать/objimatį                                                                                  |
-| ъ/ɟ                  |                   `ъ` | `ɟ`          | *(не йотированные)* объизвестить/obɟizvestitį, Йонъин/Yonɟin, Чанъань/Chanɟanį, онъ/onɟ, Муъминат/Muɟminat, Муръйин/Murɟjin, Чанъын/Сhanɟyn |
+| ъ/ɉ                  |                   `ъ` | `ɉ`          | *(не йотированные)* объизвестить/obɉizvestitį, Йонъин/Yonɉin, Чанъань/Chanɉanį, онъ/onɉ, Муъминат/Muɉminat, Муръйин/Murɉjin, Чанъын/Сhanɉyn |
 |                      |                       |              |                                                                                                                                             |
 | ь[еёюяи] / įy[eouai] |     `(?<=\c)ь[еёюяи]` | `įy[eouai]`  | *(после согласных перед и или йотированными гласными)* пьеса/pįyesa, пьян/pįyan, ладьи/ladįyi, платьице/platįyiçe                           |
 | ьо / įjo             |           `(?<=\c)ьо` | `įjo`        | *(после согласных перед о)* батальон/batalįjon, лосьон/losįjon, сеньор/senįjor                                                              |
 | ь / įje              |            `бельэтаж` | `belįjetazh` | *(исключения отображения; йотированные)* бельэтаж/belįjetazh                                                                                |
 | ь/į                  |  `(?<=\c)ь(?=[\w\c])` | `į`          | *(после согласных перед согласными или в конце слова)* прячься/prįachįsįa, мыться/mytįsįa, конь/conį                                        |
-| ь/ɨ                  |                   `ь` | `ɨ`          | *(не йотированные, просто смягченные)* костьутиль/costɨutilį, грабьармия/grabɨarmiįa, Мурьйин/Murɨjin, Чаньын/Сhanɨyn                       |
+| ь/ɨ                  |                   `ь` | `ɨ`          | *(не йотированные, просто смягченные)* костьутиль/costɨutilį, грабьармия/grabɨarmiya, Мурьйин/Murɨjin, Чаньын/Сhanɨyn                       |
 |                      |                       |              |                                                                                                                                             |
 | ый/yj                | `(?<=\c)ый(?![\w\c])` | `yj`         | *(после согласной, но НЕ перед согласной или конца слова)* белыйа/belyja, белыйя/belyjya                                                                                                               |
 | ы/y                  |            `(?<=\c)ы` | `y`          | *(после согласных)* белые/belyįe, белый/belyj                                                                                |
-| ы/ȳ                  |            `(?<!\c)ы` | `ȳ`          | *(не после согласных)* ынлу/ynlu, ыы/yy, Нарва-Йыэсуу/Narva-Jyesuu, **забанить įy[aeou] с ы, įj[aeou] с й**                                                                                                                                       |
+| ы/ȳ                  |            `(?<!\c)ы` | `ŷ`          | *(не после согласных)* ынлу/ynlu, ыы/yy, Нарва-Йыэсуу/Narva-Jŷesuu, **забанить įy[aeou] с ы, įj[aeou] с й, сочетаний быть не должно iį[aeou]**                                                                                                                                       |
 |                      |                       |              |                                                                                                                                             |
 | ый/yį                | `(?<=\c)ый(?=[\w\c])` | `yį`         | *(перед согласными и в конце слова)* белый/belyj, белыйс/belyjs                                                                             |
-| ы/ŷ                  |         `ы(?=[эоуа])` | `yw`         | Нарва-Йыэсуу/Narva-Jyesuu, Баймаклыаул/Baymaklyaul, белыйа/belyja, белыйя/belyjya                                                           |
+| ы/ŷ                  |         `ы(?=[эоуа])` | `yw`         | Нарва-Йыэсуу/Narva-Jŷesuu, Баймаклыаул/Baymaklŷaul, белыйа/belyja, белыйя/belyjya                                                           |
 | ыи/ŷi                |        `(?<![й\c])ыи` | `ywi`        | аыи/ayi, сьыо/sįŷo                                                                                                                  |
 | ыи/yi                |        `(?<=[й\c])ыи` | `yi`         | выигрывать/vyigryvatį, выискивать/vyiskivatį                                                                                                |
 | ы/y                  |                   `ы` | `y`          | крыска/kryska, ыпся/ypsįa, пыхтел/pyhtel, выйигрывать/vyjigryvatį, байыс/bajys                                                 |
 |                      |                       |              |                                                                                                                                             |
 | й/ŷ                  |            `(?<=\c)й` | `ŷ`          | Сёркйосен/Sįorkĵosen                                                                                                                        |
-| йы/įȳ                |            `(?<!ы)йы` | `įȳ`         | Нарва-Йыэсуу/Narva-Jyesuu                                                                                                                   |
+| йы/įȳ                |            `(?<!ы)йы` | `įŷ`         | Нарва-Йыэсуу/Narva-Jŷesuu                                                                                                                   |
 | й/jj                 |   `(?<=ы)й(?=[эоуа])` | `jj`         | аллилуйя/allilujya, белыйа/belyja, белыйэ/belyje, белыйе/belyjye                                                                                              |
 | й/j                  |                   `й` | `j`          | байес/bajyes, йод/jod, йиппи/jippi, байяс/bajyas, байас/bajas, йэс/jes, баян/baįan                                             |
 
@@ -180,7 +180,7 @@ V suzhdeniįah uchįonyh o predcah domashnej sobaci prisutstvuįut dve tochci zr
 |              |                         Cyrillic RegEx | Translit RE / Latiniça RE | Примеры                                                                                                                                                                                                                             |
 | ------------ | --------------------------------------:|:------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | проект/.../e |                    `проект`&#124;`...` | `e`                       | *(исключения отображения)* проект/proekt/proect, проэкт/proękt/proęct (слова, которые должны были быть с йотированной е, но произносятся с **ударным** э)                                                                           |
-| е/ye         |                   `^е`&#124;`(?<!\c)е` | `ye`                      | если/yesli/įesli, байес/bajyes/bajyes, Раевская/Rayevskaya/Raįevscaįa, зяе/zyaye/zįaįe, заем/zayem/zaįem, заём/zayom/zaįom, ехо/yeho/įeho, йeс/jyes/jyes, таец/tayec/taįeç, заезд/zayezd/zaįezd, траектория/trayektoriya/traįectoriįa |
+| е/ye         |                   `^е`&#124;`(?<!\c)е` | `ye`                      | если/yesli/įesli, байес/bajyes/bajyes, Раевская/Rayevskaya/Raįevscaįa, зяе/zyaye/zįaįe, заем/zayem/zaįem, заём/zayom/zaįom, ехо/yeho/įeho, йeс/jyes/jyes, таец/tayec/taįeç, заезд/zayezd/zaįezd, траектория/trayektoriya/traįectoriya |
 | е/e          |                                    `е` | `e`                       | мех/meh                                                                                                                                                                                                                     |
 | экс/ex       |                                  `экс` | `ex`                      | экскаватор/exkavator/excavator, эксель/exelj/exelį, мэкс/mex, экзамен/ekzamen/eczamen, экзема/ekzema/eczema, Мексика/Meksika/Mecsica, мех/meh                                                                                                      |
 | э/e          |                   `^э`&#124;`(?<!\c)э` | `e`                       | эхо/eho, аэроплан/aeroplan, этот/etot, эон/eon, экран/ekran/ecran, эротика/erotika/erotica, йэс/jes, Ноэль/Noelj/Noelį, алоэ/aloe, радиоэхо/radioeho                    |
@@ -191,7 +191,7 @@ V suzhdeniįah uchįonyh o predcah domashnej sobaci prisutstvuįut dve tochci zr
 | ж/zh         |                                    `ж` | `zh`                      | ёж/yozh/įozh, возжи/vozzhi, позже/pozzhe                                                                                                                                                                         |
 | ч/ch         |                                    `ч` | `ch`                      | Черныш/Chernysh, счётная/schyotnaya/schįotnaįa                                                                                                                                                                                 |
 | ш/sh         |                                    `ш` | `sh`                      | шлем/shlem                                                                                                                                                                                                                  |
-| х/kh         | `(?=[хтсшзжцчщъьйк])х`&#124;`(?=экс)x` | `kh`                      | сход/skhod, кхе/kkhe/ckhe, сикх/sikkh/sickh, мех/meh, Муръхин/Murwjhkhin/Murɟhin, Мурьхин/Murjkhin/Murįhin, отход/otkhod                                                                               |
+| х/kh         | `(?=[хтсшзжцчщъьйк])х`&#124;`(?=экс)x` | `kh`                      | сход/skhod, кхе/kkhe/ckhe, сикх/sikkh/sickh, мех/meh, Муръхин/Murwjhkhin/Murɉhin, Мурьхин/Murjkhin/Murįhin, отход/otkhod                                                                               |
 | х/h          |                                    `х` | `h`                       | хохолок/hoholok/hoholoc, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha, эч/ech, мэч/maech/męch, хья/hjya/hįya, хьан/hjhan/hɨan                                                            |
 |              |                                        |                           |                                                                                                                                                                                                                                     |
 | ё/yo         |                                    `ё` | `yo`                      | мёд/myod/mįod, ёмко/yomko/įomco                                                                                                                                                                                                |
