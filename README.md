@@ -238,7 +238,7 @@ V suzhdeniyah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zr
 |        |                    |                |                                                                                                                                                                                              |
 | ё/yo   |                `ё` | `yo`           | мёд/mįod, ёмко/įomco                                                                                                                                                                         |
 | ю/yu   |                `ю` | `yu`           | мюсли/mįusli, Юля/Įulįa                                                                                                                                                                      |
-| я/ya   |                `я` | `ya`           | Изя/Izįa, Якорь/Įakorį, баян/baįan                                                                                                                                                           |
+| я/ya   |                `я` | `ya`           | Изя/Izįa, Якорь/Įacorį, баян/baįan                                                                                                                                                           |
 | ERROR  |                    | `[qwx]`        |                                                                                                                                                                                              |
 
 
