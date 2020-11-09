@@ -95,9 +95,9 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 Частые новые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(Йот,Ь). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Ĉĉ(Ч),Ĥĥ(Х),Ŝŝ(Ш),Ẑẑ(Ж),Ĵĵ(Й),Ŷŷ(Ы),ɨɨ(Ь),ɟɟ(Ъ).
 
-Pįjanyj master po proectu sdelal mehanichescij object s izjanom. Įesli brac ne obnaruzhitsįa, to belyj bolid bolįshe ne smozhet vyigryvatį gonci.
+Pįyanyj master po proectu sdelal mehanichescij object s izjanom. Įesli brac ne obnaruzhitsįa, to belyj bolid bolįshe ne smozhet vyigryvatį gonci.
 
-V pįjese pro devushcu v zelįonom platįjiçe vse sadilisį na ladįji i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryj chto-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįyon. Znachit snova pįjom.
+V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryj chto-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįjon. Znachit snova pįyom.
 
 Prepodobnyj Bajįes podcinul igralįnyįe costi. Vypalo shestį, znachit įemu pridįotsįa mazatį jod na ranu.
 
@@ -130,7 +130,7 @@ V suzhdeniįah uchįonyh o predcah domashnej sobaci prisutstvuįut dve tochci zr
 | ъ/wjh                |                         `ъ` | `wjh`         | *(не йотированные)* объизвестить/obwjhizvestitj, Йонъин/Jonwjhin, Чанъань/Chanwjhanj, Муръйин/Murwjhjin, Чанъын/Сhanwjhyn |
 |                      |                             |               |                                                                                                                           |
 | ь[еёюяи] / jy[eouai] |           `(?<=\c)ь[еёюяи]` | `jy[eouai]`   | *(после согласных перед и или йотированными гласными)* пьеса/pjyesa, пьян/pjyan, ладьи/ladjyi, платьице/platjyice         |
-| ьо / jyio            |                 `(?<=\c)ьо` | `jyio`        | *(после согласных перед о)* батальон/bataljyion/batalįjon, лосьон/losjyion, сеньор/senjyior                               |
+| ьо / jyio            |                 `(?<=\c)ьо` | `jyio`        | *(после согласных перед о)* батальон/bataljyion, лосьон/losjyion, сеньор/senjyior                               |
 | ь / jyie             |                  `бельэтаж` | `beljyietazh` | *(исключения отображения; йотированные)* бельэтаж/beljyietazh                                                             |
 | ь/j                  |        `(?<=\c)ь(?=[\w\c])` | `j`           | *(после согласных перед согласными или в конце слова)* прячься/pryachjsya, мыться/mytjsya, конь/konj                      |
 | ь/jh                 |                         `ь` | `jh`          | *(не йотированные, просто смягченные)* костьутиль/kostjhutilj, грабьармия/grabjharmiya, Мурьйин/Murjhjin, Чаньын/Сhanjhyn |
@@ -153,9 +153,9 @@ V suzhdeniįah uchįonyh o predcah domashnej sobaci prisutstvuįut dve tochci zr
 | ъи/ji                |              `объима` | `objima`     | *(исключения отображения; йотированные)* объимать/objimatį                                                                                  |
 | ъ/ɟ                  |                   `ъ` | `ɟ`          | *(не йотированные)* объизвестить/obɟizvestitį, Йонъин/Yonɟin, Чанъань/Chanɟanį, онъ/onɟ, Муъминат/Muɟminat, Муръйин/Murɟjin, Чанъын/Сhanɟyn |
 |                      |                       |              |                                                                                                                                             |
-| ь[еёюяи] / įy[eouai] |     `(?<=\c)ь[еёюяи]` | `įy[eouai]`  | *(после согласных перед и или йотированными гласными)* пьеса/pįjesa, пьян/pįjan, ладьи/ladįji, платьице/platįjiçe                           |
-| ьо / įjo             |           `(?<=\c)ьо` | `įjo`        | *(после согласных перед о)* батальон/batalįyon, лосьон/losįyon, сеньор/senįyor                                                              |
-| ь / įje              |            `бельэтаж` | `belįjetazh` | *(исключения отображения; йотированные)* бельэтаж/belįyetazh                                                                                |
+| ь[еёюяи] / įy[eouai] |     `(?<=\c)ь[еёюяи]` | `įy[eouai]`  | *(после согласных перед и или йотированными гласными)* пьеса/pįyesa, пьян/pįyan, ладьи/ladįyi, платьице/platįyiçe                           |
+| ьо / įjo             |           `(?<=\c)ьо` | `įjo`        | *(после согласных перед о)* батальон/batalįjon, лосьон/losįjon, сеньор/senįjor                                                              |
+| ь / įje              |            `бельэтаж` | `belįjetazh` | *(исключения отображения; йотированные)* бельэтаж/belįjetazh                                                                                |
 | ь/į                  |  `(?<=\c)ь(?=[\w\c])` | `į`          | *(после согласных перед согласными или в конце слова)* прячься/prįachįsįa, мыться/mytįsįa, конь/conį                                        |
 | ь/ɨ                  |                   `ь` | `ɨ`          | *(не йотированные, просто смягченные)* костьутиль/costɨutilį, грабьармия/grabɨarmiįa, Мурьйин/Murɨjin, Чаньын/Сhanɨyn                       |
 |                      |                       |              |                                                                                                                                             |
@@ -192,7 +192,7 @@ V suzhdeniįah uchįonyh o predcah domashnej sobaci prisutstvuįut dve tochci zr
 | ч/ch         |                                    `ч` | `ch`                      | Черныш/Chernysh, счётная/schyotnaya/schįotnaįa                                                                                                                                                                                 |
 | ш/sh         |                                    `ш` | `sh`                      | шлем/shlem                                                                                                                                                                                                                  |
 | х/kh         | `(?=[хтсшзжцчщъьйк])х`&#124;`(?=экс)x` | `kh`                      | сход/skhod, кхе/kkhe/ckhe, сикх/sikkh/sickh, мех/meh, Муръхин/Murwjhkhin/Murɟhin, Мурьхин/Murjkhin/Murįhin, отход/otkhod                                                                               |
-| х/h          |                                    `х` | `h`                       | хохолок/hoholok/hoholoc, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha, эч/ech, мэч/maech/męch, хья/hjya/hįja, хьан/hjhan/hɨan                                                            |
+| х/h          |                                    `х` | `h`                       | хохолок/hoholok/hoholoc, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha, эч/ech, мэч/maech/męch, хья/hjya/hįya, хьан/hjhan/hɨan                                                            |
 |              |                                        |                           |                                                                                                                                                                                                                                     |
 | ё/yo         |                                    `ё` | `yo`                      | мёд/myod/mįod, ёмко/yomko/įomco                                                                                                                                                                                                |
 | ю/yu         |                                    `ю` | `yu`                      | мюсли/myusli/mįusli, Юля/Yulya/Įulįa                                                                                                                                                                                             |
