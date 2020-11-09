@@ -101,7 +101,7 @@ V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli 
 
 Prepodobnyį Baįyes podcinul igralįnyįe costi. Vypalo shestį, znachit įemu pridįotsįa mazatį ĭod na ranu.
 
-Męr nebolįshogo gorodishci otcryl tabliçu exelįa i vozmutilsįa çenoį novogo excavatora. Azh eczema snova stala įego bespocoitį. Oh uzh eta pocupca vechnogo dvigatelįa v proshlom godu! A tac zhe pocupca aeroplana-ecranolįota. Įesli tac pojdįot i dalįshe, to bįudzhetu pridįotsįa hudo.
+Męr nebolįshogo gorodishci otcryl tabliçu exelįa i vozmutilsįa çenoį novogo excavatora. Azh eczema snova stala įego bespocoitį. Oh uzh eta pocupca vechnogo dvigatelįa v proshlom godu! A tac zhe pocupca aeroplana-ecranolįota. Įesli tac poįdįot i dalįshe, to bįudzhetu pridįotsįa hudo.
 
 V etom vide fraza ot A to Įa nachinaįet vyglįadetį sovsem po-drugomu. Seįchas şhįotca novaįa, no pozzhe ona stanet staraįa. Chernysh lįubit cogda įego cheshut įeįu. Įozh colįuchiį i pohozh na neįo.
 
