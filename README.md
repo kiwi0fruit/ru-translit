@@ -97,7 +97,7 @@ V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreni
 
 Pįyanyį master po proectu sdelal mehanichesciį objyect s izjyanom. Įesli brac ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonci.
 
-V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį chto-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįjon. Znachit snova pįyom.
+V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį chto-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįjyon. Znachit snova pįyom.
 
 Prepodobnyį Baįyes podcinul igralįnyįe costi. Vypalo shestį, znachit įemu pridįotsįa mazatį ĭod na ranu.
 
@@ -197,8 +197,8 @@ V suzhdeniyah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zr
 | ъ/ĵ                  |                                                      | объизвестить/obĵizvestitį, Йонъин/Ĭonĵin, Чанъань/Chanĵanį, онъ/onĵ, Муъминат/Muĵminat, нъйи/nĵįi, нъын/nĵyn                                |                   `ъ` | `ĵ`            |
 |                      |                                                      |                                                                                                                                             |                       |                |
 | ь[еёюяи] / įy[eouai] | после согласных перед йотированными гласными или и   | пьеса/pįyesa, пьян/pįyan, ладьи/ladįyi, платьице/platįyiçe                                                                                  |     `(?<=\c)ь[еёюяи]` | `įy[eouai]`    |
-| ьо / įjo             | после согласных перед о                              | батальон/batalįjon, лосьон/losįjon, сеньор/senįjor                                                                                          |           `(?<=\c)ьо` | `įjo`          |
-| ь / įj               | йотированные исключения отображения                  | бельэтаж/belįjetazh                                                                                                                         |            `бельэтаж` | `belįjetazh`   |
+| ьо / įjyo            | после согласных перед о                              | батальон/batalįjyon, лосьон/losįjyon, сеньор/senįjyor                                                                                       |           `(?<=\c)ьо` | `įjyo`         |
+| ь / įjy              | йотированные исключения отображения                  | бельэтаж/belįjyetazh                                                                                                                        |            `бельэтаж` | `belįjyetazh`  |
 | ь/į                  | после согласных перед согласными или в конце слова   | прячься/prįachįsįa, мыться/mytįsįa, конь/conį                                                                                               |  `(?<=\c)ь(?=[\w\c])` | `į`            |
 | ь/î                  |                                                      | костьутиль/costîutilį, грабьармия/grabîarmiya, ньйи/nîįi, ньын/nîyn                                                                         |                   `ь` | `î`            |
 |                      |                                                      |                                                                                                                                             |                       |                |
