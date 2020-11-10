@@ -72,23 +72,23 @@
 
 *По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем варианты с большим количеством диакритических знаков. В английском нет диакритики, в русском - почти нет (ё ставят только при опасности неправильного прочтения, й трудно считать диакритикой). Так что не удивительно, что диакритика будет вызывать отторжение. В варианте минималистичной диакритики она ставится тоже в очень малом числе случаев.*
 
-Pjyanyj master po proektu sdelal mehanicheskij objekt s izjanom. Yesli brak ne obnaruzhitsya, to belyj bolid boljshe ne smozhet vyigryvatj gonki.
+Pjyanyi master po proektu sdelal mehanicheskiy obwyekt s izwyanom. Yesli brak ne obnaruzhitsya, to belyi bolid boljshe ne smozhet vyhigryvatj gonki.
 
-V pjyese pro devushku v zelyonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryj chto-to vyiskival, i prikazal vsem mytjsya i gotovitj buljyion. Znachit snova pjyom.
+V pjyese pro devushku v zelyonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryi chto-to vyiskival, i prikazal vsem mytjsya i gotovitj buljwon. Znachit snova pjyom.
 
-Prepodobnyj Bajyes podkinul igraljnyje kosti. Vypalo shestj, znachit yemu pridyotsya mazatj jod na ranu.
+Prepodobnyi Bayies podkinul igraljnyie kosti. Vypalo shestj, znachit yemu pridyotsya mazatj yohd na ranu.
 
-Męr neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoj novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak pojdyot i daljshe, to byudzhetu pridyotsya hudo.
+Mwer neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak poydyot i daljshe, to byudzhetu pridyotsya hudo.
 
-V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Sejchas şhyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchij i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Seychas shchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchiy i pohozh na neyo.
 
-Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Gaj Yulij Cezarj". Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashyol vyhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kalugula Gay Yuliy Cezarj". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashyol vyhod iz situacii.
 
-"Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
+"Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
 
-Imeyetsya neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryje vidy shakalov.
+Imeyetsya neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryie vidy shakalov.
 
-V suzhdeniyah uchyonyh o predkah domashnej sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyaşhaya ot neskoljkih predkov), drugie priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchyonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyashchaya ot neskoljkih predkov), drugie priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ### Альтернативный вариант
