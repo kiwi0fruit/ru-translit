@@ -72,23 +72,23 @@
 
 *По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем варианты с большим количеством диакритических знаков. В английском нет диакритики, в русском - почти нет (ё ставят только при опасности неправильного прочтения, й трудно считать диакритикой). Так что не удивительно, что диакритика будет вызывать отторжение. В варианте минималистичной диакритики она ставится тоже в очень малом числе случаев.*
 
-Pjyanyi master po proektu sdelal mehanicheskiy obwyekt s izwyanom. Yesli brak ne obnaruzhitsya, to belyi bolid boljshe ne smozhet vyhigryvatj gonki.
+Pjyanyi master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsia, to belyi bolid boljshe ne smozhet vyhigryvatj gonki.
 
-V pjyese pro devushku v zelyonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryi chto-to vyiskival, i prikazal vsem mytjsya i gotovitj buljwon. Znachit snova pjyom.
+V pjyese pro devushku v zelionom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryi chto-to vyhiskival, i prikazal vsem mytjsia i gotovitj buljyon. Znachit snova pjyom.
 
-Prepodobnyi Bayies podkinul igraljnyie kosti. Vypalo shestj, znachit yemu pridyotsya mazatj yohd na ranu.
+Prepodobnyi Bayies podkinul igraljnyie kosti. Vypalo shestj, znachit yemu pridiotsia mazatj yohd na ranu.
 
-Mwer neboljshogo gorodishki otkryl tablicu exelya i vozmutilsya cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelya v proshlom godu! A tak zhe pokupka aeroplana-ekranolyota. Yesli tak poydyot i daljshe, to byudzhetu pridyotsya hudo.
+Maer neboljshogo gorodishki otkryl tablicu exelia i vozmutilsia cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydyot i daljshe, to byudzhetu pridyotsya hudo.
 
-V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Seychas shchyotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh kolyuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglyadetj sovsem po-drugomu. Seychas shchiotka novaya, no pozzhe ona stanet staraya. Chernysh lyubit kogda yego cheshut yeyu. Yozh koliuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kalugula Gay Yuliy Cezarj". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashyol vyhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kalugula Gay Yuliy Cezarj". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashiol vyhod iz situacii.
 
-"Kto s mechom k nam pridyot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
+"Kto s mechom k nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
 
-Imeyetsya neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsya volk i nekotoryie vidy shakalov.
+Imeyetsia neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsia volk i nekotoryie vidy shakalov.
 
-V suzhdeniyah uchyonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodyashchaya ot neskoljkih predkov), drugie priderzhivayutsya mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodiashchaya ot neskoljkih predkov), drugie priderzhivayutsia mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ### Альтернативный вариант
@@ -125,10 +125,10 @@ V suzhdeniyah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zr
 
 |                      |              Cyrillic RegEx | Translit RegEx | Примеры                                                                                                                                                 |     |
 | -------------------- | ---------------------------:|:-------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| ъ[еёюя] / j[eoua]    |            `(?<=\c)ъ[еёюя]` | `j[eoua]`      | *(после согласных перед йотированными гласными)* объект/objekt, изъян/izjan                                                                             |     |
-| ъ/wj                 |               `ъ(?=[\w\c])` | `wj`           | *(перед согласными или в конце слова)* онъ/onwj, Муъминат/Muwjminat                                                                                     |     |
-| ъи/ji                |                    `объима` | `objima`       | *(исключения отображения; йотированные)* объимать/objimatj                                                                                              |     |
-| ъ/wjh                |                         `ъ` | `wjh`          | *(не йотированные)* объизвестить/obwjhizvestitj, Йонъин/Jonwjhin, Чанъань/Chanwjhanj, Муръйин/Murwjhjin, Чанъын/Сhanwjhyn                               |     |
+| ъ[еёюя] / j[eoua]    |            `(?<=\c)ъ[еёюя]` | `j[eoua]`      | *(после согласных перед йотированными гласными)* объект/obhyekt, изъян/izyan                                                                             |     |
+| ъ/wj                 |               `ъ(?=[\w\c])` | `wj`           | *(перед согласными или в конце слова)* онъ/onw, Муъминат/Muwminat                                                                                     |     |
+| ъи/ji                |                    `объима` | `objima`       | *(исключения отображения; йотированные)* объимать/obwjyimatj                                                                                              |     |
+| ъ/wjh                |                         `ъ` | `wjh`          | *(не йотированные)* объизвестить/obwizvestitj, Йонъин/Jonwin, Чанъань/Chanwanj, Муръйин/Murwjhjin, Чанъын/Сhanwjhyn                               |     |
 |                      |                             |                |                                                                                                                                                         |     |
 | ь[еёюяи] / jy[eouai] |           `(?<=\c)ь[еёюяи]` | `jy[eouai]`    | *(после согласных перед и или йотированными гласными)* пьеса/pjyesa, пьян/pjyan, ладьи/ladjyi, платьице/platjyice                                       |     |
 | ьо / jyio            |                 `(?<=\c)ьо` | `jyio`         | *(после согласных перед о)* батальон/bataljyion, лосьон/losjyion, сеньор/senjyior                                                                       |     |
