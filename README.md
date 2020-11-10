@@ -74,7 +74,7 @@
 
 Pyanyi master po proektu sdelal mehanicheskiy obwekt s izwanom. Yesli brak ne obnaruzhitsia, to belyi bolid boljshe ne smozhet vyhigryvatj gonki.
 
-V pyese pro devushku v zelionom platyihce vse sadilisj na ladyih i plyli po reke. No tut iz lesa vyshel konj v paljto, kotoryi chto-to vyhiskival, i prikazal vsem mytjsia i gotovitj bulyohn. Znachit snova pyom.
+V pyese pro devushku v zelionom platyihce vse sadilisj na ladyih i plyli po reke. No tut iz lesa vyshel konj v paljto i rvanyh jinsah po imeni Maxim, kotoryi chto-to vyhiskival, i prikazal vsem mytjsia i gotovitj bulyohn. Znachit snova pyom do lysyh aqvalangistov.
 
 Prepodobnyi Bayies podkinul igraljnyie kosti. Vypalo shestj, znachit yemu pridiotsia mazatj yohd na ranu.
 
