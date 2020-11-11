@@ -93,25 +93,25 @@ V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 ### Альтернативный вариант
 
-Новые более-менее частые буквы: Çç(Ц), Ęę(Э), Şş(Щ), Įį(Йот,Ь,Й), Ĭĭ(Й). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Čč(Ч),Šš(Ш),Žž(Ж),Ĥĥ(Х). Для очень редких слов: Ŷŷ(Ы),Îî(Ь),Ĵĵ(Ъ). Примечательные старые: Jj(ДЖдж,Ъъ),Xx(КСкс).
+Новые более-менее частые буквы: Ęę(Э), Şş(Щ), Įį(Йот,Ь,Й). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Čč(Ч),Šš(Ш),Žž(Ж),Ĥĥ(Х),Ŷŷ(Й). Для очень редких слов: Ŷŷ(Ы),Îî(Ь),Ĵĵ(Ъ). Примечательные старые: Jj(ДЖдж,Ъъ),Xx(КСкс).
 
-Pįyanyį master po proectu sdelal mehanichesciį objyect s izjyanom. Įesli brac ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonci.
+Pįyanyį master po proektu sdelal mehanicheskiy obyect s izyanom. Yesli brak ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonki.
 
-V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel Maxim Joker, conį v palįto i rvanyh jinsah, cotoryį chto-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįjyon. Znachit snova pįyom do lysyh akvalangistov.
+V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Maxim Joker, conį v palįto i rvanyh jinsah, kotoryį chto-to vyiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
 
-Prepodobnyį Baįyes podcinul igralįnyįe costi. Vypalo shestį, znachit įemu pridįotsįa mazatį ĭod na ranu.
+Prepodobnyį Bayįes podkinul igralįnyįe kosti. Vypalo shestį, znachit yemu pridįotsįa mazatį yohd na ranu.
 
-Męr nebolįshogo gorodishci otcryl tabliçu exelįa i vozmutilsįa çenoį novogo excavatora. Azh eczema snova stala įego bespocoitį. Oh uzh eta pocupca vechnogo dvigatelįa v proshlom godu! A tac zhe pocupca aeroplana-ecranolįota. Įesli tac poįdįot i dalįshe, to bįudzhetu pridįotsįa hudo.
+Męr nebolįshogo gorodishki otkryl tablicu exelįa i vozmutilsįa cenoį novogo exkavatora. Azh ekzema snova stala yego bespokoitį. Oh uzh eta pokupka vechnogo dvigatelįa v proshlom godu! A tak zhe pokupka aeroplana-ekranolįota. Yesli tak poydįot i dalįshe, to bįujetu pridįotsįa hudo.
 
-V etom vide fraza ot A to Įa nachinaįet vyglįadetį sovsem po-drugomu. Seįchas şhįotca novaįa, no pozzhe ona stanet staraįa. Chernysh lįubit cogda įego cheshut įeįu. Įozh colįuchiį i pohozh na neįo.
+V etom vide fraza ot A to Ya nachinayet vyglįadetį sovsem po-drugomu. Seychas şhįotka novaya, no pozzhe ona stanet staraya. Chernysh lįubit cogda yego cheshut yeyu. Yozh kolįuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteleį indiįscoį derevni sickhov reshal chto zhe delatį s otkhodami companii "Caligula Gaį Įuliį Çezarį" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuįuşhih nosil hoholoc na golove. On i nashįol vyhod iz situaçii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatį s otkhodami companii "Kaligula Gay Yuliy Cezarį" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuyuşhih nosil hoholok na golove. On i nashįol vyhod iz situacii.
 
-"Cto s mechom c nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiį mehanic Vasiliį.
+"Kto s mechom k nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiy mehanik Vasiliy.
 
-Imeįetsįa nescolįco gipotez proiskhozhdeniįa sobaci, naiboleįe veroįatnymi įeįo predcami schitaįutsįa volc i necotoryįe vidy shacalov.
+Imeyetsįa neskolįko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsįa volk i nekotoryįe vidy shakalov.
 
-V suzhdeniyah uchįonyh o predcah domashneį sobaci prisutstvuįut dve tochci zreniįa. Odni schitaįut, chto sobaci - polifiletichescaįa gruppa (proiskhodįaşhaįa ot nescolįcih predcov), drugiįe priderzhivaįutsįa mneniįa, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaįa teoriįa).
+V suzhdeniyakh uchįonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifiletichescaya gruppa (proiskhodįaşhaya ot neskolįkih predkov), drugiye priderzhivayutsįa mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Кириллица => латиница
