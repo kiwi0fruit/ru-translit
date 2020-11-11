@@ -101,7 +101,7 @@ V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli p
 
 Prepodobnyį Bayįes podkinul igralįnyįe kosti. Vypalo shestį, znachit yemu pridįotsįa mazatį yohd na ranu.
 
-Męr nebolįshogo gorodishki otkryl tablicu exelįa i vozmutilsįa cenoį novogo exkavatora. Azh ekzema snova stala yego bespokoitį. Oh uzh eta pokupka vechnogo dvigatelįa v proshlom godu! A tak zhe pokupka aeroplana-ekranolįota. Yesli tak poydįot i dalįshe, to bįujetu pridįotsįa hudo.
+Męr nebolįshogo gorodishki otkryl tablicu exelįa i vozmutilsįa cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitį. Oh uzh eta pokupka vechnogo dvigatelįa v proshlom godu! A tak zhe pokupka aeroplana-ekranolįota. Yesli tak poydįot i dalįshe, to bįujetu pridįotsįa hudo.
 
 V etom vide fraza ot A to Ya nachinayet vyglįadetį sovsem po-drugomu. Seychas şhįotka novaya, no pozzhe ona stanet staraya. Chernysh lįubit cogda yego cheshut yeyu. Yozh kolįuchiy i pohozh na neyo.
 
