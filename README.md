@@ -74,7 +74,7 @@
 
 Pyanyw master po proektu sdelal mehanicheskiy obwekt s izwanom. Yesli brak ne obnaruzhitsia, to belyw bolid bolwshe ne smozhet vyhigryvatw gonki.
 
-V pyese pro devushku v zelionom platyice vse sadilisw na ladyi i plyli po reke. No tut iz lesa vyshel Maxim, konw v palwto i rvanyh jinsah, kotoryw chto-to vyhiskival, i prikazal vsem mytwsia i gotovitw bulyohn. Znachit snova pyom do lysyh akvalangistov.
+V pyese pro devushku v zelionom platyice vse sadilisw na ladyi i plyli po reke. No tut iz lesa vyshel Maxim Joker, konw v palwto i rvanyh jinsah, kotoryw chto-to vyhiskival, i prikazal vsem mytwsia i gotovitw bulyohn. Znachit snova pyom do lysyh akvalangistov.
 
 Prepodobnyw Baywes podkinul igralwnywe kosti. Vypalo shestw, znachit yemu pridiotsia mazatw yohd na ranu.
 
@@ -97,7 +97,7 @@ V suzhdeniyah uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zreni
 
 Pįyanyį master po proectu sdelal mehanichesciį objyect s izjyanom. Įesli brac ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonci.
 
-V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel conį v palįto, cotoryį chto-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįjyon. Znachit snova pįyom.
+V pįyese pro devushcu v zelįonom platįyiçe vse sadilisį na ladįyi i plyli po rece. No tut iz lesa vyshel Maxim Joker, conį v palįto i rvanyh jinsah, cotoryį chto-to vyiscival, i pricazal vsem mytįsįa i gotovitį bulįjyon. Znachit snova pįyom do lysyh akvalangistov.
 
 Prepodobnyį Baįyes podcinul igralįnyįe costi. Vypalo shestį, znachit įemu pridįotsįa mazatį ĭod na ranu.
 
