@@ -74,7 +74,7 @@
 
 Pyanyw master po proektu sdelal mehanicheskiy obwekt s izwanom. Yesli brak ne obnaruzhitsia, to belyw bolid bolwshe ne smozhet vyhigryvatw gonki.
 
-V pyese pro devushku v zelionom platyice vse sadilisw na ladyi i plyli po reke. No tut iz lesa vyshel Maxim, konw v palwto i rvanyh jinsah, kotoryw chto-to vyhiskival, i prikazal vsem mytwsia i gotovitw bulyohn. Znachit snova pyom do lysyh aqvalangistov.
+V pyese pro devushku v zelionom platyice vse sadilisw na ladyi i plyli po reke. No tut iz lesa vyshel Maxim, konw v palwto i rvanyh jinsah, kotoryw chto-to vyhiskival, i prikazal vsem mytwsia i gotovitw bulyohn. Znachit snova pyom do lysyh akvalangistov.
 
 Prepodobnyw Baywes podkinul igralwnywe kosti. Vypalo shestw, znachit yemu pridiotsia mazatw yohd na ranu.
 
