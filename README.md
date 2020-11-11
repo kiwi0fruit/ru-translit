@@ -76,7 +76,7 @@ Pyanyw master po proektu sdelal mehanicheskiy obwekt s izwanom. Yesli brak ne ob
 
 V pyese pro devushku v zelionom platyice vse sadilisw na ladyi i plyli po reke. No tut iz lesa vyshel Maxim Joker, konw v palwto i rvanyh jinsah, kotoryw chto-to vyhiskival, i prikazal vsem mytwsia i gotovitw bulyohn. Znachit snova pyom do lysyh akvalangistov.
 
-Prepodobnyw Baywes podkinul igralwnywe kosti. Vypalo shestw, znachit yemu pridiotsia mazatw yohd na ranu.
+Prepodobnyw Bawyes podkinul igralwnywe kosti. Vypalo shestw, znachit yemu pridiotsia mazatw yohd na ranu.
 
 Maer nebolwshogo gorodishki otkryl tablicu exelia i vozmutilsia cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitw. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydiot i dalwshe, to biudzhetu pridiotsia hudo.
 
