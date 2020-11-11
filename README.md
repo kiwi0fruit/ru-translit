@@ -72,11 +72,11 @@
 
 *По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем варианты с большим количеством диакритических знаков. В английском нет диакритики, в русском - почти нет (ё ставят только при опасности неправильного прочтения, й трудно считать диакритикой). Так что не удивительно, что диакритика будет вызывать отторжение. В варианте минималистичной диакритики она ставится тоже в очень малом числе случаев.*
 
-Pyanyw master po proektu sdelal mehanicheskiy obwekt s izwanom. Yesli brak ne obnaruzhitsia, to belyw bolid bolwshe ne smozhet vyhigryvatw gonki.
+Pyanyy master po proektu sdelal mehanicheskiy obwekt s izwanom. Yesli brak ne obnaruzhitsia, to belyy bolid bolwshe ne smozhet vyhigryvatw gonki.
 
-V pyese pro devushku v zelionom platyice vse sadilisw na ladyi i plyli po reke. No tut iz lesa vyshel Maxim Joker, konw v palwto i rvanyh jinsah, kotoryw chto-to vyhiskival, i prikazal vsem mytwsia i gotovitw bulyohn. Znachit snova pyom do lysyh akvalangistov.
+V pyese pro devushku v zelionom platyice vse sadilisw na ladyi i plyli po reke. No tut iz lesa vyshel Maxim Joker, konw v palwto i rvanyh jinsah, kotoryy chto-to vyhiskival, i prikazal vsem mytwsia i gotovitw bulyohn. Znachit snova pyom do lysyh akvalangistov.
 
-Prepodobnyw Baywes podkinul igralwnywe kosti. Vypalo shestw, znachit yemu pridiotsia mazatw yohd na ranu.
+Prepodobnyy Bayyes podkinul igralwnyye kosti. Vypalo shestw, znachit yemu pridiotsia mazatw yohd na ranu.
 
 Maer nebolwshogo gorodishki otkryl tablicu exelia i vozmutilsia cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitw. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydiot i dalwshe, to biudzhetu pridiotsia hudo.
 
@@ -86,7 +86,7 @@ Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatw s otkhod
 
 "Kto s mechom k nam pridiot, tot ot mecha i..." - ne smog dogovoritw starshiy mehanik Vasiliy.
 
-Imeyetsia neskolwko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsia volk i nekotorywe vidy shakalov.
+Imeyetsia neskolwko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsia volk i nekotoryye vidy shakalov.
 
 V suzhdeniyah uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodiashchaya ot neskolwkih predkov), drugiye priderzhivayutsia mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
