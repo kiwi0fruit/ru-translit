@@ -97,7 +97,7 @@ V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyy bolid bolįshe ne smozhet vyhigryvatį gonki.
 
-V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Jorjh Maximus, konį v palįto i rvanyh jinsah, kotoryy chto-to vyiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
+V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Jorjh Maximus, konį v palįto i rvanyh jinsah, kotoryy chto-to vyhiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
 
 Prepodobnyy Bayyes podkinul igralįnyye kosti. Vypalo shestį, znachit yemu pridįotsįa mazatį yohd na ranu.
 
