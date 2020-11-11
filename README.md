@@ -78,7 +78,7 @@ V pyese pro devushku v zelionom platyice vse sadilisj na ladyi i plyli po reke. 
 
 Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridiotsia mazatj yohd na ranu.
 
-Maer neboljshogo gorodishki otkryl tablicu exelia i vozmutilsia cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydiot i daljshe, to biudzhetu pridiotsia hudo.
+Maer neboljshogo gorodishki otkryl tablicu exelia i vozmutilsia cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydiot i daljshe, to biujhetu pridiotsia hudo.
 
 V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas shchiotka novaya, no pozzhe ona stanet staraya. Chernysh liubit kogda yego cheshut yeyu. Yozh koliuchiy i pohozh na neyo.
 
