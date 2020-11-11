@@ -82,7 +82,7 @@ Maer nebolwshogo gorodishki otkryl tablicu exelia i vozmutilsia cenoy novogo exk
 
 V etom vide fraza ot A to Ya nachinayet vygliadetw sovsem po-drugomu. Seychas shchiotka novaya, no pozzhe ona stanet staraya. Chernysh liubit kogda yego cheshut yeyu. Yozh koliuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatw s otkhodami kompanii "Kaligula Gay Yuliy Cezarw". Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashiol vyhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatw s otkhodami kompanii "Kaligula Gay Yuliy Cezarw" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashiol vyhod iz situacii.
 
 "Kto s mechom k nam pridiot, tot ot mecha i..." - ne smog dogovoritw starshiy mehanik Vasiliy.
 
@@ -105,7 +105,7 @@ Męr nebolįshogo gorodishci otcryl tabliçu exelįa i vozmutilsįa çenoį novo
 
 V etom vide fraza ot A to Įa nachinaįet vyglįadetį sovsem po-drugomu. Seįchas şhįotca novaįa, no pozzhe ona stanet staraįa. Chernysh lįubit cogda įego cheshut įeįu. Įozh colįuchiį i pohozh na neįo.
 
-Skhod mestnyh zhiteleį indiįscoį derevni sickhov reshal chto zhe delatį s otkhodami companii "Caligula Gaį Įuliį Çezarį". Odin iz prisutstvuįuşhih nosil hoholoc na golove. On i nashįol vyhod iz situaçii.
+Skhod mestnyh zhiteleį indiįscoį derevni sickhov reshal chto zhe delatį s otkhodami companii "Caligula Gaį Įuliį Çezarį" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuįuşhih nosil hoholoc na golove. On i nashįol vyhod iz situaçii.
 
 "Cto s mechom c nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiį mehanic Vasiliį.
 
