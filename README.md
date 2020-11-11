@@ -95,7 +95,7 @@ V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 Новые более-менее частые буквы: Ęę(Э), Şş(Щ), Įį(Йот,Ь,Й). Неиспользуемые старые: Ww, Qq. Буквы для аббревиатур: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Čč(Ч),Šš(Ш),Žž(Ж),Ĥĥ(Х),Ŷŷ(Й). Для очень редких слов: Ŷŷ(Ы),Îî(Ь),Ĵĵ(Ъ). Примечательные старые: Jj(ДЖдж,Ъъ),Xx(КСкс).
 
-Pįyanyį master po proektu sdelal mehanicheskiy obyect s izyanom. Yesli brak ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonki.
+Pįyanyį master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyį bolid bolįshe ne smozhet vyigryvatį gonki.
 
 V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Maxim Joker, conį v palįto i rvanyh jinsah, kotoryį chto-to vyiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
 
