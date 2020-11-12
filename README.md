@@ -110,21 +110,21 @@ V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 ### Альтернативный вариант
 
-Новые более-менее частые буквы: Įį(Ь), Ęę(Э), Ŝŝ(Щ), Îî(И).
+Новые более-менее частые буквы: Įį(Ь), Ęę(Э), Ŝŝ(Щ), Ïï(И), Ÿÿ(Ы), Ŷŷ(Й).
 
-*Отличается от предыдущего варианта тем, что Jj и Ii заменены на Įį в значении смягчения предыдущей согласной. Это совместимо меняет переключатель h из Лион/Liohn/Lîon, лён/lion/lįon. Так же AEae после согласных заменена на Ęę. Это совместимо меняет переключатель h из маэстро/maehstro/maęstro, мэр/maer/męr. Тоже самое с йод/yohd/ŷod. С ŝh вместо shch всё очевидно. Всё остальное тоже самое, что и в предыдущем варианте.*
+*Отличается от предыдущего варианта тем, что Jj и Ii заменены на Įį в значении смягчения предыдущей согласной. Это совместимо меняет переключатель h из Лион/Liohn/Lïon, лён/lion/lįon. Так же AEae после согласных заменена на Ęę. Это совместимо меняет переключатель h из маэстро/maehstro/maęstro, мэр/maer/męr. Тоже самое с йод/yohd/ŷod и выучить/vyhuchitj/vÿuchitį. С ŝh вместо shch всё очевидно. Всё остальное тоже самое, что и в предыдущем варианте.*
 
-Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyy bolid bolįshe ne smozhet vyhigryvatį gonki.
+Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyy bolid bolįshe ne smozhet vÿigryvatį gonki.
 
-V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Jorjh Maximus, konį v palįto i rvanyh jinsah, kotoryy chto-to vyhiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
+V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Jorjh Maximus, konį v palįto i rvanyh jinsah, kotoryy chto-to vÿiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
 
-Prepodobnyy Bayyes podkinul igralįnyye kosti. Vypalo shestį, znachit yemu pridįotsįa mazatį yohd na ranu.
+Prepodobnyy Bayyes podkinul igralįnyye kosti. Vypalo shestį, znachit yemu pridįotsįa mazatį ŷod na ranu.
 
 Męr nebolįshogo gorodishki otkryl tablicu exelįa i vozmutilsįa cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitį. Oh uzh eta pokupka vechnogo dvigatelįa v proshlom godu! A tak zhe pokupka aeroplana-ekranolįota. Yesli tak poydįot i dalįshe, to bįujetu pridįotsįa hudo.
 
 V etom vide fraza ot A to Ya nachinayet vyglįadetį sovsem po-drugomu. Seychas ŝhįotka novaya, no pozzhe ona stanet staraya. Chernysh lįubit cogda yego cheshut yeyu. Yozh kolįuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatį s otkhodami companii "Kaligula Gay Yuliy Cezarį" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuyuŝhih nosil hoholok na golove. On i nashįol vykhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatį s otkhodami companii "Kaligula Gay Yuliy Cezarį" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuyuŝhih nosil hoholok na golove. On i nashįol vÿhod iz situacii.
 
 "Kto s mechom k nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiy mehanik Vasiliy.
 
