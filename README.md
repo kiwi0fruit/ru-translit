@@ -114,7 +114,7 @@ V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 *Отличается от предыдущего варианта тем, что Jj и Ii заменены на Įį в значении смягчения предыдущей согласной. Это совместимо меняет переключатель h из Лион/Liohn/Lïon, лён/lion/lįon. Так же AEae после согласных заменена на Ęę. Это совместимо меняет переключатель h из маэстро/maehstro/maęstro, мэр/maer/męr. Тоже самое с йод/yohd/ŷod и выучить/vyhuchitj/vÿuchitį. С ŝh вместо shch всё очевидно. Всё остальное тоже самое, что и в предыдущем варианте.*
 
-Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyy bolid bolįshe ne smozhet vÿigryvatį gonki.
+Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyye bolidy bolįshe ne smogut vÿigryvatį gonki.
 
 V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Jorjh Maximus, konį v palįto i rvanyh jinsah, kotoryy chto-to vÿiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
 
