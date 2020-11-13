@@ -41,7 +41,7 @@
 * Это совместимо меняет переключатель h из Лион/Liohn/Lïon, лён/lion/lįon.
 * Так же AEae после согласных заменена на Ęę. Это совместимо меняет переключатель h из маэстро/maehstro/maęstro, мэр/maer/męr.
 * Тоже самое с йод/yohd/ŷod и выучить/vyhuchitj/vÿuchitį.
-* С ŝh вместо shch всё очевидно.
+* С ŝh вместо sjh (Щ) всё очевидно.
 * Диакритика над гласными это точки, а над согласными и ь - крышки и гачеки.
 * Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GĘS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽĘK, ЕС/ĖS, США/SŠA, МЧС/MČS, ЮАР/ÜAR, ЭЭГ/EEG, ЕГЭ/ĖGĘ, ЧС/ČS, микрорайон Щ/mikrorayohn Ŝ.
 
@@ -64,7 +64,7 @@
 | translit |  u/hu   |   f   |  h/kh   |   c    |    ch    |
 | latinica |    u    |       |         |        |          |
 |          |  **ш**  | **щ** |  **ъ**  | **ы**  |  **ь**   |
-| translit |   sh    | shch  | None/qq |  y/hy  |  j/jqq   |
+| translit |   sh    | sjh  | None/qq |  y/hy  |  j/jqq   |
 | latinica |         |  ŝh   |         |  y/ÿ   |   į/î    |
 |          |  **э**  | **ю** |  **я**  | **кс** |  **дж**  |
 | translit | ae/e/he | iu/yu |  ia/ya  |  x/ks  | j/jh/dzh |
@@ -92,7 +92,7 @@
 |  **и[аоу]**  | **i[aou]h** / **ï[aou]** (после согласных), **i[aou]** (иначе)                                                                                                     | пианино/piahnino/pïanino, ион/ion                                                                                                                                                                                                        |
 | **и[аоу]х**  | **i[aou]hh** / **ï[aou]h** (х становится просто h, а не kh)                                                                                                        | диахрония/diahhroniya/dïahroniya                                                                                                                                                                                                         |
 |    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                           | сход/skhod, лях/liakh/lįah, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj/chkhatį, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vykhod/vÿhod, меха/meha, эхо/eho, вече/veche, меча/mecha, ньхи/njkhi                                         |
-|    **дж**    | в словах, где **д** и **ж** не попадают в разные морфемы и нет чередования корней, где они порознь: **j** (перед гласными **аоуие**), **jh** (в остальных случаях) | Джордж/Jorjh, доджо/dojo, додзё/dodzio/dodzįo, аджика/ajika, поджечь/podzhechj/podzhechį, джхо/jhkho, обджект/objekt, обджэкт/objhaekt/objhękt, изджан/izjan, изджян/izjhian/izjhįan                                                            |
+|    **дж**    | в словах, где **д** и **ж** не попадают в разные морфемы и нет чередования корней, где они порознь: **j** (перед гласными **аоуие**), **jh** (в остальных случаях) | Джордж/Jorjh, доджо/dojo, додзё/dodzio/dodzįo, аджика/ajika, поджечь/podzhechj/podzhechį, джхо/jhkho, обджект/objekt, обджэкт/objhaekt/objhękt, изджан/izjan, изджян/izjhian/izjhįan, есджё/yesdzhio (sjh как щ имеет приоритет)                                                            |
 |   **ксх**    | в словах, где **к** и **с** не попадают в разные морфемы и нет чередования корней, где они порознь: **xh**                                                         | эксхорт/exhort                                                                                                                                                                                                                           |
 |    **кс**    | в словах, где **к** и **с** не попадают в разные морфемы и нет чередования корней, где они порознь: **x**                                                          | экскаватор/exkavator, Максим/Maxim, спёкся/spioksia/spįoksįa, плакса/plaksa, экзамен/ekzamen                                                                                                                                             |
 
@@ -100,7 +100,7 @@
 
 |             | Ещё примеры                                    |
 | ----------- | ---------------------------------------------- |
-| щ/shch/ŝh   | щётка/shchiotka/ŝhįotka, счёт/schiot/schįot    |
+| щ/sjh/ŝh   | щётка/sjhiotka/ŝhįotka, счёт/schiot/schįot, есджё/esdzhio    |
 | ж/zh        | ёж/yozh, возжи/vozzhi, позже/pozzhe            |
 | ч/ch        | Черныш/Chernysh, счётная/schiotnaya/schįotnaya |
 | ш/sh        | шлем/shlem                                     |
@@ -163,15 +163,15 @@ Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridio
 
 Maer neboljshogo gorodishki otkryl tablicu exelia i vozmutilsia cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydiot i daljshe, to biujetu pridiotsia hudo.
 
-V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas shchiotka novaya, no pozzhe ona stanet staraya. Chernysh liubit kogda yego cheshut yeyu. Yozh koliuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas sjhiotka novaya, no pozzhe ona stanet staraya. Chernysh liubit kogda yego cheshut yeyu. Yozh koliuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuyushchih nosil hoholok na golove. On i nashiol vykhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuyusjhih nosil hoholok na golove. On i nashiol vykhod iz situacii.
 
 "Kto s mechom k nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
 
 Imeyetsia neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsia volk i nekotoryye vidy shakalov.
 
-V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodiashchaya ot neskoljkih predkov), drugiye priderzhivayutsia mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodiasjhaya ot neskoljkih predkov), drugiye priderzhivayutsia mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Primer texta latinicey
