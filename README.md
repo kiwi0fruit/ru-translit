@@ -142,7 +142,7 @@
 |     |        | **Žž** |   Xx   | **Čč** | Vv  |   Bb   |   Nn   |   Mm   |   ,<   | .>  | Ïï  |     |
 
 
-## Пример текста транслитом
+## Primer texta translitom
 
 *По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем варианты с большим количеством диакритических знаков. В английском нет диакритики, в русском - почти нет (ё ставят только при опасности неправильного прочтения, й трудно считать диакритикой). Так что не удивительно, что диакритика будет вызывать отторжение. В варианте минималистичной диакритики она ставится тоже в очень малом числе случаев.*
 
@@ -165,7 +165,7 @@ Imeyetsia neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo 
 V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodiashchaya ot neskoljkih predkov), drugiye priderzhivayutsia mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
-## Пример текста латиницей
+## Primer texta latinicey
 
 Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyye bolidy bolįshe ne smogut vÿigryvatį gonki.
 
