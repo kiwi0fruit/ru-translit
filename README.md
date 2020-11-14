@@ -67,7 +67,7 @@
 | translit |   sh    | sjh  | None/qq |  y/hy  |  j/jqq   |
 | latinica |         |  ŝh   |         |  y/ÿ   |   į/î    |
 |          |  **э**  | **ю** |  **я**  | **кс** |  **дж**  |
-| translit | ae/e/he | iu/yu |  ia/ya  |  x/ks  | j/jh/dzh |
+| translit | ae/e/he | iu/yu |  ia/ya  |  x/ks  | j/jj/dzh |
 | latinica |   ę/e   | įu/yu |  įa/ya  |        |          |
 |          | **шч**  |       |         |        |          |
 | translit |  shwch  |       |         |        |          |
