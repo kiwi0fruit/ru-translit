@@ -31,7 +31,7 @@
 * y после согласных звучит ы, но йотирование гласных имеет приоритет (мы/my),
 * ный будет nyy, уйя будет uyya, ные будет nyye; логично, однозначно, слегка разочаровывает, но неизбежно (красный/krasnyy, аллилуйя/alliluyya),
 * i после согласных смягчает их, но не йотирует следующую гласную (мёд/miod), это поведение отключается добавлением h после двух гласных (пион/piohn),
-* j перед гласной (aoue, но не y) или h становится дж, в остальных случаях он смягчает предыдущую согласную (Джордж/Jorjh, пьеса/pjyesa, конь/konj).
+* j перед гласной (aoue, но не y) или j становится дж, в остальных случаях он смягчает предыдущую согласную (Джордж/Jorjj, пьеса/pjyesa, конь/konj).
 * e после согласных всегда смягчает, можно опустить i (пень/penj). В остальных случаях e обозначает звук э (это/eto, поэт/poet). Йотировать надо для уезд/uyezd. Убрать смягчение после согласной можно с помощью ae: мэр/maer. Это можно отключить с помощью h: маэстро/maehstro.
 * qq обозначает паузу, гортанную смычку или просто игнорируемый диграф (зависит от слова).
 
@@ -92,7 +92,7 @@
 |  **и[аоу]**  | **i[aou]h** / **ï[aou]** (после согласных), **i[aou]** (иначе)                                                                                                     | пианино/piahnino/pïanino, ион/ion                                                                                                                                                                                                        |
 | **и[аоу]х**  | **i[aou]hh** / **ï[aou]h** (х становится просто h, а не kh)                                                                                                        | диахрония/diahhroniya/dïahroniya                                                                                                                                                                                                         |
 |    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                           | сход/skhod, лях/liakh/lįah, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj/chkhatį, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vykhod/vÿhod, меха/meha, эхо/eho, вече/veche, меча/mecha, ньхи/njkhi                                         |
-|    **дж**    | в словах, где **д** и **ж** не попадают в разные морфемы и нет чередования корней, где они порознь: **j** (перед гласными **аоуие**), **jh** (в остальных случаях) | Джордж/Jorjh, доджо/dojo, додзё/dodzio/dodzįo, аджика/ajika, поджечь/podzhechj/podzhechį, джхо/jhkho, обджект/objekt, обджэкт/objhaekt/objhękt, изджан/izjan, изджян/izjhian/izjhįan, есджё/yesdzhio (sjh как щ имеет приоритет)                                                            |
+|    **дж**    | в словах, где **д** и **ж** не попадают в разные морфемы и нет чередования корней, где они порознь: **j** (перед гласными кроме ы), **j** (в начале слова), **jj** (в остальных случаях) | Джордж/Jorjj, доджо/dojo, додзё/dodzio/dodzįo, аджика/ajika, поджечь/podzhechj/podzhechį, джхо/jho, обджект/objekt, обджэкт/objaekt/objękt, изджан/izjan, изджян/izjian/izjįan, сджхо/sjjho, сьхо/sjkho (sjh как щ имеет приоритет), мджхо/mjjho, мьхо/mjho                                                            |
 |   **ксх**    | в словах, где **к** и **с** не попадают в разные морфемы и нет чередования корней, где они порознь: **xh**                                                         | эксхорт/exhort                                                                                                                                                                                                                           |
 |    **кс**    | в словах, где **к** и **с** не попадают в разные морфемы и нет чередования корней, где они порознь: **x**                                                          | экскаватор/exkavator, Максим/Maxim, спёкся/spioksia/spįoksįa, плакса/plaksa, экзамен/ekzamen                                                                                                                                             |
 
@@ -157,7 +157,7 @@
 
 Pjyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsia, to belyye bolidy boljshe ne smogut vyhigryvatj gonki.
 
-V pjyese pro devushku v zelionom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Jorjh Maximus, konj v paljto i rvanyh jinsah, kotoryy chto-to vyhiskival, i prikazal vsem mytjsia i gotovitj buljyohn. Znachit snova pjyom do lysyh akvalangistov.
+V pjyese pro devushku v zelionom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Jorjj Maximus, konj v paljto i rvanyh jinsah, kotoryy chto-to vyhiskival, i prikazal vsem mytjsia i gotovitj buljyohn. Znachit snova pjyom do lysyh akvalangistov.
 
 Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridiotsia mazatj yohd na ranu.
 
@@ -178,7 +178,7 @@ V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyye bolidy bolįshe ne smogut vÿigryvatį gonki.
 
-V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Jorjh Maximus, konį v palįto i rvanyh jinsah, kotoryy chto-to vÿiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
+V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Jorjj Maximus, konį v palįto i rvanyh jinsah, kotoryy chto-to vÿiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
 
 Prepodobnyy Bayyes podkinul igralįnyye kosti. Vypalo shestį, znachit yemu pridįotsįa mazatį ŷod na ranu.
 
