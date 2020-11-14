@@ -31,7 +31,7 @@
 * y после согласных звучит ы, но йотирование гласных имеет приоритет (мы/my),
 * ный будет nyy, уйя будет uyya, ные будет nyye; логично, однозначно, слегка разочаровывает, но неизбежно (красный/krasnyy, аллилуйя/alliluyya),
 * i после согласных смягчает их, но не йотирует следующую гласную (мёд/miod), это поведение отключается добавлением h после двух гласных (пион/piohn),
-* j перед гласной (aoue, но не y) или j становится дж, в остальных случаях он смягчает предыдущую согласную (Джордж/Jorjj, пьеса/pjyesa, конь/konj).
+* j после согласной обозначает смягчение. Других использований быть не должно. В частности, не должно быть комбинаций ja, je и т.д. (пьеса/pjyesa, конь/konj).
 * e после согласных всегда смягчает, можно опустить i (пень/penj). В остальных случаях e обозначает звук э (это/eto, поэт/poet). Йотировать надо для уезд/uyezd. Убрать смягчение после согласной можно с помощью ae: мэр/maer. Это можно отключить с помощью h: маэстро/maehstro.
 * qq обозначает паузу, гортанную смычку или просто игнорируемый диграф (зависит от слова).
 
@@ -41,7 +41,7 @@
 * Это совместимо меняет переключатель h из Лион/Liohn/Lïon, лён/lion/lįon.
 * Так же AEae после согласных заменена на Ęę. Это совместимо меняет переключатель h из маэстро/maehstro/maęstro, мэр/maer/męr.
 * Тоже самое с йод/yohd/ŷod и выучить/vyhuchitj/vÿuchitį.
-* С ŝh вместо sjh (Щ) всё очевидно.
+* ŝh вместо sjh (Щ), dž вместо dzh (ДЖ).
 * Диакритика над гласными это точки, а над согласными и ь - крышки и гачеки.
 * Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GĘS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽĘK, ЕС/ĖS, США/SŠA, МЧС/MČS, ЮАР/ÜAR, ЭЭГ/EEG, ЕГЭ/ĖGĘ, ЧС/ČS, микрорайон Щ/mikrorayohn Ŝ.
 
@@ -67,11 +67,9 @@
 | translit |   sh    | sjh  | None/qq |  y/hy  |  j/jqq   |
 | latinica |         |  ŝh   |         |  y/ÿ   |   į/î    |
 |          |  **э**  | **ю** |  **я**  | **кс** |  **дж**  |
-| translit | ae/e/he | iu/yu |  ia/ya  |  x/ks  | j/jj/dzh |
-| latinica |   ę/e   | įu/yu |  įa/ya  |        |          |
-|          | **шч**  |       |         |        |          |
-| translit |  shwch  |       |         |        |          |
-| latinica |         |       |         |        |          |
+| translit | ae/e/he | iu/yu |  ia/ya  |  x/ks  | dzh |
+| latinica |   ę/e   | įu/yu |  įa/ya  |        | dž         |
+
 
 |              | Правило транслита / правило латиницы                                                                                                                               | Кириллица/Транслит/Латиница                                                                                                                                                                                                              |
 |:------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,15 +82,15 @@
 | **й[аоуэ]**  | **y[aoue]h** / **ŷ[aoue]** (гласные **аоуэ** после й)                                                                                                              | йод/yohd/ŷod, йэс/yehs/ŷes                                                                                                                                                                                                               |
 |    **й**     | **y** (остальные случаи)                                                                                                                                           | красный/krasnyy, аллилуйя/alliluyya, Байес/Bayyes, ныйя/nyyya, йиппи/yippi                                                                                                                                                               |
 |    **ы**     | **y** (после согласных), **hy** / **ÿ** (иначе)                                                                                                                    | пыл/pyl, пыхтел/pyhtel, Нарва-Йыэсуу/Narva-Yhyhesuu/Narva-Yÿesuu, Шайыр/Shayhyr/Shayÿr                                                                                                                                                   |
-| **ы[аоуэи]** | **yh[aouei]** / **ÿ[aouei]** (гласные **аоуэи** после ы)                                                                                                           | выход/vykhod/vÿhod, выигрывать/vyhigryvatj/vÿigryvatį, выучить/vyhuchitj/vÿuchitį, выострить/vyhostritj/vÿostritį, изджыан/izjjhyhan/izjjÿan                                                                                              |
+| **ы[аоуэи]** | **yh[aouei]** / **ÿ[aouei]** (гласные **аоуэи** после ы)                                                                                                           | выход/vykhod/vÿhod, выигрывать/vyhigryvatj/vÿigryvatį, выучить/vyhuchitj/vÿuchitį, выострить/vyhostritj/vÿostritį                                                                                              |
 |    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **ye** (иначе)                                                                  | мера/mera, еда/yeda, если/yesli, заезд/zayezd, Байес/Bayyes, заем/zayem, заём/zayom, траектория/trayektoriya, проект/proekt, проэкт/proaekt/proękt, проэк/proek/proek (проект - словарное исключение с особым правилом отображения)      |
 |    **э**     | **ae** / **ę** (после согласных), **е** (иначе)                                                                                                                    | мэр/maer/męr, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/yehs/ŷes                                                                                                                                                     |
 | **аэ\|аэх**  | **aeh\|aehh** / **aę\|aęh** (после согласных)                                                                                                                      | маэстро/maehstro/maęstro, Алаэхос/Alaehhos/Alaęhos                                                                                                                                                                                       |
 |  **[яёю]**   | **i[aou]** / **į[aou]** (после согласных), **y[aou]** (иначе)                                                                                                      | мёд/miod/mįod, ёлка/yolka, пюре/piure/pįure, якорь/yakorj/yakorį                                                                                                                                                                         |
 |  **и[аоу]**  | **i[aou]h** / **ï[aou]** (после согласных), **i[aou]** (иначе)                                                                                                     | пианино/piahnino/pïanino, ион/ion                                                                                                                                                                                                        |
 | **и[аоу]х**  | **i[aou]hh** / **ï[aou]h** (х становится просто h, а не kh)                                                                                                        | диахрония/diahhroniya/dïahroniya                                                                                                                                                                                                         |
-|    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                           | сход/skhod, лях/liakh/lįah, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj/chkhatį, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vykhod/vÿhod, меха/meha, эхо/eho, вече/veche, меча/mecha, ньхи/njkhi                                         |
-|    **дж**    | в словах, где **д** и **ж** не попадают в разные морфемы и нет чередования корней, где они порознь: **j** (перед гласными кроме ы), **j** (в начале слова), **jj** (в остальных случаях) | Джордж/Jorjj, доджо/dojo, додзё/dodzio/dodzįo, аджика/ajika, поджечь/podzhechj/podzhechį, джхо/jho, обджект/objekt, обджэкт/objaekt/objękt, изджан/izjan, изджян/izjian/izjįan, сджхо/sjjho, сьхо/sjkho (sjh как щ имеет приоритет), мджхо/mjjho, мьхо/mjho                                                            |
+|    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                           | сход/skhod, лях/liakh/lįah, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj/chkhatį, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vykhod/vÿhod, меха/meha, эхо/eho, вече/veche, меча/mecha, сьха/sjkha, ньхи/njkhi                                         |
+|    **дж**    | **dzh** / **dž** | Джордж/Dzhordzh/Džordž                                                            |
 |   **ксх**    | в словах, где **к** и **с** не попадают в разные морфемы и нет чередования корней, где они порознь: **xh**                                                         | эксхорт/exhort                                                                                                                                                                                                                           |
 |    **кс**    | в словах, где **к** и **с** не попадают в разные морфемы и нет чередования корней, где они порознь: **x**                                                          | экскаватор/exkavator, Максим/Maxim, спёкся/spioksia/spįoksįa, плакса/plaksa, экзамен/ekzamen                                                                                                                                             |
 
@@ -127,7 +125,6 @@
 
 **ъ**: QQqq.
 
-Для совместимости с кириллицей в аббревиатуры J идёт как D, а X идёт как K.
 
 Примеры аббревиатур: ГЭС/GĘS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽĘK, ЕС/ĖS, США/SŠA, МЧС/MČS, ЮАР/ÜAR, ЭЭГ/EEG, ЕГЭ/ĖGĘ, ЧС/ČS, микрорайон Щ/mikrorayohn Ŝ.
 
@@ -157,11 +154,11 @@
 
 Pjyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsia, to belyye bolidy boljshe ne smogut vyhigryvatj gonki.
 
-V pjyese pro devushku v zelionom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Jorjj Maximus, konj v paljto i rvanyh jinsah, kotoryy chto-to vyhiskival, i prikazal vsem mytjsia i gotovitj buljyohn. Znachit snova pjyom do lysyh akvalangistov.
+V pjyese pro devushku v zelionom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Dzhordzh Maximus, konj v paljto i rvanyh dzhinsah, kotoryy chto-to vyhiskival, i prikazal vsem mytjsia i gotovitj buljyohn. Znachit snova pjyom do lysyh akvalangistov.
 
 Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridiotsia mazatj yohd na ranu.
 
-Maer neboljshogo gorodishki otkryl tablicu exelia i vozmutilsia cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydiot i daljshe, to biujetu pridiotsia hudo.
+Maer neboljshogo gorodishki otkryl tablicu exelia i vozmutilsia cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydiot i daljshe, to biudzhetu pridiotsia hudo.
 
 V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas sjhiotka novaya, no pozzhe ona stanet staraya. Chernysh liubit kogda yego cheshut yeyu. Yozh koliuchiy i pohozh na neyo.
 
@@ -178,11 +175,11 @@ V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyye bolidy bolįshe ne smogut vÿigryvatį gonki.
 
-V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Jorjj Maximus, konį v palįto i rvanyh jinsah, kotoryy chto-to vÿiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
+V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Džordž Maximus, konį v palįto i rvanyh džinsah, kotoryy chto-to vÿiskival, i prikazal vsem mytįsįa i gotovitį bulįyohn. Znachit snova pįyom do lysyh akvalangistov.
 
 Prepodobnyy Bayyes podkinul igralįnyye kosti. Vypalo shestį, znachit yemu pridįotsįa mazatį ŷod na ranu.
 
-Męr nebolįshogo gorodishki otkryl tablicu exelįa i vozmutilsįa cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitį. Oh uzh eta pokupka vechnogo dvigatelįa v proshlom godu! A tak zhe pokupka aeroplana-ekranolįota. Yesli tak poydįot i dalįshe, to bįujetu pridįotsįa hudo.
+Męr nebolįshogo gorodishki otkryl tablicu exelįa i vozmutilsįa cenoy novogo exkavatora. Azh ekzema snova stala yego bespokoitį. Oh uzh eta pokupka vechnogo dvigatelįa v proshlom godu! A tak zhe pokupka aeroplana-ekranolįota. Yesli tak poydįot i dalįshe, to bįudžetu pridįotsįa hudo.
 
 V etom vide fraza ot A to Ya nachinayet vyglįadetį sovsem po-drugomu. Seychas ŝhįotka novaya, no pozzhe ona stanet staraya. Chernysh lįubit cogda yego cheshut yeyu. Yozh kolįuchiy i pohozh na neyo.
 
