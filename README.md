@@ -55,14 +55,14 @@
 | translit |  e/ye   | io/yo |   zh    |   z    | i/i[aoue]h |
 | latinica |         |       |         |        |  i/ï  |
 |          |  **й**  | **к** |  **л**  | **м**  | **н** |
-| translit |  y/yiw  |   k   |    l    |   m    |   n   |
+| translit |  y/y[aoue]h/yiw |   k   |    l    |   m    |   n   |
 | latinica |   y/ŷ   |       |         |        |       |
 |          |  **о**  | **п** |  **р**  | **с**  | **т** |
 |          |    o    |   p   |    r    |   s    |   t   |
 |          |  **у**  | **ф** |  **х**  | **ц**  | **ч** |
 |          |    u    |   f   |  h/kh   |   c    |  ch   |
 |          |  **ш**  | **щ** |  **ъ**  | **ы**  | **ь** |
-| translit |   sh    |  sjh  | None/qq |  y/hy/hyh[aoue] | j/jqq |
+| translit |   sh    |  sjh  | None/qq |  y/hy/h?yh[aoue] | j/jqq |
 | latinica |         |  ŝh   | None/į  |  y/ÿ   | j/jį  |
 |          |  **э**  | **ю** |  **я**  | **дж** |       |
 | translit |  ae/e   | iu/yu |  ia/ya  |  dzh   |       |
