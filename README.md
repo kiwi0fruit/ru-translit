@@ -9,7 +9,7 @@
 * [Кириллица <=> латиница](#kirillica--latinica)
 * [Раскладка клавиатуры для латиницы](#raskladka-klaviahtury-dlia-latinicy)
 * [Пример текста транслитом](#primer-texta-translitom)
-* [Пример текста латиницей](#primer-texta-latinicey)
+* [Пример текста латиницей](#primer-teksta-latinicey)
 
 Придумал в качестве развлечения ещё один транслит.
 
@@ -34,6 +34,7 @@
 * j после согласной обозначает смягчение. Других использований быть не должно. В частности, не должно быть комбинаций ja, je и т.д. (пьеса/pjyesa, конь/konj).
 * e после согласных всегда смягчает, можно опустить i (пень/penj). В остальных случаях e обозначает звук э (это/eto, поэт/poet). Йотировать надо для уезд/uyezd. Убрать смягчение после согласной можно с помощью ae: мэр/maer. Это можно отключить с помощью h: маэстро/maehstro.
 * qq обозначает паузу, гортанную смычку или просто игнорируемый диграф (зависит от слова).
+* слова на латинице из других языков можно писать, экранируя с помощью ` /` и `/ `.
 
 Парная **латиница с диакритикой** отличается от предыдущего варианта тем, что:
 
@@ -128,7 +129,7 @@
 Примеры аббревиатур: ГЭС/GĘS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽĘK, ЕС/ĖS, США/SŠA, МЧС/MČS, ЮАР/ÜAR, ЭЭГ/EEG, ЕГЭ/ĖGĘ, ЧС/ČS, микрорайон Щ/mikrorayohn Ŝ.
 
 
-## Raskladka klaviahtury dlia latinicy
+## Raskladka klavïatury dlia latinicy
 
 Основная раскладка. Добавляет новые буквы, встречающиеся не в аббревиатурах: Įį(Ь), Ŝŝ(Щ), Žž(Ж), Ęę(Э), Ïï(И), Ÿÿ(Ы), Ŷŷ(Й).
 
@@ -170,7 +171,7 @@ Imeyetsia neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo 
 V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodiasjhaya ot neskoljkih predkov), drugiye priderzhivayutsia mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
-## Primer texta latinicey
+## Primer teksta latinicey
 
 Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsia, to belyye bolidy bolįshe ne smogut vÿigryvatį gonki.
 
