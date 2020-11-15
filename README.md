@@ -62,10 +62,10 @@
 |          |  **у**  | **ф** |  **х**  | **ц**  | **ч** |
 |          |    u    |   f   |  h/kh   |   c    |  ch   |
 |          |  **ш**  | **щ** |  **ъ**  | **ы**  | **ь** |
-| translit |   sh    |  sjh  | None/qq |  y/hy/hyh | j/jqq |
+| translit |   sh    |  sjh  | None/qq |  y/hy/hyh[aoue] | j/jqq |
 | latinica |         |  ŝh   | None/į  |  y/ÿ   | j/jį  |
 |          |  **э**  | **ю** |  **я**  | **дж** |       |
-| translit | ae/e/he | iu/yu |  ia/ya  |  dzh   |       |
+| translit |  ae/e   | iu/yu |  ia/ya  |  dzh   |       |
 | latinica |   ę/e   |       |         |   dž   |       |
 
 
