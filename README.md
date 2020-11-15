@@ -182,7 +182,7 @@ Męr nebolįshogo gorodishki otkryl tablicu ekselia i vozmutilsia cenoy novogo e
 
 V etom vide fraza ot A to Ya nachinayet vygliadetį sovsem po-drugomu. Seychas ŝhiotka novaya, no pozzhe ona stanet staraya. Chernysh liubit cogda yego cheshut yeyu. Yozh koliuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatį s otkhodami companii "Kaligula Gay Yuliy Cezarį" (lat. ˏCaligula Gaius Iulius Caesarˏ). Odin iz prisutstvuyuŝhih nosil hoholok na golove. On i nashiol vÿhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatį s otkhodami companii "Kaligula Gay Yuliy Cezarį" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuŝhih nosil hoholok na golove. On i nashiol vÿhod iz situacii.
 
 "Kto s mechom k nam pridiot, tot ot mecha i..." - ne smog dogovoritį starshiy mehanik Vasiliy.
 
