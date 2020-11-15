@@ -50,22 +50,19 @@
 
 |          |  **a**  | **б** |  **в**  | **г**  | **д** |
 | -------- |:-------:|:-----:|:-------:|:------:|:-----:|
-| translit |  a/ha   |   b   |    v    |   g    |   d   |
-| latinica |    a    |       |         |        |       |
+|          |    a    |   b   |    v    |   g    |   d   |
 |          |  **е**  | **ё** |  **ж**  | **з**  | **и** |
-| translit |  e/ye   | io/yo |   zh    |   z    | i/hi  |
+| translit |  e/ye   | io/yo |   zh    |   z    | i/i[aoue]h |
 | latinica |         |       |         |        |  i/ï  |
 |          |  **й**  | **к** |  **л**  | **м**  | **н** |
 | translit |  y/yiw  |   k   |    l    |   m    |   n   |
 | latinica |   y/ŷ   |       |         |        |       |
 |          |  **о**  | **п** |  **р**  | **с**  | **т** |
-| translit |  o/ho   |   p   |    r    |   s    |   t   |
-| latinica |    o    |       |         |        |       |
+|          |    o    |   p   |    r    |   s    |   t   |
 |          |  **у**  | **ф** |  **х**  | **ц**  | **ч** |
-| translit |  u/hu   |   f   |  h/kh   |   c    |  ch   |
-| latinica |    u    |       |         |        |       |
+|          |    u    |   f   |  h/kh   |   c    |  ch   |
 |          |  **ш**  | **щ** |  **ъ**  | **ы**  | **ь** |
-| translit |   sh    |  sjh  | None/qq |  y/hy  | j/jqq |
+| translit |   sh    |  sjh  | None/qq |  y/hy/hyh | j/jqq |
 | latinica |         |  ŝh   | None/į  |  y/ÿ   | j/jį  |
 |          |  **э**  | **ю** |  **я**  | **дж** |       |
 | translit | ae/e/he | iu/yu |  ia/ya  |  dzh   |       |
