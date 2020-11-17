@@ -53,8 +53,8 @@
 |          |  **е**  | **ё** |  **ж**  | **з**  | **и** |
 |          |  ye/e   | yo/jo |   zh    |   z    |   i   |
 |          |  **й**  | **к** |  **л**  | **м**  | **н** |
-| translit |  y/(sy)j/(s)yihh(s|$) | k | l | m  |   n   |
-| latinica |   y/(sy)j/(s)ŷ(s|$)   |   |   |    |       |
+| translit |  y/(sy)j/(s)yihh(s\|$) | k | l | m |   n   |
+| latinica |   y/(sy)j/(s)ŷ(s\|$)   |   |   |   |       |
 |          |  **о**  | **п** |  **р**  | **с**  | **т** |
 |          |  o/wo   |   p   |    r    |   s    |   t   |
 |          |  o/ꞌo   |       |         |        |       |
