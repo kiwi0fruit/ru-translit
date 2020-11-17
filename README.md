@@ -171,23 +171,23 @@ V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreni
 
 ## Primer teksta latinicey
 
-Pjyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsja, to belyye bolidy boljshe ne smogut vyꞌigryvatj gonki.
+Pįyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsįa, to belyye bolidy bolįshe ne smogut vyꞌigryvatį gonki.
 
-V pjyese pro devushku v zeljonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konj v paljto i rvanyh džinsah, kotoryy chto-to vyꞌiskival, i prikazal vsem mytjsja i gotovitj buljyonꞌ. Znachit snova pjyom do lysyh akvalangistov.
+V pįyese pro devushku v zelįonom platįyice vse sadilisį na ladįyi i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konį v palįto i rvanyh džinsah, kotoryy chto-to vyꞌiskival, i prikazal vsem mytįsįa i gotovitį bulįyonꞌ. Znachit snova pįyom do lysyh akvalangistov.
 
-Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridjotsja mazatj yodꞌ na ranu.
+Prepodobnyy Bayyes podkinul igralįnyye kosti. Vypalo shestį, znachit yemu pridįotsįa mazatį yodꞌ na ranu.
 
-Mꞌer neboljshogo gorodishki otkryl tablicu ekselja i vozmutilsja cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aeroplana-ekranoljota. Yesli tak poydjot i daljshe, to bjudzhetu pridjotsja hudo.
+Mꞌer nebolįshogo gorodishki otkryl tablicu ekselįa i vozmutilsįa cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitį. Oh uzh eta pokupka vechnogo dvigatelįa v proshlom godu! A tak zhe pokupka aeroplana-ekranolįota. Yesli tak poydįot i dalįshe, to bįudzhetu pridįotsįa hudo.
 
-V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas śhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vygliadetį sovsem po-drugomu. Seychas śhįotka novaya, no pozzhe ona stanet staraya. Chernysh lįubit kogda yego cheshut yeyu. Yozh kolįuchiy i pohozh na neyo.
 
-Sꞌhod mestnyh zhiteley indiyskoy derevni sikꞌhov reshal chto zhe delatj s otꞌhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuśhih nosil hoholok na golove. On i nashjol vyꞌhod iz situacii.
+Sꞌhod mestnyh zhiteley indiyskoy derevni sikꞌhov reshal chto zhe delatį s otꞌhodami kompanii "Kaligula Gay Yuliy Cezarį" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuśhih nosil hoholok na golove. On i nashįol vyꞌhod iz situacii.
 
-"Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
+"Kto s mechom k nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiy mehanik Vasiliy.
 
-Imeyetsja neskoljko gipotez proisꞌhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryye vidy shakalov.
+Imeyetsįa neskolįko gipotez proisꞌhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsįa volk i nekotoryye vidy shakalov.
 
-V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proisꞌhodjaśhaya ot neskoljkih predkov), drugiye priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchįonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proisꞌhodįaśhaya ot neskolįkih predkov), drugiye priderzhivayutsįa mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## TO DO
