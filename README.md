@@ -63,8 +63,8 @@
 |          |    u    |   f   |  h/kh   |   c    |  ch   |
 |          |         |       |  h/ꞌh   |        |       |
 |          |  **ш**  | **щ** |  **ъ**  | **ы**  | **ь** |
-| translit |   sh    |  sjh  | None/qq |  y/hy/h?yh[aoue] | j/jqq |
-| latinica |         |  ŝh   | None/ɂ  |  y/ÿ   | j/jɂ  |
+| translit |   sh    |  sjh  | None/qq |  y/wy  | j/jqq |
+| latinica |         |  ŝh   | None/ɂ  |  y/ꞌy  | j/jɂ  |
 |          |  **э**  | **ю** |  **я**  | **дж** |       |
 | translit |  e/we   | yu/ju |  ya/ja  |  dzh   |       |
 | latinica |  e/ꞌe   |       |         |   dž   |       |
@@ -80,7 +80,7 @@
 |    **ь**     | **jqq** / **jį** (перед гласными **аоуэиы** когда они **не** йотируются), **j** (иначе)                           | грабьармия/grabjqqarmiya/grabjįarmiya, костьутиль/kostjqqutilj/kostjįutilį, пьеса/pjyesa, пьян/pjyan, прячься/priachjsia, мыться/mytjsia, конь/konj, ньын/njqqhyn/njįÿn                                                                                       |
 | **й[аоуэ]**  | **y[aoue]h** / **ŷ[aoue]** (гласные **аоуэ** после й)                                                             | йод/yohd/ŷod, йэс/yehs/ŷes                                                                                                                                                                                                                                    |
 |    **й**     | **y** (остальные простые случаи), **yiw** / **ŷ** (сложные случаи)                                                | красный/krasnyy, аллилуйя/alliluyya, Байес/Bayyes, ныйя/nyyya, йиппи/yippi, нйя/nyihhya/nŷya                                                                                                                                                                                    |
-|    **ы**     | **y** (после согласных), **hy** / **ÿ** (иначе) | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyy, Нарва-Йыэсуу/Narva-Yhyhesuu/Narva-Yÿesuu, Шайыр/Shayhyr/Shayÿr                                                                                                                                                                        |
+|    **ы**     | **y** (после согласных), **hy** / **ÿ** (иначе) | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyy, Нарва-Йыэсуу/Narva-Ywywesuu/Narva-Yꞌyꞌesuu, Шайыр/Shaywyr/Shayꞌyr                                                                                                                                                                        |
 | **ы[аоуэи]** | **yh[aouei]** / **ÿ[aouei]** (гласные **аоуэи** после ы)                                                          | выход/vykhod, выигрывать/vyhigryvatj/vÿigryvatj, выучить/vyhuchitj/vÿuchitj, выострить/vyhostritj/vÿostritj                                                                                                                                                   |
 |    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **ye** (иначе)                 | мера/mera, еда/yeda, если/yesli, заезд/zayezd, Байес/Bayyes, заем/zayem, заём/zayom, траектория/trayektoriya, проект/proekt, проэкт/proehkt/proękt, проэхкт/proekhkt/proęhkt, проэк/proek/proek (проект - словарное исключение с особым правилом отображения) |
 |    **э**     | **ae** / **ę** (после согласных), **е** (иначе)                                                                   | мэр/maer/męr, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/yehs/ŷes                                                                                                                                                                          |
