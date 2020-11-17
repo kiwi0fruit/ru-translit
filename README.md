@@ -54,8 +54,8 @@
 |          |  **е**  | **ё** |  **ж**  | **з**  | **и** |
 |          |  ye/e   | yo/jo |   zh    |   z    |   i   |
 |          |  **й**  | **к** |  **л**  | **м**  | **н** |
-| translit | ^y/y[aoue]/yihh | k |   l    |   m    |   n   |
-| latinica |  y/y/ŷ  |       |         |        |       |
+| translit |  y/yihh | k |   l    |   m    |   n   |
+| latinica |   y/ŷ   |       |         |        |       |
 |          |  **о**  | **п** |  **р**  | **с**  | **т** |
 |          |  o/wo   |   p   |    r    |   s    |   t   |
 |          |  o/ꞌo   |       |         |        |       |
