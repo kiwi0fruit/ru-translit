@@ -149,7 +149,7 @@
 
 *По-моему, это вариант гораздо лучше подходит для русско-английских билингвов, чем варианты с большим количеством диакритических знаков. В английском нет диакритики, в русском - почти нет (ё ставят только при опасности неправильного прочтения, й трудно считать диакритикой). Так что не удивительно, что диакритика будет вызывать отторжение. В варианте минималистичной диакритики она ставится тоже в очень малом числе случаев.*
 
-Pjyanyj master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsja, to belyje bolidy boljshe ne smogut vyꞌigryvatj gonki.
+Pjyanyj master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsja, to belyje bolidy boljshe ne smogut vywigryvatj gonki.
 
 V pjyese pro devushku v zeljonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Dzhordzh Maksimus, konj v paljto i rvanyh dzhinsah, kotoryj chto-to vywiskival, i prikazal vsem mytjsja i gotovitj buljyonw. Znachit snova pjyom do lysyh akvalangistov.
 
@@ -170,7 +170,7 @@ V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreni
 
 ## Primer teksta latinicey
 
-Pjyanyj master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsja, to belyje bolidy boljshe ne smogut vywigryvatj gonki.
+Pjyanyj master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsja, to belyje bolidy boljshe ne smogut vyꞌigryvatj gonki.
 
 V pjyese pro devushku v zeljonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konj v paljto i rvanyh džinsah, kotoryj chto-to vyꞌiskival, i prikazal vsem mytjsja i gotovitj buljyonꞌ. Znachit snova pjyom do lysyh akvalangistov.
 
