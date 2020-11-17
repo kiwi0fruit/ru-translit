@@ -161,7 +161,7 @@ Mwer neboljshogo gorodishki otkryl tablicu ekselja i vozmutilsja cenoy novogo ek
 
 V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas sjhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyusjhih nosil hoholok na golove. On i nashjol vykhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyusjhih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
 "Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
 
@@ -182,7 +182,7 @@ Mꞌer nebolįshogo gorodishki otkryl tablicu ekselįa i vozmutilsįa cenoy novo
 
 V etom vide fraza ot A to Ya nachinayet vygliadetį sovsem po-drugomu. Seychas śhįotka novaya, no pozzhe ona stanet staraya. Chernysh lįubit kogda yego cheshut yeyu. Yozh kolįuchiy i pohozh na neyo.
 
-Sꞌhod mestnyh zhiteley indiyskoy derevni sikꞌhov reshal chto zhe delatį s otꞌhodami kompanii "Kaligula Gay Yuliy Cezarį" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuśhih nosil hoholok na golove. On i nashįol vyꞌhod iz situacii.
+Sꞌhod mestnyh zhiteley indiyskoy derevni sikꞌhov reshal chto zhe delatį s otꞌhodami kompanii "Kaligula Gay Yuliy Cezarį" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuśhih nosil hoholok na golove. On i nashįol vyhod iz situacii.
 
 "Kto s mechom k nam pridįot, tot ot mecha i..." - ne smog dogovoritį starshiy mehanik Vasiliy.
 
