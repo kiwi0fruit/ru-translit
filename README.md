@@ -41,11 +41,10 @@
 
 * QQqq заменено на Ɂɂ (объизвестить/obɂizvestitj, грабьармия/grabjɂarmiya).
 * Ww перед гласными и в конце слова, а так же k перед h заменены на Ꞌꞌ ([Saltillo](https://en.wikipedia.org/wiki/Saltillo_(linguistics))), которое есть полноценная некомбинируемая буква, имеющая верхний и нижний регистры. Это меняет переключатель w из йод/yodꞌ, сход/sꞌhod, сэр/sꞌer, выучить/vyꞌuchitj, выискивать/vyꞌiskivatj.
-* ŝh вместо sjh (Щ), dž вместо dzh (ДЖ).
-* Диакритика над гласными это точки, а над согласными - крышки и гачеки.
-* Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GꞋES, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽꞋEK, ЕС/ĖS, США/SŠA, МЧС/MČS, ЮАР/ÜAR, ЭЭГ/EEG, ЕГЭ/ĖGꞋE, ЧС/ČS, микрорайон Щ/mikrorayohnw Ŝ/mikrorayonꞌ Ŝ.
+* śh вместо sjh (Щ), dž вместо dzh (ДЖ).
+* Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽÈK, ЕС/ÊS, США/SŠA, МЧС/MČS, ЮАР/ÛAR, ЭЭГ/EEG, ЕГЭ/ÊGÈ, ЧС/ČS, микрорайон Щ/mikrorayohnw Ś/mikrorayonꞌ Ś.
 
-*Всё остальное тоже самое, что и в предыдущем варианте.* Новые буквы, встречающиеся не в аббревиатурах: Ŝŝ(Щ), Žž(Ж), Ęę(Э), Ïï(И), Ÿÿ(Ы), Ŷŷ(Й), Įį(Ъ).
+*Всё остальное тоже самое, что и в предыдущем варианте.* Новые буквы, встречающиеся не в аббревиатурах: Śś(Щ), DŽdž(ДЖ), Ꞌꞌ(буква для частых диграфов), Ɂɂ(очень редкие Ъ,Ь), Ŷŷ(очень редкое Й).
 
 |          |  **a**  | **б** |  **в**  | **г**  | **д** |
 | -------- |:-------:|:-----:|:-------:|:------:|:-----:|
@@ -54,7 +53,7 @@
 |          |  **е**  | **ё** |  **ж**  | **з**  | **и** |
 |          |  ye/e   | yo/jo |   zh    |   z    |   i   |
 |          |  **й**  | **к** |  **л**  | **м**  | **н** |
-| translit |  y/yihh | k |   l    |   m    |   n   |
+| translit |  y/yihh |   k   |    l    |   m    |   n   |
 | latinica |   y/ŷ   |       |         |        |       |
 |          |  **о**  | **п** |  **р**  | **с**  | **т** |
 |          |  o/wo   |   p   |    r    |   s    |   t   |
@@ -64,7 +63,7 @@
 |          |         |       |  h/ꞌh   |        |       |
 |          |  **ш**  | **щ** |  **ъ**  | **ы**  | **ь** |
 | translit |   sh    |  sjh  | None/qq |  y/wy  | j/jqq |
-| latinica |         |  ŝh   | None/ɂ  |  y/ꞌy  | j/jɂ  |
+| latinica |         |  śh   | None/ɂ  |  y/ꞌy  | j/jɂ  |
 |          |  **э**  | **ю** |  **я**  | **дж** |       |
 | translit |  e/we   | yu/ju |  ya/ja  |  dzh   |       |
 | latinica |  e/ꞌe   |       |         |   dž   |       |
@@ -82,9 +81,9 @@
 |    **й**     | **y** (остальные простые случаи), **yiw** / **ŷ** (сложные случаи)                                                | красный/krasnyy, аллилуйя/alliluyya, Байес/Bayyes, ныйя/nyyya, йиппи/yippi, нйя/nyihhya/nŷya                                                                                                                                                                                    |
 |    **ы**     | **y** (после согласных), **hy** / **ÿ** (иначе) | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyy, Нарва-Йыэсуу/Narva-Ywywesuu/Narva-Yꞌyꞌesuu, Шайыр/Shaywyr/Shayꞌyr                                                                                                                                                                        |
 | **ы[аоуэи]** | **yh[aouei]** / **ÿ[aouei]** (гласные **аоуэи** после ы)                                                          | выход/vykhod, выигрывать/vyhigryvatj/vÿigryvatj, выучить/vyhuchitj/vÿuchitj, выострить/vyhostritj/vÿostritj                                                                                                                                                   |
-|    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **ye** (иначе)                 | мера/mera, еда/yeda, если/yesli, заезд/zayezd, Байес/Bayyes, заем/zayem, заём/zayom, траектория/trayektoriya, проект/proekt, проэкт/proehkt/proękt, проэхкт/proekhkt/proęhkt, проэк/proek/proek (проект - словарное исключение с особым правилом отображения) |
-|    **э**     | **ae** / **ę** (после согласных), **е** (иначе)                                                                   | мэр/maer/męr, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/yehs/ŷes                                                                                                                                                                          |
-| **аэ\|аэх**  | **aeh\|aehh** / **aę\|aęh** (после согласных)                                                                     | маэстро/maehstro/maęstro, Алаэхос/Alaehhos/Alaęhos                                                                                                                                                                                                            |
+|    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **ye** (иначе)                 | мера/mera, еда/yeda, если/yesli, заезд/zayezd, Байес/Bayyes, заем/zayem, заём/zayom, траектория/trayektoriya, проект/proekt, проэкт/proehkt/proèkt, проэхкт/proekhkt/proèhkt, проэк/proek/proek (проект - словарное исключение с особым правилом отображения) |
+|    **э**     | **ae** / **è** (после согласных), **е** (иначе)                                                                   | мэр/maer/mèr, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/yehs/ŷes                                                                                                                                                                          |
+| **аэ\|аэх**  | **aeh\|aehh** / **aè\|aèh** (после согласных)                                                                     | маэстро/maehstro/maèstro, Алаэхос/Alaehhos/Alaèhos                                                                                                                                                                                                            |
 |  **[яёю]**   | **i[aou]** (после согласных), **y[aou]** (иначе)                                                                  | мёд/miod, ёлка/yolka, пюре/piure, якорь/yakorj                                                                                                                                                                                                                |
 |  **и[аоу]**  | **i[aou]h** / **ï[aou]** (после согласных), **i[aou]** (иначе)                                                    | пианино/piahnino/pïanino, ион/ion                                                                                                                                                                                                                             |
 | **и[аоу]х**  | **i[aou]hh** / **ï[aou]h** (х становится просто h, а не kh)                                                       | диахрония/diahhroniya/dïahroniya                                                                                                                                                                                                                              |
@@ -95,7 +94,7 @@
 
 |          | Ещё примеры                         |
 | -------- | ----------------------------------- |
-| щ/sjh/ŝh | щётка/sjhiotka/ŝhiotka, счёт/schiot |
+| щ/sjh/śh | щётка/sjhiotka/śhiotka, счёт/schiot |
 | ж/zh     | ёж/yozh, возжи/vozzhi, позже/pozzhe |
 | ч/ch     | Черныш/Chernysh, счётная/schiotnaya |
 | ш/sh     | шлем/shlem                          |
@@ -105,7 +104,7 @@
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
-Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Алфавит латиницы не использует Ww, Xx, Qq и дополнительно использует 14 новых букв (см. ниже).
+Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Алфавит латиницы не использует Ww, Xx, Qq и дополнительно использует 13 новых букв (см. ниже).
 
 ***Слово на латинице является грамматически верным если:***
 
@@ -114,33 +113,34 @@
 
 Для обратимых аббревиатур, выглядящих прилично и совместимых с чтением по-русски придётся расширять алфавит. Буквы, уже используемые в латинице, помечены скобками. Остальные - используются только в аббревиатурах:
 
-| **я** | **е** | **ё** | **ю** | **и** | **ы** | **э** |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|  Ää   |  Ėė   |  Öö   |  Üü   | [Ïï]  | [Ÿÿ]  | [Ęę]  |
-| **ч** | **щ** | **ж** | **ш** | **х** | **й** | **ъ** |
-|  Čč   | [Ŝŝ]  | [Žž]  |  Šš   |  Ĥĥ   | [Ŷŷ]  | [Įį]  |
+| **я** | **е** | **ё** | **ю** | **э** |       | для диграфов |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------------:|
+|  Ââ   |  Êê   |  Ôô   |  Ûû   |  Èè   |       |     [Ꞌꞌ]     |
+| **ч** | **щ** | **ж** | **ш** | **х** | **й** | **для ъ,ь**  |
+|  Čč   | [Śś]  | [Žž]  |  Šš   |  Ĥĥ   | [Ŷŷ]  |     [Ɂɂ]     |
 
 
-Примеры аббревиатур: ГЭС/GĘS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽĘK, ЕС/ĖS, США/SŠA, МЧС/MČS, ЮАР/ÜAR, ЭЭГ/EEG, ЕГЭ/ĖGĘ, ЧС/ČS, микрорайон Щ/mikrorayohn Ŝ.
+
+Примеры аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽÈK, ЕС/ÊS, США/SŠA, МЧС/MČS, ЮАР/ÛAR, ЭЭГ/EEG, ЕГЭ/ÊGÈ, ЧС/ČS, микрорайон Щ/mikrorayonw Ś/mikrorayonꞌ Ś.
 
 
 ## Raskladka klaviahtury dlia latinicy
 
-Основная раскладка. Добавляет новые буквы, встречающиеся не в аббревиатурах: Ŝŝ(Щ), Žž(Ж), Ęę(Э), Ïï(И), Ÿÿ(Ы), Ŷŷ(Й).
+Основная раскладка. Добавляет новые буквы, встречающиеся более менее часто: Śś(Щ), Žž(Ж), Ꞌꞌ(буква для диграфов).
 
-| Ÿÿ(\`~) |    1!     |    2@     |    3#     | 4$  | 5%  | 6^  | 7&  | 8\* | 9(  | 0)  |    -\_     |     =+     |
-|:-------:|:---------:|:---------:|:---------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----------:|:----------:|
-|         | **Ŷŷ**(q) | **Ïï**(w) |    Ee     | Rr  | Tt  | Yy  | Uu  | Ii  | Oo  | Pp  | **Ŝŝ**([{) | **Žž**(]}) |
-|         |    Aa     |    Ss     |    Dd     | Ff  | Gg  | Hh  | Jj  | Kk  | Ll  | ;:  |     '"     |    \\\|    |
-|         |           |    Zz     | **Ęę**(x) | Cc  | Vv  | Bb  | Nn  | Mm  | ,<  | .>  |     /?     |            |
+| \`'(\`~) | 1!  | 2"(@") | 3#  | 4$  | 5%  | 6^  | 7&  | 8\* | 9(  | 0)  |    -\_     |     =+     |
+|:--------:|:---:|:------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----------:|:----------:|
+|          | Qq  |   Ww   | Ee  | Rr  | Tt  | Yy  | Uu  | Ii  | Oo  | Pp  | **Śś**([{) | **Žž**(]}) |
+|          | Aa  |   Ss   | Dd  | Ff  | Gg  | Hh  | Jj  | Kk  | Ll  | ;:  | **Ꞌꞌ**('") |    \\\|    |
+|          |     |   Zz   | Xx  | Cc  | Vv  | Bb  | Nn  | Mm  | ,<  | .>  |     /?     |            |
 
-Дополнительная раскладка. Буквы для аббревиатур: Ää(Я),Ėė(Е),Öö(Ё),Üü(Ю),Čč(Ч),Šš(Ш),Žž(Ж),Ĥĥ(Х),Įį(Ь).
+Дополнительная раскладка. Буквы для аббревиатур и очень редких слов: Ââ(Я),Êê(Е),Ôô(Ё),Ûû(Ю),Čč(Ч),Šš(Ш),Žž(Ж),Ĥĥ(Х),Ŷŷ(Йй),Ɂɂ(редкие Ъ,Ь).
 
-| Ÿÿ  |   1!   |   2@   |   3#   |   4$   | 5%  |   6^   |   7&   |  8\*   |   9(   | 0)  | -\_ |  =+  |
-|:---:|:------:|:------:|:------:|:------:|:---:|:------:|:------:|:------:|:------:|:---:|:---:|:----:|
-|     |   Ŷŷ   |   Ïï   | **Ėė** |   Rr   | Tt  | **Ŷŷ** | **Üü** | **Ïï** | **Öö** | Pp  | Ŝŝ  |  Žž  |
-|     | **Ää** | **Šš** |   Dd   |   Ff   | Gg  | **Ĥĥ** | **Įį** |   Kk   |   Ll   | ;:  | '"  | \\\| |
-|     |        | **Žž** |   Ęę   | **Čč** | Vv  |   Bb   |   Nn   |   Mm   |   ,<   | .>  | /?  |      |
+| \`' |   1!   |   2"   |   3#   |   4$   | 5%  |   6^   |   7&   | 8\* |   9(   | 0)  | -\_ |  =+  |
+|:---:|:------:|:------:|:------:|:------:|:---:|:------:|:------:|:---:|:------:|:---:|:---:|:----:|
+|     | **Ɂɂ** | **Ꞌꞌ** | **Êê** |   Rr   | Tt  | **Ŷŷ** | **Ûû** | Ii  | **Ôô** | Pp  | Śś  |  Žž  |
+|     | **Ââ** | **Šš** |   Dd   |   Ff   | Gg  | **Ĥĥ** |   Jj   | Kk  |   Ll   | ;:  | Ꞌꞌ  | \\\| |
+|     |        | **Žž** | **Èè** | **Čč** | Vv  |   Bb   |   Nn   | Mm  |   ,<   | .>  | /?  |      |
 
 
 ## Primer texta translitom
@@ -174,17 +174,17 @@ V pjyese pro devushku v zelionom platjyice vse sadilisj na ladjyi i plyli po rek
 
 Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridiotsia mazatj ŷod na ranu.
 
-Męr neboljshogo gorodishki otkryl tablicu ekselia i vozmutilsia cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydiot i daljshe, to biudžetu pridiotsia hudo.
+Mèr neboljshogo gorodishki otkryl tablicu ekselia i vozmutilsia cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Yesli tak poydiot i daljshe, to biudžetu pridiotsia hudo.
 
-V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas ŝhiotka novaya, no pozzhe ona stanet staraya. Chernysh liubit cogda yego cheshut yeyu. Yozh koliuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas śhiotka novaya, no pozzhe ona stanet staraya. Chernysh liubit cogda yego cheshut yeyu. Yozh koliuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami companii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuŝhih nosil hoholok na golove. On i nashiol vykhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami companii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuśhih nosil hoholok na golove. On i nashiol vykhod iz situacii.
 
 "Kto s mechom k nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
 
 Imeyetsia neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsia volk i nekotoryye vidy shakalov.
 
-V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodiaŝhaya ot neskoljkih predkov), drugiye priderzhivayutsia mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyakh uchionyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodiaśhaya ot neskoljkih predkov), drugiye priderzhivayutsia mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## TO DO
