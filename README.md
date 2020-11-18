@@ -7,7 +7,7 @@
 Содержание:
 
 * [Кириллица <=> латиница](#kirillica--latinica)
-* [Раскладка клавиатуры для латиницы](#raskladka-klaviahtury-dlia-latinicy)
+* [Раскладка клавиатуры для латиницы](#raskladka-klaviatury-dlja-latinicy)
 * [Пример текста транслитом](#primer-texta-translitom)
 * [Пример текста латиницей](#primer-teksta-latinicey)
 
@@ -119,7 +119,7 @@
 Примеры аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽÈK, ЕС/ÊS, США/SŠA, МЧС/MČS, ЮАР/ÛAR, ЭЭГ/EEG, ЕГЭ/ÊGÈ, ЧС/ČS, микрорайон Щ/mikrorayonw Ś/mikrorayonꞌ Ś.
 
 
-## Raskladka klaviahtury dlia latinicy
+## Raskladka klaviatury dlja latinicy
 
 Основная раскладка. Добавляет новые буквы, встречающиеся более менее часто: Śś(Щ), Žž(Ж), Ꞌꞌ(W).
 
@@ -150,7 +150,7 @@ Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridjo
 
 Mwer neboljshogo gorodishki otkryl tablicu ekselja i vozmutilsja cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aeroplana-ekranoljota. Yesli tak poydjot i daljshe, to bjudzhetu pridjotsja hudo.
 
-V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas sjhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Seychas sjhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
 
 Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyusjhih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
@@ -171,7 +171,7 @@ Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridjo
 
 Mꞌer neboljshogo gorodishki otkryl tablicu ekselja i vozmutilsja cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aeroplana-ekranoljota. Yesli tak poydjot i daljshe, to bjudžetu pridjotsja hudo.
 
-V etom vide fraza ot A to Ya nachinayet vygliadetj sovsem po-drugomu. Seychas śhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Seychas śhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
 
 Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuśhih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
