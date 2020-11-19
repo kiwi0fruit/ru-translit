@@ -155,9 +155,9 @@ Mwer neboljshogo gorodishki otkryl tablicu ekselja i vozmutilsja cenoy novogo ek
 
 V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Seychas sjhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii “Kaligula Gay Yuliy Cezarj” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyusjhih nosil hoholok na golove. On i nashjol vyhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyusjhih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
-“Kto s mechom k nam pridjot, tot ot mecha i...” - ne smog dogovoritj starshiy mehanik Vasiliy.
+"Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
 
 Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryye vidy shakalov.
 
