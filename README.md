@@ -87,16 +87,16 @@
 
 Из таблицы выше видно, что для ь и ъ (особенно ъи и ьэ) придется определять отображение по умолчанию и запомненные в словарь исключения из него. Так, стоит ожидать, что ъи и ьэ по умолчанию должны быть не йотированными, но известны и йотированные исключения.
 
-|            | Ещё примеры                         |
-| ---------- | ----------------------------------- |
-| дж/dzh(dž) | Джордж/Dzhordzh/Džordž              |
-| щ/sjh(șh)  | щётка/sjhjotka/șhjotka, счёт/schjot |
-| ж/zh       | ёж/yozh, возжи/vozzhi, позже/pozzhe |
-| ч/ch       | Черныш/Chernysh, счётная/schjotnaya |
-| ш/sh       | шлем/shlem                          |
-| ё/jo/yo    | мёд/mjod, ёмко/yomko                |
-| ю/ju/yu    | мюсли/mjusli, Юля/Yulja             |
-| я/ja/ya    | Изя/Izja, Якорь/Yakorj, баян/bayan  |
+|             | Ещё примеры                                    |
+| ----------- | ---------------------------------------------- |
+| дж/dzh(dž)  | Джордж/Dzhordzh/Džordž                         |
+| щ/sjh(șh)   | щётка/sjhjotka/șhìotka, счёт/schjot/schìot     |
+| ж/zh        | ёж/yozh, возжи/vozzhi, позже/pozzhe            |
+| ч/ch        | Черныш/Chernysh, счётная/schjotnaya/schìotnaya |
+| ш/sh        | шлем/shlem                                     |
+| ё/jo(ìo)/yo | мёд/mjod/mìod, ёмко/yomko                      |
+| ю/ju(ìu)/yu | мюсли/mjusli/mìusli, Юля/Yulja/Yulìa           |
+| я/ja(ìa)/ya | Изя/Izja/Izìa, Якорь/Yakorj/Yakorì, баян/bayan |
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
