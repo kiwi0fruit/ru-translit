@@ -136,7 +136,7 @@
 
 | \`' |   1!   |   2"   |   3#   |   4$   | 5%  |   6^   |   7&   | 8\* |   9(   | 0)  | -\_ |  =+  |
 |:---:|:------:|:------:|:------:|:------:|:---:|:------:|:------:|:---:|:------:|:---:|:---:|:----:|
-|     |   Qq   | **Ŝŝ** | **Ěě** |   Rr   | Tt  | **Ŷŷ** | **Ǔǔ** | Ii  | **Ǒǒ** | Pp  | Șș  |  Žž  |
+|     |   Qq   |   Ww   | **Ěě** |   Rr   | Tt  | **Ŷŷ** | **Ǔǔ** | Ii  | **Ǒǒ** | Pp  | Șș  |  Žž  |
 |     | **Ǎǎ** | **Šš** |   Dd   |   Ff   | Gg  | **Ȟȟ** |   Jj   | Kk  |   Ll   | ;:  | Ꞌꞌ  | \\\| |
 |     |        | **Žž** | **Èè** | **Čč** | Vv  |   Bb   |   Nn   | Mm  |   ,<   | .>  | /?  |      |
 
@@ -166,23 +166,23 @@ V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreni
 
 ## Primer teksta latinicey
 
-Pjyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsja, to belyye bolidy boljshe ne smogut vyꞌigryvatj gonki.
+Pìyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsìa, to belyye bolidy bolìshe ne smogut vyꞌigryvatì gonki.
 
-V pjyese pro devushku v zeljonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konj v paljto i rvanyh džinsah, kotoryy chto-to vyꞌiskival, i prikazal vsem mytjsja i gotovitj buljyonꞌ. Znachit snova pjyom do lysyh akvalangistov.
+V pìyese pro devushku v zelìonom platìyice vse sadilisì na ladìyi i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konì v palìto i rvanyh džinsah, kotoryy chto-to vyꞌiskival, i prikazal vsem mytìsìa i gotovitì bulìyonꞌ. Znachit snova pìyom do lysyh akvalangistov.
 
-Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridjotsja mazatj yodꞌ na ranu.
+Prepodobnyy Bayyes podkinul igralìnyye kosti. Vypalo shestì, znachit yemu pridìotsìa mazatì yodꞌ na ranu.
 
-Mꞌer neboljshogo gorodishki otkryl tablicu ekselja i vozmutilsja cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aeroplana-ekranoljota. Yesli tak poydjot i daljshe, to bjudžetu pridjotsja hudo.
+Mꞌer nebolìshogo gorodishki otkryl tablicu ekselìa i vozmutilsìa cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitì. Oh uzh eta pokupka vechnogo dvigatelìa v proshlom godu! A tak zhe pokupka aeroplana-ekranolìota. Yesli tak poydìot i dalìshe, to bìudžetu pridìotsìa hudo.
 
-V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Seychas śhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglìadetì sovsem po-drugomu. Seychas șhìotka novaya, no pozzhe ona stanet staraya. Chernysh lìubit kogda yego cheshut yeyu. Yozh kolìuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuśhih nosil hoholok na golove. On i nashjol vyhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatì s otkhodami kompanii "Kaligula Gay Yuliy Cezarì" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyușhih nosil hoholok na golove. On i nashìol vyhod iz situacii.
 
-"Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
+"Kto s mechom k nam pridìot, tot ot mecha i..." - ne smog dogovoritì starshiy mehanik Vasiliy.
 
-Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryye vidy shakalov.
+Imeyetsìa neskolìko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsìa volk i nekotoryye vidy shakalov.
 
-V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjaśhaya ot neskoljkih predkov), drugiye priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodìașhaya ot neskolìkih predkov), drugiye priderzhivayutsìa mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## TO DO
