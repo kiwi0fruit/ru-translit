@@ -157,7 +157,7 @@ V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Seychas sj
 
 Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyusjhih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
-"Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
+“Kto s mechom k nam pridjot, tot ot mecha i...” - ne smog dogovoritj starshiy mehanik Vasiliy.
 
 Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryye vidy shakalov.
 
@@ -178,7 +178,7 @@ V etom vide fraza ot A to Ya nachinayet vyglìadetì sovsem po-drugomu. Seychas 
 
 Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatì s otkhodami kompanii "Kaligula Gay Yuliy Cezarì" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyușhih nosil hoholok na golove. On i nashìol vyhod iz situacii.
 
-"Kto s mechom k nam pridìot, tot ot mecha i..." - ne smog dogovoritì starshiy mehanik Vasiliy.
+“Kto s mechom k nam pridìot, tot ot mecha i...” - ne smog dogovoritì starshiy mehanik Vasiliy.
 
 Imeyetsìa neskolìko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsìa volk i nekotoryye vidy shakalov.
 
