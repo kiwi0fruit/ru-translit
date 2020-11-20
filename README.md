@@ -187,6 +187,8 @@ V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 ## Primer teksta na latinice (eksperimentaljnaya aljternativa)
 
+Дополнительная замена y=>j в значении йота.
+
 Pìjanyj master po proektu sdelal mehanicheskij objekt s izjanom. Jesli brak ne obnaruzhitsìa, to belyje bolidy bolìshe ne smogut vyigryvatì gonki. 
 
 V pìjese pro devushku v zelìonom platìjice vse sadilisì na ladìji i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konì v palìto i rvanyh džinsah, kotoryj chto-to vyiskival, i prikazal vsem mytìsìa i gotovitì bulìjonꞌ. Znachit snova pìjom do lysyh akvalangistov. 
