@@ -197,15 +197,15 @@ Prepodobnyj Bajjes podkinul igralìnyje kosti. Vypalo shestì, znachit jemu prid
 
 Mꞌer nebolìshogo gorodishki otkryl tablicu ekselìa i vozmutilsìa cenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitì. Oh uzh eta pokupka vechnogo dvigatelìa v proshlom godu! A tak zhe pokupka aeroplana-ekranolìota. Jesli tak pojdìot i dalìshe, to bìudžetu pridìotsìa hudo. 
 
-V etom vide fraza ot A to Ja nachinajet vyglìadetì sovsem po-drugomu. Seychas șhìotka novaja, no pozzhe ona stanet staraja. Chernysh lìubit kogda jego cheshut jeju. Yozh kolìuchiy i pohozh na nejo. 
+V etom vide fraza ot A to Ja nachinajet vyglìadetì sovsem po-drugomu. Sejchas șhìotka novaja, no pozzhe ona stanet staraja. Chernysh lìubit kogda jego cheshut jeju. Jozh kolìuchij i pohozh na nejo. 
 
-Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gay Julij Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujușhih nosil hoholok na golove. On i nashìol vyhod iz situacii. 
+Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gaj Julij Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujușhih nosil hoholok na golove. On i nashìol vyhod iz situacii. 
 
 “Kto s mechom k nam pridìot, tot ot mecha i...” - ne smog dogovoritì starshij mehanik Vasilij. 
 
 Imejetsìa neskolìko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsìa volk i nekotoryje vidy shakalov. 
 
-V suzhdenijah uchìonyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut, chto sobaki - polifileticheskaya gruppa (proiskhodìașhaja ot neskolìkih predkov), drugije priderzhivajutsìa mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
+V suzhdenijah uchìonyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut, chto sobaki - polifileticheskaja gruppa (proiskhodìașhaja ot neskolìkih predkov), drugije priderzhivajutsìa mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
 
 
 ## TO DO
