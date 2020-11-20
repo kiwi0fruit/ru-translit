@@ -187,7 +187,7 @@ V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 ## Primer teksta na latinice (eksperimentaljnaya aljternativa)
 
-Дополнительная замена y=>j в значении йота.
+Дополнительная замена y=>j в значении йота. Этот вариант компактнее, но хуже тем, что использует привычные джа, джэ вместо йа, йэ...
 
 Pìjanyj master po proektu sdelal mehanicheskij objekt s izjanom. Jesli brak ne obnaruzhitsìa, to belyje bolidy bolìshe ne smogut vyigryvatì gonki. 
 
