@@ -189,7 +189,7 @@ V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zren
 
 ## Primer teksta na latinice (eksperimentaljnaya aljternativa)
 
-Дополнительная замена y=>j в значении йота. Этот вариант компактнее, но хуже тем, что использует привычные джа, джэ вместо йа, йэ...
+Дополнительная замена y=>j в значении йота. Этот вариант компактнее, использует разные буквы для йота и ы, но хуже тем, что использует привычные джа, джэ вместо йа, йэ и слишком далёк от первой версии ASCII транслита. Но всё равно есть в нем какой-то шарм и протест против Джейкоби/Якоби, Джизуса/Иисуса, Джулии/Юлии. Мухаха.
 
 Pìjanyj master po proektu sdelal mehanicheskij objekt s izjanom. Jesli brak ne obnaruzhitsìa, to belyje bolidy bolìshe ne smogut vyigryvatì gonki. 
 
