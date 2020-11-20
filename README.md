@@ -41,7 +41,7 @@
 
 * Ìì вместо Jj (Ь).
 * Ꞌꞌ вместо Ww. Это [Saltillo](https://en.wikipedia.org/wiki/Saltillo_(linguistics)) - полноценная некомбинируемая буква, имеющая верхний и нижний регистры и попадающая под регулярное выражение`\w+`. (йод/yodꞌ, сэр/sꞌer, выучить/vyꞌuchitì, выискивать/vyꞌiskivatì).
-* șh вместо sjh (Щ),
+* șch вместо sjh (Щ),
 * dž вместо dzh (ДЖ),
 * ŷ[aoue] вместо y[aoue]h (ёдйод/yodŷod),
 * Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ș/mikrorayonꞌ Ș.
@@ -64,7 +64,7 @@
 |  **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |    f     |   h/kh    |    c     |    ch    |    sh    |
 |  **щ**   |   **ъ**   |  **ь**   |  **дж**  |          |
-| sjh(șh)  |  None/qq  | j(ì)/jqq(ìqq) | dzh(dž) |      |
+| sjh(șch) |  None/qq  | j(ì)/jqq(ìqq) | dzh(dž) |      |
 
 
 
@@ -90,7 +90,7 @@
 |             | Ещё примеры                                    |
 | ----------- | ---------------------------------------------- |
 | дж/dzh(dž)  | Джордж/Dzhordzh/Džordž                         |
-| щ/sjh(șh)   | щётка/sjhjotka/șhìotka, счёт/schjot/schìot     |
+| щ/sjh(șch)  | щётка/sjhjotka/șchìotka, счёт/schjot/schìot    |
 | ж/zh        | ёж/yozh, возжи/vozzhi, позже/pozzhe            |
 | ч/ch        | Черныш/Chernysh, счётная/schjotnaya/schìotnaya |
 | ш/sh        | шлем/shlem                                     |
@@ -119,7 +119,7 @@
 Ъ, Ь: QQ, Ì/ÌQQ. В словах в верхнем регистре Щ пишется просто как Ș, без H.
 
 
-Примеры аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ș/mikrorayonꞌ Ș.
+Примеры аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ș/mikrorayonꞌ Ș. То есть специально для аббревиатур, когда после ș идет диграф ch - он считается частью щ. А когда идет č, то считается уже отдельной буквой.
 
 
 ## Raskladka klaviatury dlja latinicy
@@ -176,15 +176,15 @@ Prepodobnyy Bayyes podkinul igralìnyye kosti. Vypalo shestì, znachit yemu prid
 
 Mꞌer nebolìshogo gorodishki otkryl tablicu ekselìa i vozmutilsìa cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitì. Oh uzh eta pokupka vechnogo dvigatelìa v proshlom godu! A tak zhe pokupka aeroplana-ekranolìota. Yesli tak poydìot i dalìshe, to bìudžetu pridìotsìa hudo.
 
-V etom vide fraza ot A to Ya nachinayet vyglìadetì sovsem po-drugomu. Seychas șhìotka novaya, no pozzhe ona stanet staraya. Chernysh lìubit kogda yego cheshut yeyu. Yozh kolìuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglìadetì sovsem po-drugomu. Seychas șchìotka novaya, no pozzhe ona stanet staraya. Chernysh lìubit kogda yego cheshut yeyu. Yozh kolìuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gay Yuliy Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyușhih nosil hoholok na golove. On i nashìol vyhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gay Yuliy Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyușchih nosil hoholok na golove. On i nashìol vyhod iz situacii.
 
 “Kto s mechom k nam pridìot, tot ot mecha i...” - ne smog dogovoritì starshiy mehanik Vasiliy.
 
 Imeyetsìa neskolìko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsìa volk i nekotoryye vidy shakalov.
 
-V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodìașhaya ot neskolìkih predkov), drugiye priderzhivayutsìa mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodìașchaya ot neskolìkih predkov), drugiye priderzhivayutsìa mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Primer teksta na latinice (eksperimentaljnaya aljternativa)
@@ -199,15 +199,15 @@ Prepodobnyj Bajjes podkinul igralìnyje kosti. Vypalo shestì, znachit jemu prid
 
 Mꞌer nebolìshogo gorodishki otkryl tablicu ekselìa i vozmutilsìa cenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitì. Oh uzh eta pokupka vechnogo dvigatelìa v proshlom godu! A tak zhe pokupka aeroplana-ekranolìota. Jesli tak pojdìot i dalìshe, to bìudžetu pridìotsìa hudo. 
 
-V etom vide fraza ot A to Ja nachinajet vyglìadetì sovsem po-drugomu. Sejchas șhìotka novaja, no pozzhe ona stanet staraja. Chernysh lìubit kogda jego cheshut jeju. Jozh kolìuchij i pohozh na nejo. 
+V etom vide fraza ot A to Ja nachinajet vyglìadetì sovsem po-drugomu. Sejchas șchìotka novaja, no pozzhe ona stanet staraja. Chernysh lìubit kogda jego cheshut jeju. Jozh kolìuchij i pohozh na nejo. 
 
-Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gaj Julij Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujușhih nosil hoholok na golove. On i nashìol vyhod iz situacii. 
+Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gaj Julij Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujușchih nosil hoholok na golove. On i nashìol vyhod iz situacii. 
 
 “Kto s mechom k nam pridìot, tot ot mecha i...” - ne smog dogovoritì starshij mehanik Vasilij. 
 
 Imejetsìa neskolìko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsìa volk i nekotoryje vidy shakalov. 
 
-V suzhdenijah uchìonyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut, chto sobaki - polifileticheskaja gruppa (proiskhodìașhaja ot neskolìkih predkov), drugije priderzhivajutsìa mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
+V suzhdenijah uchìonyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut, chto sobaki - polifileticheskaja gruppa (proiskhodìașchaja ot neskolìkih predkov), drugije priderzhivajutsìa mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
 
 
 ## TO DO
