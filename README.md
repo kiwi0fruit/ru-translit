@@ -92,17 +92,17 @@
 |             | Ещё примеры                                    |
 | ----------- | ---------------------------------------------- |
 | дж/dzh(dž)  | Джордж/Dzhordzh/Džordž                         |
-| щ/sjh(șch)  | щётка/sjhjotka/șchìotka, счёт/schjot/schìot    |
-| ж/zh        | ёж/yozh, возжи/vozzhi, позже/pozzhe            |
-| ч/ch        | Черныш/Chernysh, счётная/schjotnaya/schìotnaya |
+| щ/scjh(şch) | щётка/scjhiotka/şchiotka, счёт/schiot   |
+| ж/zh        | ёж/yozh, возжи/vozzhi/vozzhì, позже/pozzhe            |
+| ч/ch        | Черныш/Chernysh, счётная/schiotnaya |
 | ш/sh        | шлем/shlem                                     |
-| ё/jo(ìo)/yo | мёд/mjod/mìod, ёмко/yomko                      |
-| ю/ju(ìu)/yu | мюсли/mjusli/mìusli, Юля/Yulja/Yulìa           |
-| я/ja(ìa)/ya | Изя/Izja/Izìa, Якорь/Yakorj/Yakorì, баян/bayan |
+| ё/io/yo | мёд/miod, ёмко/yomko                      |
+| ю/iu/yu | мюсли/miusli/miuslì, Юля/Yulia           |
+| я/ia/ya | Изя/Izia, Якорь/Yakorj, баян/bayan |
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
-Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Алфавит латиницы не использует Ww, Xx, Jj и дополнительно использует 14 новых букв (см. ниже).
+Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Алфавит латиницы не использует Ww, Xx и дополнительно использует 14 новых букв (см. ниже).
 
 ***Слово на латинице является грамматически верным если:***
 
