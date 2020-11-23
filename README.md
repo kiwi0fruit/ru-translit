@@ -30,24 +30,23 @@
 * y йотирует следующую гласную, но не смягчает предыдущую согласную (яма/yama, съезд/syezd),
 * y после согласных звучит ы, но йотирование гласных имеет приоритет (мы/my),
 * разные виды йотирования переключаются после yo,ye,yu,ya. Причем, когда место возможного переключения йотирования всего одно, то переключение происходит в конце слова, а когда их несколько, то сразу после (ёд/yod, йод/yodw, ёдйод/yodyohd, ручьйи/ruchjyiw).
-* После согласных и перед нейотированной гласной смягчение происходит с помощью i (мяч/miach, мёд/miod). Если нужно полногласную i, то можно использовать переключатель h (пион/piohn).
-* j после согласных смягчает их, но не йотирует следующую гласную. И не должно быть ja,ju,jo,je - ибо нефиг (пьеса/pjyesa, конь/konj, грабьармия/grabjqqarmiya),
-* qq обозначает паузу, гортанную смычку или просто игнорируемый диграф - зависит от слова (объизвестить/obqqizvestitj, грабьармия/grabjqqarmiya).
+* j после согласных смягчает их, но не йотирует следующую гласную (мёд/mjod, пьеса/pjyesa, конь/konj),
 * после ы буквы й,е,ё,ю,я,а,о,у,э,и,ы становятся y,ye,yo,yu,ya,wa,wo,wu,we,wi,wy (красный/krasnyy, красные/krasnyye, аллилуйя/alliluyya, выучить/vywuchitj, выискивать/vywiskivatj).
 * e после согласных всегда смягчает, можно опустить j (пень/penj). В остальных случаях e обозначает звук э (это/eto, поэт/poet). Йотировать надо для уезд/uyezd. Убрать смягчение после согласной можно с помощью we: мэр/mwer, сэр/swer.
+* qq обозначает паузу, гортанную смычку или просто игнорируемый диграф - зависит от слова (объизвестить/obqqizvestitj, грабьармия/grabjqqarmiya).
 * х обозначется h/kh (ход/hod, сход/skhod).
 * слова на латинице из других языков можно писать, экранируя с помощью " /" и "/ ".
 
 Парная **латиница с диакритикой** отличается от предыдущего варианта тем, что:
 
-* Ìì вместо Ii когда та значит Ии, то есть Ii остаётся только для смягчения. Так нет нужды в переключателе полногласной i (пион/pìon, лён/lion).
-* Ꞌꞌ вместо Ww. Это [Saltillo](https://en.wikipedia.org/wiki/Saltillo_(linguistics)) - полноценная некомбинируемая буква, имеющая верхний и нижний регистры и попадающая под регулярное выражение`\w+`. (йод/yodꞌ, сэр/sꞌer, выучить/vyꞌuchìtj, выискивать/vyꞌìskìvatj).
-* şch вместо scjh (Щ),
+* Ìì вместо Jj (Ь).
+* Ꞌꞌ вместо Ww. Это [Saltillo](https://en.wikipedia.org/wiki/Saltillo_(linguistics)) - полноценная некомбинируемая буква, имеющая верхний и нижний регистры и попадающая под регулярное выражение`\w+`. (йод/yodꞌ, сэр/sꞌer, выучить/vyꞌuchitì, выискивать/vyꞌiskivatì).
+* șch вместо sjh (Щ),
 * dž вместо dzh (ДЖ),
 * ŷ[aoue] вместо y[aoue]h (ёдйод/yodŷod),
-* Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽÈK, ЕС/ÊS, США/SŠA, МЧС/MČS, ЮАР/ÛAR, ЭЭГ/EEG, ЕГЭ/ÊGÈ, микрорайон Щ/mikrorayonw Ş/mikrorayonꞌ Ş.
+* Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ș/mikrorayonꞌ Ș.
 
-*Всё остальное тоже самое, что и в предыдущем варианте.* Новые буквы, встречающиеся не в аббревиатурах: ŞCHşch(Щ), DŽdž(ДЖ), Ìì(И), Ꞌꞌ(W), Ŷŷ(очень редкое Й).
+*Всё остальное тоже самое, что и в предыдущем варианте.* Новые буквы, встречающиеся не в аббревиатурах: ȘCHșch(Щ), DŽdž(ДЖ), Ìì(Ь), Ꞌꞌ(W), Ŷŷ(очень редкое Й).
 
 **Вариант латиницы дан в скобках.**
 
@@ -55,7 +54,7 @@
 |:--------:|:---------:|:--------:|:--------:|:--------:|
 | a/wa(ꞌa) | o/wo(ꞌo)  | u/wu(ꞌu) | e/we(ꞌe) | y/wy(ꞌy) |
 |  **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
-|  ya/ia   |   yo/io   |  yu/iu   |   ye/e   | i(ì)/wi(ꞌì) |
+| ya/ja(ìa) | yo/jo(ìo) | yu/ju(ìu) |   ye/e   | i/wi(ꞌi) |
 |  **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
 |    b     |     v     |    g     |    d     |    zh    |
 |  **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
@@ -65,44 +64,42 @@
 |  **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |    f     |   h/kh    |    c     |    ch    |    sh    |
 |  **щ**   |   **ъ**   |  **ь**   |  **дж**  |          |
-| scjh(şch) | None/qq  | j/jqq    | dzh(dž)  |          |
+| sjh(șch) |  None/qq  | j(ì)/jqq(ìqq) | dzh(dž) |      |
 
 
 |              | Правило транслита / правило латиницы                                                                                                                  | Кириллица/Транслит/Латиница                                                                                                                                                                                                          |
 |:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|    **ъи**    | **yi** / **yì** (**ъи** после согласных в словарных словах-исключениях, когда и йотируется)                                                           | объимать/obyimatj/obyìmatj, обйимать/obyimatjw/obyìmatjꞌ, обйимоть/obyimotj/obyìmotj, объимоть/obqqimotj/obqqìmotj, объйимать/obqqyimatj/obqqyìmatj (здесь логика модификации с помощью w/h изменена только для словарных слов-исключений) |
-|    **ъ**     | None (после согласных перед **яёюе**), **qq** (иначе)                                                                                                 | изъян/izyan/ìzyan, объект/obyekt, объизвестить/obqqizvestitj/obqqìzvestìtj, Йонъин/Yonqqinw/Yonqqìnꞌ, Сёркйосен/Siorkyosenw/Siorkyosenꞌ, онъ/onqq, Муъминат/Muqqminat/Muqqmìnat, Чанъань/Chanqqanj/Chanqqanj, нъын/nqqwyn/nqqꞌyn     |
-|    **ьо**    | **jyo...w** / **jyo...ꞌ** (**jyoh** / **jŷo**) (**ьо** когда они **йотируются**, а это почти всегда)                                                  | бульон/buljyonw/buljyonꞌ, бульонъён/buljyohnyon/buljŷonyon, сеньор/senjyorw/senjyorꞌ, лосьон/losjyonw/losjyonꞌ, лосьйон/losjyonww/losjyonꞌꞌ (здесь **специально для ьо** изменена логика модификации с помощью w/h)                  |
-|    **ьи**    | **jyi** / **jyì** (**ьи** когда они **йотируются**, а это почти всегда)                                                                               | ладьи/ladjyi/ladjyì, платьице/platjyice/platjyìce, ладьйи/ladjyiw/ladjyìꞌ (здесь **специально для ьи** изменена логика модификации с помощью w/h)                                                                                    |
-|  **ь[ауэ]**  | **jy[aue]...w** / **jy[aue]...ꞌ** (**jy[aue]h** / **jŷ[aue]**) (гласные **ауэ** после **ь** в словарных словах-исключениях, когда они **йотируются**) | бельэтаж/beljyetazhw/beljyetazhꞌ, бельйэтаж/beljyetazhww/beljyetazhꞌꞌ, бельэт/beljqqet (здесь логика модификации с помощью w/h изменена только для словарных слов-исключений)                                               |
-|    **ь**     | **jqq** (перед гласными **аоуэиы** когда они **не** йотируются), **j** (иначе)                                                              | грабьармия/grabjqqarmiya/grabjqqarmìya, костьутиль/kostjqqutilj/kostjqqutìlj, пьеса/pjyesa, пьян/pjyan, прячься/priachjsia, мыться/mytjsia, конь/konj, ньын/njqqwyn/njqqꞌyn |
+|    **ъи**    | **yi** (**ъи** после согласных в словарных словах-исключениях, когда и йотируется)                                                                    | объимать/obyimatj/obyimatì, обйимать/obyimatjw/obyimatìꞌ, обйимоть/obyimotj/obyimotì, объимоть/obqqimotj/obqqimotì, объйимать/obqqyimatj/obqqyimatì (здесь логика модификации с помощью w/h изменена только для словарных слов-исключений) |
+|    **ъ**     | None (после согласных перед **яёюе**), **qq** (иначе)                                                                                                 | изъян/izyan, объект/obyekt, объизвестить/obqqizvestitj/obqqizvestitì, Йонъин/Yonqqinw/Yonqqinꞌ, Сёркйосен/Sjorkyosenw/Sìorkyosenꞌ, онъ/onqq, Муъминат/Muqqminat, Чанъань/Chanqqanj/Chanqqanì, нъын/nqqwyn/nqqꞌyn                     |
+|    **ьо**    | **jyo...w** / **ìyo...ꞌ** (**jyoh** / **ìŷo**) (**ьо** когда они **йотируются**, а это почти всегда)                                                  | бульон/buljyonw/bulìyonꞌ, бульонъён/buljyohnyon/bulìŷonyon, сеньор/senjyorw/senìyorꞌ, лосьон/losjyonw/losìyonꞌ, лосьйон/losjyonww/losìyonꞌꞌ (здесь **специально для ьо** изменена логика модификации с помощью w/h)                  |
+|    **ьи**    | **jyi** / **ìyi** (**ьи** когда они **йотируются**, а это почти всегда)                                                                               | ладьи/ladjyi/ladìyi, платьице/platjyice/platìyice, ладьйи/ladjyiw/ladìyiꞌ (здесь **специально для ьи** изменена логика модификации с помощью w/h)                                                                                    |
+|  **ь[ауэ]**  | **jy[aue]...w** / **ìy[aue]...ꞌ** (**jy[aue]h** / **ìŷ[aue]**) (гласные **ауэ** после **ь** в словарных словах-исключениях, когда они **йотируются**) | бельэтаж/beljyetazhw/belìyetazhꞌ, бельйэтаж/beljyetazhww/belìyetazhꞌꞌ, бельэт/beljqqet/belìqqet (здесь логика модификации с помощью w/h изменена только для словарных слов-исключений)                                               |
+|    **ь**     | **jqq** / **ìqq** (перед гласными **аоуэиы** когда они **не** йотируются), **j** (иначе)                                                              | грабьармия/grabjqqarmiya/grabìqqarmiya, костьутиль/kostjqqutilj/kostìqqutilì, пьеса/pjyesa/pìyesa, пьян/pjyan/pìyan, прячься/prjachjsja/prìachìsìa, мыться/mytjsja/mytìsìa, конь/konj/konì, ньын/njqqwyn/nìqqꞌyn                     |
 | **й[аоуэ]**  | **y[aoue]...w** / **y[aoue]...ꞌ** (**y[aoue]h** / **ŷ[aoue]**) (гласные **аоуэ** после й)                                                             | йод/yodw/yodꞌ, йэс/yesw/yesꞌ, ёдйод/yodyohd/yodŷod                                                                                                                                                                                   |
-|    **й**     | **y** (остальные простые случаи), **yii** / **ŷ** (сложные случаи)                                                                                   | красный/krasnyy, аллилуйя/alliluyya/allìluyya, Байес/Bayyes, ныйя/nyyya, йиппи/yippi/yìppì, сйс/syiis/sŷs, сйиис/syiwis/syììs, сьйс/sjyiis/sjŷs, сьйиис/sjyiwisw/sjyììsꞌ, сьиис/sjyiwis/sjyììs                                                                                                                                         |
+|    **й**     | **y** (остальные простые случаи), **yihh** / **ŷ** (сложные случаи)                                                                                   | красный/krasnyy, аллилуйя/alliluyya, Байес/Bayyes, ныйя/nyyya, йиппи/yippi, нйя/nyihhya/nŷya                                                                                                                                         |
 |    **ы**     | **y** (после согласных), **wy** / **ꞌy** (иначе)                                                                                                      | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyy, Нарва-Йыэсуу/Narva-Ywywesuu/Narva-Yꞌyꞌesuu, Шайыр/Shaywyr/Shayꞌyr                                                                                                                    |
-| **ы[аоуэи]** | **yw[aouei]** / **yꞌ[aouei]** (гласные **аоуэи** после ы)                                                                                             | выход/vyhod, выигрывать/vywigryvatj/vyꞌìgryvatj, выучить/vywuchitj/vyꞌuchìtj, выострить/vywostritj/vyꞌostrìtj                                                                                                                        |
-|    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **ye** (иначе)                                                     | мера/mera, еда/yeda, если/yesli/yeslì, заезд/zayezd, Байес/Bayyes, заем/zayem, заём/zayom, траектория/trayektoriya/trayektorìya, проект/proekt, проэкт/prowekt/pro'ekt, проэк/proek/proek (проект - словарное исключение с особым правилом отображения) |
-|    **э**     | **we** / **ꞌe** (после согласных), **е** (иначе)                                                                                                      | мэр/mwer/mꞌer, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika/erotìka, йэс/yesw/yesꞌ                                                                                                                                               |
-|  **[яёю]**   | **i[aou]** (после согласных), **y[aou]** (иначе)                                                                                                      | синяя/siniaya/sìniaya, мёд/miod, ёлка/yolka, пюре/piure, якорь/yakorj                                                                                                                                                                                       |
-|  **и[аоу]**  | **i[aou]h** / **ì[aou]** (после согласных), **i[aou]** / **ì[aou]** (иначе)                                                                           | пион/piohn/pìon, Лион/Liohn/Lìon, лён/lion                                                                                                                                                                                           |
-|    **и**     | **i** / **ì**                                                                                                                                         | пир/pir/pìr |
-|    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                              | сход/skhod, кхе/kkhe, сикх/sikkh/sìkkh, шхуна/shkhuna, чхать/chkhatj, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha, сцьха/scjkha, нцьхи/ncjhi                          |
+| **ы[аоуэи]** | **yw[aouei]** / **yꞌ[aouei]** (гласные **аоуэи** после ы)                                                                                             | выход/vyhod, выигрывать/vywigryvatj/vyꞌigryvatì, выучить/vywuchitj/vyꞌuchitì, выострить/vywostritj/vyꞌostritì                                                                                                                        |
+|    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **ye** (иначе)                                                     | мера/mera, еда/yeda, если/yesli, заезд/zayezd, Байес/Bayyes, заем/zayem, заём/zayom, траектория/trayektoriya, проект/proekt, проэкт/prowekt/pro'ekt, проэк/proek/proek (проект - словарное исключение с особым правилом отображения) |
+|    **э**     | **we** / **ꞌe** (после согласных), **е** (иначе)                                                                                                      | мэр/mwer/mꞌer, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/yesw/yesꞌ                                                                                                                                               |
+|  **[яёю]**   | **j[aou]** / **ì[aou]** (после согласных), **y[aou]** (иначе)                                                                                         | мёд/mjod/mìod, ёлка/yolka, пюре/pjure/pìure, якорь/yakorj/yakorì                                                                                                                                                                     |
+|    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                              | сход/skhod, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj/chkhatì, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha, сьха/sjkha/sìkha, ньхи/njhi/nìhi                          |
 
 Из таблицы выше видно, что для ь и ъ (особенно ъи и ьэ) придется определять отображение по умолчанию и запомненные в словарь исключения из него. Так, стоит ожидать, что ъи и ьэ по умолчанию должны быть не йотированными, но известны и йотированные исключения.
 
 |             | Ещё примеры                                    |
 | ----------- | ---------------------------------------------- |
 | дж/dzh(dž)  | Джордж/Dzhordzh/Džordž                         |
-| щ/scjh(şch) | щётка/scjhiotka/şchiotka, счёт/schiot   |
-| ж/zh        | ёж/yozh, возжи/vozzhi/vozzhì, позже/pozzhe            |
-| ч/ch        | Черныш/Chernysh, счётная/schiotnaya |
+| щ/sjh(șch)  | щётка/sjhjotka/șchìotka, счёт/schjot/schìot    |
+| ж/zh        | ёж/yozh, возжи/vozzhi, позже/pozzhe            |
+| ч/ch        | Черныш/Chernysh, счётная/schjotnaya/schìotnaya |
 | ш/sh        | шлем/shlem                                     |
-| ё/io/yo | мёд/miod, ёмко/yomko                      |
-| ю/iu/yu | мюсли/miusli/miuslì, Юля/Yulia           |
-| я/ia/ya | Изя/Izia, Якорь/Yakorj, баян/bayan |
+| ё/jo(ìo)/yo | мёд/mjod/mìod, ёмко/yomko                      |
+| ю/ju(ìu)/yu | мюсли/mjusli/mìusli, Юля/Yulja/Yulìa           |
+| я/ja(ìa)/ya | Изя/Izja/Izìa, Якорь/Yakorj/Yakorì, баян/bayan |
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
-Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Алфавит латиницы не использует Ww, Xx и дополнительно использует 14 новых букв (см. ниже).
+Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Алфавит латиницы не использует Ww, Xx, Jj и дополнительно использует 14 новых букв (см. ниже).
 
 ***Слово на латинице является грамматически верным если:***
 
@@ -117,13 +114,14 @@
 | **щ** | **ж** | **ч** | **ш** | **х** | **й** | **ы** |
 | [Șș]  | [Žž]  |  Čč   |  Šš   |  Ȟȟ   | [Ŷŷ]  | Ỳỳ    |
 
+
 Ъ, Ь: QQ, Ì/ÌQQ. В словах в верхнем регистре Щ пишется просто как Ș, без CH.
+
 
 Примеры аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ș/mikrorayonꞌ Ș. То есть специально для аббревиатур, когда после ș идет диграф ch - он считается частью щ. А когда идет č, то считается уже отдельной буквой.
 
-**Слова в верхнем регистре считаются аббревиатурами и пишутся по своим лаконичным правилам.** Это может ухудшать чтение текста, набранного капсом (после конверсии в латиницу). Но его и так трудно читать, так что не жалко.
 
-## Raskladka klaviahtury dlia latinicy
+## Raskladka klaviatury dlja latinicy
 
 Основная раскладка. Добавляет новые буквы, встречающиеся более менее часто: Șș(для Щ), Žž(Ж), Ìì(Ь), Ꞌꞌ(W).
 
@@ -186,6 +184,29 @@ Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatì s otkho
 Imeyetsìa neskolìko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsìa volk i nekotoryye vidy shakalov.
 
 V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodìașchaya ot neskolìkih predkov), drugiye priderzhivayutsìa mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+
+
+## Primer teksta na latinice (eksperimentaljnaya aljternativa)
+
+Дополнительная замена y=>j в значении йота. Этот вариант компактнее, использует разные буквы для йота и ы, но хуже тем, что использует привычные джа, джэ вместо йа, йэ и слишком далёк от первой версии ASCII транслита. Но всё равно есть в нем какой-то шарм и протест против Джейкоби/Якоби, Джизуса/Иисуса, Джулии/Юлии. Мухаха.
+
+Pìjanyj master po proektu sdelal mehanicheskij objekt s izjanom. Jesli brak ne obnaruzhitsìa, to belyje bolidy bolìshe ne smogut vyigryvatì gonki. 
+
+V pìjese pro devushku v zelìonom platìjice vse sadilisì na ladìji i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konì v palìto i rvanyh džinsah, kotoryj chto-to vyiskival, i prikazal vsem mytìsìa i gotovitì bulìjonꞌ. Znachit snova pìjom do lysyh akvalangistov. 
+
+Prepodobnyj Bajjes podkinul igralìnyje kosti. Vypalo shestì, znachit jemu pridìotsìa mazatì jodꞌ na ranu. 
+
+Mꞌer nebolìshogo gorodishki otkryl tablicu ekselìa i vozmutilsìa cenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitì. Oh uzh eta pokupka vechnogo dvigatelìa v proshlom godu! A tak zhe pokupka aeroplana-ekranolìota. Jesli tak pojdìot i dalìshe, to bìudžetu pridìotsìa hudo. 
+
+V etom vide fraza ot A to Ja nachinajet vyglìadetì sovsem po-drugomu. Sejchas șchìotka novaja, no pozzhe ona stanet staraja. Chernysh lìubit kogda jego cheshut jeju. Jozh kolìuchij i pohozh na nejo. 
+
+Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gaj Julij Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujușchih nosil hoholok na golove. On i nashìol vyhod iz situacii. 
+
+“Kto s mechom k nam pridìot, tot ot mecha i...” - ne smog dogovoritì starshij mehanik Vasilij. 
+
+Imejetsìa neskolìko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsìa volk i nekotoryje vidy shakalov. 
+
+V suzhdenijah uchìonyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut, chto sobaki - polifileticheskaja gruppa (proiskhodìașchaja ot neskolìkih predkov), drugije priderzhivajutsìa mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
 
 
 ## TO DO
