@@ -145,9 +145,9 @@
 
 Pjyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsja, to belyye bolidy boljshe ne smogut vywigryvatj gonki.
 
-ГЭС/GwES, АЭС/AES, ЖКХ/ZhKkH, ЖЭК/ZhwEK, ЕС/yES, США/SShA, МЧС/MChS, ЮАР/yUAR, ЭЭГ/EEG, ЕГЭ/yEGwE, микрорайон Щ/mikrorayonw SCjh.
-
 V pjyese pro devushku v zeljonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Dzhordzh Maksimus, konj v paljto i rvanyh dzhinsah, kotoryy chto-to vywiskival, i prikazal vsem mytjsja i gotovitj buljyonw. Znachit snova pjyom do lysyh akvalangistov.
+
+ГЭС/GwES, АЭС/AES, ЖКХ/ZhKkH, ЖЭК/ZhwEK, ЕС/yES, США/SShA, МЧС/MChS, ЮАР/yUAR, ЭЭГ/EEG, ЕГЭ/yEGwE, микрорайон Щ/mikrorayonw SCjh.
 
 Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridjotsja mazatj yodw na ranu.
 
@@ -168,9 +168,9 @@ V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreni
 
 Pjyanyy master po proektu sdelal mehanicheskiy obyekt s izyanom. Yesli brak ne obnaruzhitsja, to belyye bolidy boljshe ne smogut vyꞌigryvatj gonki.
 
-ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽÈK, ЕС/ÊS, США/SŠA, МЧС/MČS, ЮАР/ÛAR, ЭЭГ/EEG, ЕГЭ/ÊGÈ, микрорайон Щ/mikrorayonꞌ Ş.
-
 V pjyese pro devushku v zeljonom platjyice vse sadilisj na ladjyi i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konj v paljto i rvanyh džinsah, kotoryy chto-to vyꞌiskival, i prikazal vsem mytjsja i gotovitj buljyonꞌ. Znachit snova pjyom do lysyh akvalangistov.
+
+ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKĤ, ЖЭК/ŽÈK, ЕС/ÊS, США/SŠA, МЧС/MČS, ЮАР/ÛAR, ЭЭГ/EEG, ЕГЭ/ÊGÈ, микрорайон Щ/mikrorayonꞌ Ş.
 
 Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridjotsja mazatj yodꞌ na ranu.
 
