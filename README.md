@@ -41,7 +41,7 @@
 
 * Ìì вместо Jj (Ь).
 * Ꞌꞌ вместо Ww. Это [Saltillo](https://en.wikipedia.org/wiki/Saltillo_(linguistics)) - полноценная некомбинируемая буква, имеющая верхний и нижний регистры и попадающая под регулярное выражение`\w+`. (йод/yodꞌ, сэр/sꞌer, выучить/vyꞌuchitì, выискивать/vyꞌiskivatì).
-* șch вместо sjh (Щ),
+* șch вместо scjh (Щ),
 * dž вместо dzh (ДЖ),
 * ŷ[aoue] вместо y[aoue]h (ёдйод/yodŷod),
 * Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ș/mikrorayonꞌ Ș.
@@ -54,7 +54,7 @@
 |:--------:|:---------:|:--------:|:--------:|:--------:|
 | a/wa(ꞌa) | o/wo(ꞌo)  | u/wu(ꞌu) | e/we(ꞌe) | y/wy(ꞌy) |
 |  **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
-| ya/ja(ìa) | yo/jo(ìo) | yu/ju(ìu) |   ye/e   | i/wi(ꞌi) |
+|  ya/ja   |   yo/jo   |  yu/ju   |   ye/e   | i/wi(ꞌi) |
 |  **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
 |    b     |     v     |    g     |    d     |    zh    |
 |  **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
@@ -64,7 +64,7 @@
 |  **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |    f     |   h/kh    |    c     |    ch    |    sh    |
 |  **щ**   |   **ъ**   |  **ь**   |  **дж**  |          |
-| sjh(șch) |  None/qq  | j(ì)/jqq(ìqq) | dzh(dž) |      |
+| scjh(șch) | None/qq  |  j/jqq)  | dzh(dž)  |          |
 
 
 |              | Правило транслита / правило латиницы                                                                                                                  | Кириллица/Транслит/Латиница                                                                                                                                                                                                          |
@@ -89,7 +89,7 @@
 |             | Ещё примеры                                    |
 | ----------- | ---------------------------------------------- |
 | дж/dzh(dž)  | Джордж/Dzhordzh/Džordž                         |
-| щ/sjh(șch)  | щётка/sjhjotka/șchìotka, счёт/schjot/schìot    |
+| щ/scjh(șch) | щётка/scjhjotka/șchìotka, счёт/schjot/schìot    |
 | ж/zh        | ёж/yozh, возжи/vozzhi, позже/pozzhe            |
 | ч/ch        | Черныш/Chernysh, счётная/schjotnaya/schìotnaya |
 | ш/sh        | шлем/shlem                                     |
@@ -99,7 +99,7 @@
 
 Многие буквы совпадают с [ГОСТ 16876-71 табл. 2](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8) или [ГОСТ 7.79-2000 сист. Б](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8).
 
-Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Алфавит латиницы не использует Ww, Xx, Jj и дополнительно использует 14 новых букв (см. ниже).
+Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Алфавит латиницы не использует Ww, Xx и дополнительно использует 14 новых букв (см. ниже).
 
 ***Слово на латинице является грамматически верным если:***
 
@@ -154,15 +154,15 @@ Prepodobnyy Bayyes podkinul igraljnyye kosti. Vypalo shestj, znachit yemu pridjo
 
 Mwer neboljshogo gorodishki otkryl tablicu ekselja i vozmutilsja cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelja v proshlom godu! A tak zhe pokupka aeroplana-ekranoljota. Yesli tak poydjot i daljshe, to bjudzhetu pridjotsja hudo.
 
-V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Seychas sjhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Seychas scjhjotka novaya, no pozzhe ona stanet staraya. Chernysh ljubit kogda yego cheshut yeyu. Yozh koljuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyusjhih nosil hoholok na golove. On i nashjol vyhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuscjhih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
 "Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
 
 Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja volk i nekotoryye vidy shakalov.
 
-V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjasjhaya ot neskoljkih predkov), drugiye priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjascjhaya ot neskoljkih predkov), drugiye priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## Primer teksta latinicey
