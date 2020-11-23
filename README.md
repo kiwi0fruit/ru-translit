@@ -186,29 +186,6 @@ Imeyetsìa neskolìko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yey
 V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodìașchaya ot neskolìkih predkov), drugiye priderzhivayutsìa mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
-## Primer teksta na latinice (eksperimentaljnaya aljternativa)
-
-Дополнительная замена y=>j в значении йота. Этот вариант компактнее, использует разные буквы для йота и ы, но хуже тем, что использует привычные джа, джэ вместо йа, йэ и слишком далёк от первой версии ASCII транслита. Но всё равно есть в нем какой-то шарм и протест против Джейкоби/Якоби, Джизуса/Иисуса, Джулии/Юлии. Мухаха.
-
-Pìjanyj master po proektu sdelal mehanicheskij objekt s izjanom. Jesli brak ne obnaruzhitsìa, to belyje bolidy bolìshe ne smogut vyigryvatì gonki. 
-
-V pìjese pro devushku v zelìonom platìjice vse sadilisì na ladìji i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konì v palìto i rvanyh džinsah, kotoryj chto-to vyiskival, i prikazal vsem mytìsìa i gotovitì bulìjonꞌ. Znachit snova pìjom do lysyh akvalangistov. 
-
-Prepodobnyj Bajjes podkinul igralìnyje kosti. Vypalo shestì, znachit jemu pridìotsìa mazatì jodꞌ na ranu. 
-
-Mꞌer nebolìshogo gorodishki otkryl tablicu ekselìa i vozmutilsìa cenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitì. Oh uzh eta pokupka vechnogo dvigatelìa v proshlom godu! A tak zhe pokupka aeroplana-ekranolìota. Jesli tak pojdìot i dalìshe, to bìudžetu pridìotsìa hudo. 
-
-V etom vide fraza ot A to Ja nachinajet vyglìadetì sovsem po-drugomu. Sejchas șchìotka novaja, no pozzhe ona stanet staraja. Chernysh lìubit kogda jego cheshut jeju. Jozh kolìuchij i pohozh na nejo. 
-
-Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gaj Julij Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujușchih nosil hoholok na golove. On i nashìol vyhod iz situacii. 
-
-“Kto s mechom k nam pridìot, tot ot mecha i...” - ne smog dogovoritì starshij mehanik Vasilij. 
-
-Imejetsìa neskolìko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsìa volk i nekotoryje vidy shakalov. 
-
-V suzhdenijah uchìonyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut, chto sobaki - polifileticheskaja gruppa (proiskhodìașchaja ot neskolìkih predkov), drugije priderzhivajutsìa mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
-
-
 ## TO DO
 
 * [ ] Написать кодировщик и декодировщик на питоне, а потом проверить на каком-нибудь словаре, а так же на случайно-сгенерированных словах. Я не проверял алгоритм декодирования даже мысленно. Но интуитивно чувствую, что он хорошо определён и реализуем. Собственно, алгоритм кодировки строился такой, чтобы не было такого, чтобы разные русские слова (любые) отображались в одну и ту же транслитерацию.
