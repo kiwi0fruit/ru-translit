@@ -41,12 +41,12 @@
 
 * Ìì вместо Jj (Ь).
 * Ꞌꞌ вместо Ww. Это [Saltillo](https://en.wikipedia.org/wiki/Saltillo_(linguistics)) - полноценная некомбинируемая буква, имеющая верхний и нижний регистры и попадающая под регулярное выражение`\w+`. (йод/yodꞌ, сэр/sꞌer, выучить/vyꞌuchitì, выискивать/vyꞌiskivatì).
-* șch вместо scjh (Щ),
+* şch вместо scjh (Щ),
 * dž вместо dzh (ДЖ),
 * ŷ[aoue] вместо y[aoue]h (ёдйод/yodŷod),
-* Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ș/mikrorayonꞌ Ș.
+* Большая часть диакритики используется исключительно для аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ş/mikrorayonꞌ Ş.
 
-*Всё остальное тоже самое, что и в предыдущем варианте.* Новые буквы, встречающиеся не в аббревиатурах: ȘCHșch(Щ), DŽdž(ДЖ), Ìì(Ь), Ꞌꞌ(W), Ŷŷ(очень редкое Й).
+*Всё остальное тоже самое, что и в предыдущем варианте.* Новые буквы, встречающиеся не в аббревиатурах: ŞCHşch(Щ), DŽdž(ДЖ), Ìì(Ь), Ꞌꞌ(W), Ŷŷ(очень редкое Й).
 
 **Вариант латиницы дан в скобках.**
 
@@ -64,7 +64,7 @@
 |  **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |    f     |   h/kh    |    c     |    ch    |    sh    |
 |  **щ**   |   **ъ**   |  **ь**   |  **дж**  |          |
-| scjh(șch) | None/qq  |  j/jqq)  | dzh(dž)  |          |
+| scjh(şch) | None/qq  |  j/jqq)  | dzh(dž)  |          |
 
 
 |              | Правило транслита / правило латиницы                                                                                                                  | Кириллица/Транслит/Латиница                                                                                                                                                                                                          |
@@ -89,7 +89,7 @@
 |             | Ещё примеры                                    |
 | ----------- | ---------------------------------------------- |
 | дж/dzh(dž)  | Джордж/Dzhordzh/Džordž                         |
-| щ/scjh(șch) | щётка/scjhjotka/șchìotka, счёт/schjot/schìot    |
+| щ/scjh(şch) | щётка/scjhjotka/şchìotka, счёт/schjot/schìot   |
 | ж/zh        | ёж/yozh, возжи/vozzhi, позже/pozzhe            |
 | ч/ch        | Черныш/Chernysh, счётная/schjotnaya/schìotnaya |
 | ш/sh        | шлем/shlem                                     |
@@ -112,22 +112,22 @@
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |  Ǎǎ   |  Ěě   |  Ǒǒ   |  Ǔǔ   |  Èè   | [Ꞌꞌ]  | [Ìì]  |
 | **щ** | **ж** | **ч** | **ш** | **х** | **й** | **ы** |
-| [Șș]  | [Žž]  |  Čč   |  Šš   |  Ȟȟ   | [Ŷŷ]  | Ỳỳ    |
+| [Şş]  | [Žž]  |  Čč   |  Šš   |  Ȟȟ   | [Ŷŷ]  | Ỳỳ    |
 
-Ъ, Ь: QQ, Ì/ÌQQ. В словах в верхнем регистре Щ пишется просто как Ș, без CH.
+Ъ, Ь: QQ, Ì/ÌQQ. В словах в верхнем регистре Щ пишется просто как Ş, без CH.
 
-Примеры аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ș/mikrorayonꞌ Ș. То есть специально для аббревиатур, когда после ș идет диграф ch - он считается частью щ. А когда идет č, то считается уже отдельной буквой.
+Примеры аббревиатур: ГЭС/GÈS, АЭС/AES, ЖКХ/ŽKȞ, ЖЭК/ŽÈK, ЕС/ĚS, США/SŠA, МЧС/MČS, ЮАР/ǓAR, ЭЭГ/EEG, ЕГЭ/ĚGÈ, микрорайон Щ/mikrorayonw Ş/mikrorayonꞌ Ş. То есть специально для аббревиатур, когда после ş идет диграф ch - он считается частью щ. А когда идет č, то считается уже отдельной буквой.
 
 **Слова в верхнем регистре считаются аббревиатурами и пишутся по своим лаконичным правилам.** Это может ухудшать чтение текста, набранного капсом (после конверсии в латиницу). Но его и так трудно читать, так что не жалко.
 
 
 ## Raskladka klaviatury dlja latinicy
 
-Основная раскладка. Добавляет новые буквы, встречающиеся более менее часто: Șș(для Щ), Žž(Ж), Ìì(Ь), Ꞌꞌ(W).
+Основная раскладка. Добавляет новые буквы, встречающиеся более менее часто: Şş(для Щ), Žž(Ж), Ìì(Ь), Ꞌꞌ(W).
 
 | \`'(\`~) | 1!  | 2“(@)  | 3”(#) | 4;($) | 5:(%) | 6[(^) | 7](&) | 8\* | 9(     | 0)     |  -\_   |    =+     |
 |:--------:|:---:|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|:------:|:------:|:------:|:---------:|
-|          | Qq  |   Ww   | Ee    | Rr    | Tt    | Yy    | Uu    | Ii  | Oo     | Pp     | Șș([{) | Žž(]})    |
+|          | Qq  |   Ww   | Ee    | Rr    | Tt    | Yy    | Uu    | Ii  | Oo     | Pp     | Şş([{) | Žž(]})    |
 |          | Aa  |   Ss   | Dd    | Ff    | Gg    | Hh    | Jj    | Kk  | Ll     | Ìì(;:) | Ꞌꞌ('") | \\#(\\\|) |
 |          |     |   Zz   | Xx    | Cc    | Vv    | Bb    | Nn    | Mm  | ,^(,<) | .>     |   /?   |           |
 
@@ -135,7 +135,7 @@
 
 | \`' |   1!   |   2“   |   3”   |   4;   | 5:  |   6[   |   7]   | 8\* |   9(   | 0)  | -\_ |  =+  |
 |:---:|:------:|:------:|:------:|:------:|:---:|:------:|:------:|:---:|:------:|:---:|:---:|:----:|
-|     |   Qq   | **Ỳỳ** | **Ěě** |   Rr   | Tt  | **Ŷŷ** | **Ǔǔ** | Ii  | **Ǒǒ** | Pp  | Șș  |  Žž  |
+|     |   Qq   | **Ỳỳ** | **Ěě** |   Rr   | Tt  | **Ŷŷ** | **Ǔǔ** | Ii  | **Ǒǒ** | Pp  | Şş  |  Žž  |
 |     | **Ǎǎ** | **Šš** |   Dd   |   Ff   | Gg  | **Ȟȟ** | **Ĵĵ** | Kk  |   Ll   | Ìì  | Ꞌꞌ  | \\#  |
 |     |        | **Žž** | **Èè** | **Čč** | Vv  |   Bb   |   Nn   | Mm  |   ,^   | .>  | /?  |      |
 
@@ -175,15 +175,15 @@ Prepodobnyy Bayyes podkinul igralìnyye kosti. Vypalo shestì, znachit yemu prid
 
 Mꞌer nebolìshogo gorodishki otkryl tablicu ekselìa i vozmutilsìa cenoy novogo ekskavatora. Azh ekzema snova stala yego bespokoitì. Oh uzh eta pokupka vechnogo dvigatelìa v proshlom godu! A tak zhe pokupka aeroplana-ekranolìota. Yesli tak poydìot i dalìshe, to bìudžetu pridìotsìa hudo.
 
-V etom vide fraza ot A to Ya nachinayet vyglìadetì sovsem po-drugomu. Seychas șchìotka novaya, no pozzhe ona stanet staraya. Chernysh lìubit kogda yego cheshut yeyu. Yozh kolìuchiy i pohozh na neyo.
+V etom vide fraza ot A to Ya nachinayet vyglìadetì sovsem po-drugomu. Seychas şchìotka novaya, no pozzhe ona stanet staraya. Chernysh lìubit kogda yego cheshut yeyu. Yozh kolìuchiy i pohozh na neyo.
 
-Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gay Yuliy Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyușchih nosil hoholok na golove. On i nashìol vyhod iz situacii.
+Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatì s otkhodami kompanii “Kaligula Gay Yuliy Cezarì” (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuşchih nosil hoholok na golove. On i nashìol vyhod iz situacii.
 
 “Kto s mechom k nam pridìot, tot ot mecha i...” - ne smog dogovoritì starshiy mehanik Vasiliy.
 
 Imeyetsìa neskolìko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsìa volk i nekotoryye vidy shakalov.
 
-V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodìașchaya ot neskolìkih predkov), drugiye priderzhivayutsìa mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchìonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodìaşchaya ot neskolìkih predkov), drugiye priderzhivayutsìa mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## TO DO
