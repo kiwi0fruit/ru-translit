@@ -7,12 +7,10 @@
 Содержание:
 
 * [Четыре разные "И" русской латиницы от которых всё зависит](#chetyre-raznyye-i-russkoy-latinicy-ot-kotoryh-vsjo-zavisit)
-* [Новая версия](#novaya-versiya)
-* [Старая версия](#staraya-versiya)
-  * [Кириллица <=> латиница](#kirillica--latinica)
-  * [Раскладка клавиатуры для латиницы](#raskladka-klaviatury-dlja-latinicy)
-  * [Пример текста транслитом](#primer-texta-translitom)
-  * [Пример текста латиницей](#primer-teksta-latinicey)
+* [Кириллица <=> латиница](#kirillica--latinica)
+* [Раскладка клавиатуры для латиницы](#raskladka-klaviatury-dlja-latinicy)
+* [Пример текста транслитом](#primer-texta-translitom)
+* [Пример текста латиницей](#primer-teksta-latinicey)
 
 Придумал в качестве развлечения ещё один транслит.
 
@@ -36,28 +34,7 @@
 
 Но в базовой латинице букв со смыслом "и" всего три: i, j (диакритический вариант i), y ("и" греческая). А нужно 4. Поэтому, получаются компромиссы.
 
-
-# Novaya versiya
-
-## Transliteraciya
-
-* йотирующая и — **j**,
-* смягчающая и — **i**,
-* ы — **y**,
-* собственно, и — *диграф* **iy**.
-
-
-## Latinica
-
-* йотирующая и — **j**,
-* смягчающая и — **i**,
-* ы — **y**,
-* собственно, и — **ì**.
-
-
-# Staraya versiya
-
-## Transliteraciya i Latinica
+*Данная транслитерация будет*:
 
 * йотирующая и — **y**,
 * смягчающая и — **j**,
