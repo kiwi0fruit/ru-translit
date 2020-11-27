@@ -261,7 +261,7 @@ V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zreni
 
 Тот же принцип, что и в новом варианте выше, только непонятно что делать с Ы/Йот... 
 
-ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/yES/"ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/yUAR/"UAR, ЭЭГ/EEG, ЕГЭ/yEGwE/"EG'E, микрорайон Щ/mikrorajonw Sch/mikrorajon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LjON/L"ON, ЛИОН/LION.
+ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/yES/"ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/yUAR/"UAR, ЭЭГ/EEG, ЕГЭ/yEGwE/"EG'E, микрорайон Щ/mikrorayonw Sch/mikrorayon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LjON/L"ON, ЛИОН/LION.
 
 ИОН/ION, ЛИЁН/LIyON/LI"ON, ЙОД/YODw/YOD', ЙЁД/YyOD/Y"OD, ЁД/yOD/"OD, ЛЪЁН/LYON (аббревиатур с Ь и Ъ не бывает), ЛЬОН/LJYONW/LJYON', ЛЬЁН/LJYON, ЛЬЙОН/LJYONWW/LJYON''.
 
