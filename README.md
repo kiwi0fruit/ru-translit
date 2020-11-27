@@ -263,7 +263,7 @@ V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zreni
 
 ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/yES/'ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/yUAR/'UAR, ЭЭГ/EEG, ЕГЭ/yEGwE/'EG'E, микрорайон Щ/mikrorayonw Sch/mikrorayon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LjON/L'ON, ЛИОН/LION
 
-ИОН/ION, ЛИЁН/LIyON/LI'ON, ЙОД/YODw/YOD', ЙЁД/YyOD/Y'OD, ЁД/yOD/"OD, НЙ/NYii/NY|
+ИОН/ION, ЛИЁН/LIyON/LI'ON, ЙОД/YODw/YOD', ЙЁД/YyOD/Y'OD, ЁД/yOD/'OD, НЙ/NYii/NY|
 
 Аббревиатур с Ь, Ъ и Ы не должно быть, поэтому в них даже W не заменяется: ЛЪЁН/LYON, ЛЬОН/LJYONW, ЛЬЁН/LJYON, ЛЬЙОН/LJYONWW, НЫЭ/NYWE, НЫЕ/NYYE
 
