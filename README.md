@@ -259,11 +259,13 @@ V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zreni
 
 ## Аббревиатуры
 
-Тот же принцип, что и в новом варианте выше, только непонятно что делать с Ы/Йот... Щ - особый случай: Sch/S||. "Й" в нетипичных местах тоже - СЙС/SYiiS/SY|S.
+Тот же принцип, что и в новом варианте выше. Щ - особый случай: Sch/S||. "Й" в нетипичных местах тоже особый - НЙ/NYii/NY|.
 
-ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/yES/"ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/yUAR/"UAR, ЭЭГ/EEG, ЕГЭ/yEGwE/"EG'E, микрорайон Щ/mikrorayonw Sch/mikrorayon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LjON/L"ON, ЛИОН/LION.
+ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/yES/'ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/yUAR/'UAR, ЭЭГ/EEG, ЕГЭ/yEGwE/'EG'E, микрорайон Щ/mikrorayonw Sch/mikrorayon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LjON/L'ON, ЛИОН/LION
 
-ИОН/ION, ЛИЁН/LIyON/LI"ON, ЙОД/YODw/YOD', ЙЁД/YyOD/Y"OD, ЁД/yOD/"OD, ЛЪЁН/LYON (аббревиатур с Ь и Ъ не бывает), ЛЬОН/LJYONW/LJYON', ЛЬЁН/LJYON, ЛЬЙОН/LJYONWW/LJYON''.
+ИОН/ION, ЛИЁН/LIyON/LI'ON, ЙОД/YODw/YOD', ЙЁД/YyOD/Y'OD, ЁД/yOD/"OD, НЙ/NYii/NY|
+
+Аббревиатур с Ь, Ъ и Ы не должно быть, поэтому в них даже W не заменяется: ЛЪЁН/LYON, ЛЬОН/LJYONW, ЛЬЁН/LJYON, ЛЬЙОН/LJYONWW, НЫЭ/NYWE, НЫЕ/NYYE
 
 **Слова в верхнем регистре считаются аббревиатурами и пишутся по своим лаконичным правилам.** Это может ухудшать чтение текста, набранного капсом (после конверсии в латиницу). Но его и так трудно читать, так что не жалко.
 
