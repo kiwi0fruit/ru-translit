@@ -259,7 +259,7 @@ V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zreni
 
 ## Аббревиатуры
 
-Тот же принцип, что и в новом варианте выше, только непонятно что делать с Ы/Йот... 
+Тот же принцип, что и в новом варианте выше, только непонятно что делать с Ы/Йот... Щ - особый случай: Sch/S||. "Й" в нетипичных местах тоже - СЙС/SYiiS/SY|S.
 
 ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/yES/"ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/yUAR/"UAR, ЭЭГ/EEG, ЕГЭ/yEGwE/"EG'E, микрорайон Щ/mikrorayonw Sch/mikrorayon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LjON/L"ON, ЛИОН/LION.
 
