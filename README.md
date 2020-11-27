@@ -7,10 +7,12 @@
 Содержание:
 
 * [Четыре разные "И" русской латиницы от которых всё зависит](#%D1%87%D0%B5%D1%82%D1%8B%D1%80%D0%B5-%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5-%D0%B8-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B-%D0%BE%D1%82-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D0%B2%D1%81%D1%91-%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D1%82)
-* [Кириллица <=> латиница](#%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0--%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0)
-* [Раскладка клавиатуры для латиницы](#%D1%80%D0%B0%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B)
-* [Пример текста транслитом](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%BE%D0%BC)
-* [Пример текста латиницей](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9)
+* [Новая версия]()
+* [Старая версия]()
+  * [Кириллица <=> латиница](#%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0--%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0)
+  * [Раскладка клавиатуры для латиницы](#%D1%80%D0%B0%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B)
+  * [Пример текста транслитом](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%BE%D0%BC)
+  * [Пример текста латиницей](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9)
 
 Придумал в качестве развлечения ещё один транслит.
 
@@ -41,6 +43,131 @@
 * ы — *тоже* **y**,
 * собственно, и — **i**.
 
+
+# Новая версия
+
+## Базовая латиница 25
+
+Основные идеи внутренней грамматики **транслита без диакритики**:
+
+* йотирующая, но не смягчающая, "и" (йот; еёюя НЕ после согласных) — **j** (яма/jama, съезд/sjezd, пьеса/pjjesa, ладьи/ladjji), 
+* смягчающая, но не йотирующая, "и" (ь; ёюя после согласных) — **i** после согласных перед aouy, иначе - **j**, но йотирование имеет приоритет (мёд/miod, пьеса/pjjesa, конь/konj, пион/piyon),
+* "ы" — **y** (мы/my),
+* собственно, "и" — **iy** после согласных перед aou, иначе - **i** (мир/mir, лён/lion, пион/piyon).
+* префиксный изолятор для гласных — **w**/**'** (мэр/mwer/m'er, сэр/swer/s'er) 
+
+Дополнительно:
+
+* **e** после согласных всегда смягчает, можно опустить i (пень/penj). В остальных случаях **e** обозначает звук э (это/eto, поэт/poet). Йотировать надо для уезд/ujezd. Убрать смягчение после согласной можно с помощью **we/'e**: мэр/mwer/m'er, сэр/swer/s'er.
+* **qq** обозначает паузу, гортанную смычку или просто игнорируемый диграф - зависит от слова (объизвестить/obqqizvestitj, грабьармия/grabjqqarmija).
+* х обозначется **h/kh** (ход/hod, сход/skhod).
+* слова на латинице из других языков можно писать, экранируя с помощью " /" и "/ ".
+* разные виды йотирования переключаются для jo,je,ju,ja. Причем, когда место возможного переключения йотирования всего одно, то переключение происходит в конце слова - простой вариант. А когда их несколько, то сразу перед диграфом jo,ja,ju,je  (ёд/jod, йод/jodw/jod', ёдйод/jodwjod/jod'jod).
+* разные способы написания звука /щ/ переключаются так же в конце слова (счёт/schiotw/schiot', щётка/schiotka). Если есть неоднозначность, то отличие ставится явно (ёдщa/jodscha, ёдсча/jodwscha/jod'scha).
+
+|   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
+|:---------:|:---------:|:--------:|:--------:|:--------:|
+| a  | o  | u | e/we(ꞌe) | y |
+|   **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
+|   ia/ja   |   io/jo   |  iu/ju   |   e/je   | i/iy |
+|   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
+|     b     |     v     |    g     |    d     |    zh    |
+|   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
+|     z     | j/wj('j) |    k     |    l     |    m     |
+|   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
+|     n     |     p     |    r     |    s     |    t     |
+|   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
+|     f     |   h/kh    |    c     |    ch    |    sh    |
+|   **щ**   |   **ъ**   |  **ь**   | **сч** |          |
+| sch |  None/qq  |  j/jqq   | sch/wsch('sch) |          |
+
+**По сути апостроф и w всегда стоят в одних и тех же местах, и могут дать варианты как для обычных текстов (с апострофом), так и для URL (с w).**
+
+### Примеры интересных случаев
+
+лён/lion
+Лион/Liyon
+пион/piyon
+пиы/piyy
+мэр/mwer/m'er
+м'эр/m''er (удваивается только если прообраз от наивного образа без апострофа)
+этот/etot
+если/jesli
+конь/konj
+кони/koni
+Юля/Julia
+Юлия/Julija
+Юлиан/Juliyan
+пьяный/pjjanyj
+подъезд/podjezd
+пьеса/pjjesa
+пйеса/pwjjesa/p'jjesa
+паьеса/paqjjesa
+паьаса/paqjqqasa
+пайъеса/pajqqjesa
+ёж/jozh
+йож/jozhw/jozh'
+йод/jodw/jod'
+ёдйод/jodwjoh/jod'jod
+аллилуйя/allilujja
+ладьи/ladjji
+Таунйин/Taunjin
+Пиньиу/Pinjjiu
+Таунйиан/Taunjian
+Тарвасйыги/Tarvasjygi
+баньтьынг/banjtjqqyng
+сьйы/sjjy
+пьём/pjjom
+бульон/buljjonw/buljjon'
+выучить/vyuchitj
+выигрывать/vyigryvatj
+объимать/obqqimatj
+объизвестить/obqqizvestitj
+бельэтаж/beljqqetazh
+грабьармия/grabjqqarmija
+
+
+### Аббревиатуры
+
+Все слова в верхнем регистре считаются аббревиатурами и записываются по специальным правилам. Есть два варианта аббревиатур: для случаев, когда нужны только буквы базовой латиницы, и когда можно использовать не буквенные символы. В первом случае модифицирующая буква диграфа пишется в нижнем регистре, а модифицируемая буква - в верхнем. Во втором случае префиксные модифицирующие буквы **w**, **i**, **j**, **k** заменяются на **'** (апостроф), а постфиксные **h** и **y** - на **|**. Щ - особый случай: Sch/S||.
+
+ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/jES/'ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/jUAR/'UAR, ЭЭГ/EEG, ЕГЭ/jEGwE/'EG'E, микрорайон Щ/mikrorajonw Sch/mikrorajon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LiON/L'ON, ЛИОН/LIyON/LI|ON.
+
+ИОН/ION
+ЛИЁН/LIjON/LI'ON
+ЙОД/JODw/JOD'
+ЙЁД/JjOD/J'OD
+ЁД/jOD/'OD
+ЛЪЁН/LJON (аббревиатур с Ь и Ъ не бывает)
+ЛЬОН/LJJONW/LJION'
+ЛЬЁН/LJION
+ЛЬЙОН/LJIONWW/LJJON''
+
+
+### Пример текста
+
+Piyony i piyoniata vsio jeschio rastut na poliane vozle derevni Piony, 'schitajucshejsia bogatoj.
+
+Pjjanyj master po proektu sdelal mehanicheskij objekt s izjanom. Jesli brak ne obnaruzhitsia, to belyje bolidy boljshe ne smogut vyigryvatj gonki.
+
+V pjjese pro devushku v zelionom platjjice vse sadilisj na ladjji i plyli po reke. No tut iz lesa vyshel Dzhordzh Maksimus, konj v paljto i rvanyh dzhinsah, kotoryj chto-to vyiskival, i prikazal vsem mytjsia i gotovitj buljjon'. Znachit snova pjjom do lysyh akvalangistov.
+
+Prepodobnyj Bajjes podkinul igraljnyje kosti. Vypalo shestj, znachit jemu pridiotsia mazatj jod' na ranu.
+
+M'er neboljshogo gorodishki otkryl tablicu ekselia i vozmutilsia cenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Jesli tak pojdiot i daljshe, to biudzhetu pridiotsia hudo.
+
+V etom vide fraza ot A to Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schiotka novaja, no pozzhe ona stanet staraja. Chernysh liubit kogda jego cheshut jeju. Jozh koliuchij i pohozh na nejo.
+
+Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gaj Julij Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuschih nosil hoholok na golove. On i nashiol vyhod iz situacii.
+
+"Kto s mechom k nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
+
+Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsia' volk i nekotoryje vidy shakalov.
+
+V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut', chto sobaki - polifileticheskaja gruppa (proiskhodiaschaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
+
+
+# Старая версия
 
 ## Кириллица <=> латиница
 
