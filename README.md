@@ -143,7 +143,7 @@
 
 ## Пример текста
 
-Piyony i piyoniata vsio jeschio rastut na poliane vozle derevni Piony, 'schitajucshejsia bogatoj.
+Piyony i vasiljki vsio jeschio rastut na poliane vozle derevni Piony, 'schitajucshejsia bogatoj.
 
 Pjjanyj master po proektu sdelal mehanicheskij objekt s izjanom. Jesli brak ne obnaruzhitsia, to belyje bolidy boljshe ne smogut vyigryvatj gonki.
 
