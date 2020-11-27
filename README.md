@@ -122,6 +122,17 @@
 бельэтаж/beljqqetazh  
 грабьармия/grabjqqarmija  
 
+|         | Ещё примеры                           |
+| ------- | ------------------------------------- |
+| дж/dzh  | Джордж/Dzhordzh                       |
+| щ/sch   | щётка/schiotka, счёт/schiotw/schiot'  |
+| ж/zh    | ёж/jozh, возжи/vozzhi, позже/pozzhe   |
+| ч/ch    | Черныш/Chernysh, счётная/schiotnayaww/schiotnaya" |
+| ш/sh    | шлем/shlem                            |
+| ё/jo/io | мёд/miod, ёмко/jomko                  |
+| ю/ju/iu | мюсли/miusli, Юля/Julia               |
+| я/ja/ia | Изя/Izia, Якорь/Jakorj, баян/bajan    |
+
 
 ## Аббревиатуры
 
@@ -193,17 +204,6 @@ V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zreni
 |    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/skhod, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha, сцьха/scjkha, нцьхи/ncjhi                                         |
 
 Из таблицы выше видно, что для ь и ъ (особенно ъи и ьэ) придется определять отображение по умолчанию и запомненные в словарь исключения из него. Так, стоит ожидать, что ъи и ьэ по умолчанию должны быть не йотированными, но известны и йотированные исключения.
-
-|         | Ещё примеры                           |
-| ------- | ------------------------------------- |
-| дж/dzh  | Джордж/Dzhordzh                       |
-| щ/sch   | щётка/schjotka, счёт/schjotww/schjot" |
-| ж/zh    | ёж/yozh, возжи/vozzhi, позже/pozzhe   |
-| ч/ch    | Черныш/Chernysh, счётная/schjotnayaww/schjotnaya" |
-| ш/sh    | шлем/shlem                            |
-| ё/jo/yo | мёд/mjod, ёмко/yomko                  |
-| ю/ju/yu | мюсли/mjusli, Юля/Yulja               |
-| я/ja/ya | Изя/Izja, Якорь/Yakorj, баян/bayan    |
 
 
 ## TO DO
