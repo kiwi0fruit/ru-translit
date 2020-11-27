@@ -138,7 +138,7 @@
 
 ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/jES/'ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/jUAR/'UAR, ЭЭГ/EEG, ЕГЭ/jEGwE/'EG'E, микрорайон Щ/mikrorajonw Sch/mikrorajon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LiON/L'ON, ЛИОН/LIyON/LI|ON.
 
-ИОН/ION, ЛИЁН/LIjON/LI'ON, ЙОД/JODw/JOD', ЙЁД/JjOD/J'OD, ЁД/jOD/'OD, ЛЪЁН/LJON (аббревиатур с Ь и Ъ не бывает), ЛЬОН/LJJONW/LJION', ЛЬЁН/LJION, ЛЬЙОН/LJIONWW/LJJON''.
+ИОН/ION, ЛИЁН/LIjON/LI'ON, ЙОД/JODw/JOD', ЙЁД/JjOD/J'OD, ЁД/jOD/'OD, ЛЪЁН/LJON (аббревиатур с Ь и Ъ не бывает), ЛЬОН/LJJONW/LJJON', ЛЬЁН/LJJON, ЛЬЙОН/LJJONWW/LJJON''.
 
 
 ## Пример текста
