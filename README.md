@@ -90,46 +90,46 @@
 
 ## Примеры интересных случаев
 
-лён/lion
-Лион/Liyon
-пион/piyon
-пиы/piyy
-мэр/mwer/m'er
-м'эр/m''er (удваивается только если прообраз от наивного образа без апострофа)
-этот/etot
-если/jesli
-конь/konj
-кони/koni
-Юля/Julia
-Юлия/Julija
-Юлиан/Juliyan
-пьяный/pjjanyj
-подъезд/podjezd
-пьеса/pjjesa
-пйеса/pwjjesa/p'jjesa
-паьеса/paqjjesa
-паьаса/paqjqqasa
-пайъеса/pajqqjesa
-ёж/jozh
-йож/jozhw/jozh'
-йод/jodw/jod'
-ёдйод/jodwjoh/jod'jod
-аллилуйя/allilujja
-ладьи/ladjji
-Таунйин/Taunjin
-Пиньиу/Pinjjiu
-Таунйиан/Taunjian
-Тарвасйыги/Tarvasjygi
-баньтьынг/banjtjqqyng
-сьйы/sjjy
-пьём/pjjom
-бульон/buljjonw/buljjon'
-выучить/vyuchitj
-выигрывать/vyigryvatj
-объимать/obqqimatj
-объизвестить/obqqizvestitj
-бельэтаж/beljqqetazh
-грабьармия/grabjqqarmija
+лён/lion  
+Лион/Liyon  
+пион/piyon  
+пиы/piyy  
+мэр/mwer/m'er  
+м'эр/m''er (удваивается только если прообраз от наивного образа без апострофа)  
+этот/etot  
+если/jesli  
+конь/konj  
+кони/koni  
+Юля/Julia  
+Юлия/Julija  
+Юлиан/Juliyan  
+пьяный/pjjanyj  
+подъезд/podjezd  
+пьеса/pjjesa  
+пйеса/pwjjesa/p'jjesa  
+паьеса/paqjjesa  
+паьаса/paqjqqasa  
+пайъеса/pajqqjesa  
+ёж/jozh  
+йож/jozhw/jozh'  
+йод/jodw/jod'  
+ёдйод/jodwjoh/jod'jod  
+аллилуйя/allilujja  
+ладьи/ladjji  
+Таунйин/Taunjin  
+Пиньиу/Pinjjiu  
+Таунйиан/Taunjian  
+Тарвасйыги/Tarvasjygi  
+баньтьынг/banjtjqqyng  
+сьйы/sjjy  
+пьём/pjjom  
+бульон/buljjonw/buljjon'  
+выучить/vyuchitj  
+выигрывать/vyigryvatj  
+объимать/obqqimatj  
+объизвестить/obqqizvestitj  
+бельэтаж/beljqqetazh  
+грабьармия/grabjqqarmija  
 
 
 ## Аббревиатуры
@@ -138,15 +138,7 @@
 
 ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/jES/'ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/jUAR/'UAR, ЭЭГ/EEG, ЕГЭ/jEGwE/'EG'E, микрорайон Щ/mikrorajonw Sch/mikrorajon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LiON/L'ON, ЛИОН/LIyON/LI|ON.
 
-ИОН/ION
-ЛИЁН/LIjON/LI'ON
-ЙОД/JODw/JOD'
-ЙЁД/JjOD/J'OD
-ЁД/jOD/'OD
-ЛЪЁН/LJON (аббревиатур с Ь и Ъ не бывает)
-ЛЬОН/LJJONW/LJION'
-ЛЬЁН/LJION
-ЛЬЙОН/LJIONWW/LJJON''
+ИОН/ION, ЛИЁН/LIjON/LI'ON, ЙОД/JODw/JOD', ЙЁД/JjOD/J'OD, ЁД/jOD/'OD, ЛЪЁН/LJON (аббревиатур с Ь и Ъ не бывает), ЛЬОН/LJJONW/LJION', ЛЬЁН/LJION, ЛЬЙОН/LJIONWW/LJJON''.
 
 
 ## Пример текста
