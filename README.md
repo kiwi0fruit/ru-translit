@@ -71,7 +71,7 @@
 
 **По сути апостроф и w всегда стоят в одних и тех же местах, и могут дать варианты как для обычных текстов (с апострофом), так и для URL (с w).**
 
-Алфавит транслитерации использует все буквы английского алфавита кроме Xx.
+Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Ww может быть заменена на ' (апостроф).
 
 ***Слово на латинице является грамматически верным если:***
 
@@ -131,7 +131,7 @@
 | дж/dzh  | Джордж/Dzhordzh                       |
 | щ/sch   | щётка/schiotka, счёт/schiotw/schiot'  |
 | ж/zh    | ёж/jozh, возжи/vozzhi, позже/pozzhe   |
-| ч/ch    | Черныш/Chernysh, счётная/schiotnayaww/schiotnaya" |
+| ч/ch    | Черныш/Chernysh, счётная/schiotnayaw/schiotnaya' |
 | ш/sh    | шлем/shlem                            |
 | ё/jo/io | мёд/miod, ёмко/jomko                  |
 | ю/ju/iu | мюсли/miusli, Юля/Julia               |
@@ -183,9 +183,9 @@ Proshlo jeschio dvenadcatj let. V Zasumkah kazhdyj god veselo otmechali dvojnoj 
 
 ----
 
-Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsia" volk i nekotoryje vidy shakalov.
+Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsia' volk i nekotoryje vidy shakalov.
 
-V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut", chto sobaki - polifileticheskaja gruppa (proiskhodiaschaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
+V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut', chto sobaki - polifileticheskaja gruppa (proiskhodiaschaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
 
 
 # Перенести из старой версии
