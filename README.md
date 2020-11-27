@@ -241,7 +241,7 @@ V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zreni
 | дж/dzh  | Джордж/Dzhordzh                       |
 | щ/sch   | щётка/schjotka, счёт/schjotw/schjot'  |
 | ж/zh    | ёж/yozh, возжи/vozzhi, позже/pozzhe   |
-| ч/ch    | Черныш/Chernysh, счётная/schjotnayaw/schjotnaya' |
+| ч/ch    | Черныш/Chernysh, счётная/wschjotnaya/'schjotnaya |
 | ш/sh    | шлем/shlem                            |
 | ё/jo/yo | мёд/mjod, ёмко/yomko                  |
 | ю/ju/yu | мюсли/mjusli, Юля/Yulja               |
