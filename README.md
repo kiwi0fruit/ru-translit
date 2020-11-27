@@ -160,15 +160,15 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jeschio i rodilisj v odin denj, 22 s
 
 – Frodo, maljchik moj, – skazal kak-to raz Biljbo, – perebiralsia by ty ko mne. Gliadishj, i denj rozhdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodiozhj v bezotvetstvennom vozraste mezhdu dvadcatjju i tridcatjju tremia, posle chego hobbit nakonec mozhet schitatj' sebia vzroslym.
+Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodiozhj v bezotvetstvennom vozraste mezhdu dvadcatjju i tridcatjju tremia, posle chego hobbit nakonec mozhet schitatj" sebia vzroslym.
 
 Proshlo jeschio dvenadcatj let. V Zasumkah kazhdyj god veselo otmechali dvojnoj denj rozhdenija, k etomu privykli, no liubomu bylo jasno, chto nyneshnej osenjju gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridcatitriohletije – tozhe znamemateljnaja data – sovershennoletije po-hobbitski.
 
 ----
 
-Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami 'schitajutsia volk i nekotoryje vidy shakalov.
+Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsia" volk i nekotoryje vidy shakalov.
 
-V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni 'schitajut, chto sobaki - polifileticheskaja gruppa (proiskhodiaschaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
+V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut", chto sobaki - polifileticheskaja gruppa (proiskhodiaschaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
 
 
 # Старая версия
@@ -240,9 +240,9 @@ V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zreni
 |         | Ещё примеры                           |
 | ------- | ------------------------------------- |
 | дж/dzh  | Джордж/Dzhordzh                       |
-| щ/sch   | щётка/schjotka, счёт/schjotw/schjot'  |
+| щ/sch   | щётка/schjotka, счёт/schjotww/schjot" |
 | ж/zh    | ёж/yozh, возжи/vozzhi, позже/pozzhe   |
-| ч/ch    | Черныш/Chernysh, счётная/wschjotnaya/'schjotnaya |
+| ч/ch    | Черныш/Chernysh, счётная/schjotnayaww/schjotnaya" |
 | ш/sh    | шлем/shlem                            |
 | ё/jo/yo | мёд/mjod, ёмко/yomko                  |
 | ю/ju/yu | мюсли/mjusli, Юля/Yulja               |
@@ -306,15 +306,15 @@ Sluchayu bylo ugodno, chtoby Biljbo s Frodo yeschjo i rodilisj v odin denj, 22 s
 
 – Frodo, maljchik moy, – skazal kak-to raz Biljbo, – perebiralsja by ty ko mne. Gljadishj, i denj rozhdeniya vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodjozhj v bezotvetstvennom vozraste mezhdu dvadcatjyu i tridcatjyu tremja, posle chego hobbit nakonec mozhet schitatj' sebja vzroslym.
+Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodjozhj v bezotvetstvennom vozraste mezhdu dvadcatjyu i tridcatjyu tremja, posle chego hobbit nakonec mozhet schitatj" sebja vzroslym.
 
 Proshlo yeschio dvenadcatj let. V Zasumkah kazhdyy god veselo otmechali dvoynoy denj rozhdeniya, k etomu privykli, no ljubomu bylo yasno, chto nyneshney osenjyu gotovitsja nechto neobychnoye. Biljbo ispolnjalosj 111 let – vozrast dlja hobbita vesjma pochtennyy, da i chislo ljubopytnoye, nu a Frodo gotovilsja otmetitj tridcatitrjohletiye – tozhe znamemateljnaya data – sovershennoletiye po-hobbitski.
 
 ----
 
-Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami 'schitayutsja volk i nekotoryye vidy shakalov.
+Imeyetsja neskoljko gipotez proiskhozhdeniya sobaki, naiboleye veroyatnymi yeyo predkami schitayutsja" volk i nekotoryye vidy shakalov.
 
-V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni 'schitayut, chto sobaki - polifileticheskaya gruppa (proiskhodjaschaya ot neskoljkih predkov), drugiye priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
+V suzhdeniyah uchjonyh o predkah domashney sobaki prisutstvuyut dve tochki zreniya. Odni schitayut", chto sobaki - polifileticheskaya gruppa (proiskhodjaschaya ot neskoljkih predkov), drugiye priderzhivayutsja mneniya, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaya teoriya).
 
 
 ## TO DO
