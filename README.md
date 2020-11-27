@@ -153,15 +153,15 @@ Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhod
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Sumniks. Kogda Biljbo stuknulo devianosto deliatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednikom i predlozhil pereselitjsia v Zasumki. Tut uzh vse nadezhdy Derikulj-Sumniksov, davno s vozhdelenijem posmatrivavshih na usadjbu, ruhnuli okonchateljno.
+Liubimcem Biljbo byl junyj Frodo Sumniks. Kogda Biljbo stuknulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednikom i predlozhil pereselitjsia v Zasumki. Tut uzh vse nadezhdy Derikulj-Sumniksov, davno s vozhdelenijem posmatrivavshih na usadjbu, ruhnuli okonchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jeschio i rodilisj v odin denj, 22 sentiabria.
 
 – Frodo, maljchik moj, – skazal kak-to raz Biljbo, – perebiralsia by ty ko mne. Gliadishj, i denj rozhdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodiozhj v bezotvetstvennom vozraste mezhdu dvadcatjju i tridcatjju tremia, posle chego hobbit nakonec mozhet schitatj sebia vzroslym.
+Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodiozhj v bezotvetstvennom vozraste mezhdu dvadcatjju i tridcatjju tremia, posle chego hobbit nakonec mozhet schitatj' sebia vzroslym.
 
-Proshlo jeschio dvenadcatj let. V Zasumkah kazhdyj god veselo otmechali dvojnoj denj rozhdenija, k etomu privykli, no liubomu bylo jasno, chto nyneshnej osenjju gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridcatitriohletije – tozhe znamemateljnaja data – sovershennolitije po-hobbitski.
+Proshlo jeschio dvenadcatj let. V Zasumkah kazhdyj god veselo otmechali dvojnoj denj rozhdenija, k etomu privykli, no liubomu bylo jasno, chto nyneshnej osenjju gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridcatitriohletije – tozhe znamemateljnaja data – sovershennoletije po-hobbitski.
 
 ----
 
@@ -294,6 +294,18 @@ V etom vide fraza ot A to Ya nachinayet vygljadetj sovsem po-drugomu. Seychas sc
 Skhod mestnyh zhiteley indiyskoy derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gay Yuliy Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvuyuschih nosil hoholok na golove. On i nashjol vyhod iz situacii.
 
 "Kto s mechom k nam pridjot, tot ot mecha i..." - ne smog dogovoritj starshiy mehanik Vasiliy.
+
+----
+
+Ljubimcem Biljbo byl yunyy Frodo Sumniks. Kogda Biljbo stuknulo devjanosto devjatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednikom i predlozhil pereselitjsja v Zasumki. Tut uzh vse nadezhdy Derikulj-Sumniksov, davno s vozhdeleniyem posmatrivavshih na usadjbu, ruhnuli okonchateljno.
+
+Sluchayu bylo ugodno, chtoby Biljbo s Frodo yeschjo i rodilisj v odin denj, 22 sentjabrja.
+
+– Frodo, maljchik moy, – skazal kak-to raz Biljbo, – perebiralsja by ty ko mne. Gljadishj, i denj rozhdeniya vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodjozhj v bezotvetstvennom vozraste mezhdu dvadcatjyu i tridcatjyu tremja, posle chego hobbit nakonec mozhet schitatj' sebja vzroslym.
+
+Proshlo yeschio dvenadcatj let. V Zasumkah kazhdyy god veselo otmechali dvoynoy denj rozhdeniya, k etomu privykli, no ljubomu bylo yasno, chto nyneshney osenjyu gotovitsja nechto neobychnoye. Biljbo ispolnjalosj 111 let – vozrast dlja hobbita vesjma pochtennyy, da i chislo ljubopytnoye, nu a Frodo gotovilsja otmetitj tridcatitrjohletiye – tozhe znamemateljnaya data – sovershennoletiye po-hobbitski.
 
 ----
 
