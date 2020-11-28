@@ -96,7 +96,7 @@
 пьяный/pjjanyj  
 подъезд/podjezd  
 пьеса/pjjesa  
-пйеса/pwjjesa/p'jjesa  
+пйеса/pjesaw/pjesa'  
 паьеса/paqjjesa  
 паьаса/paqjqqasa  
 пайъеса/pajqqjesa  
