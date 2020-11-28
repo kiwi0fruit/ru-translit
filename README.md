@@ -44,7 +44,7 @@
 
 Дополнительно:
 
-* **e** после согласных всегда смягчает, можно опустить i (пень/penj). В остальных случаях **e** обозначает звук э (это/eto, поэт/poet). Йотировать надо для уезд/ujezd. Убрать смягчение после согласной можно с помощью **we/'e**: мэр/mwer/m'er, сэр/swer/s'er.
+* **e** после согласных всегда смягчает, можно опустить i (пень/penj). В остальных случаях **e** обозначает звук э (это/eto, поэт/poet). Йотировать надо для уезд/ujezd. Убрать смягчение после согласной можно с помощью **ye**: мэр/myer, сэр/syer.
 * **qq** обозначает паузу, гортанную смычку или просто игнорируемый диграф, в редких случаях даже может значить йотацию вопреки всей логике - зависит от слова (объизвестить/obqqizvestitj, грабьармия/grabjqqarmija).
 * х обозначется **h/kh** (ход/hod, сход/skhod).
 * слова на латинице из других языков можно писать, экранируя с помощью " /" и "/ ".
@@ -53,7 +53,7 @@
 
 |   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
 |:---------:|:---------:|:--------:|:--------:|:--------:|
-|     a     |     o     |    u     | e/we('e) |    y     |
+|     a     |     o     |    u     | e/ye |    y/wy  |
 |   **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
 |   ia/ja   |   io/jo   |  iu/ju   |   e/je   |   i/iy   |
 |   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
@@ -83,8 +83,9 @@
 Лион/Liyon  
 пион/piyon  
 пиы/piyy  
-мэр/mwer/m'er  
-м'эр/m''er (удваивается только если прообраз от наивного образа без апострофа)  
+мэр/myer  
+ыэр/yer
+мыэр/mwyer/m'yer
 этот/etot  
 если/jesli  
 конь/konj  
@@ -130,7 +131,7 @@
 |    **й**     | **j** (остальные простые случаи), **wj** / **'j** (сложные случаи)                                                                                       | красный/krasnyj, аллилуйя/allilujja, Байес/Bajjes, йиппи/jippi, сйс/swjs/s'js                                                    |
 |    **ы**     | **y**                                                                                                        | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyj, Нарва-Йыэсуу/Narva-Jyesuu, Шайыр/Shajyr, выход/vyhod, выигрывать/vyigryvatj, выучить/vyuchitj, выострить/vyostritj                                                                                                                        |
 |    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **je** (иначе)                                                        | мера/mera, еда/jeda, если/jesli, заезд/zajezd, Байес/Bajjes, заем/zajem, заём/zajom, траектория/trajektorija, проект/proekt, проэкт/prowekt/pro'ekt, проэк/proek/proek (проект - словарное исключение с особым правилом отображения) |
-|    **э**     | **we** / **'e** (после согласных), **е** (иначе)                                                                                                         | мэр/mwer/m'er, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/jesw/jes'                                                                                                                                               |
+|    **э**     | **ye** (после согласных или после ы в закрытом слоге), **е** (иначе)                                                                                                         | мэр/myer, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/jesw/jes', ыэр/yer, мыэр/mwyer/m'yer                                                                                                                                               |
 |  **[яёю]**   | **i[aou]** (после согласных), **j[aou]** (иначе)                                                                                                         | синяя/siniaja, мёд/miod, ёлка/jolka, пюре/piure, якорь/jakorj                                                                                                                                                                        |
 |    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/skhod, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha                                         |
 
@@ -148,11 +149,11 @@
 
 ## Аббревиатуры
 
-Все слова в верхнем регистре считаются аббревиатурами и записываются по специальным правилам. Есть два варианта аббревиатур: для случаев, когда нужны только буквы базовой латиницы, и когда можно использовать не буквенные символы. В первом случае модифицирующая буква диграфа пишется в нижнем регистре, а модифицируемая буква - в верхнем. Во втором случае префиксные модифицирующие буквы **w**, **i**, **j**, **k** заменяются на **'** (апостроф), а постфиксные **h** и **y** - на **|**. Щ - особый случай: Щ/Sch/S||.
+Все слова в верхнем регистре считаются аббревиатурами и записываются по специальным правилам. Есть два варианта аббревиатур: для случаев, когда нужны только буквы базовой латиницы, и когда можно использовать не буквенные символы. В первом случае модифицирующая буква диграфа пишется в нижнем регистре, а модифицируемая буква - в верхнем. Во втором случае префиксные модифицирующие буквы **w**, **i**, **j**, **k**, **y**, заменяются на **'** (апостроф), а постфиксные **h** и **y** - на **|**. Щ - особый случай: Щ/Sch/S||.
 
-ГЭС/GwES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhwEK/Z|'EK, ЕС/jES/'ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/jUAR/'UAR, ЭЭГ/EEG, ЕГЭ/jEGwE/'EG'E, микрорайон Щ/mikrorajonw Sch/mikrorajon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LiON/L'ON, ЛИОН/LIyON/LI|ON.
+ГЭС/GyES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhyEK/Z|'EK, ЕС/jES/'ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/jUAR/'UAR, ЭЭГ/EEG, ЕГЭ/jEGyE/'EG'E, микрорайон Щ/mikrorajonw Sch/mikrorajon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LiON/L'ON, ЛИОН/LIyON/LI|ON.
 
-ИОН/ION, ЛИЁН/LIjON/LI'ON, ЙОД/JODw/JOD', ЙЁД/JjOD/J'OD, ЁД/jOD/'OD, НЫЭ/NYE, НЫЕ/NYjE/NY'E, НЙ/NwJ/N'J.
+ИОН/ION, ЛИЁН/LIjON/LI'ON, ЙОД/JODw/JOD', ЙЁД/JjOD/J'OD, ЁД/jOD/'OD, НЫЭ/NwYE/N'YE, НЫЕ/NYjE/NY'E, НЙ/NwJ/N'J.
 
 Аббревиатур с Ь и Ъ не должно быть, поэтому в них даже W не заменяется: ЛЪЁН/LJON, ЛЬОН/LJJONW, ЛЬЁН/LJJON, ЛЬЙОН/LJQQJON
 
@@ -169,7 +170,7 @@ V pjjese pro devushku v zelionom platjjice vse sadilisj na ladjji i plyli po rek
 
 Prepodobnyj Bajjes podkinul igraljnyje kosti. Vypalo shestj, znachit jemu pridiotsia mazatj jod' na ranu.
 
-M'er neboljshogo gorodishki otkryl tablicu ekselia i vozmutilsia cenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Jesli tak pojdiot i daljshe, to biudzhetu pridiotsia hudo.
+Myer neboljshogo gorodishki otkryl tablicu ekselia i vozmutilsia cenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Jesli tak pojdiot i daljshe, to biudzhetu pridiotsia hudo.
 
 V etom vide fraza ot A to Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schiotka novaja, no pozzhe ona stanet staraja. Chernysh liubit kogda jego cheshut jeju. Jozh koliuchij i pohozh na nejo.
 
