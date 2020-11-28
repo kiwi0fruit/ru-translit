@@ -84,8 +84,8 @@
 пион/piyon  
 пиы/piyy  
 мэр/myer  
-ыэр/yer
-мыэр/mwyer/m'yer
+ыэр/yer  
+мыэр/mwyer/m'yer  
 этот/etot  
 если/jesli  
 конь/konj  
