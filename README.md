@@ -155,7 +155,7 @@
 
 ГЭС/GyES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhyEK/Z|'EK, ЕС/jES/'ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/jUAR/'UAR, ЭЭГ/EEG, ЕГЭ/jEGyE/'EG'E, микрорайон Щ/mikrorajonw Sch/mikrorajon' S||, СЧК/SChKw/SC|K', ЩК/SchK/S||K, ЛЁН/LiON/L'ON, ЛИОН/LIyON/LI|ON.
 
-ИОН/ION, ЛИЁН/LIjON/LI'ON, ЙОД/JODw/JOD', ЙЁД/JjOD/J'OD, ЁД/jOD/'OD, НЫЭ/NwYE/N'YE, НЫЕ/NYjE/NY'E, НЙ/NwJ/N'J.
+ИОН/ION, ЛИЁН/LIjON/LI'ON, ЙОД/JODw/JOD', ЙЁД/JjOD/J'OD, ЁД/jOD/'OD, НЫЭ/NYyE/NY|E, НЫЕ/NYjE/NY'E, НЙ/NwJ/N'J.
 
 Аббревиатур с Ь и Ъ не должно быть, поэтому в них даже W не заменяется: ЛЪЁН/LJON, ЛЬОН/LJJONW, ЛЬЁН/LJJON, ЛЬЙОН/LJQQJON
 
