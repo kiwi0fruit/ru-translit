@@ -71,7 +71,7 @@
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |   h/kh    |    c     |    ch    |    sh    |
 |   **щ**   |   **ъ**   |  **ь**   |  **сч**  |          |
-|    sch    |  None/qq  |  j/jqq   | sch/wsch('sch) |    |
+| sch/wsch('sch) | None/qq | j/jqq | sch/wsch('sch) |    |
 
 **По сути апостроф и w всегда стоят в одних и тех же местах, и могут дать варианты как для обычных текстов (с апострофом), так и для URL (с w).**
 
@@ -145,7 +145,7 @@
 |         | Ещё примеры                           |
 | ------- | ------------------------------------- |
 | дж/dzh  | Джордж/Dzhordzh                       |
-| щ/sch   | щётка/schiotka, счёт/schiotw/schiot, трусчёт/truwschiot/tru'schiot |
+| щ/sch   | щётка/schiotka, счёт/schiot, трусчёт/truwschiot/tru'schiot |
 | ж/zh    | ёж/jozh, возжи/vozzhi, позже/pozzhe   |
 | ч/ch    | Черныш/Chernysh, счётная/schiotnaya   |
 | ш/sh    | шлем/shlem                            |
@@ -177,13 +177,13 @@ Vsem *zhivo* sobratjsia!
 
 ## Пример текста
 
-Piyony i vasiljki vsio jeschio rastut na poliane vozle derevni Piony, 'schitajucshejsia bogatoj.
+Piyony i vasiljki vsio jeschio rastut na poliane vozle derevni Piony, schitajucshejsia bogatoj.
 
 Pjjanyj master po proektu sdelal mehanicheskij objekt s izjanom. Jesli brak ne obnaruzhitsia, to belyje bolidy boljshe ne smogut vyigryvatj gonki.
 
 V pjjese pro devushku v zelionom platjjice vse sadilisj na ladjji i plyli po reke. No tut iz lesa vyshel Dzhordzh Maksimus, konj v paljto i rvanyh dzhinsah, kotoryj chto-to vyiskival, i prikazal vsem mytjsia i gotovitj buljjon'. Znachit snova pjjom do lysyh akvalangistov.
 
-Prepodobnyj Bajjes podkinul igraljnyje kosti. Vypalo shestj, znachit jemu pridiotsia mazatj jod' na ranu.
+Prepodobnyj Bajjes podkinul igraljnyje kosti. Vypalo shestj, znachit jemu pridiotsia mazatj jod na ranu.
 
 Myer neboljshogo gorodishki otkryl tablicu ekselia i vozmutilsia cenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Jesli tak pojdiot i daljshe, to biudzhetu pridiotsia hudo.
 
@@ -201,13 +201,13 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jeschio i rodilisj v odin denj, 22 s
 
 – Frodo, maljchik moj, – skazal kak-to raz Biljbo, – perebiralsia by ty ko mne. Gliadishj, i denj rozhdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodiozhj v bezotvetstvennom vozraste mezhdu dvadcatjju i tridcatjju tremia, posle chego hobbit nakonec mozhet schitatj' sebia vzroslym.
+Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodiozhj v bezotvetstvennom vozraste mezhdu dvadcatjju i tridcatjju tremia, posle chego hobbit nakonec mozhet schitatj sebia vzroslym.
 
 Proshlo jeschio dvenadcatj let. V Zasumkah kazhdyj god veselo otmechali dvojnoj denj rozhdenija, k etomu privykli, no liubomu bylo jasno, chto nyneshnej osenjju gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridcatitriohletije – tozhe znamemateljnaja data – sovershennoletije po-hobbitski.
 
 ----
 
-Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsia' volk i nekotoryje vidy shakalov.
+Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsia volk i nekotoryje vidy shakalov.
 
 V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut', chto sobaki - polifileticheskaja gruppa (proiskhodiaschaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
 
