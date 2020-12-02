@@ -101,13 +101,13 @@
 пьяный/pjjanyj  
 подъезд/podjezd  
 пьеса/pjjesa  
-пйеса/pjesaw/pjesa'  
+пйеса/pwjesa/p'jesa  
 паьеса/paqjjesa  
 паьаса/paqjqqasa  
 пайъеса/pajqqjesa  
 ёж/jozh  
-йож/jozhw/jozh'  
-йод/jodw/jod'  
+йод/jod  
+йож/wjozh/'jozh  
 ёдйод/jodwjoh/jod'jod  
 аллилуйя/allilujja  
 ладьи/ladjji  
@@ -118,7 +118,7 @@
 баньтьынг/banjtjqqyng  
 сьйы/sjjy  
 пьём/pjjom  
-бульон/buljjonw/buljjon'  
+бульон/buljjon  
 выучить/vyuchitj  
 выострить/vyostritj  
 выигрывать/vyigryvatj  
@@ -129,10 +129,10 @@
 
 |              | Правило транслита / правило латиницы                                                                                                                     | Кириллица/Транслит/Латиница                                                                                                                                                                                                          |
 |:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|    **ъ**     | None (после согласных перед **яёюе**), **qq** (иначе)                                                                                                    | изъян/izjan, объект/objekt, объимать/obqqimatj, объизвестить/obqqizvestitj, Йонъин/Jonqqinw/Jonqqin', Сёркйосен/Siorkjosenw/Siorkjosen', онъ/onqq, Муъминат/Muqqminat, Чанъань/Chanqqanj, нъын/nqqyn/nqqyn                                             |
-|    **ьо**    | **jjo...w** / **jjo...'** (**wjjo...**)                                                  | бульон/buljjonw/buljjon', бульонъён/buljwjonjon/bulj'jonjon, сеньор/senjjorw/senjjor', лосьон/losjjonw/losjjon', лосьйон/losj**qq**jon (здесь **специально для ьо** изменена логика модификации с помощью w/')                  |
-|    **ьи**    | **jji**                                                                                            | ладьи/ladjji, платьице/platjjice ладьйи/ladjjiw/ladjji' (здесь **специально для ьи** изменена логика модификации с помощью w/')                                                                                                      |
-|    **ь**     | **jqq** (перед гласными **ауэы** и буквами **йьъ**), **j** (иначе)                                                                           | бельэтаж/beljqqetazh, бельйэтаж/beljjetazhw/beljjetazh', грабьармия/grabjqqarmija, костьутиль/kostjqqutilj, пьеса/pjjesa пьян/pjjan, прячься/priachjsia, мыться/mytjsia, конь/konj, ньын/njqqyn                                                                                      |
+|    **ъ**     | None (после согласных перед **яёюе**), **qq** (иначе)                                                                                                    | изъян/izjan, объект/objekt, объимать/obqqimatj, объизвестить/obqqizvestitj, Йонъин/Jonqqin, Сёркйосен/Siorkjosen, ёркйосен/jorkwjosen/jork'josen, онъ/onqq, Муъминат/Muqqminat, Чанъань/Chanqqanj, нъын/nqqyn/nqqyn                                             |
+|    **ьо**    | **jjo**                                                  | бульон/buljjon, бульонъён/buljwjonjon/bulj'jonjon, сеньор/senjjor, лосьон/losjjon, лосьён/losjwjon/losj'jon, осьён/osjjon, осьон/osjwjon/osj'jon, лосьйон/losjqqjon (здесь **специально для словарных слов с ьо** изменена логика модификации с помощью w/' - важно какой вариант, ьё или ьо, является ходовым для данного слова)                  |
+|    **ьи**    | **jji**                                                                                            | ладьи/ladjji, платьице/platjjice, Вильйинг/Viljqqjing                                                                                                      |
+|    **ь**     | **jqq** (перед гласными **ауэы** и буквами **йьъ**), **j** (иначе)                                                                           | бельэтаж/beljjetazh, бельетаж/beljwjetazh/belj'jetazh, бельйэтаж/beljqqjetazh, ельэтаж/eljqqetazh, ельетаж/eljjetazh, ельйэтаж/eljqqjetazh, грабьармия/grabjqqarmija, костьутиль/kostjqqutilj, пьеса/pjjesa пьян/pjjan, прячься/priachjsia, мыться/mytjsia, конь/konj, ньын/njqqyn (здесь **специально для словарного исключения бельэтаж** изменена логика модификации с помощью w/')                                                                                     |
 | **й[аоуэ]**  | **j[aoue]...w** / **j[aoue]...'** (**wj[aoue]** / **'j[aoue]**) (гласные **аоуэ** после й)                                                             | йод/jodw/jod', йэс/jesw/jes', ёдйод/jodwjoh/jod'jod                              |
 |    **й**     | **j** (остальные простые случаи), **wj** / **'j** (сложные случаи)                                                                                       | красный/krasnyj, аллилуйя/allilujja, Байес/Bajjes, йиппи/jippi, сйс/swjs/s'js                                                    |
 |    **ы**     | **y**                                                                                                        | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyj, Нарва-Йыэсуу/Narva-Jyesuu, Шайыр/Shajyr, выход/vyhod, выигрывать/vyigryvatj, выучить/vyuchitj, выострить/vyostritj                                                                                                                        |
