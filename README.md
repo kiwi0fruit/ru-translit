@@ -145,7 +145,8 @@
 | дж/dzh  | Джордж/Dzhordzh                       |
 | щ/sch   | щётка/schiotka, счёт/sciot, трусчёт/truwsciot |
 | ж/zh    | ёж/jozh, возжи/vozzhi, позже/pozzhe   |
-| ч/c     | Черныш/Cernysh, счётная/sciotnaja, Кирпичзев/Kirpichzev |
+| ч/c     | чесать/cesatj, Черныш/Cernysh, счётная/sciotnaja, Кирпичзев/Kirpichzev |
+| ц/cz    | центурион/czenturiyon, процессор/proczessor, Цезарь/Czezarj |
 | ш/sh    | шлем/shlem                            |
 | ё/jo/io | мёд/miod, ёмко/jomko                  |
 | ю/ju/iu | мюсли/miusli, Юля/Julia               |
@@ -158,7 +159,7 @@
 
 ГЭС/GyES, АЭС/AES, ЖКХ/ZhkKH, ЖЭК/ZhyEK, ЕС/jES, США/SShA, МЧС/MCS, ЮАР/jUAR, ЭЭГ/EEG, ЕГЭ/jEGyE, микрорайон Щ/mikrorajon SC, СЧК/wSCK, ЩК/SCK, ЛЁН/LiON, ЛИОН/LIyON.
 
-ИОН/ION, ЛИЁН/LIjON, ЙОД/wJOD, йод/jod, ЙЁД/JjOD, ЁД/jOD, ёд/jodw, НЫЭ/NYyE, НЫЕ/NYjE, НЙ/NwJ, ЧЗ/ChZ, ЦЗ/CzZ.
+ИОН/ION, ЛИЁН/LIjON, ЙОД/wJOD, йод/jod, ЙЁД/JjOD, ЁД/jOD, ёд/jodw, НЫЭ/NYyE, НЫЕ/NYjE, НЙ/NwJ, ЧЗ/ChZ, ЦЗ/CzZ, ЦРУ/CzRU.
 
 Аббревиатур с Ь и Ъ не должно быть, поэтому в них даже W не заменяется: ЛЪЁН/LJON, ЛЬОН/LJWJON, ЛЬЁН/LJJON, ЛЬЙОН/LJQQJON
 
