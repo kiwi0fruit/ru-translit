@@ -180,7 +180,7 @@ Vsem *zhivo* sobratjsia!
 |    **ьо**    | **jjo/ìjo**                                                  | бульон/buljjon, бульонъён/buljwjonjon, сеньор/senjjor, лосьон/losjjon, лосьён/losjqqjon, лосьйон/losjwjon, осьён/osjjon, осьон/osjwjon, осьйон/osjqqwjon (здесь **специально для словарных слов с ьо** изменена логика модификации с помощью w - важно какой вариант, ьё или ьо, является ходовым для данного слова)                  |
 |    **ьи**    | **jji/ìji**                                                                                            | ладьи/ladjji, платьице/platjjicze, Вильйинг/Viljqqjing                                                                                                      |
 |    **ь**     | **jqq/ìꞌ** (перед гласными **ауэы** и буквами **йьъ**), **j/ì** (иначе)                                                                           | бельэтаж/beljjetazh, бельетаж/beljqqjetazh, бельйэтаж/beljwjetazh, ельэтаж/eljqqetazh, ельетаж/eljjetazh, ельйэтаж/eljwjetazh, грабьармия/grabjqqarmija, костьутиль/kostjqqutilj, пьеса/pjjesa пьян/pjjan, прячься/priacjsia, мыться/mytjsia, конь/konj, ньын/njqqyn (здесь **специально для словарного исключения бельэтаж** изменена логика модификации с помощью w)                                                                                     |
-| **й[аоуэ]**  | **j[aoue]** (гласные **аоуэ** после й)                                                             | йод/jod, ёж/jozh, йэс/wjes, ёдйод/jodwjoh                              |
+| **й[аоуэ]**  | **j[aoue]** (гласные **аоуэ** после й), **wj[aoue]/ĵ[aoue]** (альтернативная йотация)                                                             | йод/jod, ёж/jozh, йэс/wjes, ёдйод/jodwjoh                              |
 |    **й**     | **j** (остальные простые случаи), **wj/ĵ** (сложные случаи)                                                                                       | красный/krasnyj, аллилуйя/allilujja, Байес/Bajjes, йиппи/jippi, сйс/swjs                                                    |
 |    **ы**     | **y**                                                                                                        | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyj, Нарва-Йыэсуу/Narva-Jyesuu, Шайыр/Shajyr, выход/vyhod, выигрывать/vyigryvatj, выучить/vyucitj, выострить/vyostritj                                                                                                                        |
 |    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **je** (иначе)                                                        | мера/mera, еда/jeda, если/jesli, заезд/zajezd, Байес/Bajjes, заем/zajem, заём/zajom, траектория/trajektorija, проект/proekt, проэкт/prowekt, проэк/proek/proek (**проект - словарное исключение** с особым правилом отображения) |
@@ -188,19 +188,20 @@ Vsem *zhivo* sobratjsia!
 |  **[яёю]**   | **i[aou]/[àòù]** (после согласных), **j[aou]** (иначе)                                                                                                         | синяя/siniaja, мёд/miod, ёлка/jolka, пюре/piure, якорь/jakorj                                                                                                                                                                        |
 |    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/skhod, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/ckhatj, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/vece, меча/meca                                         |
 
-|             | Ещё примеры                           |
-| ----------- | ------------------------------------- |
-| дж, dzh/dž  | Джордж/Dzhordzh                       |
-| щ, sc       | щётка/schiotka, счёт/sciot, трусчёт/truwsciot |
-| ж, zh       | ёж/jozh, возжи/vozzhi, позже/pozzhe   |
-| жж, zhzh/žž | жужжать/zhuzhzhatj/zhužžatì       |
-| чж, сhzh/сž | Чжань/Chzhanj/Cžanì       |
-| ч, c, ch    | чесать/cesatj, Черныш/Cernysh, счётная/sciotnaja, Кирпичзев/Kirpichzev |
-| ц, cz/ç     | центурион/czenturiyon, процессор/proczessor, Цезарь/Czezarj |
-| ш, sh       | шлем/shlem                            |
-| ё, jo, io/ò | мёд/miod, ёмко/jomko                  |
-| ю, ju, iu/ù | мюсли/miusli, Юля/Julia               |
-| я, ja, ia/à | Изя/Izia, Якорь/Jakorj, баян/bajan    |
+|                | Ещё примеры                                                                            |
+| -------------- | -------------------------------------------------------------------------------------- |
+| дж, dzh/dž     | Джордж/Dzhordzh/Džordž                                                                 |
+| щ, sc          | щётка/sciotka/scòtka, ещё/jescio/jescò                                                 |
+| сч, sc, wsc/ŝc | счёт/sciot/scòt, трусчёт/truwsciot/truŝcòt                                             |
+| ж, zh          | ёж/jozh, возжи/vozzhi, позже/pozzhe                                                    |
+| жж, zhzh/žž    | жужжать/zhuzhzhatj/zhužžatì                                                            |
+| чж, сhzh/сž    | Чжань/Chzhanj/Cžanì                                                                    |
+| ч, c, ch       | чесать/cesatj/cesatì, Черныш/Cernysh, счётная/sciotnaja/scòtnaja, Кирпичзев/Kirpichzev |
+| ц, cz/ç        | центурион/czenturiyon/çenturįon, процессор/proczessor/proçessor, Цезарь/Czezarj/Çezarì |
+| ш, sh          | шлем/shlem                                                                             |
+| ё, jo, io/ò    | мёд/miod/mòd, ёмко/jomko                                                               |
+| ю, ju, iu/ù    | мюсли/miusli/mùsli, Юля/Julia/Julà                                                     |
+| я, ja, ia/à    | Изя/Izia/Izà, Якорь/Jakorj/Jakorì, баян/bajan                                          |
 
 
 ## Пример текста английской латиницы
