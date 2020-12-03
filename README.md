@@ -208,7 +208,7 @@ Proshlo jescio dvenadczatj let. V Zasumkah kazhdyj god veselo otmecali dvojnoj d
 
 Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsia volk i nekotoryje vidy shakalov.
 
-V suzhdenijah ucionyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut', cto sobaki - polifileticeskaja gruppa (proiskhodiascaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
+V suzhdenijah ucionyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proiskhodiascaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
 
 
 ## TO DO
