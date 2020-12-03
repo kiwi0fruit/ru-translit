@@ -187,7 +187,7 @@ Vsem *zhivo* sobratjsia!
 выигрывать/vyigryvatj/vyigryvatì  
 объимать/obqqimatj/obꞌimatì  
 объизвестить/obqqizvestitj/obꞌizvestitì  
-бельэтаж/beljqqetazh/belìjetazh  
+бельэтаж/beljjetazh/belìjetazh  
 грабьармия/grabjqqarmija/grabìꞌarmija  
 
 |              | Правило транслита / правило латиницы                                                                                                                     | Кириллица/Транслит/Латиница                                                                                                                                                                                                          |
