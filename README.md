@@ -180,7 +180,7 @@ Piyony i vasiljki vsio jescio rastut na poliane vozle derevni Piony, scitajuscej
 
 Pjjanyj master po proektu sdelal mehaniceskij objekt s izjanom. Jesli brak ne obnaruzhitsia, to belyje bolidy boljshe ne smogut vyigryvatj gonki.
 
-V pjjese pro devushku v zelionom platjjicze vse sadilisj na ladjji i plyli po reke. No tut iz lesa vyshel Dzhordzh Maksimus, konj v paljto i rvanyh dzhinsah, kotoryj cto-to vyiskival, i prikazal vsem mytjsia i gotovitj buljjon'. Znacit snova pjjom do lysyh akvalangistov.
+V pjjese pro devushku v zelionom platjjicze vse sadilisj na ladjji i plyli po reke. No tut iz lesa vyshel Dzhordzh Maksimus, konj v paljto i rvanyh dzhinsah, kotoryj cto-to vyiskival, i prikazal vsem mytjsia i gotovitj buljjon. Znacit snova pjjom do lysyh akvalangistov.
 
 Prepodobnyj Bajjes podkinul igraljnyje kosti. Vypalo shestj, znacit jemu pridiotsia mazatj jod na ranu.
 
