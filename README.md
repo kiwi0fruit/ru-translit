@@ -200,7 +200,7 @@ Vsem *zhivo* sobratjsia!
 | я/ja/ia | Изя/Izia, Якорь/Jakorj, баян/bajan    |
 
 
-## Пример текста
+## Пример текста английской латиницы
 
 Piyony i vasiljki vsio jescio rastut na poliane vozle derevni Piony, scitajuscejsia bogatoj.
 
@@ -235,6 +235,43 @@ Proshlo jescio dvenadczatj let. V Zasumkah kazhdyj god veselo otmecali dvojnoj d
 Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsia volk i nekotoryje vidy shakalov.
 
 V suzhdenijah ucionyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proiskhodiascaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
+
+
+## Пример текста совлат-англотранс латиницы
+
+Pįony i vasilìki vsò jescò rastut na polàne vozle derevni Pòny, scitajuscejsà bogatoj.
+
+Pìjanyj master po proektu sdelal mehaniceskij objekt s izjanom. Jesli brak ne obnaruzhitsà, to belyje bolidy bolìshe ne smogut vyigryvatì gonki.
+
+V pìjese pro devushku v zelònom platìjiçe vse sadilisì na ladìji i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konì v palìto i rvanyh džinsah, kotoryj cto-to vyiskival, i prikazal vsem mytìsà i gotovitì bulìjon. Znacit snova pìjom do lysyh akvalangistov.
+
+Prepodobnyj Bajjes podkinul igralìnyje kosti. Vypalo shestì, znacit jemu pridòtsà mazatì jod na ranu.
+
+Męr nebolìshogo gorodishki otkryl tabliçu ekselà i vozmutilsà çenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitì. Oh uzh eta pokupka vecnogo dvigatelà v proshlom godu! A tak zhe pokupka aeroplana-ekranolòta. Jesli tak pojdòt i dalìshe, to bùdžetu pridòtsà hudo.
+
+V etom vide fraza ot A to Ja nacinajet vyglàdetì sovsem po-drugomu. Sejcas scòtka novaja, no pozzhe ona stanet staraja. Cernysh lùbit kogda jego ceshut jeju. Jozh kolùcij i pohozh na nejo.
+
+Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal cto zhe delatì s otkhodami kompanii "Kaligula Gaj Julij Çezarì" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashòl vyhod iz situaçii.
+
+"Kto s mecom k nam pridòt, tot ot meca i..." - ne smog dogovoritì starshij mehanik Vasilij.
+
+----
+
+Lùbimçem Bilìbo byl junyj Frodo Sumniks. Kogda Bilìbo stuknulo devànosto devàtì, on vdrug usynovil sirotu Frodo, sdelal svoim naslednikom i predlozhil pereselitìsà v Zasumki. Tut uzh vse nadezhdy Derikulì-Sumniksov, davno s vozhdelenijem posmatrivavshih na usadìbu, ruhnuli okoncatelìno.
+
+Slucaju bylo ugodno, ctoby Bilìbo s Frodo jescò i rodilisì v odin denì, 22 sentàbrà.
+
+– Frodo, malìcik moj, – skazal kak-to raz Bilìbo, – perebiralsà by ty ko mne. Glàdishì, i denì rozhdenija vmeste otmecali by.
+
+Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodòzhì v bezotvetstvennom vozraste mezhdu dvadçatìju i tridçatìju tremà, posle cego hobbit nakoneç mozhet scitatì sebà vzroslym.
+
+Proshlo jescò dvenadçatì let. V Zasumkah kazhdyj god veselo otmecali dvojnoj denì rozhdenija, k etomu privykli, no lùbomu bylo jasno, cto nyneshnej osenìju gotovitsà necto neobycnoje. Bilìbo ispolnàlosì 111 let – vozrast dlà hobbita vesìma poctennyj, da i cislo lùbopytnoje, nu a Frodo gotovilsà otmetitì tridçatitròhletije – tozhe znamematelìnaja data – sovershennoletije po-hobbitski.
+
+----
+
+Imejetsà neskolìko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsà volk i nekotoryje vidy shakalov.
+
+V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proiskhodàscaja ot neskolìkih predkov), drugije priderzhivajutsà mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
 
 
 ## TO DO
