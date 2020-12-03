@@ -145,7 +145,7 @@
 | дж/dzh  | Джордж/Dzhordzh                       |
 | щ/sch   | щётка/schiotka, счёт/sciot, трусчёт/truwsciot |
 | ж/zh    | ёж/jozh, возжи/vozzhi, позже/pozzhe   |
-| ч/c     | Черныш/Cernysh, счётная/sciotnaja     |
+| ч/c     | Черныш/Cernysh, счётная/sciotnaja, Кирпичзев/Kirpichzev |
 | ш/sh    | шлем/shlem                            |
 | ё/jo/io | мёд/miod, ёмко/jomko                  |
 | ю/ju/iu | мюсли/miusli, Юля/Julia               |
