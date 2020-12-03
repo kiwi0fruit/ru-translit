@@ -50,8 +50,8 @@
 * **qq** обозначает паузу, гортанную смычку или просто игнорируемый диграф, в редких случаях даже может значить йотацию вопреки всей логике - зависит от слова (объизвестить/obqqizvestitj, грабьармия/grabjqqarmija).
 * х обозначется **h/kh** (ход/hod, сход/skhod).
 * слова на латинице из других языков можно писать, экранируя с помощью " /" и "/ " (или `\w[(]?/` и `/[,.?;!)']?\w`).
-* разные способы написания звука /щ/ (щ и сч) передаются с помощью **sch**. Разные виды йотирования (е,ё,ю,я vs. йэ,йо,йу,йа, ьё vs. ьо, и т.п.) так же передаются только с помощью **jo,je,ju,ja**. Обратное отображение в кириллицу осуществляется с помощью "умного" алгоритма, который, в том числе, использует словарь. Для новых слов, альтернативных написаний и слов, отсутствующих в словаре, используется переключатель **w**/**'**. Если прообраз слова должен содержать только е,ё,ю,я,щ, то в конце слова ставится w/'. Если же слово в каком-то месте должно содержать йэ,йо,йу,йа,сч, то w/' ставится явно префиксом **wjo,wje,wju,wja,wsch/'jo,'je,'ju,'ja,'sch** (счёт/schiot, счет/schet, щётка/schiotka, считаются/schitajutsia, считающейся/schitajucshejsia, йод/jod, ёж/jozh, ёдъёд/jodjodw/jodjod', ёдйод/jodwjod/jod'jod, йоща/wjoscha/'joscha).
-* иногда **w** еще используется как патч для проблем, возникающих из-за словарных исключений (проект/proekt, проэкт/prowekt/pro'ekt).
+* разные способы написания звука /щ/ (щ и сч) передаются с помощью **sc**. Разные виды йотирования (е,ё,ю,я vs. йэ,йо,йу,йа, ьё vs. ьо, и т.п.) так же передаются только с помощью **jo,je,ju,ja**. Обратное отображение в кириллицу осуществляется с помощью "умного" алгоритма, который, в том числе, использует словарь. Для новых слов, альтернативных написаний и слов, отсутствующих в словаре, используется переключатель **w**. Если прообраз слова должен содержать только е,ё,ю,я,щ, то в конце слова ставится w. Если же слово в каком-то месте должно содержать йэ,йо,йу,йа,сч, то w/' ставится явно префиксом **wjo,wje,wju,wja,wsc** (счёт/sciot, счет/scet, щётка/sciotka, считаются/scitajutsia, считающейся/scitajucsejsia, йод/jod, ёж/jozh, ёдъёд/jodjodw, ёдйод/jodwjod, йоща/wjosca).
+* иногда **w** еще используется как патч для проблем, возникающих из-за словарных исключений (проект/proekt, проэкт/prowekt).
 
 Возможные расширения:
 
@@ -65,17 +65,15 @@
 |   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
 |     b     |     v     |    g     |    d     |    zh    |
 |   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
-|     z     | j / wj ('j) |  k     |    l     |    m     |
+|     z     |   j/wj    |    k     |    l     |    m     |
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |   h/kh    |    c     |    ch    |    sh    |
-|   **щ**   |   **ъ**   |  **ь**   |  **сч**  |          |
-| sch / wsch ('sch) | None / qq | j / jqq | sch / wsch ('sch) | |
+|     f     |   h/kh    |   cz     |    c     |    sh    |
+|   **щ**   |   **ъ**   |  **ь**   |  **сч**  |  **чз**  |
+| sch / wsch | None / qq | j / jqq | sch / wsch |  chz   |
 
-**По сути апостроф и w всегда стоят в одних и тех же местах, и могут дать варианты как для обычных текстов (с апострофом), так и для URL (с w).**
-
-Алфавит транслитерации использует все буквы английского алфавита кроме Xx. Ww может быть заменена на ' (апостроф).
+Алфавит транслитерации использует все буквы английского алфавита кроме Xx.
 
 ***Слово на латинице является грамматически верным если:***
 
@@ -102,14 +100,14 @@
 пьяный/pjjanyj  
 подъезд/podjezd  
 пьеса/pjjesa  
-пйеса/pwjesa/p'jesa  
+пйеса/pwjesa  
 паьеса/paqjjesa  
 паьаса/paqjqqasa  
 пайъеса/pajqqjesa  
 ёж/jozh  
 йод/jod  
-йож/wjozh/'jozh  
-ёдйод/jodwjoh/jod'jod  
+йож/wjozh 
+ёдйод/jodwjoh 
 аллилуйя/allilujja  
 ладьи/ladjji  
 Таунйин/Taunjin  
@@ -120,7 +118,7 @@
 сьйы/sjjy  
 пьём/pjjom  
 бульон/buljjon  
-выучить/vyuchitj  
+выучить/vyucitj  
 выострить/vyostritj  
 выигрывать/vyigryvatj  
 объимать/obqqimatj  
@@ -130,24 +128,24 @@
 
 |              | Правило транслита / правило латиницы                                                                                                                     | Кириллица/Транслит/Латиница                                                                                                                                                                                                          |
 |:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|    **ъ**     | None (после согласных перед **яёюе**), **qq** (иначе)                                                                                                    | изъян/izjan, объект/objekt, объимать/obqqimatj, объизвестить/obqqizvestitj, Йонъин/Jonqqin, Сёркйосен/Siorkjosen, ёркйосен/jorkwjosen/jork'josen, онъ/onqq, Муъминат/Muqqminat, Чанъань/Chanqqanj, нъын/nqqyn/nqqyn                                             |
-|    **ьо**    | **jjo**                                                  | бульон/buljjon, бульонъён/buljwjonjon/bulj'jonjon, сеньор/senjjor, лосьон/losjjon, лосьён/losjwjon/losj'jon, осьён/osjjon, осьон/osjwjon/osj'jon, лосьйон/losjqqjon (здесь **специально для словарных слов с ьо** изменена логика модификации с помощью w/' - важно какой вариант, ьё или ьо, является ходовым для данного слова)                  |
-|    **ьи**    | **jji**                                                                                            | ладьи/ladjji, платьице/platjjice, Вильйинг/Viljqqjing                                                                                                      |
-|    **ь**     | **jqq** (перед гласными **ауэы** и буквами **йьъ**), **j** (иначе)                                                                           | бельэтаж/beljjetazh, бельетаж/beljwjetazh/belj'jetazh, бельйэтаж/beljqqjetazh, ельэтаж/eljqqetazh, ельетаж/eljjetazh, ельйэтаж/eljqqjetazh, грабьармия/grabjqqarmija, костьутиль/kostjqqutilj, пьеса/pjjesa пьян/pjjan, прячься/priachjsia, мыться/mytjsia, конь/konj, ньын/njqqyn (здесь **специально для словарного исключения бельэтаж** изменена логика модификации с помощью w/')                                                                                     |
-| **й[аоуэ]**  | **j[aoue]** (гласные **аоуэ** после й)                                                             | йод/jod, ёж/jozh, йэс/wjes/'jes, ёдйод/jodwjoh/jod'jod                              |
-|    **й**     | **j** (остальные простые случаи), **wj** / **'j** (сложные случаи)                                                                                       | красный/krasnyj, аллилуйя/allilujja, Байес/Bajjes, йиппи/jippi, сйс/swjs/s'js                                                    |
-|    **ы**     | **y**                                                                                                        | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyj, Нарва-Йыэсуу/Narva-Jyesuu, Шайыр/Shajyr, выход/vyhod, выигрывать/vyigryvatj, выучить/vyuchitj, выострить/vyostritj                                                                                                                        |
-|    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **je** (иначе)                                                        | мера/mera, еда/jeda, если/jesli, заезд/zajezd, Байес/Bajjes, заем/zajem, заём/zajom, траектория/trajektorija, проект/proekt, проэкт/prowekt/pro'ekt, проэк/proek/proek (**проект - словарное исключение** с особым правилом отображения) |
-|    **э**     | **ye** (после согласных или после ы в закрытом слоге), **е** (иначе)                                                                                                         | мэр/myer, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/wjes/'jes, ыэр/yer, мыэр/myyer                                                                                                                                               |
+|    **ъ**     | None (после согласных перед **яёюе**), **qq** (иначе)                                                                                                    | изъян/izjan, объект/objekt, объимать/obqqimatj, объизвестить/obqqizvestitj, Йонъин/Jonqqin, Сёркйосен/Siorkjosen, ёркйосен/jorkwjosen, онъ/onqq, Муъминат/Muqqminat, Чанъань/Canqqanj, нъын/nqqyn/nqqyn                                             |
+|    **ьо**    | **jjo**                                                  | бульон/buljjon, бульонъён/buljwjonjon, сеньор/senjjor, лосьон/losjjon, лосьён/losjwjon, осьён/osjjon, осьон/osjwjon, лосьйон/losjqqjon (здесь **специально для словарных слов с ьо** изменена логика модификации с помощью w/' - важно какой вариант, ьё или ьо, является ходовым для данного слова)                  |
+|    **ьи**    | **jji**                                                                                            | ладьи/ladjji, платьице/platjjicze, Вильйинг/Viljqqjing                                                                                                      |
+|    **ь**     | **jqq** (перед гласными **ауэы** и буквами **йьъ**), **j** (иначе)                                                                           | бельэтаж/beljjetazh, бельетаж/beljwjetazh, бельйэтаж/beljqqjetazh, ельэтаж/eljqqetazh, ельетаж/eljjetazh, ельйэтаж/eljqqjetazh, грабьармия/grabjqqarmija, костьутиль/kostjqqutilj, пьеса/pjjesa пьян/pjjan, прячься/priacjsia, мыться/mytjsia, конь/konj, ньын/njqqyn (здесь **специально для словарного исключения бельэтаж** изменена логика модификации с помощью w/')                                                                                     |
+| **й[аоуэ]**  | **j[aoue]** (гласные **аоуэ** после й)                                                             | йод/jod, ёж/jozh, йэс/wjes, ёдйод/jodwjoh                              |
+|    **й**     | **j** (остальные простые случаи), **wj** / **'j** (сложные случаи)                                                                                       | красный/krasnyj, аллилуйя/allilujja, Байес/Bajjes, йиппи/jippi, сйс/swjs                                                    |
+|    **ы**     | **y**                                                                                                        | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyj, Нарва-Йыэсуу/Narva-Jyesuu, Шайыр/Shajyr, выход/vyhod, выигрывать/vyigryvatj, выучить/vyucitj, выострить/vyostritj                                                                                                                        |
+|    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **je** (иначе)                                                        | мера/mera, еда/jeda, если/jesli, заезд/zajezd, Байес/Bajjes, заем/zajem, заём/zajom, траектория/trajektorija, проект/proekt, проэкт/prowekt, проэк/proek/proek (**проект - словарное исключение** с особым правилом отображения) |
+|    **э**     | **ye** (после согласных или после ы в закрытом слоге), **е** (иначе)                                                                                                         | мэр/myer, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/wjes, ыэр/yer, мыэр/myyer                                                                                                                                               |
 |  **[яёю]**   | **i[aou]** (после согласных), **j[aou]** (иначе)                                                                                                         | синяя/siniaja, мёд/miod, ёлка/jolka, пюре/piure, якорь/jakorj                                                                                                                                                                        |
-|    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/skhod, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/veche, меча/mecha                                         |
+|    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/skhod, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/ckhatj, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/vece, меча/meca                                         |
 
 |         | Ещё примеры                           |
 | ------- | ------------------------------------- |
 | дж/dzh  | Джордж/Dzhordzh                       |
-| щ/sch   | щётка/schiotka, счёт/schiot, трусчёт/truwschiot/tru'schiot |
+| щ/sch   | щётка/schiotka, счёт/sciot, трусчёт/truwsciot |
 | ж/zh    | ёж/jozh, возжи/vozzhi, позже/pozzhe   |
-| ч/ch    | Черныш/Chernysh, счётная/schiotnaya   |
+| ч/c     | Черныш/Cernysh, счётная/sciotnaja     |
 | ш/sh    | шлем/shlem                            |
 | ё/jo/io | мёд/miod, ёмко/jomko                  |
 | ю/ju/iu | мюсли/miusli, Юля/Julia               |
@@ -156,11 +154,11 @@
 
 ## Аббревиатуры
 
-Все слова в верхнем регистре считаются аббревиатурами и записываются по специальным правилам. Есть два варианта аббревиатур: для случаев, когда нужны только буквы базовой латиницы, и когда можно использовать не буквенные символы. В первом случае модифицирующая буква диграфа пишется в нижнем регистре, а модифицируемая буква - в верхнем. Во втором случае префиксные модифицирующие буквы **w**, **i**, **j**, **k**, **y**, заменяются на **'** (апостроф), а постфиксные **h** и **y** - на **|**. Щ - особый случай: Щ/Sch/S||.
+Все слова в верхнем регистре считаются аббревиатурами и записываются по специальным правилам. Vодифицирующая буква диграфа пишется в нижнем регистре, а модифицируемая буква - в верхнем.
 
-ГЭС/GyES/G'ES, АЭС/AES, ЖКХ/ZhkKH/Z|'KH, ЖЭК/ZhyEK/Z|'EK, ЕС/jES/'ES, США/SShA/SS|A, МЧС/MChS/MC|S, ЮАР/jUAR/'UAR, ЭЭГ/EEG, ЕГЭ/jEGyE/'EG'E, микрорайон Щ/mikrorajon Sch/mikrorajon S||, СЧК/wSChK/'SC|K, ЩК/SchK/S||K, ЛЁН/LiON/L'ON, ЛИОН/LIyON/LI|ON.
+ГЭС/GyES, АЭС/AES, ЖКХ/ZhkKH, ЖЭК/ZhyEK, ЕС/jES, США/SShA, МЧС/MCS, ЮАР/jUAR, ЭЭГ/EEG, ЕГЭ/jEGyE, микрорайон Щ/mikrorajon SC, СЧК/wSCK, ЩК/SCK, ЛЁН/LiON, ЛИОН/LIyON.
 
-ИОН/ION, ЛИЁН/LIjON/LI'ON, ЙОД/wJOD/'JOD, йод/jod, ЙЁД/JjOD/J'OD, ЁД/jOD/'OD, ёд/jodw/jod', НЫЭ/NYyE/NY|E, НЫЕ/NYjE/NY'E, НЙ/NwJ/N'J.
+ИОН/ION, ЛИЁН/LIjON, ЙОД/wJOD, йод/jod, ЙЁД/JjOD, ЁД/jOD, ёд/jodw, НЫЭ/NYyE, НЫЕ/NYjE, НЙ/NwJ, ЧЗ/ChZ, ЦЗ/CzZ.
 
 Аббревиатур с Ь и Ъ не должно быть, поэтому в них даже W не заменяется: ЛЪЁН/LJON, ЛЬОН/LJWJON, ЛЬЁН/LJJON, ЛЬЙОН/LJQQJON
 
@@ -177,39 +175,39 @@ Vsem *zhivo* sobratjsia!
 
 ## Пример текста
 
-Piyony i vasiljki vsio jeschio rastut na poliane vozle derevni Piony, schitajucshejsia bogatoj.
+Piyony i vasiljki vsio jescio rastut na poliane vozle derevni Piony, scitajuscejsia bogatoj.
 
-Pjjanyj master po proektu sdelal mehanicheskij objekt s izjanom. Jesli brak ne obnaruzhitsia, to belyje bolidy boljshe ne smogut vyigryvatj gonki.
+Pjjanyj master po proektu sdelal mehaniceskij objekt s izjanom. Jesli brak ne obnaruzhitsia, to belyje bolidy boljshe ne smogut vyigryvatj gonki.
 
-V pjjese pro devushku v zelionom platjjice vse sadilisj na ladjji i plyli po reke. No tut iz lesa vyshel Dzhordzh Maksimus, konj v paljto i rvanyh dzhinsah, kotoryj chto-to vyiskival, i prikazal vsem mytjsia i gotovitj buljjon'. Znachit snova pjjom do lysyh akvalangistov.
+V pjjese pro devushku v zelionom platjjicze vse sadilisj na ladjji i plyli po reke. No tut iz lesa vyshel Dzhordzh Maksimus, konj v paljto i rvanyh dzhinsah, kotoryj cto-to vyiskival, i prikazal vsem mytjsia i gotovitj buljjon'. Znacit snova pjjom do lysyh akvalangistov.
 
-Prepodobnyj Bajjes podkinul igraljnyje kosti. Vypalo shestj, znachit jemu pridiotsia mazatj jod na ranu.
+Prepodobnyj Bajjes podkinul igraljnyje kosti. Vypalo shestj, znacit jemu pridiotsia mazatj jod na ranu.
 
-Myer neboljshogo gorodishki otkryl tablicu ekselia i vozmutilsia cenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitj. Oh uzh eta pokupka vechnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Jesli tak pojdiot i daljshe, to biudzhetu pridiotsia hudo.
+Myer neboljshogo gorodishki otkryl tabliczu ekselia i vozmutilsia czenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitj. Oh uzh eta pokupka vecnogo dvigatelia v proshlom godu! A tak zhe pokupka aeroplana-ekranoliota. Jesli tak pojdiot i daljshe, to biudzhetu pridiotsia hudo.
 
-V etom vide fraza ot A to Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schiotka novaja, no pozzhe ona stanet staraja. Chernysh liubit kogda jego cheshut jeju. Jozh koliuchij i pohozh na nejo.
+V etom vide fraza ot A to Ja nacinajet vygliadetj sovsem po-drugomu. Sejcas sciotka novaja, no pozzhe ona stanet staraja. Cernysh liubit kogda jego ceshut jeju. Jozh koliucij i pohozh na nejo.
 
-Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal chto zhe delatj s otkhodami kompanii "Kaligula Gaj Julij Cezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuschih nosil hoholok na golove. On i nashiol vyhod iz situacii.
+Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal cto zhe delatj s otkhodami kompanii "Kaligula Gaj Julij Czezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashiol vyhod iz situaczii.
 
-"Kto s mechom k nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshij mehanik Vasilij.
-
-----
-
-Liubimcem Biljbo byl junyj Frodo Sumniks. Kogda Biljbo stuknulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednikom i predlozhil pereselitjsia v Zasumki. Tut uzh vse nadezhdy Derikulj-Sumniksov, davno s vozhdelenijem posmatrivavshih na usadjbu, ruhnuli okonchateljno.
-
-Sluchaju bylo ugodno, chtoby Biljbo s Frodo jeschio i rodilisj v odin denj, 22 sentiabria.
-
-– Frodo, maljchik moj, – skazal kak-to raz Biljbo, – perebiralsia by ty ko mne. Gliadishj, i denj rozhdenija vmeste otmechali by.
-
-Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodiozhj v bezotvetstvennom vozraste mezhdu dvadcatjju i tridcatjju tremia, posle chego hobbit nakonec mozhet schitatj sebia vzroslym.
-
-Proshlo jeschio dvenadcatj let. V Zasumkah kazhdyj god veselo otmechali dvojnoj denj rozhdenija, k etomu privykli, no liubomu bylo jasno, chto nyneshnej osenjju gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridcatitriohletije – tozhe znamemateljnaja data – sovershennoletije po-hobbitski.
+"Kto s mecom k nam pridiot, tot ot meca i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
 ----
 
-Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami schitajutsia volk i nekotoryje vidy shakalov.
+Liubimczem Biljbo byl junyj Frodo Sumniks. Kogda Biljbo stuknulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednikom i predlozhil pereselitjsia v Zasumki. Tut uzh vse nadezhdy Derikulj-Sumniksov, davno s vozhdelenijem posmatrivavshih na usadjbu, ruhnuli okoncateljno.
 
-V suzhdenijah uchionyh o predkah domashnej sobaki prisutstvujut dve tochki zrenija. Odni schitajut', chto sobaki - polifileticheskaja gruppa (proiskhodiaschaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, chto vse sobaki proizoshli ot odnogo predka (monofileticheskaja teorija).
+Slucaju bylo ugodno, ctoby Biljbo s Frodo jescio i rodilisj v odin denj, 22 sentiabria.
+
+– Frodo, maljcik moj, – skazal kak-to raz Biljbo, – perebiralsia by ty ko mne. Gliadishj, i denj rozhdenija vmeste otmecali by.
+
+Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodiozhj v bezotvetstvennom vozraste mezhdu dvadczatjju i tridczatjju tremia, posle cego hobbit nakonecz mozhet scitatj sebia vzroslym.
+
+Proshlo jescio dvenadczatj let. V Zasumkah kazhdyj god veselo otmecali dvojnoj denj rozhdenija, k etomu privykli, no liubomu bylo jasno, cto nyneshnej osenjju gotovitsia necto neobycnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma poctennyj, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridczatitriohletije – tozhe znamemateljnaja data – sovershennoletije po-hobbitski.
+
+----
+
+Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsia volk i nekotoryje vidy shakalov.
+
+V suzhdenijah ucionyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut', cto sobaki - polifileticeskaja gruppa (proiskhodiascaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
 
 
 ## TO DO
