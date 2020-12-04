@@ -135,7 +135,7 @@ Vsem *zhivo* sobratjsia!
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |   h/ch    |    ç     |    c     |    sh    |
 |  **щ** |  **ъ**  | **ь** | **сч** | **чз, чьз, чж, дж, жж** |
-|    sc  | None/qq | j/jqq | sc/sĉ  | cjz, cjqqz, cž, dž, žž  |
+|    sc  | None/qq | j/jqq | sc/sĉ  | ĉz, cjqqz, cž, dž, žž  |
 
 
 ## Аббревиатуры совлат-англотранс латиницы
@@ -237,7 +237,7 @@ Myer neboljshogo gorodishki otkryl tabliczu ekselia i vozmutilsia czenoj novogo 
 
 V etom vide fraza ot A to Ja nacinajet vygliadetj sovsem po-drugomu. Sejcas sciotka novaja, no pozzhe ona stanet staraja. Cernysh liubit kogda jego ceshut jeju. Jozh koliucij i pohozh na nejo.
 
-Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal cto zhe delatj s otkhodami kompanii "Kaligula Gaj Julij Czezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashiol vyhod iz situaczii.
+Schod mestnyh zhitelej indijskoj derevni sikhov reshal cto zhe delatj s otchodami kompanii "Kaligula Gaj Julij Czezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashiol vyhod iz situaczii.
 
 "Kto s mecom k nam pridiot, tot ot meca i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
@@ -274,7 +274,7 @@ Mėr neboljshogo gorodishki otkryl tabliçu ekselà i vozmutilsà çenoj novogo 
 
 V etom vide fraza ot A to Ja nacinajet vyglàdetj sovsem po-drugomu. Sejcas scòtka novaja, no pozzhe ona stanet staraja. Cernysh lùbit kogda jego ceshut jeju. Jozh kolùcij i pohozh na nejo.
 
-Skhod mestnyh zhitelej indijskoj derevni sikkhov reshal cto zhe delatj s otkhodami kompanii "Kaligula Gaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashòl vyhod iz situaçii.
+Schod mestnyh zhitelej indijskoj derevni sikhov reshal cto zhe delatj s otchodami kompanii "Kaligula Gaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashòl vyhod iz situaçii.
 
 "Kto s mecom k nam pridòt, tot ot meca i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
