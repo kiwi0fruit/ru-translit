@@ -68,9 +68,9 @@
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |   h/kh    |   cz     |    c     |    sh    |
-|   **щ**   |   **ъ**   |  **ь**   |  **сч**  | **ч[зжхк]** |
-|    sc     |  None/qq  |   j/jqq  |  sc/wsc  |  ch (chkh)  |
+|     f     |   h/ch    |   cz     |    c     |    sh    |
+|   **щ**   |   **ъ**   |  **ь**   |  **сч**  | **чз, чьз** |
+|    sc     |  None/qq  |   j/jqq  |  sc/wsc  |  cjz, cjqqz |
 
 Алфавит транслитерации использует все буквы английского алфавита кроме Xx.
 
@@ -84,9 +84,9 @@
 
 Все слова в верхнем регистре считаются аббревиатурами и записываются по специальным правилам. Vодифицирующая буква диграфа пишется в нижнем регистре, а модифицируемая буква - в верхнем.
 
-ГЭС/GyES, АЭС/AES, ЖКХ/ZhkKH, ЖЭК/ZhyEK, ЕС/jES, США/SShA, МЧС/MCS, ЮАР/jUAR, ЭЭГ/EEG, ЕГЭ/jEGyE, микрорайон Щ/mikrorajon SC, СЧК/wSCK, ЩК/SCK, ЛЁН/LiON, ЛИОН/LIyON.
+ГЭС/GyES, АЭС/AES, ЖКХ/ZhKH, ЧХ/CcH, ЖЭК/ZhyEK, ЕС/jES, США/SShA, МЧС/MCS, ЮАР/jUAR, ЭЭГ/EEG, ЕГЭ/jEGyE, микрорайон Щ/mikrorajon SC, СЧК/wSCK, ЩК/SCK, ЛЁН/LiON, ЛИОН/LIyON.
 
-ИОН/ION, ЛИЁН/LIjON, ЙОД/wJOD, йод/jod, ЙЁД/JjOD, ЁД/jOD, ёд/jodw, НЫЭ/NYyE, НЫЕ/NYjE, НЙ/NwJ, ЧЗ/ChZ, ЦЗ/CzZ, ЦРУ/CzRU.
+ИОН/ION, ЛИЁН/LIjON, ЙОД/wJOD, йод/jod, ЙЁД/JjOD, ЁД/jOD, ёд/jodw, НЫЭ/NYyE, НЫЕ/NYjE, НЙ/NwJ, ЧЗ/CjZ, ЦЗ/CzZ, ЦРУ/CzRU.
 
 Аббревиатур с Ь и Ъ не должно быть, поэтому в них даже W не заменяется: ЛЪЁН/LJON, ЛЬЁН/LJJON, ЛЬОН/LJWJON, ЛЬЙОН/LJQQWJON
 
@@ -110,7 +110,7 @@ Vsem *zhivo* sobratjsia!
 * sye => sė (э),
 * wj => ĵ (й), wsc => sĉ (сч),
 * w в конце слова => ' (апостроф),
-* dzh => dž (дж), zhzh => žž (жж), chzh => cž (чж),
+* dzh => dž (дж), zhzh => žž (жж), czh => cž (чж),
 * cz => ç (ц),
 * убраны буквы Xx, Ww,
 * добавлены буквы Àà, Òò, Ùù, Èè, Ìì, Ėė, Çç, Žž,
@@ -133,16 +133,16 @@ Vsem *zhivo* sobratjsia!
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |   h/kh    |    ç     |    c     |    sh    |
-|  **щ** |  **ъ**  | **ь** | **сч** | **чз, чж, дж, жж, чх, чк** |
-|    sc  | None/qq | j/jqq | sc/sĉ  | chz, cž, dž, žž, chkh, chk |
+|     f     |   h/ch    |    ç     |    c     |    sh    |
+|  **щ** |  **ъ**  | **ь** | **сч** | **чз, чьз, чж, дж, жж** |
+|    sc  | None/qq | j/jqq | sc/sĉ  | cjz, cjqqz, cž, dž, žž  |
 
 
 ## Аббревиатуры совлат-англотранс латиницы
 
-ГЭС/GyES/GĖS, АЭС/AES, ЖКХ/ZhkKH/ŽKĤ, ЖЭК/ZhyEK/ŽĖK, ЕС/jES/ÈS, США/SShA/SŠA, МЧС/MCS, ЮАР/jUAR/ÙAR, ЭЭГ/EEG, ЕГЭ/jEGyE/ÈGĖ, микрорайон Щ/mikrorajon SC, СЧК/wSCK/SĈK, ЩК/SCK, ЛЁН/LiON/LÒN, ЛИОН/LIyON/LÌON.
+ГЭС/GyES/GĖS, АЭС/AES, ЖКХ/ZhKH/ŽKH, ЧХ/CcH/CĤ, ЖЭК/ZhyEK/ŽĖK, ЕС/jES/ÈS, США/SShA/SŠA, МЧС/MCS, ЮАР/jUAR/ÙAR, ЭЭГ/EEG, ЕГЭ/jEGyE/ÈGĖ, микрорайон Щ/mikrorajon SC, СЧК/wSCK/SĈK, ЩК/SCK, ЛЁН/LiON/LÒN, ЛИОН/LIyON/LÌON.
 
-ИОН/ION, ЛИЁН/LIjON/LIÒN, ЙОД/wJOD/ĴOD, йод/jod, ЙЁД/JjOD/JÒD, ЁД/jOD/ÒD, ёд/jodw/jod', НЫЭ/NYyE/NYĖ, НЫЕ/NYjE/NYÈ, НЙ/NwJ/NĴ, ЧЗ/ChZ/ĈZ, ЦЗ/CzZ/ÇZ, ЦРУ/CzRU/ÇRU.
+ИОН/ION, ЛИЁН/LIjON/LIÒN, ЙОД/wJOD/ĴOD, йод/jod, ЙЁД/JjOD/JÒD, ЁД/jOD/ÒD, ёд/jodw/jod', НЫЭ/NYyE/NYĖ, НЫЕ/NYjE/NYÈ, НЙ/NwJ/NĴ, ЧЗ/CjZ/ĈZ, ЦЗ/CzZ/ÇZ, ЦРУ/CzRU/ÇRU.
 
 Аббревиатур с Ь и Ъ не должно быть: ЛЪЁН/LJON, ЛЬЁН/LJJON/LJÒN, ЛЬОН/LJWJON/LJĴON, ЛЬЙОН/LJQQWJON/LJQQĴON
 
@@ -205,7 +205,7 @@ Vsem *zhivo* sobratjsia!
 |    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **jje/jè** (после й), **je** (иначе)                                                        | мера/mera, еда/jeda, если/jesli, заезд/zajezd, Байес/Bajjes/Bajès, заем/zajem, заём/zajom, траектория/trajektorija, проект/proekt, проэкт/prowekt/proękt, проэк/proek/proek (**проект - словарное исключение** с особым правилом отображения) |
 |    **э**     | **ye/ė** (после согласных или после ы в закрытом слоге), **е** (иначе)                                                                                                         | мэр/myer/mėr, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/wjes/ĵes, ыэр/yer, мыэр/myyer/myėr                                                                                                                                               |
 |  **[яёю]**   | **i[aou]/[àòù]** (после согласных), **jj[aou]/j[àòù]** (после й), **j[aou]** (иначе)                                                                                                         | синяя/siniaja/sinàja, мёд/miod/mòd, ёлка/jolka, пюре/piure/pùre, якорь/jakorj                                                                                                                                                                        |
-|    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/skhod, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/vece, меча/meca (помимо диграфов из этой спецификации стоит так же избегать **th** и **ck**)                                         |
+|    **х**     | **ch** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/schod, кхе/khe, сикх/sikh, шхуна/shchuna, чхать/cchatj, отход/otchod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/vece, меча/meca (помимо диграфов из этой спецификации стоит так же избегать **th** и **ck**)                                         |
 
 |                | Ещё примеры                                                                            |
 | -------------- | -------------------------------------------------------------------------------------- |
@@ -214,8 +214,8 @@ Vsem *zhivo* sobratjsia!
 | сч, sc, wsc/sĉ | счёт/sciot/scòt, трусчёт/truwsciot/trusĉòt                                             |
 | ж, zh          | ёж/jozh, возжи/vozzhi, позже/pozzhe                                                    |
 | жж, zhzh/žž    | жужжать/zhuzhzhatj/zhužžatj                                                            |
-| чж, сhzh/сž    | Чжань/Chzhanj/Cžanj                                                                    |
-| ч, c, ch       | чесать/cesatj, Черныш/Cernysh, счётная/sciotnaja/scòtnaja, Кирпичзев/Kirpichzev, чхать/chkhatj |
+| чж, сzh/сž     | Чжань/Czhanj/Cžanj, цха/czcha/çcha                                                     |
+| ч, c, ch       | чесать/cesatj, Черныш/Cernysh, счётная/sciotnaja/scòtnaja, Кирпичзев/Kirpicjzev, чхать/cchatj, чьз/cjqqz |
 | ц, cz/ç        | центурион/czenturiyon/çenturìon, процессор/proczessor/proçessor, Цезарь/Czezarj/Çezarj |
 | ш, sh          | шлем/shlem                                                                             |
 | ё, jo, io/ò    | мёд/miod/mòd, ёмко/jomko                                                               |
