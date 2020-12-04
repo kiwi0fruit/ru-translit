@@ -257,7 +257,7 @@ Proshlo jescio dvenadczatj let. V Zasumkah kazhdyj god veselo otmecali dvojnoj d
 
 Imejetsia neskoljko gipotez proischozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsia volk i nekotoryje vidy shakalov.
 
-V suzhdenijah ucionyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proiskhodiascaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
+V suzhdenijah ucionyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proischodiascaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
 
 
 ## Пример текста совлат-англотранс латиницы
@@ -294,7 +294,7 @@ Proshlo jescò dvenadçatj let. V Zasumkah kazhdyj god veselo otmecali dvojnoj d
 
 Imejetsà neskoljko gipotez proischozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsà volk i nekotoryje vidy shakalov.
 
-V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proiskhodàscaja ot neskoljkih predkov), drugije priderzhivajutsà mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
+V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proischodàscaja ot neskoljkih predkov), drugije priderzhivajutsà mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
 
 
 ## TO DO
