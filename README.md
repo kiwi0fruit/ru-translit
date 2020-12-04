@@ -106,6 +106,7 @@ Vsem *zhivo* sobratjsia!
 Отличия от Английской латиницы 25:
 
 * после согласных sia => sà, sio => sò, siu => sù (я,ё,ю), мягкий знак sjja => sjà, sjjo => sjò, sjju => sjù, sjje => sjè, sjji => sjì (смягчающие, но не йотирующие буквы),
+* после й: jja => jà, jjo => jò, jju => jù, jje => jè,
 * siy => sì (и),
 * sye => sė (э),
 * wj => ĵ (й),
