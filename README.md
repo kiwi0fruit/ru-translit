@@ -69,8 +69,8 @@
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |   h/kh    |   cz     |    c     |    sh    |
-|   **щ**   |   **ъ**   |  **ь**   |  **сч**  | **чз, чж** |
-|    sc     |  None/qq  |   j/jqq  |  sc/wsc  | chz, chzh  |
+|   **щ**   |   **ъ**   |  **ь**   |  **сч**  | **ч[зжхк]** |
+|    sc     |  None/qq  |   j/jqq  |  sc/wsc  |  ch (chkh)  |
 
 Алфавит транслитерации использует все буквы английского алфавита кроме Xx.
 
@@ -133,8 +133,8 @@ Vsem *zhivo* sobratjsia!
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |   h/kh    |    ç     |    c     |    sh    |
-|  **щ** |  **ъ**  | **ь** | **сч** | **чз, чж, дж, жж** |
-|    sc  | None/qq | j/jqq | sc/sĉ  |  chz, cž, dž, žž   |
+|  **щ** |  **ъ**  | **ь** | **сч** | **чз, чж, дж, жж, чх, чк** |
+|    sc  | None/qq | j/jqq | sc/sĉ  | chz, cž, dž, žž, chkh, chk |
 
 
 ## Аббревиатуры совлат-англотранс латиницы
@@ -204,7 +204,7 @@ Vsem *zhivo* sobratjsia!
 |    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **jje/jè** (после й), **je** (иначе)                                                        | мера/mera, еда/jeda, если/jesli, заезд/zajezd, Байес/Bajjes/Bajès, заем/zajem, заём/zajom, траектория/trajektorija, проект/proekt, проэкт/prowekt/proękt, проэк/proek/proek (**проект - словарное исключение** с особым правилом отображения) |
 |    **э**     | **ye/ė** (после согласных или после ы в закрытом слоге), **е** (иначе)                                                                                                         | мэр/myer/mėr, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/wjes/ĵes, ыэр/yer, мыэр/myyer/myėr                                                                                                                                               |
 |  **[яёю]**   | **i[aou]/[àòù]** (после согласных), **jj[aou]/j[àòù]** (после й), **j[aou]** (иначе)                                                                                                         | синяя/siniaja/sinàja, мёд/miod/mòd, ёлка/jolka, пюре/piure/pùre, якорь/jakorj                                                                                                                                                                        |
-|    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/skhod, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/ckhatj, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/vece, меча/meca                                         |
+|    **х**     | **kh** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/skhod, кхе/kkhe, сикх/sikkh, шхуна/shkhuna, чхать/chkhatj, отход/otkhod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/vece, меча/meca                                         |
 
 |                | Ещё примеры                                                                            |
 | -------------- | -------------------------------------------------------------------------------------- |
@@ -214,7 +214,7 @@ Vsem *zhivo* sobratjsia!
 | ж, zh          | ёж/jozh, возжи/vozzhi, позже/pozzhe                                                    |
 | жж, zhzh/žž    | жужжать/zhuzhzhatj/zhužžatj                                                            |
 | чж, сhzh/сž    | Чжань/Chzhanj/Cžanj                                                                    |
-| ч, c, ch       | чесать/cesatj, Черныш/Cernysh, счётная/sciotnaja/scòtnaja, Кирпичзев/Kirpichzev        |
+| ч, c, ch       | чесать/cesatj, Черныш/Cernysh, счётная/sciotnaja/scòtnaja, Кирпичзев/Kirpichzev, чхать/chkhatj |
 | ц, cz/ç        | центурион/czenturiyon/çenturìon, процессор/proczessor/proçessor, Цезарь/Czezarj/Çezarj |
 | ш, sh          | шлем/shlem                                                                             |
 | ё, jo, io/ò    | мёд/miod/mòd, ёмко/jomko                                                               |
