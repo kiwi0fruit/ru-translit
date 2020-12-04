@@ -237,7 +237,7 @@ Myer neboljshogo gorodishki otkryl tabliczu ekselia i vozmutilsia czenoj novogo 
 
 V etom vide fraza ot A to Ja nacinajet vygliadetj sovsem po-drugomu. Sejcas sciotka novaja, no pozzhe ona stanet staraja. Cernysh liubit kogda jego ceshut jeju. Jozh koliucij i pohozh na nejo.
 
-Schod mestnyh zhitelej indijskoj derevni sikhov reshal cto zhe delatj s otchodami kompanii "Kaligula Gaj Julij Czezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashiol vyhod iz situaczii.
+Schod mestnyh zhitelej indijskoj derevni sikhov reshal cto zhe delatj s otchodami kompanii "Kaligula Gaj Julij Czezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashiol vyhod iz situaczii.
 
 "Kto s mecom k nam pridiot, tot ot meca i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
@@ -255,7 +255,7 @@ Proshlo jescio dvenadczatj let. V Zasumkah kazhdyj god veselo otmecali dvojnoj d
 
 ----
 
-Imejetsia neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsia volk i nekotoryje vidy shakalov.
+Imejetsia neskoljko gipotez proischozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsia volk i nekotoryje vidy shakalov.
 
 V suzhdenijah ucionyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proiskhodiascaja ot neskoljkih predkov), drugije priderzhivajutsia mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
 
@@ -274,7 +274,7 @@ Mėr neboljshogo gorodishki otkryl tabliçu ekselà i vozmutilsà çenoj novogo 
 
 V etom vide fraza ot A to Ja nacinajet vyglàdetj sovsem po-drugomu. Sejcas scòtka novaja, no pozzhe ona stanet staraja. Cernysh lùbit kogda jego ceshut jeju. Jozh kolùcij i pohozh na nejo.
 
-Schod mestnyh zhitelej indijskoj derevni sikhov reshal cto zhe delatj s otchodami kompanii "Kaligula Gaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashòl vyhod iz situaçii.
+Schod mestnyh zhitelej indijskoj derevni sikhov reshal cto zhe delatj s otchodami kompanii "Kaligula Gaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashòl vyhod iz situaçii.
 
 "Kto s mecom k nam pridòt, tot ot meca i..." - ne smog dogovoritj starshij mehanik Vasilij.
 
@@ -292,7 +292,7 @@ Proshlo jescò dvenadçatj let. V Zasumkah kazhdyj god veselo otmecali dvojnoj d
 
 ----
 
-Imejetsà neskoljko gipotez proiskhozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsà volk i nekotoryje vidy shakalov.
+Imejetsà neskoljko gipotez proischozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsà volk i nekotoryje vidy shakalov.
 
 V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proiskhodàscaja ot neskoljkih predkov), drugije priderzhivajutsà mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
 
