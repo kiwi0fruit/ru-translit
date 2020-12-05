@@ -107,23 +107,23 @@ Vsem *zhivo* sobratjsia!
 
 * после согласных sia => sà, sio => sò, siu => sù, siy => sì (буквы Я,Ё,Ю,Йи), мягкий знак sjja => sjà, sjjo => sjò, sjju => sjù, sjje => sjè, sjji => sjì (и смягчающие, и йотирующие буквы ограниченного применения),
 * после й: jja => jà, jjo => jò, jju => jù, jje => jè,
-* sye => sė (э),
+* sye => sê (э),
 * wj => ĵ (й), wsc => sĉ (сч),
 * w в конце слова => ' (апостроф),
 * dzh => dž (дж), zhzh => žž (жж), czh => cž (чж),
 * cz => ç (ц),
 * убраны буквы Xx, Ww,
-* добавлены буквы Àà, Òò, Ùù, Èè, Ìì, Ėė, Çç, Žž,
-* ещё буквы для аббревиатур: Ĉĉ, Ĵĵ, Šš, Ĥĥ,
-* буквы для ручной настройки обратимости Ĉĉ, Ĵĵ, ' (апостроф),
-* таким образом, grave (àòùèì) даёт смягчение/йотирование, крышка и точка (ĥĉĵė) экранирует от диграфов, корона и cедиль (žšç) меняют звучание.
-* ударения: à => ǎ, s => ǒ, ù => ǔ, ì => ǐ, è => ě, e => é, ė => é, i => í, a => á, o => ó, u => ú, y => ý (ещё новые буквы: Ǎǎ, Ǒǒ, Ǔǔ, Ěě, Ǐǐ, Íí, Éé, Áá, Óó, Úú, Ýý).
+* добавлены буквы Àà, Òò, Ùù, Èè, Ìì, Êê, Çç, Žž,
+* ещё буквы для аббревиатур: Ĵĵ, Ĉĉ, Ĥĥ, Šš,
+* ещё буквы для ручной настройки обратимости Ĵĵ, Ŝŝ, ' (апостроф),
+* ударения: à => ǎ, s => ǒ, ù => ǔ, ì => ǐ, è => ě, e => é, ê => ế, i => í, a => á, o => ó, u => ú, y => ý (ещё новые буквы: Ǎǎ, Ǒǒ, Ǔǔ, Ěě, Ǐǐ, Íí, Éé, Áá, Óó, Úú, Ýý).
+* таким образом, grave (àòùèì) даёт смягчение/йотирование, крышка (ĥĉĵê) экранирует от диграфов, корона и cедиль (žšç) меняют звучание, acute (и псевдокомбинация grave и acute в виде короны) даёт ударение.
 
 **Таким образом, буквы àòùèì после согласных смягчают, а не после согласных - йотируют.**
 
 |   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
 |:---------:|:---------:|:--------:|:--------:|:--------:|
-|     a     |     o     |    u     |   e/ė    |    y     |
+|     a     |     o     |    u     |   e/ê    |    y     |
 |   **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
 |   ja/à    |   jo/ò    |  ju/ù    |  je/e/è  |   i/ì    |
 |   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
@@ -135,14 +135,14 @@ Vsem *zhivo* sobratjsia!
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |   h/ch    |    ç     |    c     |    sh    |
 |  **щ** |  **ъ**  | **ь** | **сч** | **чз, чьз, чж, дж, жж** |
-|    sc  | None/qq | j/jqq | sc/sĉ  | ĉz, cjqqz, cž, dž, žž  |
+|    sc  | None/qq | j/jqq | sc/ŝc  | cjz, cjqqz, cž, dž, žž  |
 
 
 ## Аббревиатуры совлат-англотранс латиницы
 
-ГЭС/GyES/GĖS, АЭС/AES, ЖКХ/ZhKH/ŽKH, ЧХ/CcH/CĤ, ЖЭК/ZhyEK/ŽĖK, ЕС/jES/ÈS, США/SShA/SŠA, МЧС/MCS, ЮАР/jUAR/ÙAR, ЭЭГ/EEG, ЕГЭ/jEGyE/ÈGĖ, микрорайон Щ/mikrorajon SC, СЧК/wSCK/SĈK, ЩК/SCK, ЛЁН/LiON/LÒN, ЛИОН/LIyON/LÌON.
+ГЭС/GyES/GÊS, АЭС/AES, ЖКХ/ZhKH/ŽKH, ЧХ/CcH/CĤ, ЖЭК/ZhyEK/ŽÊK, ЕС/jES/ÈS, США/SShA/SŠA, МЧС/MCS, ЮАР/jUAR/ÙAR, ЭЭГ/EEG, ЕГЭ/jEGyE/ÈGÊ, микрорайон Щ/mikrorajon SC, СЧК/wSCK/SĈK, ЩК/SCK, ЛЁН/LiON/LÒN, ЛИОН/LIyON/LÌON.
 
-ИОН/ION, ЛИЁН/LIjON/LIÒN, ЙОД/wJOD/ĴOD, йод/jod, ЙЁД/JjOD/JÒD, ЁД/jOD/ÒD, ёд/jodw/jod', НЫЭ/NYyE/NYĖ, НЫЕ/NYjE/NYÈ, НЙ/NwJ/NĴ, ЧЗ/CjZ/ĈZ, ЦЗ/CzZ/ÇZ, ЦРУ/CzRU/ÇRU.
+ИОН/ION, ЛИЁН/LIjON/LIÒN, ЙОД/wJOD/ĴOD, йод/jod, ЙЁД/JjOD/JÒD, ЁД/jOD/ÒD, ёд/jodw/jod', НЫЭ/NYyE/NYÊ, НЫЕ/NYjE/NYÈ, НЙ/NwJ/NĴ, ЧЗ/CjZ/ĈZ, ЦЗ/CzZ/ÇZ, ЦРУ/CzRU/ÇRU.
 
 Аббревиатур с Ь и Ъ не должно быть: ЛЪЁН/LJON, ЛЬЁН/LJJON/LJÒN, ЛЬОН/LJWJON/LJĴON, ЛЬЙОН/LJQQWJON/LJQQĴON
 
@@ -153,9 +153,9 @@ Vsem *zhivo* sobratjsia!
 Лион/Liyon/Lìon  
 пион/piyon/pìon  
 пиы/piyy/pìy  
-мэр/myer/mėr  
+мэр/myer/mêr  
 ыэр/yer  
-мыэр/myyer/myėr  
+мыэр/myyer/myêr  
 этот/etot  
 если/jesli  
 конь/konj  
@@ -203,7 +203,7 @@ Vsem *zhivo* sobratjsia!
 |    **й**     | **j** (остальные простые случаи), **wj/ĵ** (сложные случаи)                                                                                       | красный/krasnyj, аллилуйя/allilujja/allilujà, Байес/Bajjes/Bajès, йиппи/jippi, сйс/swjs/sĵs                                                    |
 |    **ы**     | **y**                                                                                                        | пыл/pyl, пыхтел/pyhtel, мы/my, красный/krasnyj, Нарва-Йыэсуу/Narva-Jyesuu, Шайыр/Shajyr, выход/vyhod, выигрывать/vyigryvatj, выучить/vyucitj, выострить/vyostritj                                                                                                                        |
 |    **е**     | **е** (после согласных или в словарных словах-исключениях когда е читается как э), **jje/jè** (после й), **je** (иначе)                                                        | мера/mera, еда/jeda, если/jesli, заезд/zajezd, Байес/Bajjes/Bajès, заем/zajem, заём/zajom, траектория/trajektorija, проект/proekt, проэкт/proektw/proekt', проэк/proek/proek (**проект - словарное исключение** с особым правилом отображения) |
-|    **э**     | **ye/ė** (после согласных или после ы в закрытом слоге), **е** (иначе)                                                                                                         | мэр/myer/mėr, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/wjes/ĵes, ыэр/yer, мыэр/myyer/myėr                                                                                                                                               |
+|    **э**     | **ye/ê** (после согласных или после ы в закрытом слоге), **е** (иначе)                                                                                                         | мэр/myer/mêr, этот/etot, аэроплан/aeroplan, поэт/poet, эротика/erotika, йэс/wjes/ĵes, ыэр/yer, мыэр/myyer/myêr                                                                                                                                               |
 |  **[яёю]**   | **i[aou]/[àòù]** (после согласных), **jj[aou]/j[àòù]** (после й), **j[aou]** (иначе)                                                                                                         | синяя/siniaja/sinàja, мёд/miod/mòd, ёлка/jolka, пюре/piure/pùre, якорь/jakorj                                                                                                                                                                        |
 |    **х**     | **ch** (когда есть неоднозначность из-за других диграфов и триграфов с h), **h** (иначе)                                                                 | сход/schod, кхе/khe, сикх/sikh, шхуна/shchuna, чхать/cchatj, отход/otchod, хахх/hahh, хохолок/hoholok, выход/vyhod, меха/meha, эхо/eho, вече/vece, меча/meca (помимо диграфов из этой спецификации стоит так же избегать **th** и **ck**)                                         |
 
@@ -270,7 +270,7 @@ V pjèse pro devushku v zelònom platjìçe vse sadilisj na ladjì i plyli po re
 
 Prepodobnyj Bajès podkinul igraljnyje kosti. Vypalo shestj, znacit jemu pridòtsà mazatj jod na ranu.
 
-Mėr neboljshogo gorodishki otkryl tabliçu ekselà i vozmutilsà çenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitj. Oh uzh eta pokupka vecnogo dvigatelà v proshlom godu! A tak zhe pokupka aeroplana-ekranolòta. Jesli tak pojdòt i daljshe, to bùdžetu pridòtsà hudo.
+Mêr neboljshogo gorodishki otkryl tabliçu ekselà i vozmutilsà çenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitj. Oh uzh eta pokupka vecnogo dvigatelà v proshlom godu! A tak zhe pokupka aeroplana-ekranolòta. Jesli tak pojdòt i daljshe, to bùdžetu pridòtsà hudo.
 
 V etom vide fraza ot A to Ja nacinajet vyglàdetj sovsem po-drugomu. Sejcas scòtka novaja, no pozzhe ona stanet staraja. Cernysh lùbit kogda jego ceshut jeju. Jozh kolùcij i pohozh na nejo.
 
