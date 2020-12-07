@@ -144,7 +144,7 @@ Vsem *zhivo* sobratjsia!
 
 ИОН/ION, ЛИЁН/LIjON/LIÒN, ЙОД/wJOD/ĴOD, йод/jod, ЙЁД/JjOD/JÒD, ЁД/jOD/ÒD, ёд/jodw/jod', НЫЭ/NYyE/NYÊ, НЫЕ/NYjE/NYÈ, НЙ/NwJ/NĴ, ЧЗ/CjZ/ĈZ, ЦЗ/CzZ/ÇZ, ЦРУ/CzRU/ÇRU.
 
-Аббревиатур с Ь и Ъ не должно быть: ЛЪЁН/LJON, ЛЬЁН/LJJON/LJÒN, ЛЬОН/LJWJON/LJĴON, ЛЬЙОН/LJQQWJON/LJQQĴON
+Аббревиатур с Ь и Ъ не должно быть: ЛЪЁН/LJON, ЛЬЁН/LJJON/LJÒN, ЛЬОН/LJWJON/LJĴON, ЛЬЙОН/LJQQWJON/LⱰĴON
 
 
 ## Примеры интересных случаев
