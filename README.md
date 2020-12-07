@@ -168,8 +168,8 @@ Vsem *zhivo* sobratjsia!
 пьеса/pjjesa/pjèsa  
 пйеса/pwjjesa/pĵèsa  
 паьеса/paqjjesa/paqjèsa  
-паьаса/paqjqqasa  
-пайъеса/pajqqjesa  
+паьаса/paqjqqasa/paɒasa  
+пайъеса/pajqqjesa/pjɔjesa  
 ёж/jozh  
 йож/wjozh/ĵozh  
 йод/jod  
@@ -181,17 +181,17 @@ Vsem *zhivo* sobratjsia!
 Пиньиу/Pinjjiu/Pinjìu  
 Таунйиан/Taunjian  
 Тарвасйыги/Tarvasjygi  
-баньтьынг/banjtjqqyng  
+баньтьынг/banjtjqqyng/banjtɒyng  
 сьйы/sjjy  
 пьём/pjjom/pjòm  
 бульон/buljjon/buljòn  
 выучить/vyucitj  
 выострить/vyostritj  
 выигрывать/vyigryvatj  
-объимать/obqqimatj  
-объизвестить/obqqizvestitj  
+объимать/obqqimatj/obɔimatj  
+объизвестить/obqqizvestitj/obɔizvestitj  
 бельэтаж/beljjetazh/beljètazh  
-грабьармия/grabjqqarmija  
+грабьармия/grabjqqarmija/grabɒarmija  
 
 |              | Правило транслита / правило латиницы                                                                                                                     | Кириллица/Транслит/Латиница                                                                                                                                                                                                          |
 |:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
