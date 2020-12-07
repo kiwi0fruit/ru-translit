@@ -167,7 +167,7 @@ Vsem *zhivo* sobratjsia!
 подъезд/podjezd  
 пьеса/pjjesa/pjèsa  
 пйеса/pwjjesa/pĵèsa  
-паьеса/paqjjesa/paɨèsa  
+паьеса/paqjqqjesa/paɨjesa  
 паьаса/paqjqqasa/paɨasa  
 пайъеса/pajqqjesa/pajøjesa  
 ёж/jozh  
