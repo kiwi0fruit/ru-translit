@@ -1,20 +1,14 @@
 # Comic Sans Ja, Ju & diacritics
 
-## (латиницы без отдельного йотирования с минимумом диакритики)
+### (латиницы без отдельного йотирования с минимумом диакритики)
 
-Уу/Yy, Юю/Uu
-
-Оо/Oo, Ёё/Ɵɵ
-
-Ее/Ee, Ээ/Ɛɛ
-
-Аа/Aa, Яя/Ɐɒ
-
-Ии/Ii, Ыы/ØIøi
-
-Йй/Jj, Ьь/Ǝǝ, Ъъ/Øø
-
-Жж/Ʒʒ, Хх/Xx, Чч/Cc, Цц/Çç, Щщ/ŞCşc, Шш/SHsh
+* Уу/Yy, Юю/Uu
+* Оо/Oo, Ёё/Ɵɵ
+* Ее/Ee, Ээ/Ɛɛ
+* Аа/Aa, Яя/Ɐɒ
+* Ии/Ii, Ыы/ØIøi
+* Йй/Jj, Ьь/Ǝǝ, Ъъ/Øø
+* Жж/Ʒʒ, Хх/Xx, Чч/Cc, Цц/Çç, Щщ/ŞCşc, Шш/SHsh
 
 krasnøij, tøi, ɛtot, poɛtomy, typik, ymnøij, ula, musli, pǝuşcij, ɵʒik, tɵpløij, Ɐkorǝ, ɒkorǝ, mɒso, sinɒɒ, pǝɒnøij
 
@@ -22,7 +16,8 @@ krasnøij, tøi, ɛtot, poɛtomy, typik, ymnøij, ula, musli, pǝuşcij, ɵʒik,
 
 Полезные буквы: Ɐɒ (не парные), Ωꭥ (не парные), Ǝǝ, Əə, Ʌʌ, Ɛɛ, Ɜɜ, Ʒʒ, Ɑɑ, Ɒɒ, Ʋʋ, Ʊʊ, Øø, Ɨ ɨ, Ɵɵ, Ɔɔ
 
-Пример текста:
+
+## Пример текста
 
 Pionøi i vasilǝki vsɵ eşcɵ rastyt na polɒne vozle derevni Pɵnøi, scitauşcejsɒ bogatoj.
 
