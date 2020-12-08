@@ -1,4 +1,4 @@
-# Comic Sans Ja, Ju & diacritics
+# Comic Sans JaJu Sans diacritics
 
 ### (латиницы без отдельного йотирования с минимумом диакритики)
 
@@ -53,3 +53,9 @@ Proshlo eşcɵ dvenadçatǝ let. V Zasymkax kaʒdøij god veselo otmecali dvojno
 Imeetsɒ neskolǝko gipotez proisxoʒdeniɒ sobaki, naibolee veroɒtnøimi eɵ predkami scitautsɒ volk i nekotorøie vidøi shakalov.
 
 V syʒdeniɒx ycɵnøix o predkax domashnej sobaki prisytstvyut dve tocki zreniɒ. Odni scitaut, cto sobaki - polifileticeskaɒ gryppa (proisxodɒşcaɒ ot neskolǝkix predkov), drygie priderʒivautsɒ mneniɒ, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaɒ teoriɒ).
+
+----
+
+ГЭС/GƐS, АЭС/AƐS, ЖКХ/ƷKX, ЧХ/CX, ЖЭК/ƷƐK, ЕС/ES, США/SSHA, МЧС/MCS, ЮАР/UAR, ЭЭГ/ƐƐG, ЕГЭ/EGƐ, микрорайон Щ/mikrorajon ŞC, СЧК/SCK, ЩК/ŞCK, ЛЁН/LƟN, ЛИОН/LION.
+
+ИОН/ION, ЛИЁН/LIƟN, ЙОД/JOD, ЙЁД/JƟD, ЁД/ƟD, НЫЭ/NØIƐ, НЫЕ/NØIE, НЙ/NJ, ЧЗ/CZ, ЦЗ/ÇZ, ЦРУ/ÇRU.
