@@ -334,7 +334,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
 |   ja/à    |   jo/ò    |  ju/ù    |  je/e/è  |   i/ì    |
 |   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
-|     b     |     v     |    g     |    d     |    zh    |
+|     b     |     v     |    g     |    d     |    gh    |
 |   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
 |     z     |    j/ĵ    |    k     |    l     |    m     |
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
@@ -342,7 +342,9 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |   h/ch    |   çs     |    ç     |    sh    |
 |   **щ**   |   **ъ**   |  **ь**   | **сч, чc, чьc, чж, дж, жж** |
-|     ş     |   None/ø  |   j/ɨ    |   sç, ??, çjs, cž, dž, žž   |
+|     ş     |   None/ø  |   j/ɨ    |   sç, ??, çjs, cǧ, dǧ, ǧǧ   |
+
+Ǧǧ
 
 Pìony i vasiljki vsò jescò rastut na polàne vozle derevni Pòny, scitajuscejsà bogatoj.
 
