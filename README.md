@@ -386,7 +386,7 @@ Proshlo jeschò dvenadçatj let. V Zasumcah caghdyj god veselo otmechali dvojnoj
 
 ----
 
-Imejetsà nescoljco gipotez proischoghdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsà volc i necotoryje vidy shacalov.
+Imejetsà nescoljco gipotez proisxoghdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsà volc i necotoryje vidy shacalov.
 
 V sughdenijah uchònyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polifiletichescaja gruppa (proischodàschaja ot nescoljcih predcov), drugije priderghivajutsà mnenija, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaja teorija).
 
