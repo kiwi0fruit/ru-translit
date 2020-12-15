@@ -340,9 +340,9 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |   h/ch    |    ç     |    c     |    sh    |
-|  **щ** |  **ъ**  | **ь** | **сч** | **чз, чьз, чж, дж, жж** |
-|    sc  | None/ø | j/ɨ | sc/ŝc  | ĉz, cɨz, cž, dž, žž   |
+|     f     |   h/ch    |   çs     |    ç     |    sh    |
+|   **щ**   |   **ъ**   |  **ь**   | **сч, чc, чьc, чж, дж, жж** |
+|     ş     |   None/ø  |   j/ɨ    |   sç, ??, çjs, cž, dž, žž   |
 
 Pìony i vasiljki vsò jescò rastut na polàne vozle derevni Pòny, scitajuscejsà bogatoj.
 
