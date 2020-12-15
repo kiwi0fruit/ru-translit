@@ -354,7 +354,7 @@ V pjèse pro devushcu v zelònom platjìcze vse sadilisj na ladjì i plyli po re
 
 Prepodobnyj Bajès podcinul igraljnyje costi. Vypalo shestj, znachit jemu pridòtsà mazatj jod na ranu.
 
-Mêr neboljshogo gorodishci otcryl tabliczu ecselà i vozmutilsà czsenoj novogo ecscavatora. Agh eczema snova stala jego bespocoitj. Oh ugh eta pocupca vechnogo dvigatelà v proshlom godu! A tac ghe pocupca aeroplana-ecranolòta. Jesli tac pojdòt i daljshe, to bùdǧetu pridòtsà hudo.
+Mêr neboljshogo gorodishci otcryl tabliczu ecselà i vozmutilsà czsenoj novogo ecscavatora. Agh ekzema snova stala jego bespocoitj. Oh ugh eta pocupca vechnogo dvigatelà v proshlom godu! A tac ghe pocupca aeroplana-ecranolòta. Jesli tac pojdòt i daljshe, to bùdǧetu pridòtsà hudo.
 
 V etom vide fraza ot A to Ja nachinajet vyglàdetj sovsem po-drugomu. Sejchas schòtca novaja, no pozghe ona stanet staraja. Chernysh lùbit cogda jego cheshut jeju. Jogh colùchij i pohogh na nejo.
 
