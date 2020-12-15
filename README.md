@@ -320,17 +320,17 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
 |     b     |     v     |    g     |    d     |    gh    |
 |   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
-|     z     |   j/wj    |   c/k    |    l     |    m     |
+|     z     |   j/wj    |   c/ck   |    l     |    m     |
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |    h/x    |   cz     |    ch    |    sh    |
+|     f     |    h/kh    |   cz     |    ch    |    sh    |
 |   **щ**   |   **ъ**   |  **ь**   |  **сч**  |          |
 |    sch    |  None/qq  |   j/jqq  | sch/wsch |          |
 
 | **кз, кх, чх, сх, шх, гх, жх** |
 |:------------------------------:|
-| kz, kh, chx, sx, shx, gx, ghx  |
+| ckz, ckh, chkh, skh, shkh, gkh, ghkh  |
 
 |   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
 |:---------:|:---------:|:--------:|:--------:|:--------:|
@@ -340,17 +340,17 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
 |     b     |     v     |    g     |    d     |   gh/ǧ   |
 |   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
-|     z     |    j/ĵ    |   c/k    |    l     |    m     |
+|     z     |    j/ĵ    |   c/ck   |    l     |    m     |
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |    h/x    |    ç     |    ch    |    sh    |
+|     f     |    h/kh   |    ç     |    ch    |    sh    |
 |   **щ**   |   **ъ**   |  **ь**   |  **сч**  |          |
 |    sch    |   None/ø  |   j/ɨ    | sch/ŝch  |          |
 
 | **чж, дж, жж, кз, кх, чх, сх, шх, гх, жх** |
 |:------------------------------------------:|
-| cǧ, dǧ, ǧǧ, kz, kh, chx, sx, shx, gx, ghx  |
+| cǧ, dǧ, ǧǧ, ckz, ckh, chkh, skh, shkh, gkh, ghkh  |
 
 Ǧ
 
@@ -364,11 +364,11 @@ V pjèse pro devushcu v zelònom platjìçe vse sadilisj na ladjì i plyli po re
 
 Prepodobnyj Bajès podcinul igraljnyje costi. Vypalo shestj, znachit jemu pridòtsà mazatj jod na ranu.
 
-Mêr neboljshogo gorodishci otcryl tabliçu ecselà i vozmutilsà çenoj novogo ecscavatora. Agh ekzema snova stala jego bespocoitj. Oh ugh eta pocupca vechnogo dvigatelà v proshlom godu! A tac ghe pocupca aeroplana-ecranolòta. Jesli tac pojdòt i daljshe, to bùdǧetu pridòtsà hudo.
+Mêr neboljshogo gorodishci otcryl tabliçu ecselà i vozmutilsà çenoj novogo ecscavatora. Agh eckzema snova stala jego bespocoitj. Oh ugh eta pocupca vechnogo dvigatelà v proshlom godu! A tac ghe pocupca aeroplana-ecranolòta. Jesli tac pojdòt i daljshe, to bùdǧetu pridòtsà hudo.
 
 V etom vide fraza ot A to Ja nachinajet vyglàdetj sovsem po-drugomu. Sejchas schòtca novaja, no pozghe ona stanet staraja. Chernysh lùbit cogda jego cheshut jeju. Jogh colùchij i pohogh na nejo.
 
-Sxod mestnyh ghitelej indijscoj derevni sikhov reshal chto ghe delatj s othodami companii "Caligula Gaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashòl vyhod iz situaçii.
+Skhod mestnyh ghitelej indijscoj derevni sickhov reshal chto ghe delatj s othodami companii "Caligula Gaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashòl vyhod iz situaçii.
 
 "Cto s mechom c nam pridòt, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
@@ -386,7 +386,7 @@ Proshlo jeschò dvenadçatj let. V Zasumcah caghdyj god veselo otmechali dvojnoj
 
 ----
 
-Imejetsà nescoljco gipotez proisxoghdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsà volc i necotoryje vidy shacalov.
+Imejetsà nescoljco gipotez proiskhoghdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsà volc i necotoryje vidy shacalov.
 
 V sughdenijah uchònyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polifiletichescaja gruppa (proischodàschaja ot nescoljcih predcov), drugije priderghivajutsà mnenija, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaja teorija).
 
