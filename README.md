@@ -325,8 +325,8 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |    h/x    |   cz     |    ch    |    sh    |
-|   **щ**   |   **ъ**   |  **ь**   |  **сч**  | **чз, чьз** |
-|    sch    |  None/qq  |   j/jqq  |  sc/wsc  |  cjz, cjqqz |
+|   **щ**   |   **ъ**   |  **ь**   |  **сч**  | **кз, кх, чх, сх, шх, гх, жх** |
+|    sch    |  None/qq  |   j/jqq  | sch/wsch | kz, kh, chx, sx, shx, gx, ghx  |
 
 |   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
 |:---------:|:---------:|:--------:|:--------:|:--------:|
@@ -341,10 +341,10 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |    h/x    |    ç     |    ch    |    sh    |
-|   **щ**   |   **ъ**   |  **ь**   | **сч, чc, чьc, чж, дж, жж** |
-|    sch    |   None/ø  |   j/ɨ    |   sç, ??, çjs, cǧ, dǧ, ǧǧ   |
+|   **щ**   |   **ъ**   |  **ь**   |  **сч**  | **чж, дж, жж, кз, кх, чх, сх, шх, гх, жх** |
+|    sch    |   None/ø  |   j/ɨ    | sch/ŝch  | cǧ, dǧ, ǧǧ, kz, kh, chx, sx, shx, gx, ghx  |
 
-Ǧǧ, sxod, sikh, chxal.
+Ǧ
 
 ----
 
