@@ -358,7 +358,7 @@ Mêr neboljshogo gorodishci otcryl tabliczu ecselà i vozmutilsà czsenoj novogo
 
 V etom vide fraza ot A to Ja nachinajet vyglàdetj sovsem po-drugomu. Sejchas schòtca novaja, no pozghe ona stanet staraja. Chernysh lùbit cogda jego cheshut jeju. Jogh colùchij i pohogh na nejo.
 
-Sxod mestnyh ghitelej indijscoj derevni sichov reshal chto ghe delatj s otchodami companii "Caligula Gaj Julij Czezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashòl vyhod iz situaczii.
+Sxod mestnyh ghitelej indijscoj derevni sikhov reshal chto ghe delatj s othodami companii "Caligula Gaj Julij Czezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashòl vyhod iz situaczii.
 
 "Cto s mechom c nam pridòt, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
