@@ -15,6 +15,7 @@
 * [Примеры интересных случаев](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D1%85-%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%B2)
 * [Пример текста английской латиницы](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B)
 * [Пример текста совлат-англотранс латиницы](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D1%81%D0%BE%D0%B2%D0%BB%D0%B0%D1%82-%D0%B0%D0%BD%D0%B3%D0%BB%D0%BE%D1%82%D1%80%D0%B0%D0%BD%D1%81-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B)
+* [Альтернативная версия](#)
 
 Придумал в качестве развлечения ещё один транслит.
 
@@ -273,6 +274,75 @@ V suzhdenijah ucionyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 
 ## Пример текста совлат-англотранс латиницы
+
+Pìony i vasiljki vsò jescò rastut na polàne vozle derevni Pòny, scitajuscejsà bogatoj.
+
+Pjànyj master po proektu sdelal mehaniceskij objekt s izjanom. Jesli brak ne obnaruzhitsà, to belyje bolidy boljshe ne smogut vyigryvatj gonki.
+
+V pjèse pro devushku v zelònom platjìçe vse sadilisj na ladjì i plyli po reke. No tut iz lesa vyshel Džordž Maksimus, konj v paljto i rvanyh džinsah, kotoryj cto-to vyiskival, i prikazal vsem mytjsà i gotovitj buljòn. Znacit snova pjòm do lysyh akvalangistov.
+
+Prepodobnyj Bajès podkinul igraljnyje kosti. Vypalo shestj, znacit jemu pridòtsà mazatj jod na ranu.
+
+Mêr neboljshogo gorodishki otkryl tabliçu ekselà i vozmutilsà çenoj novogo ekskavatora. Azh ekzema snova stala jego bespokoitj. Oh uzh eta pokupka vecnogo dvigatelà v proshlom godu! A tak zhe pokupka aeroplana-ekranolòta. Jesli tak pojdòt i daljshe, to bùdžetu pridòtsà hudo.
+
+V etom vide fraza ot A to Ja nacinajet vyglàdetj sovsem po-drugomu. Sejcas scòtka novaja, no pozzhe ona stanet staraja. Cernysh lùbit kogda jego ceshut jeju. Jozh kolùcij i pohozh na nejo.
+
+Schod mestnyh zhitelej indijskoj derevni sikhov reshal cto zhe delatj s otchodami kompanii "Kaligula Gaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscih nosil hoholok na golove. On i nashòl vyhod iz situaçii.
+
+"Kto s mecom k nam pridòt, tot ot meca i..." - ne smog dogovoritj starshij mehanik Vasilij.
+
+----
+
+Lùbimçem Biljbo byl junyj Frodo Sumniks. Kogda Biljbo stuknulo devànosto devàtj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednikom i predlozhil pereselitjsà v Zasumki. Tut uzh vse nadezhdy Derikulj-Sumniksov, davno s vozhdelenijem posmatrivavshih na usadjbu, ruhnuli okoncateljno.
+
+Slucaju bylo ugodno, ctoby Biljbo s Frodo jescò i rodilisj v odin denj, 22 sentàbrà.
+
+– Frodo, maljcik moj, – skazal kak-to raz Biljbo, – perebiralsà by ty ko mne. Glàdishj, i denj rozhdenija vmeste otmecali by.
+
+Frodo v tu poru hodil v dorostkah. Tak hobbity zovut molodòzhj v bezotvetstvennom vozraste mezhdu dvadçatjù i tridçatjù tremà, posle cego hobbit nakoneç mozhet scitatj sebà vzroslym.
+
+Proshlo jescò dvenadçatj let. V Zasumkah kazhdyj god veselo otmecali dvojnoj denj rozhdenija, k etomu privykli, no lùbomu bylo jasno, cto nyneshnej osenjù gotovitsà necto neobycnoje. Biljbo ispolnàlosj 111 let – vozrast dlà hobbita vesjma poctennyj, da i cislo lùbopytnoje, nu a Frodo gotovilsà otmetitj tridçatitròhletije – tozhe znamemateljnaja data – sovershennoletije po-hobbitski.
+
+----
+
+Imejetsà neskoljko gipotez proischozhdenija sobaki, naiboleje verojatnymi jejo predkami scitajutsà volk i nekotoryje vidy shakalov.
+
+V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija. Odni scitajut, cto sobaki - polifileticeskaja gruppa (proischodàscaja ot neskoljkih predkov), drugije priderzhivajutsà mnenija, cto vse sobaki proizoshli ot odnogo predka (monofileticeskaja teorija).
+
+
+## Альтернативная версия
+
+|   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
+|:---------:|:---------:|:--------:|:--------:|:--------:|
+|     a     |     o     |    u     |   e/ye   |    y     |
+|   **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
+|   ja/ia   |   jo/io   |  ju/iu   |   je/e   |   i/iy   |
+|   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
+|     b     |     v     |    g     |    d     |    zh    |
+|   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
+|     z     |   j/wj    |    k     |    l     |    m     |
+|   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
+|     n     |     p     |    r     |    s     |    t     |
+|   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
+|     f     |   h/ch    |   cz     |    c     |    sh    |
+|   **щ**   |   **ъ**   |  **ь**   |  **сч**  | **чз, чьз** |
+|    sc     |  None/qq  |   j/jqq  |  sc/wsc  |  cjz, cjqqz |
+
+|   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
+|:---------:|:---------:|:--------:|:--------:|:--------:|
+|     a     |     o     |    u     |   e/ê    |    y     |
+|   **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
+|   ja/à    |   jo/ò    |  ju/ù    |  je/e/è  |   i/ì    |
+|   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
+|     b     |     v     |    g     |    d     |    zh    |
+|   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
+|     z     |    j/ĵ    |    k     |    l     |    m     |
+|   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
+|     n     |     p     |    r     |    s     |    t     |
+|   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
+|     f     |   h/ch    |    ç     |    c     |    sh    |
+|  **щ** |  **ъ**  | **ь** | **сч** | **чз, чьз, чж, дж, жж** |
+|    sc  | None/ø | j/ɨ | sc/ŝc  | ĉz, cɨz, cž, dž, žž   |
 
 Pìony i vasiljki vsò jescò rastut na polàne vozle derevni Pòny, scitajuscejsà bogatoj.
 
