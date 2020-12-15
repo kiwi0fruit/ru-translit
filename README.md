@@ -346,39 +346,39 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 Ǧǧ
 
-Pìony i vasiljci vsò jeşò rastut na polàne vozle derevni Pòny, sçitajuşejsà bogatoj.
+Pìony i vasiljci vsò jeschò rastut na polàne vozle derevni Pòny, schitajuschejsà bogatoj.
 
-Pjànyj master po proectu sdelal mehaniçescij object s izjanom. Jesli brac ne obnarughitsà, to belyje bolidy boljshe ne smogut vyigryvatj gonci.
+Pjànyj master po proectu sdelal mehanichescij object s izjanom. Jesli brac ne obnarughitsà, to belyje bolidy boljshe ne smogut vyigryvatj gonci.
 
-V pjèse pro devushcu v zelònom platjìçse vse sadilisj na ladjì i plyli po rece. No tut iz lesa vyshel Dǧordǧ Macsimus, conj v paljto i rvanyh dǧinsah, cotoryj çto-to vyiscival, i pricazal vsem mytjsà i gotovitj buljòn. Znaçit snova pjòm do lysyh acvalangistov.
+V pjèse pro devushcu v zelònom platjìcze vse sadilisj na ladjì i plyli po rece. No tut iz lesa vyshel Dǧordǧ Macsimus, conj v paljto i rvanyh dǧinsah, cotoryj chto-to vyiscival, i pricazal vsem mytjsà i gotovitj buljòn. Znachit snova pjòm do lysyh acvalangistov.
 
-Prepodobnyj Bajès podcinul igraljnyje costi. Vypalo shestj, znaçit jemu pridòtsà mazatj jod na ranu.
+Prepodobnyj Bajès podcinul igraljnyje costi. Vypalo shestj, znachit jemu pridòtsà mazatj jod na ranu.
 
-Mêr neboljshogo gorodishci otcryl tabliçsu ecselà i vozmutilsà çsenoj novogo ecscavatora. Agh eczema snova stala jego bespocoitj. Oh ugh eta pocupca veçnogo dvigatelà v proshlom godu! A tac ghe pocupca aeroplana-ecranolòta. Jesli tac pojdòt i daljshe, to bùdǧetu pridòtsà hudo.
+Mêr neboljshogo gorodishci otcryl tabliczu ecselà i vozmutilsà czsenoj novogo ecscavatora. Agh eczema snova stala jego bespocoitj. Oh ugh eta pocupca vechnogo dvigatelà v proshlom godu! A tac ghe pocupca aeroplana-ecranolòta. Jesli tac pojdòt i daljshe, to bùdǧetu pridòtsà hudo.
 
-V etom vide fraza ot A to Ja naçinajet vyglàdetj sovsem po-drugomu. Sejças şòtca novaja, no pozghe ona stanet staraja. Çernysh lùbit cogda jego çeshut jeju. Jogh colùçij i pohogh na nejo.
+V etom vide fraza ot A to Ja nachinajet vyglàdetj sovsem po-drugomu. Sejchas schòtca novaja, no pozghe ona stanet staraja. Chernysh lùbit cogda jego cheshut jeju. Jogh colùchij i pohogh na nejo.
 
-Schod mestnyh ghitelej indijscoj derevni sichov reshal çto ghe delatj s otchodami companii "Caligula Gaj Julij Çsezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuşih nosil hoholoc na golove. On i nashòl vyhod iz situaçsii.
+Sxod mestnyh ghitelej indijscoj derevni sichov reshal chto ghe delatj s otchodami companii "Caligula Gaj Julij Czezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashòl vyhod iz situaczii.
 
-"Cto s meçom c nam pridòt, tot ot meça i..." - ne smog dogovoritj starshij mehanic Vasilij.
-
-----
-
-Lùbimçsem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devànosto devàtj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predloghil pereselitjsà v Zasumci. Tut ugh vse nadeghdy Dericulj-Sumnicsov, davno s voghdelenijem posmatrivavshih na usadjbu, ruhnuli oconçateljno.
-
-Sluçaju bylo ugodno, çtoby Biljbo s Frodo jeşò i rodilisj v odin denj, 22 sentàbrà.
-
-– Frodo, maljçic moj, – scazal cac-to raz Biljbo, – perebiralsà by ty co mne. Glàdishj, i denj roghdenija vmeste otmeçali by.
-
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodòghj v bezotvetstvennom vozraste meghdu dvadçsatjù i tridçsatjù tremà, posle çego hobbit naconeçs moghet sçitatj sebà vzroslym.
-
-Proshlo jeşò dvenadçsatj let. V Zasumcah caghdyj god veselo otmeçali dvojnoj denj roghdenija, c etomu privycli, no lùbomu bylo jasno, çto nyneshnej osenjù gotovitsà neçto neobyçnoje. Biljbo ispolnàlosj 111 let – vozrast dlà hobbita vesjma poçtennyj, da i çislo lùbopytnoje, nu a Frodo gotovilsà otmetitj tridçsatitròhletije – toghe znamemateljnaja data – sovershennoletije po-hobbitsci.
+"Cto s mechom c nam pridòt, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
-Imejetsà nescoljco gipotez proischoghdenija sobaci, naiboleje verojatnymi jejo predcami sçitajutsà volc i necotoryje vidy shacalov.
+Lùbimczem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devànosto devàtj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predloghil pereselitjsà v Zasumci. Tut ugh vse nadeghdy Dericulj-Sumnicsov, davno s voghdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
-V sughdenijah uçònyh o predcah domashnej sobaci prisutstvujut dve toçci zrenija. Odni sçitajut, çto sobaci - polifiletiçescaja gruppa (proischodàşaja ot nescoljcih predcov), drugije priderghivajutsà mnenija, çto vse sobaci proizoshli ot odnogo predca (monofiletiçescaja teorija).
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jeschò i rodilisj v odin denj, 22 sentàbrà.
+
+– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsà by ty co mne. Glàdishj, i denj roghdenija vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodòghj v bezotvetstvennom vozraste meghdu dvadczatjù i tridczatjù tremà, posle chego hobbit naconecz moghet schitatj sebà vzroslym.
+
+Proshlo jeschò dvenadczatj let. V Zasumcah caghdyj god veselo otmechali dvojnoj denj roghdenija, c etomu privycli, no lùbomu bylo jasno, chto nyneshnej osenjù gotovitsà nechto neobychnoje. Biljbo ispolnàlosj 111 let – vozrast dlà hobbita vesjma pochtennyj, da i chislo lùbopytnoje, nu a Frodo gotovilsà otmetitj tridczatitròhletije – toghe znamemateljnaja data – sovershennoletije po-hobbitsci.
+
+----
+
+Imejetsà nescoljco gipotez proischoghdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsà volc i necotoryje vidy shacalov.
+
+V sughdenijah uchònyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polifiletichescaja gruppa (proischodàschaja ot nescoljcih predcov), drugije priderghivajutsà mnenija, chto vse sobaci proizoshli ot odnogo predca (monofiletichescaja teorija).
 
 
 ## TO DO
