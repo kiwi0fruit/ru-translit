@@ -318,15 +318,15 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
 |   ja/ia   |   jo/io   |  ju/iu   |   je/e   |   i/iy   |
 |   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
-|     b     |     v     |    g     |    d     |    zh    |
+|     b     |     v     |    g     |    d     |    gh    |
 |   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
-|     z     |   j/wj    |    k     |    l     |    m     |
+|     z     |   j/wj    |   c/k    |    l     |    m     |
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |   h/ch    |   cz     |    c     |    sh    |
+|     f     |    h/x    |   cz     |    ch    |    sh    |
 |   **щ**   |   **ъ**   |  **ь**   |  **сч**  | **чз, чьз** |
-|    sc     |  None/qq  |   j/jqq  |  sc/wsc  |  cjz, cjqqz |
+|    sch    |  None/qq  |   j/jqq  |  sc/wsc  |  cjz, cjqqz |
 
 |   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
 |:---------:|:---------:|:--------:|:--------:|:--------:|
@@ -336,43 +336,45 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
 |     b     |     v     |    g     |    d     |    gh    |
 |   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
-|     z     |    j/ĵ    |    k     |    l     |    m     |
+|     z     |    j/ĵ    |   c/k    |    l     |    m     |
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |   h/ch    |   çs     |    ç     |    sh    |
+|     f     |    h/x    |    ç     |    ch    |    sh    |
 |   **щ**   |   **ъ**   |  **ь**   | **сч, чc, чьc, чж, дж, жж** |
-|     ş     |   None/ø  |   j/ɨ    |   sç, ??, çjs, cǧ, dǧ, ǧǧ   |
+|    sch    |   None/ø  |   j/ɨ    |   sç, ??, çjs, cǧ, dǧ, ǧǧ   |
 
-Ǧǧ
+Ǧǧ, sxod, sikh, chxal.
+
+----
 
 Pìony i vasiljci vsò jeschò rastut na polàne vozle derevni Pòny, schitajuschejsà bogatoj.
 
 Pjànyj master po proectu sdelal mehanichescij object s izjanom. Jesli brac ne obnarughitsà, to belyje bolidy boljshe ne smogut vyigryvatj gonci.
 
-V pjèse pro devushcu v zelònom platjìcze vse sadilisj na ladjì i plyli po rece. No tut iz lesa vyshel Dǧordǧ Macsimus, conj v paljto i rvanyh dǧinsah, cotoryj chto-to vyiscival, i pricazal vsem mytjsà i gotovitj buljòn. Znachit snova pjòm do lysyh acvalangistov.
+V pjèse pro devushcu v zelònom platjìçe vse sadilisj na ladjì i plyli po rece. No tut iz lesa vyshel Dǧordǧ Macsimus, conj v paljto i rvanyh dǧinsah, cotoryj chto-to vyiscival, i pricazal vsem mytjsà i gotovitj buljòn. Znachit snova pjòm do lysyh acvalangistov.
 
 Prepodobnyj Bajès podcinul igraljnyje costi. Vypalo shestj, znachit jemu pridòtsà mazatj jod na ranu.
 
-Mêr neboljshogo gorodishci otcryl tabliczu ecselà i vozmutilsà czsenoj novogo ecscavatora. Agh ekzema snova stala jego bespocoitj. Oh ugh eta pocupca vechnogo dvigatelà v proshlom godu! A tac ghe pocupca aeroplana-ecranolòta. Jesli tac pojdòt i daljshe, to bùdǧetu pridòtsà hudo.
+Mêr neboljshogo gorodishci otcryl tabliçu ecselà i vozmutilsà çsenoj novogo ecscavatora. Agh ekzema snova stala jego bespocoitj. Oh ugh eta pocupca vechnogo dvigatelà v proshlom godu! A tac ghe pocupca aeroplana-ecranolòta. Jesli tac pojdòt i daljshe, to bùdǧetu pridòtsà hudo.
 
 V etom vide fraza ot A to Ja nachinajet vyglàdetj sovsem po-drugomu. Sejchas schòtca novaja, no pozghe ona stanet staraja. Chernysh lùbit cogda jego cheshut jeju. Jogh colùchij i pohogh na nejo.
 
-Sxod mestnyh ghitelej indijscoj derevni sikhov reshal chto ghe delatj s othodami companii "Caligula Gaj Julij Czezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashòl vyhod iz situaczii.
+Sxod mestnyh ghitelej indijscoj derevni sikhov reshal chto ghe delatj s othodami companii "Caligula Gaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashòl vyhod iz situaçii.
 
 "Cto s mechom c nam pridòt, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
-Lùbimczem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devànosto devàtj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predloghil pereselitjsà v Zasumci. Tut ugh vse nadeghdy Dericulj-Sumnicsov, davno s voghdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Lùbimçem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devànosto devàtj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predloghil pereselitjsà v Zasumci. Tut ugh vse nadeghdy Dericulj-Sumnicsov, davno s voghdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jeschò i rodilisj v odin denj, 22 sentàbrà.
 
 – Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsà by ty co mne. Glàdishj, i denj roghdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodòghj v bezotvetstvennom vozraste meghdu dvadczatjù i tridczatjù tremà, posle chego hobbit naconecz moghet schitatj sebà vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodòghj v bezotvetstvennom vozraste meghdu dvadçatjù i tridçatjù tremà, posle chego hobbit naconeç moghet schitatj sebà vzroslym.
 
-Proshlo jeschò dvenadczatj let. V Zasumcah caghdyj god veselo otmechali dvojnoj denj roghdenija, c etomu privycli, no lùbomu bylo jasno, chto nyneshnej osenjù gotovitsà nechto neobychnoje. Biljbo ispolnàlosj 111 let – vozrast dlà hobbita vesjma pochtennyj, da i chislo lùbopytnoje, nu a Frodo gotovilsà otmetitj tridczatitròhletije – toghe znamemateljnaja data – sovershennoletije po-hobbitsci.
+Proshlo jeschò dvenadçatj let. V Zasumcah caghdyj god veselo otmechali dvojnoj denj roghdenija, c etomu privycli, no lùbomu bylo jasno, chto nyneshnej osenjù gotovitsà nechto neobychnoje. Biljbo ispolnàlosj 111 let – vozrast dlà hobbita vesjma pochtennyj, da i chislo lùbopytnoje, nu a Frodo gotovilsà otmetitj tridçatitròhletije – toghe znamemateljnaja data – sovershennoletije po-hobbitsci.
 
 ----
 
