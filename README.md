@@ -338,13 +338,13 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
 |     b     |     v     |    g/gh     |    d     |   g/gì/ǧ   |
 |   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
-|     z     |    j/ĵ    |   c/k/ĉ   |    l     |    m     |
+|     z     |    j/ĵ    |   c/k/ck   |    l     |    m     |
 |   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |    h/ch   |    cs     |    c/cì/č    |    sh    |
 |   **щ**   |   **ъ**   |  **ь**   |  **кс**  |          |
-|    sc/scì    |   None/ø  |   ì    | ks/ĉs/x  |          |
+|    sc/scì    |   None/ø  |   ì    | ks/cks/x  |          |
 
 
 
