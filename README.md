@@ -370,25 +370,39 @@ V etom vide fraza ot A to Ja nachinajet vyghlàdetj sovsem po-drughomu. Sejchas 
 
 Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s othodami companii "Calighula Ghaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na gholove. On i nashòl vyhod iz situaçii.
 
-"Cto s mechom c nam pridòt, tot ot mecha i..." - ne smogh doghovoritj starshij mehanic Vasilij.
+Piòny i vasilìcy vsɵ jescɵ rastut na polàne vozle derevni Pòny, scitajuscejsà bogatoj.
+
+Pjànyj master po proectu sdelal mehanicescyj objēct s izjanom. Jesli brac ne obnarugitsà, to belyje bolidy bolìshe ne smogut vyigryvatì goncy.
+
+V pjese pro devushcu v zelɵnom platjicse vse sadilisì na ladji i plyli po reke. No tut iz lesa vyshel Dgòrdgì Maximus, conì v palìto i rvanyh dginsah, cotoryj cìto-to vyiscyval, i pricazal vsem mytìsà i gotovitì buljòn. Znacit snova pjɵm do lysyh acvalangistov.
+
+Prepodobnyj Baìjes podcynul igralìnyje costi. Vypalo shestì, znacit jemu pridɵtsà mazatì jod na ranu.
+
+Mēr nebolìshogo gorodishcy otcryl tablicsu exelà i vozmutilsà csenoj novogo excavatora. Agì eczema snova stala jego bespocoitì. Oh ugì eta pocupca vecìnogo dvigatelà v proshlom godu! A tac ge pocupca aeroplana-ecranolɵta. Jesli tac pojdɵt i dalìshe, to bùdgetu pridɵtsà hudo.
+
+V etom vide fraza ot A to Ja nacinajet vyglàdetì sovsem po-drugomu. Sejcàs scɵtca novaja, no pozge ona stanet staraja. Cernysh lùbit cogda jego ceshut jeju. Jɵgì colùcij i pohogì na nejɵ.
+
+Schod mestnyh gitelej indijscoj derevni sikhov reshal cìto ge delatì s otchodami companii "Caligula Gaj Julij Csezarì" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashɵl vyhod iz situacsii.
+
+"Cto s mecòm c nam pridɵt, tot ot mecà i..." - ne smog dogovoritì starshij mehanic Vasilij.
 
 ----
 
-Lùbimçem Biljbo byl junyj Frodo Sumnics. Coghda Biljbo stucnulo devànosto devàtj, on vdrugh usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsà v Zasumci. Tut ug vse nadegdy Dericulj-Sumnicsov, davno s vogdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Lùbimcsem Bilìbo byl junyj Frodo Sumniks. Cogda Bilìbo stucnulo devànosto devàtì, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitìsà v Zasumcy. Tut ugì vse nadegìdy Dericulì-Sumniksov, davno s vogìdelenijem posmatrivavshih na usadìbu, ruhnuli oconcàtelìno.
 
-Sluchaju bylo ughodno, chtoby Biljbo s Frodo jeschò i rodilisj v odin denj, 22 sentàbrà.
+Slucàju bylo ugodno, cìtoby Bilìbo s Frodo jescɵ i rodilisì v odin denì, 22 sentàbrà.
 
-– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsà by ty co mne. Ghlàdishj, i denj rogdenija vmeste otmechali by.
+– Frodo, malìcic moj, – scazal cac-to raz Bilìbo, – perebiralsà by ty co mne. Glàdish, i denì rogìdenija vmeste otmecàli by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodògj v bezotvetstvennom vozraste megdu dvadçatjù i tridçatjù tremà, posle chegho hobbit naconeç moget schitatj sebà vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodɵgì v bezotvetstvennom vozraste megìdu dvadcsatjù i tridcsatjù tremà, posle cego hobbit naconecs moget scitatì sebà vzroslym.
 
-Proshlo jeschò dvenadçatj let. V Zasumcah cagdyj ghod veselo otmechali dvojnoj denj rogdenija, c etomu privycli, no lùbomu bylo jasno, chto nyneshnej osenjù ghotovitsà nechto neobychnoje. Biljbo ispolnàlosj 111 let – vozrast dlà hobbita vesjma pochtennyj, da i chislo lùbopytnoje, nu a Frodo ghotovilsà otmetitj tridçatitròhletije – toge znamemateljnaja data – sovershennoletije po-hobbitsci.
+Proshlo jescɵ dvenadcsatì let. V Zasumcah cagìdyj god veselo otmecàli dvojnoj denì rogìdenija, c etomu privycli, no lùbomu bylo jasno, cìto nyneshnej osenjù gotovitsà necìto neobycìnoje. Bilìbo ispolnàlosì 111 let – vozrast dlà hobbita vesìma pocìtennyj, da i cislo lùbopytnoje, nu a Frodo gotovilsà otmetitì tridcsatitrɵhletije – toge znamematelìnaja data – sovershennoletije po-hobbitscy.
 
 ----
 
-Imejetsà nescoljco ghipotez proiskhogdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsà volc i necotoryje vidy shacalov.
+Imejetsà nescolìco gypotez proischogìdenija sobacy, naiboleje verojatnymi jejɵ predcami scitajutsà volc i necotoryje vidy shacalov.
 
-V sugdenijah uchònyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polifiletichescaja ghruppa (proischodàschaja ot nescoljcih predcov), drughije pridergivajutsà mnenija, chto vse sobaci proizoshli ot odnogho predca (monofiletichescaja teorija).
+V sugìdenijah ucɵnyh o predcah domashnej sobacy prisutstvujut dve tocìcy zrenija. Odni scitajut, cìto sobacy - polifileticescaja gruppa (proischodàscàja ot nescolìcyh predcov), drugije pridergivajutsà mnenija, cìto vse sobacy proizoshli ot odnogo predca (monofileticescaja teorija).
 
 
 ## TO DO
