@@ -354,7 +354,66 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 Ǧ
 
-----
+## Занимательные примеры
+
+скалка/scalca  
+щавель/sciavelj/scàvelì  
+гео/ghieo/gheò  
+Гёте/Gheote/Ghɵte  
+пьеса/pjesa  
+мэр/myer/mēr  
+подъезд/podqqjezd/podjēzd  
+...(подйыэзд/podwjyezd/podĵyezd  
+....подйиэзд/podjyezd  
+....подйэзд/podwjezd/podĵezd  
+....подйезд/podwjjezd/podĵjezd  
+....подъэзд/podqqezd/podøezd  
+....подьэзд/podjqqezd/podìezd  
+....грабьармия/grabiarmija/grabàrmija - словарное исключение)  
+пьём/pjeom/pjɵm  
+...(пьеом/pjewom/pjeòm - eò и ewo значат одно и тоже)  
+пион/piyon/piòn  
+пианино/piyanino/piànino  
+платьице/platjicse  
+...(платйице/platjycse  
+....йипи/jipi  
+....йыпи/jypi  
+....платйыце/platwjycse/platĵycse)  
+бульон/buljjon/buljòn  
+объём/objom  
+ёмкость/jeomcostj/jɵmcostì  
+йогурт/jogurt  
+чёрный/ceornyj/cɵrnyj  
+неон/nieon/neòn  
+мёд/meod/mɵd  
+яма/jama  
+Аеонтина/Ajewontina/Ajeòntina  
+Аёнтина/Ajeontina/Ajɵntina  
+Айеонтина/Ajjewontina/Aìjeòntina  
+обжёг/obgeog/obgɵg  
+покъезд/pokqqjezd/pokjēzd  
+кьем/ckjem  
+чьем/cjem  
+нанчъян/nancjqqjan/nancìøjan  
+нанчьан/nancjhjqqan/nančìan  
+Йемен/Jemen (пофиксен как словарное исключение)  
+Йеме/Jjeme (не пофиксен)  
+Байес/Bajjes/Baìjes (только после гласных)  
+...(Баиес/Baijes)  
+Аллилуйя/Allilujja/Alliluìja  
+айё/ajjeo/aìjɵ  
+аьк/aqjc/aqìc  
+ладьеобразные/ladjewobraznyje/ladjeòbraznyje  
+царь/csarj/csarì  
+Цезарь/Csezarj/Csezarì  
+нэцкэ/nyecskye/nēcskē  
+Ксения/Cksenija  
+Кения/Ckenija  
+вовлёкся/vovleoksia/vovlɵksà  
+эксперт/expert
+
+
+## Пример текста
 
 Pìony i vasiljci vsò jeschò rastut na polàne vozle derevni Pòny, schitajuschejsà boghatoj.
 
