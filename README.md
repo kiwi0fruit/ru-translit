@@ -481,20 +481,6 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 ## Пример текста
 
-Pìony i vasiljci vsò jeschò rastut na polàne vozle derevni Pòny, schitajuschejsà boghatoj.
-
-Pjànyj master po proectu sdelal mehanichescij object s izjanom. Jesli brac ne obnarugitsà, to belyje bolidy boljshe ne smoghut vyighryvatj ghonci.
-
-V pjèse pro devushcu v zelònom platjìçe vse sadilisj na ladjì i plyli po rece. No tut iz lesa vyshel Dgordg Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscival, i pricazal vsem mytjsà i ghotovitj buljòn. Znachit snova pjòm do lysyh acvalanghistov.
-
-Prepodobnyj Bajès podcinul igraljnyje costi. Vypalo shestj, znachit jemu pridòtsà mazatj jod na ranu.
-
-Mêr neboljshogho ghorodishci otcryl tabliçu ecselà i vozmutilsà çenoj novogho ecscavatora. Ag eckzema snova stala jegho bespocoitj. Oh ug eta pocupca vechnogho dvigatelà v proshlom godu! A tac ge pocupca aeroplana-ecranolòta. Jesli tac pojdòt i daljshe, to bùdgetu pridòtsà hudo.
-
-V etom vide fraza ot A to Ja nachinajet vyghlàdetj sovsem po-drughomu. Sejchas schòtca novaja, no pozge ona stanet staraja. Chernysh lùbit coghda jego cheshut jeju. Jog colùchij i pohog na nejo.
-
-Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s othodami companii "Calighula Ghaj Julij Çezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na gholove. On i nashòl vyhod iz situaçii.
-
 Piòny i vasilìcy vsɵ jescɵ rastut na polàne vozle derevni Pòny, scitajuscejsà bogatoj.
 
 Pjànyj master po proectu sdelal mehanicescyj objēct s izjanom. Jesli brac ne obnarugitsà, to belyje bolidy bolìshe ne smogut vyigryvatì goncy.
