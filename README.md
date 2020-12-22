@@ -480,11 +480,11 @@ Píony i vasilícy vsø jescø rastut na poláne vozle derevni Pøny, scitaúsce
 
 Pjányj master po proectu sdelal mechanicescyj object s izjanom. Jesli brac ne obnarugitsá, to belyé bolidy bolíshe ne smogut vyigryvatí goncy.
 
-V pjése pro devushcu v zelønom platjícte vse sadilisí na ladjí i plyli po recke. No tut iz lesa vyshel Dgórdgí Macsimus, coní v palíto i rvanych dginsach, cotoryj cíto-to vyiscyval, i pricazal vsem mytísá i gotovití buljón. Znacit snova pjǿdo lysyh acvalangistov.
+V pjése pro devushcu v zelønom platjícte vse sadilisí na ladjí i plyli po recke. No tut iz lesa vyshel Dgórdgí Macsimus, coní v palíto i rvanych dginsach, cotoryj cíto-to vyiscyval, i pricazal vsem mytísá i gotovití buljón. Znacit snova pjǿm do lysyh acvalangistov.
 
 Prepodobnyj Bajés podcynul igralínyé costi. Vypalo shestí, znacit jemu pridøtsá mazatí jod na ranu.
 
-Mær nebolíshogo gorodishcy otcryl tablictu ecselá i vozmutilsá csenoj novogo ecscavatora. Agí eczema snova stala jego bespocoití. Oh ugí eta pocupca vecínogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranolǿta. Jesli tac pojdøt i dalíshe, to búdgetu pridøtsá chudo.
+Mær nebolíshogo gorodishcy otcryl tablictu ecselá i vozmutilsá ctenoj novogo ecscavatora. Agí eczema snova stala jego bespocoití. Oh ugí eta pocupca vecínogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranoløta. Jesli tac pojdøt i dalíshe, to búdgetu pridøtsá chudo.
 
 V etom vide fraza ot A to Ja nacinaét vygládetí sovsem po-drugomu. Sejcás scøtca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshut jeú. jøgí colúcij i pochogí na neǿ.
 
