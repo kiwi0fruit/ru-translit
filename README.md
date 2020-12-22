@@ -388,12 +388,12 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 ц/cs, кс/ks/cks (на стыке морфем, в начале слова или когда неизвестна разметка морфем), кс/x (иначе). Правила написания гласных и ь после ц изменены:
 
 * кц/cts — ктс/ckts
-* кт/ct — ц/ctj/ctí — кть/cktj/cktí — ць/ctj/ctí — кт(ъя)/ckt(ja)
-* кта/cta — ца/ctia/ctá — ктя/cktia/cktá — ця/ctia/ctá
-* кту/ctu — цу/ctiu/ctú — ктю/cktiu/cktú — цю/ctiu/ctú
-* ктэ/ctae/scæ — цэ/cte — кте/ckte — це/cte
+* кт/ct — ц/ctj/ctí — кть/cktj/cktí — ць/ctj/ctí — кт(ъя)/ckt(ja) — (force: ць/cthj/cțí)
+* кта/cta — ца/ctia/ctá — ктя/cktia/cktá — ця/ctia/ctá — (force: ця/cthia/cțá)
+* кту/ctu — цу/ctiu/ctú — ктю/cktiu/cktú — цю/ctiu/ctú — (force: цю/cthiu/cțú)
+* ктэ/ctae/scæ — цэ/cte — кте/ckte — це/cte — (force: цэ/cthae/cțæ)
 * кто/cto — цо/ctio/ctó — [ктё/ckteo/cktø] — [цё/cteo/ctø]
-* [кты/ckty] — цы/cti — [кти/cty] — ци/cti
+* [кты/ckty] — цы/cti — [кти/cty] — ци/cti — (force: цы/cthy/cțy)
 
 х/ch + ш/sh (используются разные диграфы, чтобы иметь и хе, и ше):
 
