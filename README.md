@@ -326,7 +326,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |    **н**     |  **п**  |    **р**    |   **с**   |     **т**     |
 |      n       |    p    |      r      |     s     |       t       |
 |    **ф**     |  **х**  |    **ц**    |   **ч**   |     **ш**     |
-|      f       |   ch    | ct/ctj/cth | c/cj/cjh |      sh/sjh       |
+|      f       |   ch    | ct/ctj/cth | c/cj/cjh |      sh       |
 |    **щ**     |  **ъ**  |    **ь**    |  **кс, кц, ктс**   |    **сч**     |
 | sc/scj/scjh | None/qq |    j/jqq    |    cs, cts, ckts     | sc/wsc |
 
@@ -343,7 +343,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **н**    | **п**  |   **р**    |  **с**  |   **т**   |
 |     n      |   p    |     r      |    s    |     t     |
 |   **ф**    | **х**  |   **ц**    |  **ч**  |   **ш**   |
-|     f      |   ch   | ct/ctí/cț | c/cí/ć |    sh/śh     |
+|     f      |   ch   | ct/ctí/cț | c/cí/ć |    sh     |
 |   **щ**    | **ъ**  |   **ь**    | **кс, кц, ктс**  |  **сч**   |
 | sc/scí/sć | None/ø̂ |    í/íø̂    |   cs, cts, ckts    | sc/ŝc |
 
@@ -388,19 +388,12 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 ц/cs, кс/ks/cks (на стыке морфем, в начале слова или когда неизвестна разметка морфем), кс/x (иначе). Правила написания гласных и ь после ц изменены:
 
 * кц/cts — ктс/ckts
-* кт/ct — ц/ctj/ctí — кть/sckj/sckí — ць/scj/scí — ск(ъя)/sck(ja)
-* кта/cta — ца/ctia/ctá — ктя/sckia/scká — ця/scia/scá
-* кту/ctu — цу/ctiu/ctú — ктю/sckiu/sckú — цю/sciu/scú
-* ктэ/ctae/scæ — цэ/cte — кте/scke — це/sce
-* кто/cto — цо/ctio/ctó — [ктё/sckeo/sckǿ] — [цё/sceo/scǿ]
-* [кты/ckty] — цы/cti — [кти/scy] — ци/sci
-
-* ца/csa — ця/csa
-* цо/csо — цё/cseo/csǿ
-* цу/csu — цю/csu
-* цэ/cse — це/cse
-* цы/csi — ци/csi
-* ц/cs — ць/cs
+* кт/ct — ц/ctj/ctí — кть/cktj/cktí — ць/ctj/ctí — кт(ъя)/ckt(ja)
+* кта/cta — ца/ctia/ctá — ктя/cktia/cktá — ця/ctia/ctá
+* кту/ctu — цу/ctiu/ctú — ктю/cktiu/cktú — цю/ctiu/ctú
+* ктэ/ctae/scæ — цэ/cte — кте/ckte — це/cte
+* кто/cto — цо/ctio/ctó — [ктё/ckteo/cktø] — [цё/cteo/ctø]
+* [кты/ckty] — цы/cti — [кти/cty] — ци/cti
 
 х/ch + ш/sh (используются разные диграфы, чтобы иметь и хе, и ше):
 
