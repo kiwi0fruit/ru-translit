@@ -320,15 +320,15 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |    **я**     |  **ё**  |    **ю**    |   **е**   |     **и**     |
 |    ja/ia     | jeo/eo  |    ju/iu    |  je/e/ie  |    i/iy/y     |
 |    **б**     |  **в**  |    **г**    |   **д**   |     **ж**     |
-|      b       |    v    |    g/gh     |     d     |   g/gj(Gjh)   |
+|      b       |    v    |    g/gh     |     d     |   g/gj/gjh   |
 |    **з**     |  **й**  |    **к**    |   **л**   |     **м**     |
-|      z       |  j/wj   |   c/k/ck    |     l     |       m       |
+|      z       |  j/wj   |   c/ck    |     l     |       m       |
 |    **н**     |  **п**  |    **р**    |   **с**   |     **т**     |
 |      n       |    p    |      r      |     s     |       t       |
 |    **ф**     |  **х**  |    **ц**    |   **ч**   |     **ш**     |
-|      f       |   ch    | ct/ctj/ctjh | c/cj(Cjh) |      sh       |
+|      f       |   ch    | ct/ctj/ctjh | c/cj/cjh |      sh/sjh       |
 |    **щ**     |  **ъ**  |    **ь**    |  **кс**   |    **сч**     |
-| sc/scj(SCjh) | None/qq |    j/jqq    |    cs     | sc/wsc(wSCjh) |
+| sc/scj/scjh | None/qq |    j/jqq    |    cs     | sc/wsc |
 
 
 |   **a**    | **о**  |   **у**    |  **э**  |   **ы**   |
@@ -337,15 +337,15 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **я**    | **ё**  |   **ю**    |  **е**  |   **и**   |
 |    ja/á    |  jø/ǿ  |    ju/ú    | je/e/é  |   i/í/y   |
 |   **б**    | **в**  |   **г**    |  **д**  |   **ж**   |
-|     b      |   v    |  g/gh(ĝ)   |    d    |  g/gí(ǵ)  |
+|     b      |   v    |  g/gh/ĝ   |    d    |  g/gí/ǵ  |
 |   **з**    | **й**  |   **к**    |  **л**  |   **м**   |
-|     z      |  j/ĵ   | c/k/ck(ĉ)  |    l    |     m     |
+|     z      |  j/ĵ   | c/ck/ĉ  |    l    |     m     |
 |   **н**    | **п**  |   **р**    |  **с**  |   **т**   |
 |     n      |   p    |     r      |    s    |     t     |
 |   **ф**    | **х**  |   **ц**    |  **ч**  |   **ш**   |
-|     f      |   ch   | ct/ctí(ćt) | c/cí(ć) |    sh     |
+|     f      |   ch   | ct/ctí(ćt) | c/cí/ć |    sh/śh     |
 |   **щ**    | **ъ**  |   **ь**    | **кс**  |  **сч**   |
-| sc/scí(sć) | None/ø |    í/íø    |   cs    | sc/ŝc(ŝć) |
+| sc/scí/sć | None/ø |    í/íø    |   cs    | sc/ŝc |
 
 
 Диакритика только над смягчающими гласными. Использование k и z минимизировано.
