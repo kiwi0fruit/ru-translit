@@ -488,7 +488,7 @@ Mær nebolíshogo gorodishcy otcryl tablictú ecselá i vozmutilsá ctenoj novog
 
 V etom vide fraza ot A to Ja nacinaét vygládetí sovsem po-drugomu. Sejcás scøtca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshut jeú. jøgí colúcij i pochogí na neǿ.
 
-Schod mestnych gitelej indijscoj derevni sickchov reshal cíto ge delatí s otchodami companii "Caligula Gaj Julij Ctezarí" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscich nosil chocholoc na golove. On i nashǿl vychod iz situactii.
+Schod mestnych gitelej indijscoj derevni sickchov reshal cíto ge delatí s otchodami companii "Caligula Gaj Julij Ctezarí" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscich nosil chocholoc na golove. On i nashøl vychod iz situactii.
 
 "Cto s mecóm c nam pridøt, tot ot mecá i..." - ne smog dogovorití starshij mechanic Vasilij.
 
