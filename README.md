@@ -484,7 +484,7 @@ V pjése pro devushcu v zelønom platjícte vse sadilisí na ladjí i plyli po r
 
 Prepodobnyj Bajés podcynul igralínyé costi. Vypalo shestí, znacit jemu pridøtsá mazatí jod na ranu.
 
-Mær nebolíshogo gorodishcy otcryl tablictu ecselá i vozmutilsá ctenoj novogo ecscavatora. Agí eczema snova stala jego bespocoití. Oh ugí eta pocupca vecínogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranoløta. Jesli tac pojdøt i dalíshe, to búdgetu pridøtsá chudo.
+Mær nebolíshogo gorodishcy otcryl tablictú ecselá i vozmutilsá ctenoj novogo ecscavatora. Agí eczema snova stala jego bespocoití. Oh ugí eta pocupca vecínogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranoløta. Jesli tac pojdøt i dalíshe, to búdgetu pridøtsá chudo.
 
 V etom vide fraza ot A to Ja nacinaét vygládetí sovsem po-drugomu. Sejcás scøtca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshut jeú. jøgí colúcij i pochogí na neǿ.
 
