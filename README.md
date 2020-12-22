@@ -476,39 +476,39 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 ## Пример текста
 
-Pióny i vasilícy vsǿ jescǿ rastut na poláne vozle derevni Pǿny, scitajuscejsá bogatoj.
+Píony i vasilícy vsø jescø rastut na poláne vozle derevni Pøny, scitaúscejsá bogatoj.
 
-Pjányj master po proectu sdelal mehanicescyj objæct s izjanom. Jesli brac ne obnarugitsá, to belyje bolidy bolíshe ne smogut vyigryvatí goncy.
+Pjányj master po proectu sdelal mechanicescyj object s izjanom. Jesli brac ne obnarugitsá, to belyé bolidy bolíshe ne smogut vyigryvatí goncy.
 
-V pjese pro devushcu v zelǿnom platjicse vse sadilisí na ladji i plyli po reke. No tut iz lesa vyshel Dgórdgí Maximus, coní v palíto i rvanyh dginsah, cotoryj cíto-to vyiscyval, i pricazal vsem mytísá i gotovití buljón. Znacit snova pjøm do lysyh acvalangistov.
+V pjése pro devushcu v zelønom platjícte vse sadilisí na ladjí i plyli po recke. No tut iz lesa vyshel Dgórdgí Macsimus, coní v palíto i rvanych dginsach, cotoryj cíto-to vyiscyval, i pricazal vsem mytísá i gotovití buljón. Znacit snova pjǿdo lysyh acvalangistov.
 
-Prepodobnyj Baíjes podcynul igralínyje costi. Vypalo shestí, znacit jemu pridǿtsá mazatí jod na ranu.
+Prepodobnyj Bajés podcynul igralínyé costi. Vypalo shestí, znacit jemu pridøtsá mazatí jod na ranu.
 
-Mær nebolíshogo gorodishcy otcryl tablicsu exelá i vozmutilsá csenoj novogo excavatora. Agí eczema snova stala jego bespocoití. Oh ugí eta pocupca vecínogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranolǿta. Jesli tac pojdǿt i dalíshe, to búdgetu pridǿtsá hudo.
+Mær nebolíshogo gorodishcy otcryl tablictu ecselá i vozmutilsá csenoj novogo ecscavatora. Agí eczema snova stala jego bespocoití. Oh ugí eta pocupca vecínogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranolǿta. Jesli tac pojdøt i dalíshe, to búdgetu pridøtsá chudo.
 
-V etom vide fraza ot A to Ja nacinajet vygládetí sovsem po-drugomu. Sejcás scǿtca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshut jeju. jøgí colúcij i pohogí na nejø.
+V etom vide fraza ot A to Ja nacinaét vygládetí sovsem po-drugomu. Sejcás scøtca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshut jeú. jøgí colúcij i pochogí na neǿ.
 
-Schod mestnyh gitelej indijscoj derevni sikhov reshal cíto ge delatí s otchodami companii "Caligula Gaj Julij Csezarí" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashǿl vyhod iz situacsii.
+Schod mestnych gitelej indijscoj derevni sickchov reshal cíto ge delatí s otchodami companii "Caligula Gaj Julij Ctezarí" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscich nosil chocholoc na golove. On i nashǿl vychod iz situactii.
 
-"Cto s mecóm c nam pridǿt, tot ot mecá i..." - ne smog dogovorití starshij mehanic Vasilij.
-
-----
-
-Lúbimcsem Bilíbo byl junyj Frodo Sumniks. Cogda Bilíbo stucnulo devánosto devátí, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitísá v Zasumcy. Tut ugí vse nadegídy Dericulí-Sumniksov, davno s vogídelenijem posmatrivavshih na usadíbu, ruhnuli oconcátelíno.
-
-Slucáju bylo ugodno, cítoby Bilíbo s Frodo jescǿ i rodilisí v odin dení, 22 sentábrá.
-
-– Frodo, malícic moj, – scazal cac-to raz Bilíbo, – perebiralsá by ty co mne. Gládish, i dení rogídenija vmeste otmecáli by.
-
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodǿgí v bezotvetstvennom vozraste megídu dvadcsatjú i tridcsatjú tremá, posle cego hobbit naconecs moget scitatí sebá vzroslym.
-
-Proshlo jescǿ dvenadcsatí let. V Zasumcah cagídyj god veselo otmecáli dvojnoj dení rogídenija, c etomu privycli, no lúbomu bylo jasno, cíto nyneshnej osenjú gotovitsá necíto neobycínoje. Bilíbo ispolnálosí 111 let – vozrast dlá hobbita vesíma pocítennyj, da i cislo lúbopytnoje, nu a Frodo gotovilsá otmetití tridcsatitrǿhletije – toge znamematelínaja data – sovershennoletije po-hobbitscy.
+"Cto s mecóm c nam pridǿt, tot ot mecá i..." - ne smog dogovorití starshij mechanic Vasilij.
 
 ----
 
-Imejetsá nescolíco gypotez proischogídenija sobacy, naiboleje verojatnymi jejø predcami scitajutsá volc i necotoryje vidy shacalov.
+Lúbimctem Bilíbo byl junyj Frodo Sumnics. Cogda Bilíbo stucnulo devánosto devátí, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitísá v Zasumcy. Tut ugí vse nadegídy Dericulí-Sumnicsov, davno s vogídelenijem posmatrivavshich na usadíbu, ruchnuli oconcátelíno.
 
-V sugídenijah ucǿnyh o predcah domashnej sobacy prisutstvujut dve tocícy zrenija. Odni scitajut, cíto sobacy - polifileticescaja gruppa (proischodáscája ot nescolícyh predcov), drugije pridergivajutsá mnenija, cíto vse sobacy proizoshli ot odnogo predca (monofileticescaja teorija).
+Slucáú bylo ugodno, cítoby Bilíbo s Frodo jescø i rodilisí v odin dení, 22 sentábrá.
+
+– Frodo, malícic moj, – scazal cac-to raz Bilíbo, – perebiralsá by ty co mne. Gládish, i dení rogídeniá vmeste otmecáli by.
+
+Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodøgí v bezotvetstvennom vozraste megídu dvadcsatjú i tridctátjú tremá, posle cego chobbit naconectí moget scitatí sebá vzroslym.
+
+Proshlo jescø dvenadctátí let. V Zasumcach cagídyj god veselo otmecáli dvojnoj dení rogídeniá, c etomu privycli, no lúbomu bylo jasno, cíto nyneshnej osenjú gotovitsá necíto neobycínoje. Bilíbo ispolnálosí 111 let – vozrast dlá chobbita vesíma pocítennyj, da i cislo lúbopytnoé, nu a Frodo gotovilsá otmetití tridctátitrøchletié – toge znamematelínaja data – sovershennoletié po-chobbitscy.
+
+----
+
+Imeétsá nescolíco gypotez proischogídeniá sobacy, naiboleé veroátnymi jeǿ predcami scitaútsá volc i necotoryé vidy shacalov.
+
+V sugídeniách ucønych o predcach domashnej sobacy prisutstvujut dve tocícy zreniá. Odni scitaút, cíto sobacy - polifileticescaja gruppa (proischodáscája ot nescolícyh predcov), drughié pridergivaútsá mneniá, cíto vse sobacy proizoshli ot odnogo predca (monofileticescaja teoriá).
 
 
 
