@@ -385,7 +385,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 * ско/sco — що/счо/scio/scó — [скё/sckeo/sckø] — [щё/счё/sceo/scø]
 * [скы/scky] — щы/счы/sci — [ски/scy] — щи/счи/sci — (force: щы/счы/scjhy/sćy)
 
-ц/cs, кс/ks/cks (на стыке морфем, в начале слова или когда неизвестна разметка морфем), кс/x (иначе). Правила написания гласных и ь после ц изменены:
+ц/ct/ctj(ctí) + кт/ct/ckt:
 
 * кц/cts — ктс/ckts
 * кт/ct — ц/ctj/ctí — кть/cktj/cktí — ць/ctj/ctí — кт(ъя)/ckt(ja) — (force: ць/cthj/cťí)
