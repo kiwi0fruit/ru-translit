@@ -333,7 +333,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 |   **a**    | **о**  |   **у**    |  **э**  |   **ы**   |
 |:----------:|:------:|:----------:|:-------:|:---------:|
-|    a/á     |  o/ó   |    u/ú     |  e/æ/ę  |    y/i    |
+|    a/á     |  o/ó   |    u/ú     |  e/æ/ê  |    y/i    |
 |   **я**    | **ё**  |   **ю**    |  **е**  |   **и**   |
 |    ja/á    |  jø/ǿ  |    ju/ú    | je/e/é  |   i/í/y   |
 |   **б**    | **в**  |   **г**    |  **д**  |   **ж**   |
@@ -345,7 +345,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **ф**    | **х**  |   **ц**    |  **ч**  |   **ш**   |
 |     f      |   ch   | ct/ctí/cț | c/cí/ć |    sh/śh     |
 |   **щ**    | **ъ**  |   **ь**    | **кс, кц, ктс**  |  **сч**   |
-| sc/scí/sć | None/ø |    í/íø    |   cs, cts, ckts    | sc/ŝc |
+| sc/scí/sć | None/ø̂ |    í/íø̂    |   cs, cts, ckts    | sc/ŝc |
 
 
 Диакритика только над смягчающими гласными. Использование k и z минимизировано.
