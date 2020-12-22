@@ -326,7 +326,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |    **н**     |  **п**  |    **р**    |   **с**   |     **т**     |
 |      n       |    p    |      r      |     s     |       t       |
 |    **ф**     |  **х**  |    **ц**    |   **ч**   |     **ш**     |
-|      f       |   ch    | ct/ctj/ctjh | c/cj/cjh |      sh/sjh       |
+|      f       |   ch    | ct/ctj/cth | c/cj/cjh |      sh/sjh       |
 |    **щ**     |  **ъ**  |    **ь**    |  **кс, кц, ктс**   |    **сч**     |
 | sc/scj/scjh | None/qq |    j/jqq    |    cs, cts, ckts     | sc/wsc |
 
@@ -343,7 +343,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **н**    | **п**  |   **р**    |  **с**  |   **т**   |
 |     n      |   p    |     r      |    s    |     t     |
 |   **ф**    | **х**  |   **ц**    |  **ч**  |   **ш**   |
-|     f      |   ch   | ct/ctí(ćt) | c/cí/ć |    sh/śh     |
+|     f      |   ch   | ct/ctí/cț | c/cí/ć |    sh/śh     |
 |   **щ**    | **ъ**  |   **ь**    | **кс, кц, ктс**  |  **сч**   |
 | sc/scí/sć | None/ø |    í/íø    |   cs, cts, ckts    | sc/ŝc |
 
