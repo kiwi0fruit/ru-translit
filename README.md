@@ -343,7 +343,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **н**    | **п**  |   **р**    |  **с**  |   **т**   |
 |     n      |   p    |     r      |    s    |     t     |
 |   **ф**    | **х**  |   **ц**    |  **ч**  |   **ш**   |
-|     f      |   ch   | ct/ctí/cț | c/cí/ć |    sh     |
+|     f      |   ch   | ct/ctí/cť | c/cí/ć |    sh     |
 |   **щ**    | **ъ**  |   **ь**    | **кс, кц, ктс**  |  **сч**   |
 | sc/scí/sć | None/ø̂ |    í/íø̂    |   cs, cts, ckts    | sc/ŝc |
 
@@ -388,12 +388,12 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 ц/cs, кс/ks/cks (на стыке морфем, в начале слова или когда неизвестна разметка морфем), кс/x (иначе). Правила написания гласных и ь после ц изменены:
 
 * кц/cts — ктс/ckts
-* кт/ct — ц/ctj/ctí — кть/cktj/cktí — ць/ctj/ctí — кт(ъя)/ckt(ja) — (force: ць/cthj/cțí)
-* кта/cta — ца/ctia/ctá — ктя/cktia/cktá — ця/ctia/ctá — (force: ця/cthia/cțá)
-* кту/ctu — цу/ctiu/ctú — ктю/cktiu/cktú — цю/ctiu/ctú — (force: цю/cthiu/cțú)
-* ктэ/ctae/scæ — цэ/cte — кте/ckte — це/cte — (force: цэ/cthae/cțæ)
+* кт/ct — ц/ctj/ctí — кть/cktj/cktí — ць/ctj/ctí — кт(ъя)/ckt(ja) — (force: ць/cthj/cťí)
+* кта/cta — ца/ctia/ctá — ктя/cktia/cktá — ця/ctia/ctá — (force: ця/cthia/cťá)
+* кту/ctu — цу/ctiu/ctú — ктю/cktiu/cktú — цю/ctiu/ctú — (force: цю/cthiu/cťú)
+* ктэ/ctae/scæ — цэ/cte — кте/ckte — це/cte — (force: цэ/cthae/cťæ)
 * кто/cto — цо/ctio/ctó — [ктё/ckteo/cktø] — [цё/cteo/ctø]
-* [кты/ckty] — цы/cti — [кти/cty] — ци/cti — (force: цы/cthy/cțy)
+* [кты/ckty] — цы/cti — [кти/cty] — ци/cti — (force: цы/cthy/cťy)
 
 х/ch + ш/sh (используются разные диграфы, чтобы иметь и хе, и ше):
 
