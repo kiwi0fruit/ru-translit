@@ -364,7 +364,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 * ка/ca — ча/cia/cá — кя/ckia/cká — чя/cia/cá — (force: чя/cjhia/ćá)
 * ку/cu — чу/ciu/cú — кю/ckiu/ckú — чю/ciu/cú — (force: чю/cjhiu/ćú)
 * кэ/cae/cæ — чэ/ce — ке/cke/cke — че/ce — (force: чэ/cjhae/ćæ)
-* ко/co — чо/cio/có — [кё/ckeo/ckǿ] — [чё/ceo/cǿ]
+* ко/co — чо/cio/có — [кё/ckeo/ckø] — [чё/ceo/cø]
 * [кы/cky] — чы/ci — [ки/cy] — чи/ci — (force: чы/cjhy/ćy)
 
 г/g/gh + ж/g/gj(gí):
@@ -373,7 +373,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 * га/ga — жа/gia/gá — гя/ghia/ghá — жя/gia/gá — (force: жя/gjhia/ǵá)
 * гу/gu — жу/giu/gú — гю/ghiu/ghú — жю/giu/gú — (force: жю/gjhiu/ǵú)
 * гэ/gae/gæ — жэ/ge — ге/ghe — же/ge — (force: жэ/gjhae/ǵæ)
-* го/go — жо/gio/gó — [гё/gheo/ghǿ] — [жё/geo/gǿ]
+* го/go — жо/gio/gó — [гё/gheo/ghø] — [жё/geo/gø]
 * [гы/ghy] — жы/gi — [ги/gy] — жи/gi — (force: жы/gjhy/ǵy)
 
 щ/sc/scj(scí) должно работать так же как сч/sc/scj(scí):
@@ -382,7 +382,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 * ска/sca — ща/сча/scia/scá — скя/sckia/scká — щя/счя/scia/scá — (force: щя/счя/scjhia/sćá)
 * ску/scu — щу/счу/sciu/scú — скю/sckiu/sckú — щю/счю/sciu/scú — (force: щю/счю/scjhiu/sćú)
 * скэ/scae/scæ — щэ/счэ/sce — ске/scke/scke — ще/сче/sce — (force: шэ/счэ/scjhae/sćæ)
-* ско/sco — що/счо/scio/scó — [скё/sckeo/sckǿ] — [щё/счё/sceo/scǿ]
+* ско/sco — що/счо/scio/scó — [скё/sckeo/sckø] — [щё/счё/sceo/scø]
 * [скы/scky] — щы/счы/sci — [ски/scy] — щи/счи/sci — (force: щы/счы/scjhy/sćy)
 
 ц/cs, кс/ks/cks (на стыке морфем, в начале слова или когда неизвестна разметка морфем), кс/x (иначе). Правила написания гласных и ь после ц изменены:
@@ -405,10 +405,10 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 х/ch + ш/sh (используются разные диграфы, чтобы иметь и хе, и ше):
 
 * х/ch — ш/sh — хь/chj/chí — шь/sh — х(ъя)/ch(ja) — ш(ъя)/sh(ja) — (force: шь/shj/shí)
-* ха/cha — ша/sha/shá — хя/chia/chá — шя/sha/shá — (force: шя/shia/???shá)
-* ху/chu — шу/shu/shú — хю/chiu/chú — шю/shu/shú — (force: шю/shiu/???shú)
+* ха/cha — ша/sha — хя/chia/chá — шя/sha — (force: шя/shia/shá)
+* ху/chu — шу/shu — хю/chiu/chú — шю/shu — (force: шю/shiu/shú)
 * хэ/chae/chæ — шэ/she — хе/che — ше/she — (force: шэ/shae/shæ)
-* хо/cho — шо/sho/shó — [хё/cheo/chǿ] — [шё/sheo/shǿ]
+* хо/cho — шо/sho — [хё/cheo/chø] — [шё/sheo/shø]
 * хы/chy — шы/shi — [хи/chi] — ши/shi — (force: шы/shy)
 
 Спаривание к + ч позволило использовать c/ck + c/cj(cí) (вместо k + ch). А заодно и получить диграф для щ/сч/sc (а не триграф sch).
