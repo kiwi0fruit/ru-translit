@@ -312,40 +312,40 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 ## Альтернативная версия
 
-|   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
-|:---------:|:---------:|:--------:|:--------:|:--------:|
-|     a/ia     | o/io/wo |    u/iu    |   e/ye   |    y/i     |
-|   **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
-|   ja/ia/a   |   jeo/eo   |  ju/iu/u   |   je/e   |  i/iy/y  |
-|   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
-|     b     |     v     |   g/gh   |    d     |   g/gj/gjh  |
-|   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
-|     z     |   j/wj    |  c/k/ck  |    l     |    m     |
-|   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
-|     n     |     p     |    r     |    s     |    t     |
-|   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |    h/ch    |   cs     |    c/cj/cjh    |    sh    |
-|   **щ**   |   **ъ**   |  **ь**   |  **кс**  |          |
-|   sc/scj  |  None/qq  |   j/jqq  | ks/cks/x |          |
+## Альтернативная версия
+
+|    **a**     |  **о**  |    **у**    |   **э**   |     **ы**     |
+|:------------:|:-------:|:-----------:|:---------:|:-------------:|
+|     a/io     |  o/io   |    u/io     |   e/ae    |       y       |
+|    **я**     |  **ё**  |    **ю**    |   **е**   |     **и**     |
+|    ja/ia     | jeo/eo  |    ju/iu    |  je/e/ie  |    i/iy/y     |
+|    **б**     |  **в**  |    **г**    |   **д**   |     **ж**     |
+|      b       |    v    |    g/gh     |     d     |   g/gj(Gjh)   |
+|    **з**     |  **й**  |    **к**    |   **л**   |     **м**     |
+|      z       |  j/wj   |   c/k/ck    |     l     |       m       |
+|    **н**     |  **п**  |    **р**    |   **с**   |     **т**     |
+|      n       |    p    |      r      |     s     |       t       |
+|    **ф**     |  **х**  |    **ц**    |   **ч**   |     **ш**     |
+|      f       |   ch    | ct/ctj/ctjh | c/cj(Cjh) |      sh       |
+|    **щ**     |  **ъ**  |    **ь**    |  **кс**   |    **сч**     |
+| sc/scj(SCjh) | None/qq |    j/jqq    |    cs     | sc/wsc(wSCjh) |
 
 
-
-|   **a**   |   **о**   |  **у**   |  **э**   |  **ы**   |
-|:---------:|:---------:|:--------:|:--------:|:--------:|
-|     a/à     |     o/ò     |    u/ù     |   e/ē    |    y/i     |
-|   **я**   |   **ё**   |  **ю**   |  **е**   |  **и**   |
-|   ja/à/a    |   jɵ/ɵ    |  ju/ù/u    |  je/e/jē  |   i/y    |
-|   **б**   |   **в**   |  **г**   |  **д**   |  **ж**   |
-|     b     |     v     |    g/gh     |    d     |   g/gì/ǧ   |
-|   **з**   |   **й**   |  **к**   |  **л**   |  **м**   |
-|     z     |    j/ĵ    |   c/k/ck   |    l     |    m     |
-|   **н**   |   **п**   |  **р**   |  **с**   |  **т**   |
-|     n     |     p     |    r     |    s     |    t     |
-|   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
-|     f     |    h/ch   |    cs     |    c/cì/č    |    sh    |
-|   **щ**   |   **ъ**   |  **ь**   |  **кс**  |          |
-|    sc/scì    |   None/ø  |   ì    | ks/cks/x  |          |
-
+|   **a**    | **о**  |   **у**    |  **э**  |   **ы**   |
+|:----------:|:------:|:----------:|:-------:|:---------:|
+|    a/á     |  o/ó   |    u/ú     |  e/æ/ę  |    y/i    |
+|   **я**    | **ё**  |   **ю**    |  **е**  |   **и**   |
+|    ja/á    |  jø/ǿ  |    ju/ú    | je/e/é  |   i/í/y   |
+|   **б**    | **в**  |   **г**    |  **д**  |   **ж**   |
+|     b      |   v    |  g/gh(ĝ)   |    d    |  g/gí(ǵ)  |
+|   **з**    | **й**  |   **к**    |  **л**  |   **м**   |
+|     z      |  j/ĵ   | c/k/ck(ĉ)  |    l    |     m     |
+|   **н**    | **п**  |   **р**    |  **с**  |   **т**   |
+|     n      |   p    |     r      |    s    |     t     |
+|   **ф**    | **х**  |   **ц**    |  **ч**  |   **ш**   |
+|     f      |   ch   | ct/ctí(ćt) | c/cí(ć) |    sh     |
+|   **щ**    | **ъ**  |   **ь**    | **кс**  |  **сч**   |
+| sc/scí(sć) | None/ø |    í/íø    |   cs    | sc/ŝc(ŝć) |
 
 
 Диакритика только над смягчающими гласными. Использование k и z минимизировано.
@@ -358,162 +358,165 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 ы - y, и - i/y.
 
-к/c/k/ck + ч/c/cj(cì):
+к/c/ck + ч/c/cj(cí):
 
-* к/c — ч/cj/cì — кь/kj/kì — чь/cj/cì — к(ъя)/k(ja)
-* ка/ca — ча/cia/cà — кя/kia/kà — чя/cia/cà
-* ко/co — [чо/cio/cò] — кё/keo/kɵ — [чё/ceo/cɵ]
-* ку/cu — чу/ciu/cù — кю/kiu/kù — чю/ciu/cù
-* [кэ/kye/kē] — чэ/ce — ке/ke — че/ce
-* [кы/ky] — чы/ci — [ки/cy] — чи/ci
+* к/c — ч/cj/cí — кь/ckj/ckí — чь/cj/cí — к(ъя)/ck(ja) — (force: чь/cjhj/ćí)
+* ка/ca — ча/cia/cá — кя/ckia/cká — чя/cia/cá — (force: чя/cjhia/ćá)
+* ку/cu — чу/ciu/cú — кю/ckiu/ckú — чю/ciu/cú — (force: чю/cjhiu/ćú)
+* кэ/cae/cæ — чэ/ce — ке/cke/cke — че/ce — (force: чэ/cjhae/ćæ)
+* ко/co — чо/cio/có — [кё/ckeo/ckǿ] — [чё/ceo/cǿ]
+* [кы/cky] — чы/ci — [ки/cy] — чи/ci — (force: чы/cjhy/ćy)
 
-В начале слова и в аббревиатурах используется ck вместо k.
+г/g/gh + ж/g/gj(gí):
 
-г/g/gh + ж/g/gj(gì):
+* г/g — ж/gj/gí — гь/ghj/ghí — жь/gj/gí — г(ъя)/gh(ja) — (force: жь/gjhj/ǵí)
+* га/ga — жа/gia/gá — гя/ghia/ghá — жя/gia/gá — (force: жя/gjhia/ǵá)
+* гу/gu — жу/giu/gú — гю/ghiu/ghú — жю/giu/gú — (force: жю/gjhiu/ǵú)
+* гэ/gae/gæ — жэ/ge — ге/ghe — же/ge — (force: жэ/gjhae/ǵæ)
+* го/go — жо/gio/gó — [гё/gheo/ghǿ] — [жё/geo/gǿ]
+* [гы/ghy] — жы/gi — [ги/gy] — жи/gi — (force: жы/gjhy/ǵy)
 
-* г/g — ж/gj/gì — гь/ghj/ghì — жь/gj/gì — г(ъя)/gh(ja)
-* га/ga — жа/gia/gà — гя/ghia/ghà — жя/gia/gà
-* го/go — [жо/gio/gò] — гё/gheo/ghɵ — [жё/geo/gɵ]
-* гу/gu — жу/giu/gù — гю/ghiu/ghù — жю/giu/gù
-* [гэ/ghye/ghē] — жэ/ge — ге/ghe — же/ge
-* [гы/ghy] — жы/gi — [ги/gy] — жи/gi
+щ/sc/scj(scí) должно работать так же как сч/sc/scj(scí):
 
-щ/sc должно работать так же как сч/sc:
-
-* ск/sc — щ/сч/scj/scì — скь/skj/skì — щь/счь/scj/scì — ск(ъя)/sk(ja)
-* ска/sca — ща/сча/scia/scà — скя/skia/skà — щя/счя/scia/scà
-* ско/sco — [що/счо/scio/scò] — скё/skeo/skɵ — [щё/счё/sceo/scɵ]
-* ску/scu — щу/счу/sciu/scù — скю/skiu/skù — щю/счю/sciu/scù
-* [скэ/skye/skē] — щэ/счэ/sce — ске/ske — ще/сче/sce
-* [скы/sky] — щы/счы/sci — [ски/scy] — щи/счи/sci
+* ск/sc — щ/сч/scj/scí — скь/sckj/sckí — щь/счь/scj/scí — ск(ъя)/sck(ja) — (force: шь/счь/scjhj/sćí)
+* ска/sca — ща/сча/scia/scá — скя/sckia/scká — щя/счя/scia/scá — (force: щя/счя/scjhia/sćá)
+* ску/scu — щу/счу/sciu/scú — скю/sckiu/sckú — щю/счю/sciu/scú — (force: щю/счю/scjhiu/sćú)
+* скэ/scae/scæ — щэ/счэ/sce — ске/scke/scke — ще/сче/sce — (force: шэ/счэ/scjhae/sćæ)
+* ско/sco — що/счо/scio/scó — [скё/sckeo/sckǿ] — [щё/счё/sceo/scǿ]
+* [скы/scky] — щы/счы/sci — [ски/scy] — щи/счи/sci — (force: щы/счы/scjhy/sćy)
 
 ц/cs, кс/ks/cks (на стыке морфем, в начале слова или когда неизвестна разметка морфем), кс/x (иначе). Правила написания гласных и ь после ц изменены:
 
+* кц/cts — ктс/ckts
+* кт/ct — ц/ctj/ctí — кть/sckj/sckí — ць/scj/scí — ск(ъя)/sck(ja)
+* кта/cta — ца/ctia/ctá — ктя/sckia/scká — ця/scia/scá
+* кту/ctu — цу/ctiu/ctú — ктю/sckiu/sckú — цю/sciu/scú
+* ктэ/ctae/scæ — цэ/cte — кте/scke — це/sce
+* кто/cto — цо/ctio/ctó — [ктё/sckeo/sckǿ] — [цё/sceo/scǿ]
+* [кты/ckty] — цы/cti — [кти/scy] — ци/sci
+
 * ца/csa — ця/csa
-* цо/csо — цё/cseo/csɵ
+* цо/csо — цё/cseo/csǿ
 * цу/csu — цю/csu
 * цэ/cse — це/cse
 * цы/csi — ци/csi
 * ц/cs — ць/cs
 
-х - h/ch, ш - sh. Правила написания гласных и ь после ш изменены:
+х/ch + ш/sh (используются разные диграфы, чтобы иметь и хе, и ше):
 
-* ша/sha — шя/sha
-* шо/shо — шё/sheo/shɵ
-* шу/shu — шю/shu
-* шэ/she — ше/she
-* шы/shi — ши/shi
-* ш/sh — шь/sh
+* х/ch — ш/sh — хь/chj/chí — шь/sh — х(ъя)/ch(ja) — ш(ъя)/sh(ja) — (force: шь/shj/shí)
+* ха/cha — ша/sha/shá — хя/chia/chá — шя/sha/shá — (force: шя/shia/???shá)
+* ху/chu — шу/shu/shú — хю/chiu/chú — шю/shu/shú — (force: шю/shiu/???shú)
+* хэ/chae/chæ — шэ/she — хе/che — ше/she — (force: шэ/shae/shæ)
+* хо/cho — шо/sho/shó — [хё/cheo/chǿ] — [шё/sheo/shǿ]
+* хы/chy — шы/shi — [хи/chi] — ши/shi — (force: шы/shy)
 
-э - Ēē
+Спаривание к + ч позволило использовать c/ck + c/cj(cí) (вместо k + ch). А заодно и получить диграф для щ/сч/sc (а не триграф sch).
 
-В спаривании х и ш я пока что выгоды не вижу... Может, она все же есть?
-
-Спаривание к + ч позволило использовать c/k/ck + c/cj(cì) (вместо k + ch). А заодно и получить диграф для щ/сч/sc (а не триграф sch).
-
-Спаривание г + ж позволило использовать g/gh + g/gj(gì) (вместо g + zh)
+Спаривание г + ж позволило использовать g/gh + g/gj(gí) (вместо g + zh)
 
 ТО ЕСТЬ: меньше угловатых букв k и zh - ура!
 
-Дефолтные прообразы: ча, че, чу, чи, ч (а не чь), жа, же, жу, жи, ж (а не жь) (ну кроме словарных исключений). Можно использовать переключатель w/', который в конце сбрасыват до дефолтных. А прямо перед местом неоднозначности прообраза можно переключить на альтернативный вариант с помощью gjh/ǧ: жури/giuriw/gùri', жюри/gjhiuri/ǧùri, жерло/gerlow/gerlo', жэрло/gjhyerlo/ǧērlo, кож/cogjw/cogì', кожь/cogjh/coǧì (тоже самое с ч/cjh/č). Для буквы ц дефотные варианты это ца, це, цо, цё, ци, цу. Для ш - ша, ше, шо, шё, ши, шу. Задать силком нетипичные можно через w/' в конце либо с помощью явного указания гласной или мягкого знака. Но в стандартном сценарии использования это не должно применяться - умное отображение в кириллицу само должно догадываться исходя из контекста. Аббревиатуры - особый случай: ЖУ/GiU/ǦU (вместо giu/gù), ЖЮ/GjhiU/ǦÙ, ГЮ/GhiU/ĜÙ, ГУ/GU, КИ/CkI/ĈI, ЧЮ/CjhiU/ČÙ.
+Дефолтные прообразы: ча, че, чу, чи, ч (а не чь), жа, же, жу, жи, ж (а не жь) (ну кроме словарных исключений). Можно использовать переключатель w/', который в конце сбрасыват до дефолтных. А прямо перед местом неоднозначности прообраза можно переключить на альтернативный вариант с помощью gjh/ǧ: жури/giuriw/gúri', жюри/gjhiuri/ǧúri, жерло/gerlow/gerlo', жэрло/gjhyerlo/ǧærlo, кож/cogjw/cogí', кожь/cogjh/coǧí (тоже самое с ч/cjh/č). Для буквы ц дефотные варианты это ца, це, цо, цё, ци, цу. Для ш - ша, ше, шо, шё, ши, шу. Задать силком нетипичные можно через w/' в конце либо с помощью явного указания гласной или мягкого знака. Но в стандартном сценарии использования это не должно применяться - умное отображение в кириллицу само должно догадываться исходя из контекста. Аббревиатуры - особый случай: ЖУ/GiU/ǦU (вместо giu/gú), ЖЮ/GjhiU/Ǧú, ГЮ/GhiU/Ĝú, ГУ/GU, КИ/CkI/ĈI, ЧЮ/CjhiU/Čú.
 
-По дефолту прообраз sc это щ, а не сч (ну кроме словарных исключений). Можно использовать переключатель сброса на дефолт w/': щёт/sceotw/scɵt'. Или указать явно: счит/scjhit/sčit.
+По дефолту прообраз sc это щ, а не сч (ну кроме словарных исключений). Можно использовать переключатель сброса на дефолт w/': щёт/sceotw/scǿt'. Или указать явно: счит/scjhit/sčit.
 
 
 ## Занимательные примеры
 
 скалка/scalca  
-щавель/sciavelj/scàvelì  
-гео/ghieo/gheò  
-Гёте/Gheote/Ghɵte  
+щавель/sciavelj/scávelí  
+гео/ghieo/gheó  
+Гёте/Gheote/Ghǿte  
 пьеса/pjesa  
-мэр/myer/mēr  
-подъезд/podqqjezd/podjēzd  
+мэр/myer/mær  
+подъезд/podqqjezd/podjæzd  
 ...(подйыэзд/podwjyezd/podĵyezd  
 ....подйиэзд/podjyezd  
 ....подйэзд/podwjezd/podĵezd  
 ....подйезд/podwjjezd/podĵjezd  
 ....подъэзд/podqqezd/podøezd  
-....подьэзд/podjqqezd/podìezd  
-....грабьармия/grabiarmija/grabàrmija - словарное исключение)  
-пьём/pjeom/pjɵm  
-...(пьеом/pjewom/pjeòm - eò и ewo значат одно и тоже)  
-пион/piyon/piòn  
-пианино/piyanino/piànino  
+....подьэзд/podjqqezd/podíezd  
+....грабьармия/grabiarmija/grabármija - словарное исключение)  
+пьём/pjeom/pjøm  
+...(пьеом/pjewom/pjeóm - eó и ewo значат одно и тоже)  
+пион/piyon/pión  
+пианино/piyanino/piánino  
 платьице/platjicse  
 ...(платйице/platjycse  
 ....йипи/jipi  
 ....йыпи/jypi  
 ....платйыце/platwjycse/platĵycse)  
-бульон/buljjon/buljòn  
+бульон/buljjon/buljón  
 объём/objom  
-ёмкость/jeomcostj/jɵmcostì  
+ёмкость/jeomcostj/jømcostí  
 йогурт/jogurt  
-чёрный/ceornyj/cɵrnyj  
-неон/nieon/neòn  
-мёд/meod/mɵd  
+чёрный/ceornyj/cǿrnyj  
+неон/nieon/neón  
+мёд/meod/mǿd  
 яма/jama  
-Аеонтина/Ajewontina/Ajeòntina  
-Аёнтина/Ajeontina/Ajɵntina  
-Айеонтина/Ajjewontina/Aìjeòntina  
-обжёг/obgeog/obgɵg  
-покъезд/pokqqjezd/pokjēzd  
+Аеонтина/Ajewontina/Ajeóntina  
+Аёнтина/Ajeontina/Ajøntina  
+Айеонтина/Ajjewontina/Aíjeóntina  
+обжёг/obgeog/obgǿg  
+покъезд/pokqqjezd/pokjæzd  
 кьем/ckjem  
 чьем/cjem  
-нанчъян/nancjqqjan/nancìøjan  
-нанчьан/nancjhjqqan/nančìan  
+нанчъян/nancjqqjan/nancíøjan  
+нанчьан/nancjhjqqan/nančían  
 Йемен/Jemen (пофиксен как словарное исключение)  
 Йеме/Jjeme (не пофиксен)  
-Байес/Bajjes/Baìjes (только после гласных)  
+Байес/Bajjes/Baíjes (только после гласных)  
 ...(Баиес/Baijes)  
-Аллилуйя/Allilujja/Alliluìja  
-айё/ajjeo/aìjɵ  
-аьк/aqjc/aqìc  
-ладьеобразные/ladjewobraznyje/ladjeòbraznyje  
-царь/csarj/csarì  
-Цезарь/Csezarj/Csezarì  
-нэцкэ/nyecskye/nēcskē  
+Аллилуйя/Allilujja/Alliluíja  
+айё/ajjeo/aíjø  
+аьк/aqjc/aqíc  
+ладьеобразные/ladjewobraznyje/ladjeóbraznyje  
+царь/csarj/csarí  
+Цезарь/Csezarj/Csezarí  
+нэцкэ/nyecsckye/næcsckæ  
 Ксения/Cksenija  
 Кения/Ckenija  
-вовлёкся/vovleoksia/vovlɵksà  
+вовлёкся/vovleoksia/vovlǿksá  
 эксперт/expert
 
 
 ## Пример текста
 
-Piòny i vasilìcy vsɵ jescɵ rastut na polàne vozle derevni Pòny, scitajuscejsà bogatoj.
+Pióny i vasilícy vsǿ jescǿ rastut na poláne vozle derevni Pǿny, scitajuscejsá bogatoj.
 
-Pjànyj master po proectu sdelal mehanicescyj objēct s izjanom. Jesli brac ne obnarugitsà, to belyje bolidy bolìshe ne smogut vyigryvatì goncy.
+Pjányj master po proectu sdelal mehanicescyj objæct s izjanom. Jesli brac ne obnarugitsá, to belyje bolidy bolíshe ne smogut vyigryvatí goncy.
 
-V pjese pro devushcu v zelɵnom platjicse vse sadilisì na ladji i plyli po reke. No tut iz lesa vyshel Dgòrdgì Maximus, conì v palìto i rvanyh dginsah, cotoryj cìto-to vyiscyval, i pricazal vsem mytìsà i gotovitì buljòn. Znacit snova pjɵm do lysyh acvalangistov.
+V pjese pro devushcu v zelǿnom platjicse vse sadilisí na ladji i plyli po reke. No tut iz lesa vyshel Dgórdgí Maximus, coní v palíto i rvanyh dginsah, cotoryj cíto-to vyiscyval, i pricazal vsem mytísá i gotovití buljón. Znacit snova pjøm do lysyh acvalangistov.
 
-Prepodobnyj Baìjes podcynul igralìnyje costi. Vypalo shestì, znacit jemu pridɵtsà mazatì jod na ranu.
+Prepodobnyj Baíjes podcynul igralínyje costi. Vypalo shestí, znacit jemu pridǿtsá mazatí jod na ranu.
 
-Mēr nebolìshogo gorodishcy otcryl tablicsu exelà i vozmutilsà csenoj novogo excavatora. Agì eczema snova stala jego bespocoitì. Oh ugì eta pocupca vecìnogo dvigatelà v proshlom godu! A tac ge pocupca aeroplana-ecranolɵta. Jesli tac pojdɵt i dalìshe, to bùdgetu pridɵtsà hudo.
+Mær nebolíshogo gorodishcy otcryl tablicsu exelá i vozmutilsá csenoj novogo excavatora. Agí eczema snova stala jego bespocoití. Oh ugí eta pocupca vecínogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranolǿta. Jesli tac pojdǿt i dalíshe, to búdgetu pridǿtsá hudo.
 
-V etom vide fraza ot A to Ja nacinajet vyglàdetì sovsem po-drugomu. Sejcàs scɵtca novaja, no pozge ona stanet staraja. Cernysh lùbit cogda jego ceshut jeju. Jɵgì colùcij i pohogì na nejɵ.
+V etom vide fraza ot A to Ja nacinajet vygládetí sovsem po-drugomu. Sejcás scǿtca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshut jeju. jøgí colúcij i pohogí na nejø.
 
-Schod mestnyh gitelej indijscoj derevni sikhov reshal cìto ge delatì s otchodami companii "Caligula Gaj Julij Csezarì" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashɵl vyhod iz situacsii.
+Schod mestnyh gitelej indijscoj derevni sikhov reshal cíto ge delatí s otchodami companii "Caligula Gaj Julij Csezarí" (lat. /Caligula Gaius Iulius Caesar/ ). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashǿl vyhod iz situacsii.
 
-"Cto s mecòm c nam pridɵt, tot ot mecà i..." - ne smog dogovoritì starshij mehanic Vasilij.
-
-----
-
-Lùbimcsem Bilìbo byl junyj Frodo Sumniks. Cogda Bilìbo stucnulo devànosto devàtì, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitìsà v Zasumcy. Tut ugì vse nadegìdy Dericulì-Sumniksov, davno s vogìdelenijem posmatrivavshih na usadìbu, ruhnuli oconcàtelìno.
-
-Slucàju bylo ugodno, cìtoby Bilìbo s Frodo jescɵ i rodilisì v odin denì, 22 sentàbrà.
-
-– Frodo, malìcic moj, – scazal cac-to raz Bilìbo, – perebiralsà by ty co mne. Glàdish, i denì rogìdenija vmeste otmecàli by.
-
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodɵgì v bezotvetstvennom vozraste megìdu dvadcsatjù i tridcsatjù tremà, posle cego hobbit naconecs moget scitatì sebà vzroslym.
-
-Proshlo jescɵ dvenadcsatì let. V Zasumcah cagìdyj god veselo otmecàli dvojnoj denì rogìdenija, c etomu privycli, no lùbomu bylo jasno, cìto nyneshnej osenjù gotovitsà necìto neobycìnoje. Bilìbo ispolnàlosì 111 let – vozrast dlà hobbita vesìma pocìtennyj, da i cislo lùbopytnoje, nu a Frodo gotovilsà otmetitì tridcsatitrɵhletije – toge znamematelìnaja data – sovershennoletije po-hobbitscy.
+"Cto s mecóm c nam pridǿt, tot ot mecá i..." - ne smog dogovorití starshij mehanic Vasilij.
 
 ----
 
-Imejetsà nescolìco gypotez proischogìdenija sobacy, naiboleje verojatnymi jejɵ predcami scitajutsà volc i necotoryje vidy shacalov.
+Lúbimcsem Bilíbo byl junyj Frodo Sumniks. Cogda Bilíbo stucnulo devánosto devátí, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitísá v Zasumcy. Tut ugí vse nadegídy Dericulí-Sumniksov, davno s vogídelenijem posmatrivavshih na usadíbu, ruhnuli oconcátelíno.
 
-V sugìdenijah ucɵnyh o predcah domashnej sobacy prisutstvujut dve tocìcy zrenija. Odni scitajut, cìto sobacy - polifileticescaja gruppa (proischodàscàja ot nescolìcyh predcov), drugije pridergivajutsà mnenija, cìto vse sobacy proizoshli ot odnogo predca (monofileticescaja teorija).
+Slucáju bylo ugodno, cítoby Bilíbo s Frodo jescǿ i rodilisí v odin dení, 22 sentábrá.
+
+– Frodo, malícic moj, – scazal cac-to raz Bilíbo, – perebiralsá by ty co mne. Gládish, i dení rogídenija vmeste otmecáli by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodǿgí v bezotvetstvennom vozraste megídu dvadcsatjú i tridcsatjú tremá, posle cego hobbit naconecs moget scitatí sebá vzroslym.
+
+Proshlo jescǿ dvenadcsatí let. V Zasumcah cagídyj god veselo otmecáli dvojnoj dení rogídenija, c etomu privycli, no lúbomu bylo jasno, cíto nyneshnej osenjú gotovitsá necíto neobycínoje. Bilíbo ispolnálosí 111 let – vozrast dlá hobbita vesíma pocítennyj, da i cislo lúbopytnoje, nu a Frodo gotovilsá otmetití tridcsatitrǿhletije – toge znamematelínaja data – sovershennoletije po-hobbitscy.
+
+----
+
+Imejetsá nescolíco gypotez proischogídenija sobacy, naiboleje verojatnymi jejø predcami scitajutsá volc i necotoryje vidy shacalov.
+
+V sugídenijah ucǿnyh o predcah domashnej sobacy prisutstvujut dve tocícy zrenija. Odni scitajut, cíto sobacy - polifileticescaja gruppa (proischodáscája ot nescolícyh predcov), drugije pridergivajutsá mnenija, cíto vse sobacy proizoshli ot odnogo predca (monofileticescaja teorija).
+
 
 
 ## TO DO
