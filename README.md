@@ -490,7 +490,7 @@ V etom vide fraza ot A to Ja nacinaét vygládetí sovsem po-drugomu. Sejcás sc
 
 Schod mestnych gitelej indijscoj derevni sickchov reshal cíto ge delatí s otchodami companii "Caligula Gaj Julij Ctezarí" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscich nosil chocholoc na golove. On i nashǿl vychod iz situactii.
 
-"Cto s mecóm c nam pridǿt, tot ot mecá i..." - ne smog dogovorití starshij mechanic Vasilij.
+"Cto s mecóm c nam pridøt, tot ot mecá i..." - ne smog dogovorití starshij mechanic Vasilij.
 
 ----
 
@@ -500,7 +500,7 @@ Slucáú bylo ugodno, cítoby Bilíbo s Frodo jescø i rodilisí v odin dení, 2
 
 – Frodo, malícic moj, – scazal cac-to raz Bilíbo, – perebiralsá by ty co mne. Gládish, i dení rogídeniá vmeste otmecáli by.
 
-Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodøgí v bezotvetstvennom vozraste megídu dvadcsatjú i tridctátjú tremá, posle cego chobbit naconectí moget scitatí sebá vzroslym.
+Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodøgí v bezotvetstvennom vozraste megídu dvadctátjú i tridctátjú tremá, posle cego chobbit naconectí moget scitatí sebá vzroslym.
 
 Proshlo jescø dvenadctátí let. V Zasumcach cagídyj god veselo otmecáli dvojnoj dení rogídeniá, c etomu privycli, no lúbomu bylo jasno, cíto nyneshnej osenjú gotovitsá necíto neobycínoje. Bilíbo ispolnálosí 111 let – vozrast dlá chobbita vesíma pocítennyj, da i cislo lúbopytnoé, nu a Frodo gotovilsá otmetití tridctátitrøchletié – toge znamematelínaja data – sovershennoletié po-chobbitscy.
 
