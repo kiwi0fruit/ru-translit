@@ -357,7 +357,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 **ы - y, и - i/y.**
 
 
-#### к/c/ck + ч/c/cj(cí)
+### к/c/ck + ч/c/cj(cí)
 
 Формат в таблицах: кириллица/ascii-латиница-26-для-ввода/финальная-юникод-латиница.
 
@@ -373,7 +373,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 | **кы/cky** | чы/ci     | **ки/cy**            | чи/ci         | чы/cjhy/ćy  |
 
 
-#### г/g/gh + ж/g/gj(gí)
+### г/g/gh + ж/g/gj(gí)
 
 | г          | ж         | гь, гъя              | жь            | force       |
 | ---------- | --------- | -------------------- | ------------- | ----------- |
@@ -385,7 +385,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 | **гы/ghy** | жы/gi     | **ги/gy**            | жи/gi         | жы/gjhy/ǵy  |
 
 
-#### щ/sc/scj(scí)
+### щ/sc/scj(scí)
 
 Должно работать так же как сч/sc/scj(scí).
 
@@ -399,7 +399,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 | **скы/scky** | щы/счы/sci      | **ски/scy**               | щи/счи/sci          | щы/счы/scjhy/sćy  |
 
 
-#### ц/ct/ctj(ctí) + кт/ct/ckt
+### ц/ct/ctj(ctí) + кт/ct/ckt
 
 **кц - cts, ктс - ckts**
 
@@ -413,7 +413,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 | **кты/ckty** | цы/cti      | **кти/cty**               | ци/cti                   | цы/cthy/cťy                 |
 
 
-#### х/ch + ш/sh
+### х/ch + ш/sh
 
 Используются разные диграфы, чтобы иметь и хе, и ше.
 
