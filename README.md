@@ -403,28 +403,28 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 **кц - cts, ктс - ckts**
 
-| кт           | ц           | кть, ктъя                 | ць, цъя                  | force                       |
-| ------------ | ----------- | ------------------------- | ------------------------ | --------------------------- |
-| кт/ct        | ц/ctj/ctí   | кть/cktj/cktí, ктъя/cktja | ць/ctj/ctí, цья/цъя/ctjá | ць/cthj/cťí, цъя/cthja/cťja |
-| кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá              | ця/cthia/cťá                |
-| кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú              | цю/cthiu/cťú                |
-| ктэ/ctae/ctæ | цэ/cte      | кте/ckte                  | це/cte                   | цэ/cthae/cťæ                |
-| кто/cto      | цо/ctio/ctó | **ктё/ckteo/cktø**        | **цё/cteo/ctø**          |                             |
-| **кты/ckty** | цы/cti      | **кти/cty**               | ци/cti                   | цы/cthy/cťy                 |
+| кт           | ц           | кть, ктъя                 | ць, цъя                                         | force        |
+| ------------ | ----------- | ------------------------- | ----------------------------------------------- | ------------ |
+| кт/ct        | ц/ctj/ctí   | кть/cktj/cktí, ктъя/cktja | ць/ctj/ctí, цья/ctjja/ctjá, цъя/ctjqqja/ctíø̂ja | ць/cthj/cťí  |
+| кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá                                     | ця/cthia/cťá |
+| кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú                                     | цю/cthiu/cťú |
+| ктэ/ctae/ctæ | цэ/cte      | кте/ckte                  | це/cte                                          | цэ/cthae/cťæ |
+| кто/cto      | цо/ctio/ctó | **ктё/ckteo/cktø**        | **цё/cteo/ctø**                                 |              |
+| **кты/ckty** | цы/cti      | **кти/cty**               | ци/cti                                          | цы/cthy/cťy  |
 
 
 ### х/ch + ш/sh
 
 Используются разные диграфы, чтобы иметь и хе, и ше.
 
-| x           | ш      | хь, хъя              | шь, шъя             | force                         |
-| ----------- | ------ | -------------------- | ------------------- | ----------------------------- |
-| х/ch        | ш/sh   | хь/chj/chí, хъя/chja | шь/sh, шья/шъя/shja | шь/shj/shí, шъя/shqqja/shø̂ja |
-| ха/cha      | ша/sha | хя/chia/chá          | шя/sha              | шя/shia/shá                   |
-| ху/chu      | шу/shu | хю/chiu/chú          | шю/shu              | шю/shiu/shú                   |
-| хэ/chae/chæ | шэ/she | хе/che               | ше/she              | шэ/shae/shæ                   |
-| хо/cho      | шо/sho | **хё/cheo/chø**      | **шё/sheo/shø**     |                               |
-| хы/chy      | шы/shi | хи/chi               | ши/shi              | шы/shy                        |
+| x           | ш      | хь, хъя              | шь, шъя                            | force       |
+| ----------- | ------ | -------------------- | ---------------------------------- | ----------- |
+| х/ch        | ш/sh   | хь/chj/chí, хъя/chja | шь/sh, шья/shja, шъя/shqqja/shø̂ja | шь/shj/shí  |
+| ха/cha      | ша/sha | хя/chia/chá          | шя/sha                             | шя/shia/shá |
+| ху/chu      | шу/shu | хю/chiu/chú          | шю/shu                             | шю/shiu/shú |
+| хэ/chae/chæ | шэ/she | хе/che               | ше/she                             | шэ/shae/shæ |
+| хо/cho      | шо/sho | **хё/cheo/chø**      | **шё/sheo/shø**                    |             |
+| хы/chy      | шы/shi | хи/chi               | ши/shi                             | шы/shy      |
 
 ----
 
