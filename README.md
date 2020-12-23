@@ -327,13 +327,13 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |      n       |    p    |      r      |     s     |       t       |
 |    **ф**     |  **х**  |    **ц**    |   **ч**   |     **ш**     |
 |      f       |   ch    | ct/ctj/cth | c/cj/cjh |      sh       |
-|    **щ**     |  **ъ**  |    **ь**    |  **кс, кц, ктс**   |    **сч**     |
-| sc/scj/scjh | None/qq |    j/jqq    |    cs, cts, ckts     | sc/wsc |
+|    **щ**     |  **ъ**  |    **ь**    |  **кс, кц, ктс**   |    **сч, саэ**     |
+| sc/scj/scjh | None/qq |    j/jqq    |    cs, cts, ckts     | sc/wsc, saae |
 
 
 |   **a**    | **о**  |   **у**    |  **э**  |   **ы**   |
 |:----------:|:------:|:----------:|:-------:|:---------:|
-|    a/á     |  o/ó   |    u/ú     |  e/æ/ê  |    y/i    |
+|    a/á     |  o/ó   |    u/ú     |   e/æ   |    y/i    |
 |   **я**    | **ё**  |   **ю**    |  **е**  |   **и**   |
 |    ja/á    | jø/ø/ǿ |    ju/ú    | je/e/é  |   i/í/y   |
 |   **б**    | **в**  |   **г**    |  **д**  |   **ж**   |
@@ -344,8 +344,8 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |     n      |   p    |     r      |    s    |     t     |
 |   **ф**    | **х**  |   **ц**    |  **ч**  |   **ш**   |
 |     f      |   ch   | ct/ctí/cť(ç) | c/cí/ć |    sh     |
-|   **щ**    | **ъ**  |   **ь**    | **кс, кц, ктс**  |  **сч**   |
-| sc/scí/sć | None/ø̂ |    í/íø̂    |   cs, cts, ckts    | sc/ŝc |
+|   **щ**    | **ъ**  |   **ь**    | **кс, кц, ктс**  |  **сч, саэ**   |
+| sc/scí/sć | None/ø̂ |    í/íø̂    |   cs, cts, ckts    | sc/ŝc, saê |
 
 
 Диакритика только над смягчающими гласными. Использование k и z минимизировано.
