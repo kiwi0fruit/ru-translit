@@ -328,7 +328,7 @@ ASCII-латиница-26-для-ввода:
 |    **н**    |  **п**  |   **р**    |      **с**      |    **т**     |
 |      n      |    p    |     r      |        s        |      t       |
 |    **ф**    |  **х**  |   **ц**    |      **ч**      |    **ш**     |
-|      f      |   ch    | ct/ctj/ctjh |    c/cj/cjh     |      sh      |
+|      f      |   ch    | ct/ctj/ctjh |    c/cj/cjh     |      sh/sjh      |
 |    **щ**    |  **ъ**  |   **ь**    | **кс, кц, ктс** | **сч, саэ**  |
 | sc/scj/scjh | None/qq |   j/jqq    |  cs, cts, ckts  | sc/wsc, saae |
 
@@ -346,7 +346,7 @@ ASCII-латиница-26-для-ввода:
 |   **н**   |  **п**  |   **р**   |      **с**      |    **т**    |
 |     n     |    p    |     r     |       s/ŝ       |      t      |
 |   **ф**   |  **х**  |   **ц**   |      **ч**      |    **ш**    |
-|     f     |   ch    | ct/ctí/ç |     c/cí/ć      |     sh      |
+|     f     |   ch    | ct/ctí/ç |     c/cí/ć      |     sh/ŝh      |
 |   **щ**   |  **ъ**  |   **ь**   | **кс, кц, ктс** | **сч, саэ** |
 | sc/scí/sč | None/ø  |    í/íø    |  cs, cts, ckts  | sc/ŝc, saæ  |
 
@@ -443,10 +443,10 @@ ASCII-латиница-26-для-ввода:
 | x           | ш      | хь, хъя              | шь, шъя                            | force       |
 | ----------- | ------ | -------------------- | ---------------------------------- | ----------- |
 | х/ch        | ш/sh   | хь/chj/chí, хъя/chja | шь/sh, шья/shja, шъя/shqqja/shøja  | шь/shj/shí  |
-| ха/cha      | ша/sha | хя/chia/chá          | шя/sha                             | шя/shia/shá |
-| ху/chu      | шу/shu | хю/chiu/chú          | шю/shu                             | шю/shiu/shú |
+| ха/cha      | ша/sha/shá | хя/chia/chá          | шя/sha/shá                             | шя/sjhia/ŝhá |
+| ху/chu      | шу/shu/shú | хю/chiu/chú          | шю/shu/shú                             | шю/sjhiu/ŝhú |
 | хэ/chae/chæ | шэ/she | хе/che               | ше/she                             | шэ/shae/shæ |
-| хо/cho      | шо/sho | хё/chio/chó          | шё/sho                             | шо/sh?o/sh? |
+| хо/cho      | шо/sho/shó | хё/chio/chó          | шё/sho/shó                             | шо/sjho/ŝho |
 | хы/chy      | шы/shi | хи/chi               | ши/shi                             | шы/shy      |
 
 ----
