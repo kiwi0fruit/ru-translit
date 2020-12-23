@@ -388,24 +388,24 @@ ASCII-латиница-26-для-ввода:
 
 | к          | ч         | кь,къя               | чь            | force       |
 | ---------- | --------- | -------------------- | ------------- | ----------- |
-| к/c        | ч/cj/cí   | кь/ckj/ckí, къя/ckja | чь/cj/cí      | чь/cjhj/ćí  |
-| ка/ca      | ча/cia/cá | кя/ckia/cká          | чя/cia/cá     | чя/cjhia/ćá |
-| ку/cu      | чу/ciu/cú | кю/ckiu/ckú          | чю/ciu/cú     | чю/cjhiu/ćú |
-| кэ/cae/cæ  | чэ/ce     | ке/cke/cke           | че/ce         | чэ/cjhae/ćæ |
+| к/c        | ч/cj/cí   | кь/ckj/ckí, къя/ckja | чь/cj/cí      | чь/cjhj/čí  |
+| ка/ca      | ча/cia/cá | кя/ckia/cká          | чя/cia/cá     | чя/cjhia/čá |
+| ку/cu      | чу/ciu/cú | кю/ckiu/ckú          | чю/ciu/cú     | чю/cjhiu/čú |
+| кэ/cae/cæ  | чэ/ce     | ке/cke/cke           | че/ce         | чэ/cjhae/čæ |
 | ко/co      | чо/cio/có | **кё/ckeo/ckø**      | **чё/ceo/cø** |             |
-| **кы/cky** | чы/ci     | **ки/cy**            | чи/ci         | чы/cjhy/ćy  |
+| **кы/cky** | чы/ci     | **ки/cy**            | чи/ci         | чы/cjhy/čy  |
 
 
 ### г/g/gh + ж/g/gj(gí)
 
 | г          | ж         | гь, гъя              | жь            | force       |
 | ---------- | --------- | -------------------- | ------------- | ----------- |
-| г/g        | ж/gj/gí   | гь/ghj/ghí, гъя/ghja | жь/gj/gí      | жь/gjhj/ǵí  |
-| га/ga      | жа/gia/gá | гя/ghia/ghá          | жя/gia/gá     | жя/gjhia/ǵá |
-| гу/gu      | жу/giu/gú | гю/ghiu/ghú          | жю/giu/gú     | жю/gjhiu/ǵú |
-| гэ/gae/gæ  | жэ/ge     | ге/ghe               | же/ge         | жэ/gjhae/ǵæ |
+| г/g        | ж/gj/gí   | гь/ghj/ghí, гъя/ghja | жь/gj/gí      | жь/gjhj/ğí  |
+| га/ga      | жа/gia/gá | гя/ghia/ghá          | жя/gia/gá     | жя/gjhia/ğá |
+| гу/gu      | жу/giu/gú | гю/ghiu/ghú          | жю/giu/gú     | жю/gjhiu/ğú |
+| гэ/gae/gæ  | жэ/ge     | ге/ghe               | же/ge         | жэ/gjhae/ğæ |
 | го/go      | жо/gio/gó | **гё/gheo/ghø**      | **жё/geo/gø** |             |
-| **гы/ghy** | жы/gi     | **ги/gy**            | жи/gi         | жы/gjhy/ǵy  |
+| **гы/ghy** | жы/gi     | **ги/gy**            | жи/gi         | жы/gjhy/ğy  |
 
 
 ### щ/sc/scj(scí)
@@ -414,12 +414,12 @@ ASCII-латиница-26-для-ввода:
 
 | ск           | щ/сч            | скь, скъя                 | щь/счь              | force             |
 | ------------ | --------------- | ------------------------- | ------------------- | ----------------- |
-| ск/sc        | щ/сч/scj/scí    | скь/sckj/sckí, скъя/sckja | щь/счь/scj/scí      | шь/счь/scjhj/sćí  |
-| ска/sca      | ща/сча/scia/scá | скя/sckia/scká            | щя/счя/scia/scá     | щя/счя/scjhia/sćá |
-| ску/scu      | щу/счу/sciu/scú | скю/sckiu/sckú            | щю/счю/sciu/scú     | щю/счю/scjhiu/sćú |
-| скэ/scae/scæ | щэ/счэ/sce      | ске/scke/scke             | ще/сче/sce          | шэ/счэ/scjhae/sćæ |
+| ск/sc        | щ/сч/scj/scí    | скь/sckj/sckí, скъя/sckja | щь/счь/scj/scí      | шь/счь/scjhj/sčí  |
+| ска/sca      | ща/сча/scia/scá | скя/sckia/scká            | щя/счя/scia/scá     | щя/счя/scjhia/sčá |
+| ску/scu      | щу/счу/sciu/scú | скю/sckiu/sckú            | щю/счю/sciu/scú     | щю/счю/scjhiu/sčú |
+| скэ/scae/scæ | щэ/счэ/sce      | ске/scke/scke             | ще/сче/sce          | шэ/счэ/scjhae/sčæ |
 | ско/sco      | що/счо/scio/scó | **скё/sckeo/sckø**        | **щё/счё/sceo/scø** |                   |
-| **скы/scky** | щы/счы/sci      | **ски/scy**               | щи/счи/sci          | щы/счы/scjhy/sćy  |
+| **скы/scky** | щы/счы/sci      | **ски/scy**               | щи/счи/sci          | щы/счы/scjhy/sčy  |
 
 
 ### ц/ct/ctj(ctí) + кт/ct/ckt
