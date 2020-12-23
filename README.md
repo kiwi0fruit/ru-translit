@@ -312,7 +312,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 ## Альтернативная версия
 
-## Альтернативная версия
+### (Совлат по-тиминовски)
 
 |    **a**     |  **о**  |    **у**    |   **э**   |     **ы**     |
 |:------------:|:-------:|:-----------:|:---------:|:-------------:|
@@ -359,61 +359,72 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 #### к/c/ck + ч/c/cj(cí)
 
-Формат: кириллица/ascii-латиница-26-для-ввода/финальная-юникод-латиница.
+Формат в таблицах: кириллица/ascii-латиница-26-для-ввода/финальная-юникод-латиница.
 
-| к          | ч         | кь              | чь            | къ           | force       |
-| ---------- | --------- | --------------- | ------------- | ------------ | ----------- |
-| к/c        | ч/cj/cí   | кь/ckj/ckí      | чь/cj/cí      | к(ъя)/ck(ja) | чь/cjhj/ćí  |
-| ка/ca      | ча/cia/cá | кя/ckia/cká     | чя/cia/cá     |              | чя/cjhia/ćá |
-| ку/cu      | чу/ciu/cú | кю/ckiu/ckú     | чю/ciu/cú     |              | чю/cjhiu/ćú |
-| кэ/cae/cæ  | чэ/ce     | ке/cke/cke      | че/ce         |              | чэ/cjhae/ćæ |
-| ко/co      | чо/cio/có | **кё/ckeo/ckø** | **чё/ceo/cø** |              |             |
-| **кы/cky** | чы/ci     | **ки/cy**       | чи/ci         |              | чы/cjhy/ćy  |
+**force** - технические исключения.
+
+| к          | ч         | кь,къя               | чь            | force       |
+| ---------- | --------- | -------------------- | ------------- | ----------- |
+| к/c        | ч/cj/cí   | кь/ckj/ckí, къя/ckja | чь/cj/cí      | чь/cjhj/ćí  |
+| ка/ca      | ча/cia/cá | кя/ckia/cká          | чя/cia/cá     | чя/cjhia/ćá |
+| ку/cu      | чу/ciu/cú | кю/ckiu/ckú          | чю/ciu/cú     | чю/cjhiu/ćú |
+| кэ/cae/cæ  | чэ/ce     | ке/cke/cke           | че/ce         | чэ/cjhae/ćæ |
+| ко/co      | чо/cio/có | **кё/ckeo/ckø**      | **чё/ceo/cø** |             |
+| **кы/cky** | чы/ci     | **ки/cy**            | чи/ci         | чы/cjhy/ćy  |
 
 
 #### г/g/gh + ж/g/gj(gí)
 
-* г/g — ж/gj/gí — гь/ghj/ghí — жь/gj/gí — г(ъя)/gh(ja) — (force: жь/gjhj/ǵí)
-* га/ga — жа/gia/gá — гя/ghia/ghá — жя/gia/gá — (force: жя/gjhia/ǵá)
-* гу/gu — жу/giu/gú — гю/ghiu/ghú — жю/giu/gú — (force: жю/gjhiu/ǵú)
-* гэ/gae/gæ — жэ/ge — ге/ghe — же/ge — (force: жэ/gjhae/ǵæ)
-* го/go — жо/gio/gó — [гё/gheo/ghø] — [жё/geo/gø]
-* [гы/ghy] — жы/gi — [ги/gy] — жи/gi — (force: жы/gjhy/ǵy)
+| г          | ж         | гь, гъя              | жь            | force       |
+| ---------- | --------- | -------------------- | ------------- | ----------- |
+| г/g        | ж/gj/gí   | гь/ghj/ghí, гъя/ghja | жь/gj/gí      | жь/gjhj/ǵí  |
+| га/ga      | жа/gia/gá | гя/ghia/ghá          | жя/gia/gá     | жя/gjhia/ǵá |
+| гу/gu      | жу/giu/gú | гю/ghiu/ghú          | жю/giu/gú     | жю/gjhiu/ǵú |
+| гэ/gae/gæ  | жэ/ge     | ге/ghe               | же/ge         | жэ/gjhae/ǵæ |
+| го/go      | жо/gio/gó | **гё/gheo/ghø**      | **жё/geo/gø** |             |
+| **гы/ghy** | жы/gi     | **ги/gy**            | жи/gi         | жы/gjhy/ǵy  |
 
 
 #### щ/sc/scj(scí)
 
 Должно работать так же как сч/sc/scj(scí).
 
-* ск/sc — щ/сч/scj/scí — скь/sckj/sckí — щь/счь/scj/scí — ск(ъя)/sck(ja) — (force: шь/счь/scjhj/sćí)
-* ска/sca — ща/сча/scia/scá — скя/sckia/scká — щя/счя/scia/scá — (force: щя/счя/scjhia/sćá)
-* ску/scu — щу/счу/sciu/scú — скю/sckiu/sckú — щю/счю/sciu/scú — (force: щю/счю/scjhiu/sćú)
-* скэ/scae/scæ — щэ/счэ/sce — ске/scke/scke — ще/сче/sce — (force: шэ/счэ/scjhae/sćæ)
-* ско/sco — що/счо/scio/scó — [скё/sckeo/sckø] — [щё/счё/sceo/scø]
-* [скы/scky] — щы/счы/sci — [ски/scy] — щи/счи/sci — (force: щы/счы/scjhy/sćy)
+| ск           | щ/сч            | скь, скъя                 | щь/счь              | force             |
+| ------------ | --------------- | ------------------------- | ------------------- | ----------------- |
+| ск/sc        | щ/сч/scj/scí    | скь/sckj/sckí, скъя/sckja | щь/счь/scj/scí      | шь/счь/scjhj/sćí  |
+| ска/sca      | ща/сча/scia/scá | скя/sckia/scká            | щя/счя/scia/scá     | щя/счя/scjhia/sćá |
+| ску/scu      | щу/счу/sciu/scú | скю/sckiu/sckú            | щю/счю/sciu/scú     | щю/счю/scjhiu/sćú |
+| скэ/scae/scæ | щэ/счэ/sce      | ске/scke/scke             | ще/сче/sce          | шэ/счэ/scjhae/sćæ |
+| ско/sco      | що/счо/scio/scó | **скё/sckeo/sckø**        | **щё/счё/sceo/scø** |                   |
+| **скы/scky** | щы/счы/sci      | **ски/scy**               | щи/счи/sci          | щы/счы/scjhy/sćy  |
 
 
 #### ц/ct/ctj(ctí) + кт/ct/ckt
 
-* кц/cts — ктс/ckts
-* кт/ct — ц/ctj/ctí — кть/cktj/cktí — ць/ctj/ctí — кт(ъя)/ckt(ja) — (force: ць/cthj/cťí)
-* кта/cta — ца/ctia/ctá — ктя/cktia/cktá — ця/ctia/ctá — (force: ця/cthia/cťá)
-* кту/ctu — цу/ctiu/ctú — ктю/cktiu/cktú — цю/ctiu/ctú — (force: цю/cthiu/cťú)
-* ктэ/ctae/scæ — цэ/cte — кте/ckte — це/cte — (force: цэ/cthae/cťæ)
-* кто/cto — цо/ctio/ctó — [ктё/ckteo/cktø] — [цё/cteo/ctø]
-* [кты/ckty] — цы/cti — [кти/cty] — ци/cti — (force: цы/cthy/cťy)
+**кц - cts, ктс - ckts**
+
+| кт           | ц           | кть, ктъя                 | ць, цъя                  | force                       |
+| ------------ | ----------- | ------------------------- | ------------------------ | --------------------------- |
+| кт/ct        | ц/ctj/ctí   | кть/cktj/cktí, ктъя/cktja | ць/ctj/ctí, цья/цъя/ctjá | ць/cthj/cťí, цъя/cthja/cťja |
+| кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá              | ця/cthia/cťá                |
+| кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú              | цю/cthiu/cťú                |
+| ктэ/ctae/scæ | цэ/cte      | кте/ckte                  | це/cte                   | цэ/cthae/cťæ                |
+| кто/cto      | цо/ctio/ctó | **ктё/ckteo/cktø**        | **цё/cteo/ctø**          |                             |
+| **кты/ckty** | цы/cti      | **кти/cty**               | ци/cti                   | цы/cthy/cťy                 |
 
 
 #### х/ch + ш/sh
 
 Используются разные диграфы, чтобы иметь и хе, и ше.
 
-* х/ch — ш/sh — хь/chj/chí — шь/sh — х(ъя)/ch(ja) — ш(ъя)/sh(ja) — (force: шь/shj/shí)
-* ха/cha — ша/sha — хя/chia/chá — шя/sha — (force: шя/shia/shá)
-* ху/chu — шу/shu — хю/chiu/chú — шю/shu — (force: шю/shiu/shú)
-* хэ/chae/chæ — шэ/she — хе/che — ше/she — (force: шэ/shae/shæ)
-* хо/cho — шо/sho — [хё/cheo/chø] — [шё/sheo/shø]
-* хы/chy — шы/shi — [хи/chi] — ши/shi — (force: шы/shy)
+| x           | ш      | хь, хъя              | шь, шъя             | force                         |
+| ----------- | ------ | -------------------- | ------------------- | ----------------------------- |
+| х/ch        | ш/sh   | хь/chj/chí, хъя/chja | шь/sh, шья/шъя/shja | шь/shj/shí, шъя/shqqja/shø̂ja |
+| ха/cha      | ша/sha | хя/chia/chá          | шя/sha              | шя/shia/shá                   |
+| ху/chu      | шу/shu | хю/chiu/chú          | шю/shu              | шю/shiu/shú                   |
+| хэ/chae/chæ | шэ/she | хе/che               | ше/she              | шэ/shae/shæ                   |
+| хо/cho      | шо/sho | **хё/cheo/chø**      | **шё/sheo/shø**     |                               |
+| хы/chy      | шы/shi | хи/chi               | ши/shi              | шы/shy                        |
 
 ----
 
