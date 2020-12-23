@@ -446,7 +446,7 @@ ASCII-латиница-26-для-ввода:
 | ха/cha      | ша/sha | хя/chia/chá          | шя/sha                             | шя/shia/shá |
 | ху/chu      | шу/shu | хю/chiu/chú          | шю/shu                             | шю/shiu/shú |
 | хэ/chae/chæ | шэ/she | хе/che               | ше/she                             | шэ/shae/shæ |
-| хо/cho      | шо/sho | хё/chio/chó          | шё/sho                             |             |
+| хо/cho      | шо/sho | хё/chio/chó          | шё/sho                             | шо/sh?o/sh? |
 | хы/chy      | шы/shi | хи/chi               | ши/shi                             | шы/shy      |
 
 ----
