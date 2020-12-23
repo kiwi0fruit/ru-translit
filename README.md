@@ -343,7 +343,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 |   **н**    | **п**  |   **р**    |  **с**  |   **т**   |
 |     n      |   p    |     r      |    s    |     t     |
 |   **ф**    | **х**  |   **ц**    |  **ч**  |   **ш**   |
-|     f      |   ch   | ct/ctí/cť | c/cí/ć |    sh     |
+|     f      |   ch   | ct/ctí/cť(ç) | c/cí/ć |    sh     |
 |   **щ**    | **ъ**  |   **ь**    | **кс, кц, ктс**  |  **сч**   |
 | sc/scí/sć | None/ø̂ |    í/íø̂    |   cs, cts, ckts    | sc/ŝc |
 
