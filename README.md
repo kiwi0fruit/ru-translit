@@ -524,39 +524,39 @@ ASCII-латиница-26-для-ввода:
 
 ## Пример текста
 
-Píony i vasilícy vsø jescø rastut na poláne vozle derevni Pøny, scitaúscejsá bogatoj.
+Píony i vasilícy vsó jescó rastut na poláne vozle derevni Póny, scitajuscejsá bogatoj.
 
-Pjányj master po proectu sdelal mechanicescyj object s izjanom. Jesli brac ne obnarugitsá, to belyé bolidy bolíshe ne smogut vyigryvatí goncy.
+Pjányj master po proectu sdelal mechanicescyj object s izjanom. Jesli brac ne obnarugitsá, to belyje bolidy bolíshe ne smogut vyigryvatí goncy.
 
-V pjése pro devushcu v zelønom platjícte vse sadilisí na ladjí i plyli po recke. No tut iz lesa vyshel Dgórdgí Macsimus, coní v palíto i rvanych dginsach, cotoryj cíto-to vyiscyval, i pricazal vsem mytísá i gotovití buljón. Znacit snova pjǿm do lysyh acvalangistov.
+V pjése pro devushcu v zelónom platjícte vse sadilisí na ladjí i plyli po recke. No tut iz lesa vyshel Dgórdgí Macsimus, coní v palíto i rvanych dginsach, cotoryj cíto-to vyiscyval, i pricazal vsem mytísá i gotovití buljón. Znacit snova pjóm do lysyh acvalangistov.
 
-Prepodobnyj Bajés podcynul igralínyé costi. Vypalo shestí, znacit jemu pridøtsá mazatí jod na ranu.
+Prepodobnyj Bajés podcynul igralínyje costi. Vypalo shestí, znacit jemu pridótsá mazatí jod na ranu.
 
-Mær nebolíshogo gorodishcy otcryl tablictú ecselá i vozmutilsá ctenoj novogo ecscavatora. Agí eczema snova stala jego bespocoití. Oh ugí eta pocupca vecínogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranoløta. Jesli tac pojdøt i dalíshe, to búdgetu pridøtsá chudo.
+Mær nebolíshógo gorodishcy otcryl tablictú ecselá i vozmutilsá ctenoj novogo ecscavatora. Agí eczema snova stala jego bespocoití. Oh ugí eta pocupca vecínogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranolóta. Jesli tac pojdót i dalíshe, to búdgetu pridótsá chudo.
 
-V etom vide fraza ot A to Ja nacinaét vygládetí sovsem po-drugomu. Sejcás scøtca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshut jeú. jøgí colúcij i pochogí na neǿ.
+V etom vide fraza ot A to Ja nacinajet vygládetí sovsem po-drugomu. Sejcás scótca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshút jeju. jogí colúcij i pochogí na nejo.
 
-Schod mestnych gitelej indijscoj derevni sickchov reshal cíto ge delatí s otchodami companii "Caligula Gaj Julij Ctezarí" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscich nosil chocholoc na golove. On i nashøl vychod iz situactii.
+Schod mestnych gitelej indijscoj derevni sickchov reshál cíto ge delatí s otchodami companii "Caligula Gaj Julij Ctezarí" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscich nosil chocholoc na golove. On i nashól vychod iz situactii.
 
-"Cto s mecóm c nam pridøt, tot ot mecá i..." - ne smog dogovorití starshij mechanic Vasilij.
+"Cto s mecóm c nam pridót, tot ot mecá i..." - ne smog dogovorití starshij mechanic Vasilij.
 
 ----
 
 Lúbimctem Bilíbo byl junyj Frodo Sumnics. Cogda Bilíbo stucnulo devánosto devátí, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitísá v Zasumcy. Tut ugí vse nadegídy Dericulí-Sumnicsov, davno s vogídelenijem posmatrivavshich na usadíbu, ruchnuli oconcátelíno.
 
-Slucáú bylo ugodno, cítoby Bilíbo s Frodo jescø i rodilisí v odin dení, 22 sentábrá.
+Slucáju bylo ugodno, cítoby Bilíbo s Frodo jescó i rodilisí v odin dení, 22 sentábrá.
 
-– Frodo, malícic moj, – scazal cac-to raz Bilíbo, – perebiralsá by ty co mne. Gládish, i dení rogídeniá vmeste otmecáli by.
+– Frodo, malícic moj, – scazal cac-to raz Bilíbo, – perebiralsá by ty co mne. Gládish, i dení rogídenija vmeste otmecáli by.
 
-Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodøgí v bezotvetstvennom vozraste megídu dvadctátjú i tridctátjú tremá, posle cego chobbit naconectí moget scitatí sebá vzroslym.
+Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodógí v bezotvetstvennom vozraste megídu dvadctátjú i tridctátjú tremá, posle cego chobbit naconectí moget scitatí sebá vzroslym.
 
-Proshlo jescø dvenadctátí let. V Zasumcach cagídyj god veselo otmecáli dvojnoj dení rogídeniá, c etomu privycli, no lúbomu bylo jasno, cíto nyneshnej osenjú gotovitsá necíto neobycínoje. Bilíbo ispolnálosí 111 let – vozrast dlá chobbita vesíma pocítennyj, da i cislo lúbopytnoé, nu a Frodo gotovilsá otmetití tridctátitrøchletié – toge znamematelínaja data – sovershennoletié po-chobbitscy.
+Proshlo jescó dvenadctátí let. V Zasumcach cagídyj god veselo otmecáli dvojnoj dení rogídeniá, c etomu privycli, no lúbomu bylo jasno, cíto nyneshnej osenjú gotovitsá necíto neobycínoje. Bilíbo ispolnálosí 111 let – vozrast dlá chobbita vesíma pocítennyj, da i cislo lúbopytnoje, nu a Frodo gotovilsá otmetití tridctátitróchletije – toge znamematelínaja data – sovershennoletije po-chobbitscy.
 
 ----
 
-Imeétsá nescolíco gypotez proischogídeniá sobacy, naiboleé veroátnymi jeǿ predcami scitaútsá volc i necotoryé vidy shacalov.
+Imejetsá nescolíco gypotez proischogídenija sobacy, naiboleje verojatnymi jejo predcami scitajutsá volc i necotoryje vidy shacalov.
 
-V sugídeniách ucønych o predcach domashnej sobacy prisutstvujut dve tocícy zreniá. Odni scitaút, cíto sobacy - polifileticescaja gruppa (proischodáscája ot nescolícyh predcov), drughié pridergivaútsá mneniá, cíto vse sobacy proizoshli ot odnogo predca (monofileticescaja teoriá).
+V sugídenijach ucónych o predcach domashnej sobacy prisutstvujut dve tocícy zrenija. Odni scitajut, cíto sobacy - polifileticescaja gruppa (proischodáscája ot nescolícyh predcov), drughije pridergivajutsá mnenija, cíto vse sobacy proizoshli ot odnogo predca (monofileticescaja teorija).
 
 
 
