@@ -408,7 +408,7 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 | кт/ct        | ц/ctj/ctí   | кть/cktj/cktí, ктъя/cktja | ць/ctj/ctí, цья/цъя/ctjá | ць/cthj/cťí, цъя/cthja/cťja |
 | кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá              | ця/cthia/cťá                |
 | кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú              | цю/cthiu/cťú                |
-| ктэ/ctae/scæ | цэ/cte      | кте/ckte                  | це/cte                   | цэ/cthae/cťæ                |
+| ктэ/ctae/ctæ | цэ/cte      | кте/ckte                  | це/cte                   | цэ/cthae/cťæ                |
 | кто/cto      | цо/ctio/ctó | **ктё/ckteo/cktø**        | **цё/cteo/ctø**          |                             |
 | **кты/ckty** | цы/cti      | **кти/cty**               | ци/cti                   | цы/cthy/cťy                 |
 
