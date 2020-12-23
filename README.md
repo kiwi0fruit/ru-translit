@@ -352,22 +352,26 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 
 Использует подход к й, ь, ъ и гласным как в ПЕРВОЙ версии совлата (дополнительно отличаются: ё от о, и ъ от ь). А вот согласные используются как в латинице Ярослава Тимина с моими модификациями.
 
-кириллица/ascii-латиница-26-для-ввода/финальная-юникод-латиница
-
 (Важной является только финальная юникод-латиница. acsii версия это лишь построение удобного ввода для юникод-латиницы)
 
-ы - y, и - i/y.
+**ы - y, и - i/y.**
 
-к/c/ck + ч/c/cj(cí):
 
-* к/c — ч/cj/cí — кь/ckj/ckí — чь/cj/cí — к(ъя)/ck(ja) — (force: чь/cjhj/ćí)
-* ка/ca — ча/cia/cá — кя/ckia/cká — чя/cia/cá — (force: чя/cjhia/ćá)
-* ку/cu — чу/ciu/cú — кю/ckiu/ckú — чю/ciu/cú — (force: чю/cjhiu/ćú)
-* кэ/cae/cæ — чэ/ce — ке/cke/cke — че/ce — (force: чэ/cjhae/ćæ)
-* ко/co — чо/cio/có — [кё/ckeo/ckø] — [чё/ceo/cø]
-* [кы/cky] — чы/ci — [ки/cy] — чи/ci — (force: чы/cjhy/ćy)
+#### к/c/ck + ч/c/cj(cí)
 
-г/g/gh + ж/g/gj(gí):
+Формат: кириллица/ascii-латиница-26-для-ввода/финальная-юникод-латиница.
+
+| к          | ч         | кь              | чь            | къ           | force       |
+| ---------- | --------- | --------------- | ------------- | ------------ | ----------- |
+| к/c        | ч/cj/cí   | кь/ckj/ckí      | чь/cj/cí      | к(ъя)/ck(ja) | чь/cjhj/ćí  |
+| ка/ca      | ча/cia/cá | кя/ckia/cká     | чя/cia/cá     |              | чя/cjhia/ćá |
+| ку/cu      | чу/ciu/cú | кю/ckiu/ckú     | чю/ciu/cú     |              | чю/cjhiu/ćú |
+| кэ/cae/cæ  | чэ/ce     | ке/cke/cke      | че/ce         |              | чэ/cjhae/ćæ |
+| ко/co      | чо/cio/có | **кё/ckeo/ckø** | **чё/ceo/cø** |              |             |
+| **кы/cky** | чы/ci     | **ки/cy**       | чи/ci         |              | чы/cjhy/ćy  |
+
+
+#### г/g/gh + ж/g/gj(gí)
 
 * г/g — ж/gj/gí — гь/ghj/ghí — жь/gj/gí — г(ъя)/gh(ja) — (force: жь/gjhj/ǵí)
 * га/ga — жа/gia/gá — гя/ghia/ghá — жя/gia/gá — (force: жя/gjhia/ǵá)
@@ -376,7 +380,10 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 * го/go — жо/gio/gó — [гё/gheo/ghø] — [жё/geo/gø]
 * [гы/ghy] — жы/gi — [ги/gy] — жи/gi — (force: жы/gjhy/ǵy)
 
-щ/sc/scj(scí) должно работать так же как сч/sc/scj(scí):
+
+#### щ/sc/scj(scí)
+
+Должно работать так же как сч/sc/scj(scí).
 
 * ск/sc — щ/сч/scj/scí — скь/sckj/sckí — щь/счь/scj/scí — ск(ъя)/sck(ja) — (force: шь/счь/scjhj/sćí)
 * ска/sca — ща/сча/scia/scá — скя/sckia/scká — щя/счя/scia/scá — (force: щя/счя/scjhia/sćá)
@@ -385,7 +392,8 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 * ско/sco — що/счо/scio/scó — [скё/sckeo/sckø] — [щё/счё/sceo/scø]
 * [скы/scky] — щы/счы/sci — [ски/scy] — щи/счи/sci — (force: щы/счы/scjhy/sćy)
 
-ц/ct/ctj(ctí) + кт/ct/ckt:
+
+#### ц/ct/ctj(ctí) + кт/ct/ckt
 
 * кц/cts — ктс/ckts
 * кт/ct — ц/ctj/ctí — кть/cktj/cktí — ць/ctj/ctí — кт(ъя)/ckt(ja) — (force: ць/cthj/cťí)
@@ -395,7 +403,10 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 * кто/cto — цо/ctio/ctó — [ктё/ckteo/cktø] — [цё/cteo/ctø]
 * [кты/ckty] — цы/cti — [кти/cty] — ци/cti — (force: цы/cthy/cťy)
 
-х/ch + ш/sh (используются разные диграфы, чтобы иметь и хе, и ше):
+
+#### х/ch + ш/sh
+
+Используются разные диграфы, чтобы иметь и хе, и ше.
 
 * х/ch — ш/sh — хь/chj/chí — шь/sh — х(ъя)/ch(ja) — ш(ъя)/sh(ja) — (force: шь/shj/shí)
 * ха/cha — ша/sha — хя/chia/chá — шя/sha — (force: шя/shia/shá)
@@ -403,6 +414,8 @@ V suzhdenijah ucònyh o predkah domashnej sobaki prisutstvujut dve tocki zrenija
 * хэ/chae/chæ — шэ/she — хе/che — ше/she — (force: шэ/shae/shæ)
 * хо/cho — шо/sho — [хё/cheo/chø] — [шё/sheo/shø]
 * хы/chy — шы/shi — [хи/chi] — ши/shi — (force: шы/shy)
+
+----
 
 Спаривание к + ч позволило использовать c/ck + c/cj(cí) (вместо k + ch). А заодно и получить диграф для щ/сч/sc (а не триграф sch).
 
