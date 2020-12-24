@@ -422,13 +422,13 @@ ASCII-латиница-26-для-ввода:
 | **скы/scky** | щы/счы/sci      | **ски/scy**               | щи/счи/sci          | щы/счы/scjhy/sćy  |
 
 
-### ц/ct/ctj(ctí) + кт/ct/ckt
+### ц/ct/cts + кт/ct/ckt
 
-**кц - cts, ктс - ckts**
+**кц[иыеэаяоёую] - cts[iieeááóóúú], ктс - ckts, кц[\\w] - ckcts[\\w]**
 
 | кт           | ц           | кть, ктъя                 | ць, цъя                                         | не дефолтный прообраз        |
 | ------------ | ----------- | ------------------------- | ----------------------------------------------- | ------------- |
-| кт/ct        | ц/ctj/ctí   | кть/cktj/cktí, ктъя/cktja | ць/ctj/ctí, цья/ctjja/ctjá, цъя/ctjqqja/ctíøja  | ць/ctjhj/сťí  |
+| кт/ct        | ц/cts       | кть/cktj/cktí, ктъя/cktja | ць/cts, цья/ctjja/ctjá, цъя/ctjqqja/ctíøja      | ць/ctsj/сtsí  |
 | кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá                                     | ця/ctjhia/сťá |
 | кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú                                     | цю/ctjhiu/сťú |
 | кто/cto      | цо/ctio/ctó | ктё/cktio/cktó            | цё/ctio/ctó                                     | цё/ctjhio/сťó |
