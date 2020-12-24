@@ -477,26 +477,26 @@ ASCII-латиница-26-для-ввода:
 щавель/sciavelj/scávelí  
 гео/gheo  
 Гёте/Ghiote/Ghóte  
-пьеса/pjjesa/pjésa  
+пьеса/pjiesa/pjésa  
 мэр/maer/mær  
 подъезд/podjezd  
-...(подйыэзд/podjyezd  
-....подйиэзд/podjiezd  
+...(подйыэзд/podwjyezd/podĵyezd  
+....подйиэзд/podjyezd  
 ....подйэзд/podwjezd/podĵezd  
-....подйезд/podwjjezd/podĵézd  
+....подйезд/podwjiezd/podĵézd  
 ....подъэзд/podqqezd/podøezd  
 ....подьэзд/podjqqezd/podíøezd  
 ....грабьармия/grabiarmija/grabármija - словарное исключение)  
-пьём/pjjom/pjóm  
-...(пьеом/pjjeom/pjéom)  
+пьём/pjiom/pjóm  
+...(пьеом/pjieom/pjéom)  
 пион/piyon/píon  
 пианино/piyanino/píanino  
-платьице/platjjicte/platjícte  
-...(платйице/platjicte  
-....йипи/jipi  
-....йыпи/jypi  
-....платйыце/platjycte)  
-бульон/buljjon/buljón  
+платьице/platjiycte/platjícte  
+...(платйице/platjycte  
+....йипи/jypi  
+....йыпи/wjypi/ĵypi  
+....платйыце/platwjycte/platĵycte)  
+бульон/buljion/buljón  
 объём/objom  
 ёмкость/jomcostj/jomcostí  
 йогурт/jogurt  
@@ -506,23 +506,23 @@ ASCII-латиница-26-для-ввода:
 яма/jama  
 Аеонтина/Ajeontina  
 ...(Аёнтина/Ajontina  
-....Айеонтина/Ajjeontina/Ajéontina)  
+....Айеонтина/Ajieontina/Ajéontina)  
 обжёг/obgiog/obgóg  
 покъезд/pockjezd  
-кьем/ckjjem/ckjém  
-чьем/cjjem/cjém  
-нанчьян/nancjjan/nancján  
+кьем/ckjiem/ckjém  
+чьем/cjiem/cjém  
+нанчьян/nancjian/nancján  
 ...(нанчъян/nancjhqqjan/nanćøjan  
 ....нанчъан/nancjhqqan/nanćøan  
 ....нанчьан/nancjhjqqan/nanćíøan)  
 Йемен/Jemen (пофиксен как словарное исключение)  
-Йеме/Jjeme/Jéme (не пофиксен)  
-Байес/Bajjes/Bajés  
+Йеме/Jieme/Jéme (не пофиксен)  
+Байес/Bajies/Bajés  
 ...(Баиес/Baijes)  
-Аллилуйя/Allilujja/Allilujá  
-айё/ajjo/ajó  
+Аллилуйя/Allilujia/Allilujá  
+айё/ajio/ajó  
 аьк/aqjc/aqíc  
-ладьеобразные/ladjjeobraznyje/ladjéobraznyje  
+ладьеобразные/ladjieobraznyje/ladjéobraznyje  
 царь/ctiarj/ctárí  
 Цезарь/Ctezarj/Ctezarí  
 нэцкэ/naectscae/næctscæ  
@@ -573,11 +573,11 @@ V sugídenijach ucónych o predcach domashnej sobacy prisutstvujut dve tocícy z
 
 Piyony i vasiljcy vsio jescio rastut na poliane vozle derevni Piony, scitajuscejsia bogatoj.
 
-Pjjanyj master po proectu sdelal mechanicescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
+Pjianyj master po proectu sdelal mechanicescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjjese pro devushcu v zelionom platjjicte vse sadilisj na ladjji i plyli po recke. No tut iz lesa vyshel Dgiordgj Macsimus, conj v paljto i rvanych dginsach, cotoryj cjto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljjon. Znacit snova pjjom do lysyh acvalangistov.
+V pjiese pro devushcu v zelionom platjiycte vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgiordgj Macsimus, conj v paljto i rvanych dginsach, cotoryj cjto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znacit snova pjiom do lysyh acvalangistov.
 
-Prepodobnyj Bajjes podcynul igraljnyje costi. Vypalo shestj, znacit jemu pridiotsia mazatj jod na ranu.
+Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu pridiotsia mazatj jod na ranu.
 
 Maer neboljshogo gorodishcy otcryl tablictiu ecselia i vozmutilsia ctenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vecjnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia chudo.
 
@@ -595,9 +595,9 @@ Sluciaju bylo ugodno, cjtoby Biljbo s Frodo jescio i rodilisj v odin denj, 22 se
 
 – Frodo, maljcic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmeciali by.
 
-Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodiogj v bezotvetstvennom vozraste megjdu dvadctiatjju i tridctiatjju tremia, posle cego chobbit naconects moget scitatj sebia vzroslym.
+Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodiogj v bezotvetstvennom vozraste megjdu dvadctiatjiu i tridctiatjiu tremia, posle cego chobbit naconects moget scitatj sebia vzroslym.
 
-Proshlo jescio dvenadctiatj let. V Zasumcach cagjdyj god veselo otmeciali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, cjto nyneshnej osenjju gotovitsia necjto neobycjnoje. Biljbo ispolnialosj 111 let – vozrast dlia chobbita vesjma pocjtennyj, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridctiatitriochletije – toge znamemateljnaja data – sovershennoletije po-chobbitscy.
+Proshlo jescio dvenadctiatj let. V Zasumcach cagjdyj god veselo otmeciali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, cjto nyneshnej osenjiu gotovitsia necjto neobycjnoje. Biljbo ispolnialosj 111 let – vozrast dlia chobbita vesjma pocjtennyj, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridctiatitriochletije – toge znamemateljnaja data – sovershennoletije po-chobbitscy.
 
 ----
 
