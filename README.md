@@ -579,11 +579,11 @@ V pjjese pro devushcu v zelionom platjjicte vse sadilisj na ladjji i plyli po re
 
 Prepodobnyj Bajjes podcynul igraljnyje costi. Vypalo shestj, znacit jemu pridiotsia mazatj jod na ranu.
 
-Maer neboljshiogo gorodishcy otcryl tablictiu ecselia i vozmutilsia ctenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vecjnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia chudo.
+Maer neboljshogo gorodishcy otcryl tablictiu ecselia i vozmutilsia ctenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vecjnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia chudo.
 
-V etom vide fraza ot A to Ja nacinajet vygliadetj sovsem po-drugomu. Sejcias sciotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshiut jeju. jogj coliucij i pochogj na nejo.
+V etom vide fraza ot A to Ja nacinajet vygliadetj sovsem po-drugomu. Sejcias sciotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. jogj coliucij i pochogj na nejo.
 
-Schod mestnych gitelej indijscoj derevni sickchov reshial cjto ge delatj s otchodami companii "Caligula Gaj Julij Ctezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscich nosil chocholoc na golove. On i nashiol vychod iz situactii.
+Schod mestnych gitelej indijscoj derevni sickchov reshal cjto ge delatj s otchodami companii "Caligula Gaj Julij Ctezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscich nosil chocholoc na golove. On i nashol vychod iz situactii.
 
 "Cto s meciom c nam pridiot, tot ot mecia i..." - ne smog dogovoritj starshij mechanic Vasilij.
 
