@@ -556,7 +556,7 @@ Slucáju bylo ugodno, cítoby Bilíbo s Frodo jescó i rodilisí v odin dení, 2
 
 – Frodo, malícic moj, – scazal cac-to raz Bilíbo, – perebiralsá by ty co mne. Gládish, i dení rogídenija vmeste otmecáli by.
 
-Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodógí v bezotvetstvennom vozraste megídu dvadctátjú i tridctátjú tremá, posle cego chobbit naconectí moget scitatí sebá vzroslym.
+Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodógí v bezotvetstvennom vozraste megídu dvadctátjú i tridctátjú tremá, posle cego chobbit naconects moget scitatí sebá vzroslym.
 
 Proshlo jescó dvenadctátí let. V Zasumcach cagídyj god veselo otmecáli dvojnoj dení rogídenija, c etomu privycli, no lúbomu bylo jasno, cíto nyneshnej osenjú gotovitsá necíto neobycínoje. Bilíbo ispolnálosí 111 let – vozrast dlá chobbita vesíma pocítennyj, da i cislo lúbopytnoje, nu a Frodo gotovilsá otmetití tridctátitróchletije – toge znamematelínaja data – sovershennoletije po-chobbitscy.
 
