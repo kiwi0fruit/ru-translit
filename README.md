@@ -579,7 +579,7 @@ V pjjese pro devushcu v zelionom platjjicte vse sadilisj na ladjji i plyli po re
 
 Prepodobnyj Bajjes podcynul igraljnyje costi. Vypalo shestj, znacit jemu pridiotsia mazatj jod na ranu.
 
-Mær neboljshiogo gorodishcy otcryl tablictiu ecselia i vozmutilsia ctenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vecjnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia chudo.
+Maer neboljshiogo gorodishcy otcryl tablictiu ecselia i vozmutilsia ctenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vecjnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia chudo.
 
 V etom vide fraza ot A to Ja nacinajet vygliadetj sovsem po-drugomu. Sejcias sciotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshiut jeju. jogj coliucij i pochogj na nejo.
 
