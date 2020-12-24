@@ -530,7 +530,7 @@ ASCII-латиница-26-для-ввода:
 эксперт/expert
 
 
-## Пример текста
+## Пример текста латиницы с диакритикой
 
 Píony i vasilícy vsó jescó rastut na poláne vozle derevni Póny, scitajuscejsá bogatoj.
 
@@ -566,6 +566,42 @@ Imejetsá nescolíco gypotez proischogídenija sobacy, naiboleje verojatnymi jej
 
 V sugídenijach ucónych o predcach domashnej sobacy prisutstvujut dve tocícy zrenija. Odni scitajut, cíto sobacy - polifileticescaja gruppa (proischodáscája ot nescolícyh predcov), drughije pridergivajutsá mnenija, cíto vse sobacy proizoshli ot odnogo predca (monofileticescaja teorija).
 
+
+## Пример текста в базовой латинице-26
+
+Piyony i vasiljcy vsio jescio rastut na poliane vozle derevni Piony, scitajuscejsia bogatoj.
+
+Pjjanyj master po proectu sdelal mechanicescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
+
+V pjjese pro devushcu v zelionom platjjicte vse sadilisj na ladjji i plyli po recke. No tut iz lesa vyshel Dgiordgj Macsimus, conj v paljto i rvanych dginsach, cotoryj cjto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljjon. Znacit snova pjjom do lysyh acvalangistov.
+
+Prepodobnyj Bajjes podcynul igraljnyje costi. Vypalo shestj, znacit jemu pridiotsia mazatj jod na ranu.
+
+Mær neboljshiogo gorodishcy otcryl tablictiu ecselia i vozmutilsia ctenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vecjnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia chudo.
+
+V etom vide fraza ot A to Ja nacinajet vygliadetj sovsem po-drugomu. Sejcias sciotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshiut jeju. jogj coliucij i pochogj na nejo.
+
+Schod mestnych gitelej indijscoj derevni sickchov reshial cjto ge delatj s otchodami companii "Caligula Gaj Julij Ctezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuscich nosil chocholoc na golove. On i nashiol vychod iz situactii.
+
+"Cto s meciom c nam pridiot, tot ot mecia i..." - ne smog dogovoritj starshij mechanic Vasilij.
+
+----
+
+Liubimctem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshich na usadjbu, ruchnuli oconciateljno.
+
+Sluciaju bylo ugodno, cjtoby Biljbo s Frodo jescio i rodilisj v odin denj, 22 sentiabria.
+
+– Frodo, maljcic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmeciali by.
+
+Frodo v tu poru chodil v dorostcach. Tac chobbity zovut molodiogj v bezotvetstvennom vozraste megjdu dvadctiatjju i tridctiatjju tremia, posle cego chobbit naconects moget scitatj sebia vzroslym.
+
+Proshlo jescio dvenadctiatj let. V Zasumcach cagjdyj god veselo otmeciali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, cjto nyneshnej osenjju gotovitsia necjto neobycjnoje. Biljbo ispolnialosj 111 let – vozrast dlia chobbita vesjma pocjtennyj, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridctiatitriochletije – toge znamemateljnaja data – sovershennoletije po-chobbitscy.
+
+----
+
+Imejetsia nescoljco gypotez proischogjdenija sobacy, naiboleje verojatnymi jejo predcami scitajutsia volc i necotoryje vidy shacalov.
+
+V sugjdenijach ucionych o predcach domashnej sobacy prisutstvujut dve tocjcy zrenija. Odni scitajut, cjto sobacy - polifileticescaja gruppa (proischodiasciaja ot nescoljcyh predcov), drughije pridergivajutsia mnenija, cjto vse sobacy proizoshli ot odnogo predca (monofileticescaja teorija).
 
 
 ## TO DO
