@@ -428,12 +428,14 @@ ASCII-латиница-26-для-ввода:
 
 | кт           | ц           | кть, ктъя                 | ць, цъя                                         | не дефолтный прообраз        |
 | ------------ | ----------- | ------------------------- | ----------------------------------------------- | ------------- |
-| кт/ct        | ц/ctj/ctí   | кть/cktj/cktí, ктъя/cktja | ць/ctj/ctí, цья/ctjja/ctjá, цъя/ctjqqja/ctíøja  | ць/ctjhj/ćtí  |
-| кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá                                     | ця/ctjhia/ćtá |
-| кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú                                     | цю/ctjhiu/ćtú |
-| кто/cto      | цо/ctio/ctó | ктё/cktio/cktó            | цё/ctio/ctó                                     | цё/ctjhio/ćtó |
-| ктэ/ctae/ctæ | цэ/cte      | кте/ckte                  | це/cte                                          | цэ/ctjhae/ćtæ |
-| **кты/ckty** | цы/cti      | **кти/cty**               | ци/cti                                          | цы/ctjhy/ćty  |
+| кт/ct        | ц/ctj/ctí   | кть/cktj/cktí, ктъя/cktja | ць/ctj/ctí, цья/ctjja/ctjá, цъя/ctjqqja/ctíøja  | ць/ctjhj/çtí  |
+| кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá                                     | ця/ctjhia/çtá |
+| кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú                                     | цю/ctjhiu/çtú |
+| кто/cto      | цо/ctio/ctó | ктё/cktio/cktó            | цё/ctio/ctó                                     | цё/ctjhio/çtó |
+| ктэ/ctae/ctæ | цэ/cte      | кте/ckte                  | це/cte                                          | цэ/ctjhae/çtæ |
+| **кты/ckty** | цы/cti      | **кти/cty**               | ци/cti                                          | цы/ctjhy/çty  |
+
+Правила написания отличаются для аббревиатур и обычного текста. Если в аббревиатурах Ç это Ц, то в обычном тексте Ц для не дефолтного прообраза уже çt.
 
 
 ### х/ch + ш/sh
