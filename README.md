@@ -512,24 +512,24 @@ ASCII-латиница-26-для-ввода:
 кьем/ckjjem/ckjém  
 чьем/cjjem/cjém  
 нанчьян/nancjjan/nancján  
-...(нанчъян/nancjhqqjan/nancíøjan  
-....нанчъан/nancjqqan/nancíøan  
+...(нанчъян/nancjhqqjan/nanćøjan  
+....нанчъан/nancjhqqan/nanćøan  
 ....нанчьан/nancjhjqqan/nanćíøan)  
 Йемен/Jemen (пофиксен как словарное исключение)  
-Йеме/Jjeme (не пофиксен)  
-Байес/Bajjes/Baíjes (только после гласных)  
+Йеме/Jjeme/Jéme (не пофиксен)  
+Байес/Bajjes/Bajés  
 ...(Баиес/Baijes)  
-Аллилуйя/Allilujja/Alliluíja  
-айё/ajjeo/aíjø  
+Аллилуйя/Allilujja/Allilujá  
+айё/ajjo/ajó  
 аьк/aqjc/aqíc  
-ладьеобразные/ladjewobraznyje/ladjeóbraznyje  
-царь/csarj/csarí  
-Цезарь/Csezarj/Csezarí  
-нэцкэ/nyecsckye/næcsckæ  
-Ксения/Cksenija  
+ладьеобразные/ladjjeobraznyje/ladjéobraznyje  
+царь/ctiarj/ctárí  
+Цезарь/Ctezarj/Ctezarí  
+нэцкэ/naectscae/næctscæ  
+Ксения/Csenija  
 Кения/Ckenija  
-вовлёкся/vovleoksia/vovlǿksá  
-эксперт/expert
+вовлёкся/vovlioksia/vovlóksá  
+эксперт/ecspert
 
 
 ## Пример текста латиницы с диакритикой
