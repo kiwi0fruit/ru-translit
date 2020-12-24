@@ -475,44 +475,46 @@ ASCII-латиница-26-для-ввода:
 
 скалка/scalca  
 щавель/sciavelj/scávelí  
-гео/ghieo/gheó  
-Гёте/Gheote/Ghǿte  
-пьеса/pjesa  
-мэр/myer/mær  
-подъезд/podqqjezd/podjæzd  
-...(подйыэзд/podwjyezd/podĵyezd  
-....подйиэзд/podjyezd  
+гео/gheo  
+Гёте/Ghiote/Ghóte  
+пьеса/pjjesa/pjésa  
+мэр/maer/mær  
+подъезд/podjezd  
+...(подйыэзд/podjyezd  
+....подйиэзд/podjiezd  
 ....подйэзд/podwjezd/podĵezd  
-....подйезд/podwjjezd/podĵjezd  
+....подйезд/podwjjezd/podĵézd  
 ....подъэзд/podqqezd/podøezd  
-....подьэзд/podjqqezd/podíezd  
+....подьэзд/podjqqezd/podíøezd  
 ....грабьармия/grabiarmija/grabármija - словарное исключение)  
-пьём/pjeom/pjøm  
-...(пьеом/pjewom/pjeóm - eó и ewo значат одно и тоже)  
-пион/piyon/pión  
-пианино/piyanino/piánino  
-платьице/platjicse  
-...(платйице/platjycse  
+пьём/pjjom/pjóm  
+...(пьеом/pjjeom/pjéom)  
+пион/piyon/píon  
+пианино/piyanino/píanino  
+платьице/platjjicte/platjícte  
+...(платйице/platjicte  
 ....йипи/jipi  
 ....йыпи/jypi  
-....платйыце/platwjycse/platĵycse)  
+....платйыце/platjycte)  
 бульон/buljjon/buljón  
 объём/objom  
-ёмкость/jeomcostj/jømcostí  
+ёмкость/jomcostj/jomcostí  
 йогурт/jogurt  
-чёрный/ceornyj/cǿrnyj  
-неон/nieon/neón  
-мёд/meod/mǿd  
+чёрный/ciornyj/córnyj  
+неон/neon  
+мёд/miod/mód  
 яма/jama  
-Аеонтина/Ajewontina/Ajeóntina  
-Аёнтина/Ajeontina/Ajøntina  
-Айеонтина/Ajjewontina/Aíjeóntina  
-обжёг/obgeog/obgǿg  
-покъезд/pokqqjezd/pokjæzd  
-кьем/ckjem  
-чьем/cjem  
-нанчъян/nancjqqjan/nancíøjan  
-нанчьан/nancjhjqqan/nančían  
+Аеонтина/Ajeontina  
+...(Аёнтина/Ajontina  
+....Айеонтина/Ajjeontina/Ajéontina)  
+обжёг/obgiog/obgóg  
+покъезд/pockjezd  
+кьем/ckjjem/ckjém  
+чьем/cjjem/cjém  
+нанчьян/nancjjan/nancján  
+...(нанчъян/nancjhqqjan/nancíøjan  
+....нанчъан/nancjqqan/nancíøan  
+....нанчьан/nancjhjqqan/nanćíøan)  
 Йемен/Jemen (пофиксен как словарное исключение)  
 Йеме/Jjeme (не пофиксен)  
 Байес/Bajjes/Baíjes (только после гласных)  
