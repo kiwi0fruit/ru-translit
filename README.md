@@ -444,10 +444,10 @@ ASCII-латиница-26-для-ввода:
 
 | кт           | ц           | кть, ктъя                 | ць, цъя                                         | не дефолтный прообраз        |
 | ------------ | ----------- | ------------------------- | ----------------------------------------------- | ------------- |
-| кт/ct        | ц/cts       | кть/cktj/cktí, ктъя/cktja | ць/cts, цья/ctsja, цъя/ctsqqja/ctsøja      | ць/ctsj/сtsí  |
-| кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá                                     | ця/ctjhia/сťá |
-| кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú                                     | цю/ctjhiu/сťú |
-| кто/cto      | цо/ctio/ctó | ктё/cktio/cktó            | цё/ctio/ctó                                     | цё/ctjhio/сťó |
+| кт/ct        | ц/cts       | кть/cktj/cktí, ктъя/cktja | ць/cts, цья/ctsja, цъя/ctsqqja/ctsøja      | ць/ctsj/ctsí  |
+| кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá                                     | ця/ctjhia/cťá |
+| кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú                                     | цю/ctjhiu/cťú |
+| кто/cto      | цо/ctio/ctó | ктё/cktio/cktó            | цё/ctio/ctó                                     | цё/ctjhio/cťó |
 | ктэ/ctae/ctæ | цэ/cte      | кте/ckte                  | це/cte                                          | цэ/ctjhae/сťæ |
 | **кты/ckty** | цы/cti      | **кти/cty**               | ци/cti                                          | цы/ctjhy/сťy  |
 
@@ -547,7 +547,7 @@ ASCII-латиница-26-для-ввода:
 
 ГЭС/GES, АЭС/AES, ЖКХ/GjCCh, ЧХ/CjCh, ЖЭК/GjEC, ЕС/IES, США/SShA, МЧС/MCjS, ЮАР/IUAR, ЭЭГ/EEG, ЕГЭ/IEGE, микрорайон Щ/microrajon Sc, СЧК/SCjC, ЩК/ScC, ЛЁН/LION, ЛИОН/LIYON.
 
-ИОН/IYON, ЛИЁН/LIYION, ЙОД/JOD, йод/jod, ЙЁД/JIOD, ЁД/IOD, ёд/jodw/jod', НЫЭ/NYE, НЫЕ/NYIE, НЙ/NJ, ЧЗ/CiZ, ЦЗ/CtZ, ЦРУ/CtRU.
+ИОН/IYON, ЛИЁН/LIYION, ЙОД/JOD, йод/jod, ЙЁД/JIOD, ЁД/IOD, ёд/jodw/jod', НЫЭ/NYE, НЫЕ/NYIE, НЙ/NJ, ЧЗ/CjZ, ЦЗ/CtZ, ЦРУ/CtRU.
 
 
 ## Пример текста латиницы с диакритикой
