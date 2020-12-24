@@ -424,16 +424,24 @@ ASCII-латиница-26-для-ввода:
 
 ### ц/ct/cts + кт/ct/ckt
 
-**кц[иыеэаяоёую] - cts[iieeááóóúú], ктс - ckts, кц[\\w] - ckcts[\\w]**
+* кц[иыеэаяоёую] - cts[iieeááóóúú],
+* правила для Ц перед гласными смотрите ниже,
+* в остальных случаях Ц - это cts,
+* ктс - ckts,
+* кц не перед гласными - ckcts.
+
+заяц - zajacts, акция - actsija.
 
 | кт           | ц           | кть, ктъя                 | ць, цъя                                         | не дефолтный прообраз        |
 | ------------ | ----------- | ------------------------- | ----------------------------------------------- | ------------- |
-| кт/ct        | ц/cts       | кть/cktj/cktí, ктъя/cktja | ць/cts, цья/ctjja/ctjá, цъя/ctjqqja/ctíøja      | ць/ctsj/сtsí  |
+| кт/ct        | ц/cts       | кть/cktj/cktí, ктъя/cktja | ць/cts, цья/ctsja, цъя/ctsqqja/ctsøja      | ць/ctsj/сtsí  |
 | кта/cta      | ца/ctia/ctá | ктя/cktia/cktá            | ця/ctia/ctá                                     | ця/ctjhia/сťá |
 | кту/ctu      | цу/ctiu/ctú | ктю/cktiu/cktú            | цю/ctiu/ctú                                     | цю/ctjhiu/сťú |
 | кто/cto      | цо/ctio/ctó | ктё/cktio/cktó            | цё/ctio/ctó                                     | цё/ctjhio/сťó |
 | ктэ/ctae/ctæ | цэ/cte      | кте/ckte                  | це/cte                                          | цэ/ctjhae/сťæ |
 | **кты/ckty** | цы/cti      | **кти/cty**               | ци/cti                                          | цы/ctjhy/сťy  |
+
+Не дефолтные прообразы для кц[иыеэаяоёую] тоже можно задать: кцы - ctsy, кцэ - ctsae/ctsæ, кцё - ctjhsio/cťsó, кцю - ctjhsiu/cťsú, кця - ctjhsia/cťsá.
 
 
 ### х/ch + ш/sh
