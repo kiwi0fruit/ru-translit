@@ -375,7 +375,7 @@ ASCII-латиница-26-для-ввода:
 кт/ckt, Кт/Ckt, **КТ/CT**,  
 щ/sc, Щ/Sc,  
 ск/sck, Ск/Sck, **СК/SC**,  
-сч/scj/scí,   
+сч/scj/scí, Сч/Scj/Scí, **СЧ/SCi**,  
 ж/gi, Ж/Gi,  
 жи/giy, Жи/Giy, **ЖИ/GiIY**,  
 ч/ci, Ч/Ci,  
