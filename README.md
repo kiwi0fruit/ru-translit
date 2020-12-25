@@ -544,7 +544,7 @@ ASCII-латиница-26-для-ввода:
 нэцкэ/naectscae/næctscæ  
 Ксения/Csenija  
 Кения/Ckenija  
-вовлёкся/vovliocksia/vovlócksá  
+вовлёкся/vovliocsia/vovlócsá  
 эксперт/ecspert
 
 ГЭС/GES, АЭС/AES, ЖКХ/GjCCh/G'CCh, ЧХ/CjCh/C'Ch, ЖЭК/GjEC/G'EC, ЕС/IES, США/SShA, МЧС/MCjS/MC'S, ЮАР/IUAR, ЭЭГ/EEG, ЕГЭ/IEGE, микрорайон Щ/microrajon Sc, СЧК/SCjC/SC'C, ЩК/ScC, ЛЁН/LION, ЛИОН/LIYON.
