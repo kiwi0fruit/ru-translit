@@ -549,9 +549,9 @@ ASCII-латиница-26-для-ввода:
 вовлёкся/vovliocsia/vovlócsá  
 эксперт/ecspert
 
-ГЭС/GES, АЭС/AES, ЖКХ/GjCCh/G'CCh, ЧХ/CjCh/C'Ch, ЖЭК/GjEC/G'EC, ЕС/IES, США/SShA, МЧС/MCjS/MC'S, ЮАР/IUAR, ЭЭГ/EEG, ЕГЭ/IEGE, микрорайон Щ/microrajon Sc, СЧК/SCjC/SC'C, ЩК/ScC, ЛЁН/LION, ЛИОН/LIYON.
+ГЭС/GES, АЭС/AES, ЖКХ/GiCCh/G'CCh, ЧХ/CiCh/C'Ch, ЖЭК/GiEC/G'EC, ЕС/IES, США/SShA, МЧС/MCiS/MC'S, ЮАР/IUAR, ЭЭГ/EEG, ЕГЭ/IEGE, микрорайон Щ/microrajon Sc, СЧК/SCiC/SC'C, ЩК/ScC, ЛЁН/LION, ЛИОН/LIYON.
 
-ИОН/IYON, ЛИЁН/LIYION, ЙОД/JOD, йод/jod, ЙЁД/JIOD, ЁД/IOD, ёд/jodw/jod', НЫЭ/NYE, НЫЕ/NYIE, НЙ/NJ, ЧЗ/CjZ/C'Z, ЦЗ/CtZ, ЦРУ/CtRU.
+ИОН/IYON, ЛИЁН/LIYION, ЙОД/JOD, ЙЁД/JIOD, ЁД/IOD, НЫЭ/NYE, НЫЕ/NYIE, НЙ/NJ, ЧЗ/CiZ/C'Z, ЦЗ/CtZ, ЦРУ/CtRU.
 
 
 ## Пример текста латиницы с диакритикой
