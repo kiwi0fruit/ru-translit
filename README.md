@@ -588,6 +588,8 @@ ASCII-латиница-26-для-ввода:
 женщина/genscina  
 Джексон/Dgecson  
 Германия/Ghermanija  
+хоккей/chocckej
+пицца/picctia/picctá
 
 ГЭС/GES, АЭС/AES, ЖКХ/GjCCh(G'CCh)/GíCCh, ЧХ/CjCh(C'Ch)/CíCh, ЖЭК/GjEC(G'EC)/GíEC, ЕС/IES, США/SShA, МЧС/MCjS(MC'S)/MCíS, ЮАР/IUAR, ЭЭГ/EEG, ЕГЭ/IEGE, микрорайон Щ/microrajon Sc, СЧК/SCjC(SC'C)/SCíC, ЩК/ScC, ЛЁН/LION, ЛИОН/LIYON.
 
