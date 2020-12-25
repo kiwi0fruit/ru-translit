@@ -548,6 +548,7 @@ ASCII-латиница-26-для-ввода:
 Кения/Ckenija  
 вовлёкся/vovliocsia/vovlócsá  
 эксперт/ecspert
+Ж.Депардье/Gj.Depardjie
 
 ГЭС/GES, АЭС/AES, ЖКХ/GjCCh/G'CCh, ЧХ/CjCh/C'Ch, ЖЭК/GjEC/G'EC, ЕС/IES, США/SShA, МЧС/MCjS/MC'S, ЮАР/IUAR, ЭЭГ/EEG, ЕГЭ/IEGE, микрорайон Щ/microrajon Sc, СЧК/SCjC/SC'C, ЩК/ScC, ЛЁН/LION, ЛИОН/LIYON.
 
