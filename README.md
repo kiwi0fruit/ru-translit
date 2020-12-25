@@ -578,8 +578,13 @@ ASCII-латиница-26-для-ввода:
 греческий/grecescyj  
 чизкейк/cizckejc  
 ноктюрн/nocktiurn/nocktúrn  
-актёр/acktior/acktór
-октябрь/ocktiabrj/ocktábrí
+актёр/acktior/acktór  
+октябрь/ocktiabrj/ocktábrí  
+генетика/ghenetica  
+герой/gheroj  
+гиря/gyria/gyrá  
+гироскоп/gyroscop  
+гимназия/gymnazija  
 
 ГЭС/GES, АЭС/AES, ЖКХ/GjCCh(G'CCh)/GíCCh, ЧХ/CjCh(C'Ch)/CíCh, ЖЭК/GjEC(G'EC)/GíEC, ЕС/IES, США/SShA, МЧС/MCjS(MC'S)/MCíS, ЮАР/IUAR, ЭЭГ/EEG, ЕГЭ/IEGE, микрорайон Щ/microrajon Sc, СЧК/SCjC(SC'C)/SCíC, ЩК/ScC, ЛЁН/LION, ЛИОН/LIYON.
 
