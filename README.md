@@ -552,7 +552,7 @@ ASCII-латиница-26-для-ввода:
 
 ГЭС/GES, АЭС/AES, ЖКХ/GjCCh(G'CCh)/GíCCh, ЧХ/CjCh(C'Ch)/CíCh, ЖЭК/GjEC(G'EC)/GíEC, ЕС/IES, США/SShA, МЧС/MCjS(MC'S)/MCíS, ЮАР/IUAR, ЭЭГ/EEG, ЕГЭ/IEGE, микрорайон Щ/microrajon Sc, СЧК/SCjC(SC'C)/SCíC, ЩК/ScC, ЛЁН/LION, ЛИОН/LIYON.
 
-ИОН/IYON, ЛИЁН/LIYION, ЙОД/JOD, ЙЁД/JIOD, ЁД/IOD, НЫЭ/NYE, НЫЕ/NYIE, НЙ/NJ, ЧЗ/CjZ(C'Z)/CíZ, ЦЗ/CtZ, ЦРУ/CtRU.
+ИОН/IYON, ЛИЁН/LIYION, ЙОД/JOD, ЙЁД/JIOD, ЁД/IOD, НЫЭ/NYE, НЫЕ/NYIE, НЙ/NJ, ЧЗ/CjZ(C'Z)/CíZ, ЦЗ/CtZ, ЦРУ/CtRU, ОБЖ/OBGj/OBGí, АиФ/AiF.
 
 
 ## Пример текста латиницы с диакритикой
