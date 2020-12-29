@@ -225,7 +225,7 @@ Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajusch
 
 Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgiordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangistov.
+V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgiordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridiotsia mazatj jod na ranu.
 
@@ -262,7 +262,7 @@ Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajusch
 
 Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatie goncy.
 
-V pjiese pro devushcu v zelionom platjiyce vse sadilisie na ladjiy i plyli po recke. No tut iz lesa vyshel Dgiordgie Macsimus, conie v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitie buljion. Znachit snova pjiom do lysyh acvalangistov.
+V pjiese pro devushcu v zelionom platjiyce vse sadilisie na ladjiy i plyli po recke. No tut iz lesa vyshel Dgiordgie Macsimus, conie v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitie buljion. Znachit snova pjiom do lysyh acvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestie, znachit jemu pridiotsia mazatie jod na ranu.
 
