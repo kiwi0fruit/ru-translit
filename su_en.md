@@ -254,3 +254,40 @@ Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj 
 Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
 
 V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drughije pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
+
+
+## Тоже самое, то мягкий знак на конце слова это ie
+
+Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
+
+Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatie goncy.
+
+V pjiese pro devushcu v zelionom platjiyce vse sadilisie na ladjiy i plyli po recke. No tut iz lesa vyshel Dgiordgie Macsimus, conie v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitie buljion. Znachit snova pjiom do lysyh acvalangistov.
+
+Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridiotsia mazatie jod na ranu.
+
+Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cenoj novogo ecscavatora. Agie eczema snova stala jego bespocoitj. Oh ugie eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
+
+V etom vide fraza ot A to Ja nachinajet vygliadetie sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. jogie coliuchij i pohogie na nejo.
+
+Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatie s otkhodami companii "Caligula Gaj Julij Cezarie" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
+
+"Cto s mechom c nam pridiot, tot ot mecha i..." - ne smog dogovoritie starshij mehanic Vasilij.
+
+----
+
+Liubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugie vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisie v odin denj, 22 sentiabria.
+
+– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denie rogjdenija vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodiogie v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle chego hobbit naconecie moget schitatie sebia vzroslym.
+
+Proshlo jescho dvenadciatie let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denie rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto neobychnoje. Biljbo ispolnialosie 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitie tridciatitriohletije – toge znamemateljnaja data – sovershennoletije po-hobbitscy.
+
+----
+
+Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
+
+V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drughije pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
