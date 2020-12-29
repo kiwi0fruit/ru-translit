@@ -276,7 +276,7 @@ Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatie s otkhoda
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatie, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugie vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatie, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugie vse nadegjdy Dericulie-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisie v odin denie, 22 sentiabria.
 
