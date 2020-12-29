@@ -264,9 +264,9 @@ Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne o
 
 V pjiese pro devushcu v zelionom platjiyce vse sadilisie na ladjiy i plyli po recke. No tut iz lesa vyshel Dgiordgie Macsimus, conie v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitie buljion. Znachit snova pjiom do lysyh acvalangistov.
 
-Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridiotsia mazatie jod na ranu.
+Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestie, znachit jemu pridiotsia mazatie jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cenoj novogo ecscavatora. Agie eczema snova stala jego bespocoitj. Oh ugie eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cenoj novogo ecscavatora. Agie eczema snova stala jego bespocoitie. Oh ugie eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
 
 V etom vide fraza ot A to Ja nachinajet vygliadetie sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. jogie coliuchij i pohogie na nejo.
 
@@ -276,9 +276,9 @@ Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatie s otkhoda
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugie vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatie, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugie vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
-Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisie v odin denj, 22 sentiabria.
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisie v odin denie, 22 sentiabria.
 
 – Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denie rogjdenija vmeste otmechali by.
 
