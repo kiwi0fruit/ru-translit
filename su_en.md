@@ -256,7 +256,7 @@ Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo 
 V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drughije pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
 
 
-## Тоже самое, то мягкий знак на конце слова это ie
+## Тоже самое, но мягкий знак на конце слова это ie
 
 Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
 
