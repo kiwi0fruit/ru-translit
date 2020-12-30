@@ -276,7 +276,7 @@ Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj 
 
 Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
 
-V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drughije pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
+V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
 
 
 ## Тоже самое, но мягкий знак на конце слова это ie
@@ -313,4 +313,4 @@ Proshlo jescho dvenadciatie let. V Zasumcah cagjdyj god veselo otmechali dvojnoj
 
 Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
 
-V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drughije pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
+V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
