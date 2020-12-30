@@ -208,7 +208,7 @@
 ладьеобразные/ladjieobraznyje  
 царь/ciarie  
 Цезарь/Cezarie  
-нэцкэ/naectscae  
+нэцкэ/naecjcae  
 Ксения/Csenija  
 Кения/Ckenija  
 вовлёкся/vovliocsia  
