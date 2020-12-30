@@ -244,7 +244,7 @@
 ИОН/ION, ЛИЁН/LIJON, ЙОД/JIOD, ЙЁД/JJOD, ЁД/JOD, НЫЭ/NYE, НЫЕ/NYJE, НЙ/NJ, ЦЗ/CIZ, ЧЗ/ChZ, ЦРУ/CIRU, ОБЖ/OBGI, АиФ/AiF.
 
 
-## Пример текста, но мягкий знак на конце слова это ie
+## Пример текста, но мягкий знак на конце слова это j
 
 Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
 
