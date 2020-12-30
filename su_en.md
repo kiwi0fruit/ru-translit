@@ -256,7 +256,7 @@ Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridio
 
 Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
 
-V etom vide fraza ot A to Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij i pohogj na nejo.
+V etom vide fraza ot A do JA nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij i pohogj na nejo.
 
 Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Cezarj" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
 
@@ -293,7 +293,7 @@ Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestie, znachit jemu pridi
 
 Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cenoj novogo ecscavatora. Agie eczema snova stala jego bespocoitie. Oh ugie eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
 
-V etom vide fraza ot A to Ja nachinajet vygliadetie sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogie coliuchij i pohogie na nejo.
+V etom vide fraza ot A do JA nachinajet vygliadetie sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogie coliuchij i pohogie na nejo.
 
 Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatie s otkhodami companii "Caligula Gaj Julij Cezarie" (lat. /Caligula Gaius Iulius Caesar/). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
 
