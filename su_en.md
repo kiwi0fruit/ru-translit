@@ -64,10 +64,10 @@
 
 щ/sch, Щ/Sch, Щ./Sc.  
 сч/sch, Сч/Sch, СЧ/SCh  
-ск/sc, Ск/Sc, Ск./Sck. СК/SC  
-ж/gie, Ж/Gie, Ж./Gi.  
+ск/sck, Ск/Sck, Ск./Sck. СК/SC  
+ж/gj, Ж/Gj, Ж./Gi.  
 жи/giy, Жи/Giy, ЖИ/GII  
-ц/cie, Ц/Cie, Ц./Ci.  
+ц/cj, Ц/Cj, Ц./Ci.  
 ци/ciy, Ци/Ciy, ЦИ/CII
 
 
