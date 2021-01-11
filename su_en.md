@@ -130,8 +130,8 @@
 | ч      | ш      | чь, чъя                     | шь, шъя                     | не дефолтный прообраз |
 | ------ | ------ | --------------------------- | --------------------------- | --------------------- |
 | ч/ch   | ш/sh   | чь/ch, чья/chja, чъя/chqqja | шь/sh, шья/shja, шъя/shqqja | шь/shj, чь/chj        |
-| ча/cha | ша/sha | чя/cha                      | шя/sha                      | шя/sjhia, чя/cjhia    |
-| чу/chu | шу/shu | чю/chu                      | шю/shu                      | шю/sjhiu, чю/cjhiu    |
+| ча/cha | ша/sha | чя/cha                      | шя/sha                      | шя/shia, чя/chia    |
+| чу/chu | шу/shu | чю/chu                      | шю/shu                      | шю/shiu, чю/chiu    |
 | чэ/che | шэ/she | че/che                      | ше/she                      | шэ/shae, чэ/chae      |
 | чо/cho | шо/sho | чё/cho                      | шё/sho                      | шё/shio, чё/chio      |
 | чы/chi | шы/shi | чи/chi                      | ши/shi                      | шы/shy, чы/chy        |
