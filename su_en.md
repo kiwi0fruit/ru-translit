@@ -283,37 +283,37 @@ V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenij
 
 Alecsandr Pushcyn — Zimneje utro
 
-Moroz i solnce; denj chudesnyj!
-Jescho ty dremlesh, drug prelestnyj —
-Pora, crasavicia, prosnisj:
-Otcroj somcnuty negoj vzory
-Navstrechu severnoj Avrory,
+Moroz i solnce; denj chudesnyj!  
+Jescho ty dremlesh, drug prelestnyj —  
+Pora, crasavicia, prosnisj:  
+Otcroj somcnuty negoj vzory  
+Navstrechu severnoj Avrory,  
 Zvezdoju severa javisj!
 
-Vechor, ty pomnish, vjiuga zlilasj,
-Na mutnom nebe mgla nosilasj;
-Luna, cac blednoje piatno,
-Scvozj tuchi mrachnyje geltela,
-I ty pechaljnaja sidela —
+Vechor, ty pomnish, vjiuga zlilasj,  
+Na mutnom nebe mgla nosilasj;  
+Luna, cac blednoje piatno,  
+Scvozj tuchi mrachnyje geltela,  
+I ty pechaljnaja sidela —  
 A nynche… pogliadi v ocno:
 
-Pod golubymi nebesami
-Velicolepnymi covrami,
-Blestia na solnce, sneg legit;
-Prozrachnyj les odin chernejet,
-I jelj scvozj inej zelenejet,
+Pod golubymi nebesami  
+Velicolepnymi covrami,  
+Blestia na solnce, sneg legit;  
+Prozrachnyj les odin chernejet,  
+I jelj scvozj inej zelenejet,  
 I rechca podo ljdom blestit.
 
-Vsia comnata jantarnym blescom
-Ozarena. Veselym trescom
-Treschit zatoplennaja pech.
-Prijatno dumatj u legiancy.
-No znajesh: ne veletj li v sancy
+Vsia comnata jantarnym blescom  
+Ozarena. Veselym trescom  
+Treschit zatoplennaja pech.  
+Prijatno dumatj u legiancy.  
+No znajesh: ne veletj li v sancy  
 Cobylcu buruju zaprech?
 
-Scoljzia po utrennemu snegu,
-Drug milyj, predadimsia begu
-Netoroplivogo conia
-I navestim polia pustyje,
-Lesa, nedavno stolj gustyje,
+Scoljzia po utrennemu snegu,  
+Drug milyj, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyje,  
+Lesa, nedavno stolj gustyje,  
 I bereg, milyj dlia menia.
