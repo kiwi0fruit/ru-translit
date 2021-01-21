@@ -278,3 +278,42 @@ Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj 
 Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
 
 V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
+
+----
+
+Alecsandr Pushcyn — Zimneje utro
+
+Moroz i solnce; denj chudesnyj!
+Jescho ty dremlesh, drug prelestnyj —
+Pora, crasavicia, prosnisj:
+Otcroj somcnuty negoj vzory
+Navstrechu severnoj Avrory,
+Zvezdoju severa javisj!
+
+Vechor, ty pomnish, vjiuga zlilasj,
+Na mutnom nebe mgla nosilasj;
+Luna, cac blednoje piatno,
+Scvozj tuchi mrachnyje geltela,
+I ty pechaljnaja sidela —
+A nynche… pogliadi v ocno:
+
+Pod golubymi nebesami
+Velicolepnymi covrami,
+Blestia na solnce, sneg legit;
+Prozrachnyj les odin chernejet,
+I jelj scvozj inej zelenejet,
+I rechca podo ljdom blestit.
+
+Vsia comnata jantarnym blescom
+Ozarena. Veselym trescom
+Treschit zatoplennaja pech.
+Prijatno dumatj u legiancy.
+No znajesh: ne veletj li v sancy
+Cobylcu buruju zaprech?
+
+Scoljzia po utrennemu snegu,
+Drug milyj, predadimsia begu
+Netoroplivogo conia
+I navestim polia pustyje,
+Lesa, nedavno stolj gustyje,
+I bereg, milyj dlia menia.
