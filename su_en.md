@@ -82,11 +82,11 @@ On vypil butylcu \`Coca-Cola\` i zagovoril \`Hello, do you speak English?\`
 
 Cлова на латинице в верхнем регистре, чтобы они не считались аббревиатурами можно писать, экранируя с помощью ``" -"`` и ``"- "``:
 
-Vsem -ZHIVO- sobratjsia!
+Vsem -GIVO- sobratjsia!
 
 Но другие способы выделения все равно предпочтительнее:
 
-Vsem *zhivo* sobratjsia!
+Vsem *givo* sobratjsia!
 
 **Использование k и z минимизировано.**
 
