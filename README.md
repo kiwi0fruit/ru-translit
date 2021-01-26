@@ -21,9 +21,11 @@
 
 UPD: [**Ещё одна, совсем веселая версия транслита**](https://github.com/kiwi0fruit/ru-translit/blob/main/fun.md)
 
-UPD2: [**Альтернативная более эстетичная версия (Совлат по-тиминовски)**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_fr.md)
+UPD2: [**Альтернативная более эстетичная версия #1 (Совлат с двойными CG)**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_fr.md)
 
-UPD3: [**Альтернативная более эстетичная версия (Совлат англотранс по-тиминовски)**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_en.md)
+UPD3: [**Альтернативная более эстетичная версия #2 (Совлат англотранс с двойными CG)**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_en.md)
+
+UPD4: [**Альтернативная более эстетичная версия #3 (Англотранс с двойными CG)**](https://github.com/kiwi0fruit/ru-translit/blob/main/en_2cg.md)
 
 Развлечением было удовлетворить ограничениям:
 
