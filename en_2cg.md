@@ -60,7 +60,7 @@
 | **Ф** |                 **Х**                  |    **Ц**     | **Ч**  |      **Ш**      |
 |   F   |                   H                    |      CI      |   Ch   |       Sh        |
 | **Щ** |  **КЦ, КИ, ГИ, ЦИ, ЙА, ЯР, ФИО, ЙИ**   | **КТС, НХЛ** | **СЧ** | **САЭ, СЭ, СЕ** |
-|  Sch  | CCI, CkI, GhI, CII, JIA, YAR, FIO, JII |   CTS, NHL   |  SCh   |  SAE, SE, SJE   |
+|  Sch  | CCI, CkI, GhI, CII, JIA, YAR, FIO, JII |   CTS, NHL   |  SCh   |  SAE, SE, SYE   |
 
 Сокращения не по правилам для краткости (когда они отдельно):
 
