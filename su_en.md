@@ -118,7 +118,7 @@ Vsem *givo* sobratjsia!
 * Яя - JAja + Aa / IAia (аналогично ё, йя/jia)
 * Оо - Oo (очевидно) / IOio (сьо/sjio, жо/gio, цо/cio)
 * Ии - Ii (очевидно) / IYiy (сьи/sjiy; сиа/siya)
-* Ьь - Jj (сь./sj., ськ/sjc) / None (сьо/cjio, сьё/sjio, сье/sjie, сьи/sjiy)
+* Ьь - Jj (сь./sj., ськ/sjc) / None (сьо/sjio, сьё/sjio, сье/sjie, сьи/sjiy)
 * Ъъ - QQqq (съо/sqqo) / None (съе/sje, съё/sjo)
 * Йй - Jj (йод/jod)
 * Ээ - Ee (этот/etot, мэр/mer) / AEae (мэр/maer)
