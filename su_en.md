@@ -272,7 +272,7 @@ Vsem *givo* sobratjsia!
 Германия/Ghermanija  
 хоккей/hocckej  
 пицца/piccia  
-дочка/dochca
+дочка/dochca  
 Чжунхуа/Cgiunkhua
 
 ГЭС/GES, АЭС/AES, ЖКХ/GICH, ЦХ/CIH, ЖЭК/GIEC, ЕС/JES, США/SShA, МЧС/MChS, ЮАР/JUAR, ЭЭГ/EEG, ЕГЭ/JEGE, микрорайон Щ/microrajon Sch, СЧК/SChC, ЩК/SchC, ЛЁН/LJON, ЛИОН/LION.
