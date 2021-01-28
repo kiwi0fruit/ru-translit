@@ -304,7 +304,7 @@ Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodam
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Beggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Begginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
 
@@ -382,7 +382,7 @@ Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodam
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Beggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Begginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
 
