@@ -376,7 +376,7 @@ Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cenoj novogo e
 
 V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij i pohogj na nejo.
 
-Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
+Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
 
 "Cto s mechom c nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
@@ -394,9 +394,9 @@ Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj 
 
 ----
 
-Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
+Imejetsia nescoljco gypotez proisxhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
 
-V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
+V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proisxhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
 
 ----
 
