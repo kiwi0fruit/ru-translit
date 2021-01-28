@@ -358,3 +358,81 @@ Netoroplivogo conia
 I navestim polia pustyje,  
 Lesa, nedavno stolj gustyje,  
 I bereg, milyj dlia menia.
+
+
+## Пример текста номер 2
+
+### (Вариант с cz для чж, x для кс, xz для кз, xh для ха после согласных)
+
+Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
+
+Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
+
+V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgiordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
+
+Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridiotsia mazatj jod na ranu.
+
+Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
+
+V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij i pohogj na nejo.
+
+Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
+
+"Cto s mechom c nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
+
+----
+
+Liubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
+
+– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodiogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle chego hobbit naconecj moget schitatj sebia vzroslym.
+
+Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitriohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+
+----
+
+Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
+
+V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
+
+----
+
+Alecsandr Pushcyn — Zimneje utro
+
+Moroz i solnce; denj chudesnyj!  
+Jescho ty dremlesh, drug prelestnyj —  
+Pora, crasavicia, prosnisj:  
+Otcroj somcnuty negoj vzory  
+Navstrechu severnoj Avrory,  
+Zvezdoju severa javisj!
+
+Vechor, ty pomnish, vjiuga zlilasj,  
+Na mutnom nebe mgla nosilasj;  
+Luna, cac blednoje piatno,  
+Scvozj tuchi mrachnyje geltela,  
+I ty pechaljnaja sidela —  
+A nynche… pogliadi v ocno:
+
+Pod golubymi nebesami  
+Velicolepnymi covrami,  
+Blestia na solnce, sneg legit;  
+Prozrachnyj les odin chernejet,  
+I jelj scvozj inej zelenejet,  
+I rechca podo ljdom blestit.
+
+Vsia comnata jantarnym blescom  
+Ozarena. Veselym trescom  
+Treschit zatoplennaja pech.  
+Prijatno dumatj u legiancy.  
+No znajesh: ne veletj li v sancy  
+Cobylcu buruju zaprech?
+
+Scoljzia po utrennemu snegu,  
+Drug milyj, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyje,  
+Lesa, nedavno stolj gustyje,  
+I bereg, milyj dlia menia.
