@@ -362,17 +362,17 @@ I bereg, milyj dlia menia.
 
 ## Пример текста номер 2
 
-### (Вариант с cz для чж, x для кс, xz для кз, xh для ха после согласных)
+### (Вариант с x для кс, xh для ха после согласных, но без cz для чж и без xz для кз)
 
 Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
 
 Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy i plyli po recke v strane Czunxhua. No tut iz lesa vyshel Dgiordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy i plyli po recke v strane Cgiunxhua. No tut iz lesa vyshel Dgiordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridiotsia mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu exelia i vozmutilsia cenoj novogo excavatora. Agj exzema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliciu exelia i vozmutilsia cenoj novogo excavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
 
 V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij i pohogj na nejo.
 
