@@ -304,7 +304,7 @@ Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodam
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Beggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Begginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
 
@@ -368,11 +368,11 @@ Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajusch
 
 Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy i plyli po recke v strane Czunxhua. No tut iz lesa vyshel Dgiordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy i plyli po recke v strane Czunxhua. No tut iz lesa vyshel Dgiordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridiotsia mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliciu exelia i vozmutilsia cenoj novogo excavatora. Agj exzema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
 
 V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij i pohogj na nejo.
 
@@ -382,7 +382,7 @@ Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodam
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Beggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Begginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
 
@@ -400,7 +400,7 @@ V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenij
 
 ----
 
-Alecsandr Pushcyn — Zimneje utro
+Alexandr Pushcyn — Zimneje utro
 
 Moroz i solnce; denj chudesnyj!  
 Jescho ty dremlesh, drug prelestnyj —  
