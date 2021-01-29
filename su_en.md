@@ -360,39 +360,39 @@ I bereg, milyj dlia menia.
 
 ## Пример текста номер 2
 
-### (Вариант с x для кс, xh для ха после согласных, но без cz для чж и без xz для кз)
+### (Вариант с y для одинокой и, x для кс, xh для ха после согласных, но без cz для чж и без xz для кз)
 
-Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
+Piyony y vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
 
 Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy i plyli po recke v strane Cgiunxhua. No tut iz lesa vyshel Dgiordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy y plyli po recke v strane Cgiunxhua. No tut iz lesa vyshel Dgiordgj Maximus, conj v paljto y rvanyh dginsah, cotoryj chto-to vyiscyval, y pricazal vsem mytjsia y gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridiotsia mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu exelia i vozmutilsia cenoj novogo excavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliciu exelia y vozmutilsia cenoj novogo excavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot y daljshe, to biudgetu pridiotsia hudo.
 
-V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij i pohogj na nejo.
+V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij y pohogj na nejo.
 
-Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
+Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On y nashol vyhod iz situacii.
 
 "Cto s mechom c nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom y predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
-Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho y rodilisj v odin denj, 22 sentiabria.
 
-– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmechali by.
+– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, y denj rogjdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodiogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle chego hobbit naconecj moget schitatj sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodiogj v bezotvetstvennom vozraste megjdu dvadciatjiu y tridciatjiu tremia, posle chego hobbit naconecj moget schitatj sebia vzroslym.
 
-Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitriohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da y chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitriohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
 
 ----
 
-Imejetsia nescoljco gypotez proisxhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
+Imejetsia nescoljco gypotez proisxhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc y necotoryje vidy shacalov.
 
 V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proisxhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
 
@@ -400,7 +400,7 @@ V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenij
 
 Alexandr Pushcyn — Zimneje utro
 
-Moroz i solnce; denj chudesnyj!  
+Moroz y solnce; denj chudesnyj!  
 Jescho ty dremlesh, drug prelestnyj —  
 Pora, crasavicia, prosnisj:  
 Otcroj somcnuty negoj vzory  
