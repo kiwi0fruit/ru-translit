@@ -360,7 +360,7 @@ I bereg, milyj dlia menia.
 
 ## Пример текста номер 2
 
-### (Вариант с y для одинокой и, x для кс, xh для ха после согласных, но без cz для чж и без xz для кз)
+### (Вариант с y для одинокой и, x для кс, xh для ха после согласных, но без cz для чж и без xz/ckz для кз)
 
 Piyony y vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
 
