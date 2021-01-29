@@ -22,7 +22,7 @@
 
 После ц и ж могут быть только мягкие гласные (e/i) или ь (j). ки это cy, ги это gy, перед остальными мягкими гласными Кк это ck, Гг это gh. После ч, ш, щ, кц могут быть только e,i,a,o,u (ie, ia, io, iu, j(ь), ae(э), y(ы) не бывает). Ха это h в начале слов и после гласных, иначе - kh. Мягкий знак это j, а перед a,o,u,e(э),y(ы) - jqq. Твердый знак перед йотированными гласными не ставится - достаточно отсутствия смягчения согласной, а в остальных нетипичных случаях - qq. И Ее, и Ээ после согласных это просто Ee (кроме случаев твердых Кк и Гг: cae, gae), но для разводки противоречий можно явно поставить мягкую Ее - ie или твёрдую Ээ - ae.
 
-*Дополнительно*: **чж - cg[eij] (в аббревиатуры и инициалы идёт как Ch), кж - ckg[eij]**. *Правда, лучшим вариантом может быть **чж - cz (в аббревиатуры и инициалы идёт как Ch), кз - xz, ckz (на стыке морфем)*** (но я так не считаю). Но тогда стоит ввести и **кс - x, cs (на стыке морфем)**. Xenija вопреки всему даёт инициал C. Так же **xh** после согласных может быть лучшим вариантом, нежели текущий **kh**. Так же интересным выглядит использование **y** для одинокой **и** - это выглядит лучше, и дополняет уже существующие исключения: ки/cy, ги/gy (но при этом: ии/ii, их/ih). Но тогда придется писать одинокую **ы** как **wy/'y**...
+*Дополнительно*: **чж - cg[eij] (в аббревиатуры и инициалы идёт как Ch), кж - ckg[eij]**. *Правда, лучшим вариантом может быть **чж - cz (в аббревиатуры и инициалы идёт как Ch), кз - xz, ckz (на стыке морфем)*** (но я так не считаю). Но тогда стоит ввести и **кс - x, cs (на стыке морфем)**. Xenija вопреки всему даёт инициал C. Так же **xh** после согласных может быть лучшим вариантом, нежели текущий **kh**. Так же интересным выглядит использование **y** для одинокой **и** - это выглядит лучше, и дополняет уже существующие исключения: ки/cy, ги/gy (но при этом: ии/ii, их/ih). Но тогда придется писать одинокую **ы** как **wy/'y**... Так же можно писать **iyi** вместо **ii**.
 
 **Если "ке" читается как "кэ", то писать стоит "cae" вместо "cke".**
 
@@ -376,7 +376,7 @@ I bereg, milyj dlia menia.
 
 ## Пример текста номер 2
 
-### (Вариант с y для одинокой и, x для кс, xh для ха после согласных, но без cz для чж и без xz/ckz для кз)
+### (Вариант с y для одинокой и, iyi для ии, x для кс, xh для ха после согласных, но без cz для чж и без xz/ckz для кз)
 
 Piyony y vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
 
@@ -390,7 +390,7 @@ Maer neboljshogo gorodishcy otcryl tabliciu exelia y vozmutilsia cenoj novogo ex
 
 V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij y pohogj na nejo.
 
-Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On y nashol vyhod iz situacii.
+Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodami companiyi "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On y nashol vyhod iz situaciyi.
 
 "Cto s mechom c nam pridiot, tot ot mecha y..." - ne smog dogovoritj starshij mehanic Vasilij.
 
