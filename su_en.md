@@ -82,7 +82,7 @@
 | **Щ** |     **СЧ**     |         |        |         |
 |  Sch  |      SCh       |         |        |         |
 
-КЦ/CCI, КИ/CY, КИИ/CYI, ЧИ/ChY, ШИ/ShY, КЫ/CYh, ГЫ/GYh, ЧЫ/ChYh, ШЫ/ShYh, ЦИ/CII, ЙА/JhA, ЯР/JAR, ФИО/FIO, ЙИ/JY, ЙЫ/JhYh, КТС/CTS, НХЛ/NHL, САЭ/SAE, СЭ/SE, СЕ/SJE
+КЦ/CCI, КИ/CY, КИИ/CYI, ЧИ/ChY, ШИ/ShY, КЫ/CYh, ГЫ/GYh, ЧЫ/ChYh, ШЫ/ShYh, ЦИ/CII, ЙА/JhA, ЯР/JAR, ФИО/FIO, ЙИ/JY, ЙЫ/JYh, КТС/CTS, НХЛ/NHL, САЭ/SAE, СЭ/SE, СЕ/SJE
 
 Сокращения не по правилам для краткости (когда они отдельно):
 
