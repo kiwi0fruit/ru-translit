@@ -165,7 +165,7 @@ Vsem *givo* sobratjsia!
 | г/g        | ж/gj   | гь/ghj, гъя/ghja | жь/gj, жья/gja | жь/gjj                |
 | га/ga      | жа/gia | гя/ghia          | жя/gia         | жя/giia, жъя/gjqqja   |
 | гу/gu      | жу/giu | гю/ghiu          | жю/giu         | жю/giiu               |
-| го/go      | жо/gio | гё/ghio          | жё/gio         | жё/giio               |
+| го/go      | жо/gio | гё/ghio          | жё/gio         | жо/gjwo               |
 | гэ/gae     | жэ/ge  | ге/ghe           | же/ge          | жэ/gjwe, жьэ/gjjwe    |
 | **гы/ghy** | жы/gi  | **ги/gy**        | жи/gi          | жы/gjwy               |
 
