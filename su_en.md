@@ -391,7 +391,7 @@ V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas sc
 
 Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodami companiyi "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On iy nashol vyhod iz situaciyi.
 
-"Cto s mechom c nam pridiot, tot ot mecha y..." - ne smog dogovoritj starshij mehanic Vasilij.
+"Cto s mechom c nam pridiot, tot ot mecha iy..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
