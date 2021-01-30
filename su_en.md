@@ -291,6 +291,13 @@ Vsem *givo* sobratjsia!
 пицца/piccia  
 дочка/dochca  
 Чжунхуа/Cgiunkhua
+тревожься/trevogjsia  
+...(тревожься/trevogjjsiaw  
+....тревожйся/trevogjisia  
+....тревожьися/trevogjysia  
+....тревожьйся/trevogjjisia  
+....тревожйа/trevogjwja  
+....тревожъя/trevogjqqja) 
 
 ГЭС/GES, АЭС/AES, ЖКХ/GICH, ЦХ/CIH, ЖЭК/GIEC, ЕС/JES, США/SShA, МЧС/MChS, ЮАР/JUAR, ЭЭГ/EEG, ЕГЭ/JEGE, микрорайон Щ/microrajon Sch, СЧК/SChC, ЩК/SchC, ЛЁН/LJON, ЛИОН/LION.
 
