@@ -18,9 +18,9 @@
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |   h/kh    |  c[eij]  |    ch    |    sh    |
 |   **щ**   |   **ъ**   |  **ь**   |  **сч, чж, кж**               | **кс, кц, ктс, йи**  |
-|    sch    |  None/qq  |  j/jqq   |   sch/wsch, cg[eij], ckg[eij] | cs, cts, ckts, jy/iy |
+|    sch    |  None/qq  |  j/jw    |   sch/wsch, cg[eij], ckg[eij] | cs, cts, ckts, jy/iy |
 
-После ц и ж могут быть только мягкие гласные (e/i) или ь (j). ки это cy, ги это gy, перед остальными мягкими гласными Кк это ck, Гг это gh. После ч, ш, щ, кц могут быть только e,i,a,o,u (ie, ia, io, iu, j(ь), ae(э), y(ы) не бывает). Ха это h в начале слов и после гласных, иначе - kh. Мягкий знак это j, а перед a,o,u,e(э),y(ы) - jqq. Твердый знак перед йотированными гласными не ставится - достаточно отсутствия смягчения согласной, а в остальных нетипичных случаях - qq. И Ее, и Ээ после согласных это просто Ee (кроме случаев твердых Кк и Гг: cae, gae), но для разводки противоречий можно явно поставить мягкую Ее - ie или твёрдую Ээ - ae.
+После ц и ж могут быть только мягкие гласные (e/i) или ь (j). ки это cy, ги это gy, перед остальными мягкими гласными Кк это ck, Гг это gh. После ч, ш, щ, кц могут быть только e,i,a,o,u (ie, ia, io, iu, j(ь), ae(э), y(ы) не бывает). Ха это h в начале слов и после гласных, иначе - kh. Мягкий знак это j, а перед a,o,u,e(э),y(ы) - jw. Твердый знак перед йотированными гласными не ставится - достаточно отсутствия смягчения согласной, а в остальных нетипичных случаях - qq. И Ее, и Ээ после согласных это просто Ee (кроме случаев твердых Кк и Гг: cae, gae), но для разводки противоречий можно явно поставить мягкую Ее - ie или твёрдую Ээ - ae.
 
 *Дополнительно*: **чж - cg[eij]** (в аббревиатуры и инициалы идёт как **Ch**), **кж - ckg[eij]**. Может, стоит ввести и **кс - x, cs (на стыке морфем)**. Xenija вопреки всему даёт инициал **C.** Так же **xh** после согласных может быть лучшим вариантом, нежели текущий **kh**. Так же интересным выглядит использование **y** для одинокой **и** - это выглядит лучше, и дополняет уже существующие исключения: ки/cy, ги/gy (но при этом: ии/iyi, их/ih). Но тогда придется писать одинокую **ы** как **wy/'y**... Так же можно писать **iyi** вместо **ii**.
 
@@ -177,9 +177,9 @@ Vsem *givo* sobratjsia!
 | ч/ch   | ш/sh   | чь/ch, чья/chja | шь/sh, шья/shja | шь/shj, чь/chj, чъя/chqqja, шъя/shqqja |
 | ча/cha | ша/sha | чя/cha          | шя/sha          | шя/shia, чя/chia                       |
 | чу/chu | шу/shu | чю/chu          | шю/shu          | шю/shiu, чю/chiu                       |
-| чэ/che | шэ/she | че/che          | ше/she          | шэ/shae, чэ/chae                       |
-| чо/cho | шо/sho | чё/cho          | шё/sho          | шё/shio, чё/chio                       |
-| чы/chi | шы/shi | чи/chi          | ши/shi          | шы/shy, чы/chy                         |
+| чо/cho | шо/sho | чё/cho          | шё/sho          | шо/shwo, чо/chwo                       |
+| чэ/che | шэ/she | че/che          | ше/she          | шэ/shwe, чэ/chwe, чьэ/chjwe            |
+| чы/chy | шы/shy | чи/chy          | ши/shy          | шы/shwy, чы/chwy                       |
 
 
 ### Ещё подробности
@@ -311,11 +311,11 @@ V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas sc
 
 Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
 
-"Cto s mechom c nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
+"Cto s mechom c nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshyj mehanic Vasilij.
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshyh na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
 
@@ -389,11 +389,11 @@ V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas sc
 
 Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodami companiyi "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On y nashol vyhod iz situaciyi.
 
-"Cto s mechom c nam pridiot, tot ot mecha y..." - ne smog dogovoritj starshij mehanic Vasilij.
+"Cto s mechom c nam pridiot, tot ot mecha y..." - ne smog dogovoritj starshyj mehanic Vasilij.
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom y predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom y predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshyh na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho y rodilisj v odin denj, 22 sentiabria.
 
