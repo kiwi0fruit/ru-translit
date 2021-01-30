@@ -160,7 +160,7 @@ Vsem *givo* sobratjsia!
 | к          | ц      | кь, къя          | ць, цья        | не дефолтный прообраз |
 | ---------- | ------ | ---------------- | -------------- | --------------------- |
 | к/c        | ц/cj   | кь/ckj, къя/ckja | ць/cj, цья/cja | ць/cjj                |
-| ка/ca      | ца/cia | кя/ckia          | ця/cia         | ця/ciia, цъя/cjja     |
+| ка/ca      | ца/cia | кя/ckia          | ця/cia         | ця/ciia, цъя/cjqqja   |
 | ку/cu      | цу/ciu | кю/ckiu          | цю/ciu         | цю/ciiu               |
 | ко/co      | цо/cio | кё/ckio          | цё/cio         | цё/ciio               |
 | кэ/cae     | цэ/ce  | ке/cke           | це/ce          | цэ/cjwe, цьэ/cjjwe    |
@@ -172,7 +172,7 @@ Vsem *givo* sobratjsia!
 | г          | ж      | гь, гъя          | жь, жья        | не дефолтный прообраз |
 | ---------- | ------ | ---------------- | -------------- | --------------------- |
 | г/g        | ж/gj   | гь/ghj, гъя/ghja | жь/gj, жья/gja | жь/gjj                |
-| га/ga      | жа/gia | гя/ghia          | жя/gia         | жя/giia, жъя/gjja     |
+| га/ga      | жа/gia | гя/ghia          | жя/gia         | жя/giia, жъя/gjqqja   |
 | гу/gu      | жу/giu | гю/ghiu          | жю/giu         | жю/giiu               |
 | го/go      | жо/gio | гё/ghio          | жё/gio         | жё/giio               |
 | гэ/gae     | жэ/ge  | ге/ghe           | же/ge          | жэ/gjwe, жьэ/gjjwe    |
