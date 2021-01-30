@@ -218,7 +218,7 @@ Vsem *givo* sobratjsia!
 ....подйэзд/podwjezd  
 ....подйезд/podwjiezd  
 ....подъэзд/podqqezd  
-....подьэзд/podjqqezd  
+....подьэзд/podjwezd  
 ....грабьармия/grabiarmija - словарное исключение, ибо нефиг так писать)  
 пьём/pjiom  
 ...(пьеом/pjieom)  
@@ -247,9 +247,9 @@ Vsem *givo* sobratjsia!
 цьем/cjem  
 чьем/chjem  
 нанцьян/nancjan  
-...(нанцъян/nancjhqqjan  
-....нанцъан/nancjhqqan  
-....нанцьан/nancjhjqqan)  
+...(нанцъян/nancjqqjan  
+....нанцъан/nancjqqan  
+....нанцьан/nancjjwan)  
 Йемен/Jemen (пофиксен как словарное исключение)  
 Йеме/Jieme (не пофиксен)  
 Байес/Bajies  
@@ -294,7 +294,7 @@ Vsem *givo* sobratjsia!
 
 ГЭС/GES, АЭС/AES, ЖКХ/GICH, ЦХ/CIH, ЖЭК/GIEC, ЕС/JES, США/SShA, МЧС/MChS, ЮАР/JUAR, ЭЭГ/EEG, ЕГЭ/JEGE, микрорайон Щ/microrajon Sch, СЧК/SChC, ЩК/SchC, ЛЁН/LJON, ЛИОН/LION.
 
-ИОН/ION, ЛИЁН/LIJON, ЙОД/JhOD, ЙЁД/JJOD, ЁД/JOD, НЫЭ/NYE, НЫЕ/NYJE, НЙ/NJ, ЦЗ/CIZ, ЧЗ/ChZ, ЦРУ/CIRU, ОБЖ/OBGI, АиФ/AiF(AyF).
+ИОН/ION, ЛИЁН/LIJON, ЙОД/JhOD, ЙЁД/JJOD, ЁД/JOD, НЫЭ/NYE, НЫЕ/NYJE, НЙ/NJ, ЦЗ/CIZ, ЧЗ/ChZ, ЦРУ/CIRU, ОБЖ/OBGI, АиФ/AiF.
 
 
 ## Пример текста
@@ -375,7 +375,7 @@ I bereg, milyj dlia menia.
 
 ## Пример текста номер 2
 
-### (Вариант с y для одинокой и, iyi для ии, x для кс, xh для ха после согласных, но без cz для чж и без xz/ckz для кз)
+### (Вариант с iy для одинокой и, iyi для ии, x для кс, xh для ха после согласных)
 
 Piyony y vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
 
