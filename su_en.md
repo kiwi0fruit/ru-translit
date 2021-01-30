@@ -290,7 +290,7 @@ Vsem *givo* sobratjsia!
 хоккей/hocckej  
 пицца/piccia  
 дочка/dochca  
-Чжунхуа/Cgiunkhua
+Чжунхуа/Cgiunkhua  
 тревожься/trevogjsia  
 ...(тревожься/trevogjjsiaw  
 ....тревожйся/trevogjisia  
