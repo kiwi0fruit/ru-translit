@@ -178,8 +178,8 @@ Vsem *givo* sobratjsia!
 | ча/cha | ша/sha | чя/cha          | шя/sha          | шя/shia, чя/chia                       |
 | чу/chu | шу/shu | чю/chu          | шю/shu          | шю/shiu, чю/chiu                       |
 | чо/cho | шо/sho | чё/cho          | шё/sho          | шо/wsho, чо/wcho                       |
-| чэ/che | шэ/she | че/che          | ше/she          | шэ/wshe, чэ/wche, чьэ/chjwe            |
-| чы/chy | шы/shy | чи/chy          | ши/shy          | шы/wshy, чы/wchy                       |
+| чэ/che | шэ/she | че/che          | ше/she          | шэ/shae, чэ/chae, чьэ/chjwe            |
+| чы/chi | шы/shi | чи/chi          | ши/shi          | шы/shy, чы/chy                       |
 
 
 ### Ещё подробности
@@ -311,11 +311,11 @@ V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas sc
 
 Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
 
-"Cto s mechom c nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshyj mehanic Vasilij.
+"Cto s mechom c nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshyh na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
 
@@ -389,11 +389,11 @@ V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas sc
 
 Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodami companiyi "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On y nashol vyhod iz situaciyi.
 
-"Cto s mechom c nam pridiot, tot ot mecha y..." - ne smog dogovoritj starshyj mehanic Vasilij.
+"Cto s mechom c nam pridiot, tot ot mecha y..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
-Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom y predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshyh na usadjbu, ruhnuli oconchateljno.
+Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom y predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho y rodilisj v odin denj, 22 sentiabria.
 
