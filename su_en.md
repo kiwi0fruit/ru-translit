@@ -178,7 +178,7 @@ Vsem *givo* sobratjsia!
 | ча/cha | ша/sha | чя/cha          | шя/sha          | шя/shia, чя/chia                       |
 | чу/chu | шу/shu | чю/chu          | шю/shu          | шю/shiu, чю/chiu                       |
 | чо/cho | шо/sho | чё/cho          | шё/sho          | шо/wsho, чо/wcho                       |
-| чэ/che | шэ/she | че/che          | ше/she          | шэ/shae, чэ/chae, чьэ/chjwe            |
+| чэ/che | шэ/she | че/che          | ше/she          | шэ/wshe, чэ/wche, чьэ/chjwe            |
 | чы/chy | шы/shy | чи/chy          | ши/shy          | шы/wshy, чы/wchy                       |
 
 
