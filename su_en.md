@@ -154,8 +154,8 @@ Vsem *givo* sobratjsia!
 | ка/ca      | ца/cia | кя/ckia          | ця/cia         | ця/ciia, цъя/cjqqja   |
 | ку/cu      | цу/ciu | кю/ckiu          | цю/ciu         | цю/ciiu               |
 | ко/co      | цо/cio | кё/ckio          | цё/cio         | цё/ciio               |
-| кэ/cae     | цэ/ce  | ке/cke           | це/ce          | цэ/cjwe, цьэ/cjjwe    |
-| **кы/cky** | цы/ci  | **ки/cy**        | ци/ci          | цы/cjwy               |
+| кэ/cae     | цэ/ce  | ке/cke           | це/ce          | цэ/wce, цьэ/cjjwe     |
+| **кы/cky** | цы/ci  | **ки/cy**        | ци/ci          | цы/wci                |
 
 
 ### г/g/gh + ж/g/gj
@@ -165,9 +165,9 @@ Vsem *givo* sobratjsia!
 | г/g        | ж/gj   | гь/ghj, гъя/ghja | жь/gj, жья/gja | жь/gjj                |
 | га/ga      | жа/gia | гя/ghia          | жя/gia         | жя/giia, жъя/gjqqja   |
 | гу/gu      | жу/giu | гю/ghiu          | жю/giu         | жю/giiu               |
-| го/go      | жо/gio | гё/ghio          | жё/gio         | жо/gjwo               |
-| гэ/gae     | жэ/ge  | ге/ghe           | же/ge          | жэ/gjwe, жьэ/gjjwe    |
-| **гы/ghy** | жы/gi  | **ги/gy**        | жи/gi          | жы/gjwy               |
+| го/go      | жо/gio | гё/ghio          | жё/gio         | жо/wgio               |
+| гэ/gae     | жэ/ge  | ге/ghe           | же/ge          | жэ/wge, жьэ/gjjwe     |
+| **гы/ghy** | жы/gi  | **ги/gy**        | жи/gi          | жы/wgi                |
 
 
 ### ч/ch + ш/sh
@@ -177,9 +177,9 @@ Vsem *givo* sobratjsia!
 | ч/ch   | ш/sh   | чь/ch, чья/chja | шь/sh, шья/shja | шь/shj, чь/chj, чъя/chqqja, шъя/shqqja |
 | ча/cha | ша/sha | чя/cha          | шя/sha          | шя/shia, чя/chia                       |
 | чу/chu | шу/shu | чю/chu          | шю/shu          | шю/shiu, чю/chiu                       |
-| чо/cho | шо/sho | чё/cho          | шё/sho          | шо/shwo, чо/chwo                       |
-| чэ/che | шэ/she | че/che          | ше/she          | шэ/shwe, чэ/chwe, чьэ/chjwe            |
-| чы/chy | шы/shy | чи/chy          | ши/shy          | шы/shwy, чы/chwy                       |
+| чо/cho | шо/sho | чё/cho          | шё/sho          | шо/wsho, чо/wcho                       |
+| чэ/che | шэ/she | че/che          | ше/she          | шэ/wshe, чэ/wche, чьэ/chjwe            |
+| чы/chy | шы/shy | чи/chy          | ши/shy          | шы/wshy, чы/wchy                       |
 
 
 ### Ещё подробности
@@ -191,7 +191,7 @@ Vsem *givo* sobratjsia!
 ТО ЕСТЬ: меньше угловатых букв k и zh - ура!
 
 Дефолтные прообразы: ча, че, чо, чу, чи, ч (а не чь), ша, ше, шо, шу, ши, ш (а не шь), жа, же, жо, жу, жи, ж (а не жь), ща, ще, що, щу, щи, щ (а не щь), ца, це, цо, цу, ци, ц (а не ць) (ну кроме словарных исключений).  
-Можно использовать переключатель w/', который в конце сбрасыват до дефолтных. А прямо перед местом неоднозначности прообраза можно переключить на альтернативный вариант с помощью w/'/ii/jj: жури/giuriw/giuri', жюри/giiuri, жерло/gerlow/gerlo', жэрло/gjwerlo/gj'erlo, кож/cogjw/cogj', кожь/cogjj (тоже самое с ц).  
+Можно использовать переключатель w/', который в конце сбрасыват до дефолтных. А прямо перед местом неоднозначности прообраза можно переключить на альтернативный вариант с помощью w/'/ii/jj: жури/giuriw/giuri', жюри/giiuri, жерло/gerlow/gerlo', жэрло/wgerlo/'gerlo, кож/cogjw/cogj', кожь/cogjj (тоже самое с ц).  
 Но в стандартном сценарии использования это не должно применяться - умное отображение в кириллицу само должно догадываться исходя из контекста.
 Аббревиатуры - особый случай: ЖУ/GIU, ЖЮ/GIJU, ГЮ/GJU, ГУ/GU, КИ/CY, ЦЮ/CIJU.
 
