@@ -65,9 +65,9 @@
 | **Я** |     **Ё**      |  **Ю**  | **Е**  |  **И**  |
 |  JA   |      JO        |   JU    |  JE    |   I/Y   |
 | **Б** |     **В**      |  **Г**  | **Д**  |  **Ж**  |
-|   B   |       V        |    G    |   D    |   GI    |
+|   B   |       V        |  G/Gh   |   D    |   GI    |
 | **З** |     **Й**      |  **К**  | **Л**  |  **М**  |
-|   Z   |      J/JI      |    C    |   L    |    M    |
+|   Z   |      J/JI      |  C/Ck   |   L    |    M    |
 | **Н** |     **П**      |  **Р**  | **С**  |  **Т**  |
 |   N   |       P        |    R    |   S    |    T    |
 | **Ф** |     **Х**      |  **Ц**  | **Ч**  |  **Ш**  |
@@ -75,7 +75,7 @@
 | **Щ** |     **СЧ**     |         |        |         |
 |  Sch  |      SCh       |         |        |         |
 
-КЦ/CCI, КИ/CY, КИИ/CYI, ЧИ/ChY, ШИ/ShY, КЫ/CYh, ГЫ/GYh, ЧЫ/ChYh, ШЫ/ShYh, ЦИ/CII, ЙА/JIA, ЯР/JAR, ФИО/FIO, ЙИ/JII, ЙЫ/JY, КТС/CTS, НХЛ/NHL, САЭ/SAE, СЭ/SE, СЕ/SJE
+КЦ/CCI, КИ/CY, КИИ/CYI, ЧИ/ChY, ШИ/ShY, КЫ/CkY, ГЫ/GhY, ЧЫ/ChYh, ШЫ/ShYh, ЦИ/CII, ЙА/JIA, ЯР/JAR, ФИО/FIO, ЙИ/JII, ЙЫ/JY, КТС/CTS, НХЛ/NHL, САЭ/SAE, СЭ/SE, СЕ/SJE
 
 Сокращения не по правилам для краткости (когда они отдельно):
 
@@ -294,7 +294,7 @@ Vsem *givo* sobratjsia!
 
 ГЭС/GES, АЭС/AES, ЖКХ/GICH, ЦХ/CIH, ЖЭК/GIEC, ЕС/JES, США/SShA, МЧС/MChS, ЮАР/JUAR, ЭЭГ/EEG, ЕГЭ/JEGE, микрорайон Щ/microrajon Sch, СЧК/SChC, ЩК/SchC, ЛЁН/LJON, ЛИОН/LION.
 
-ИОН/ION, ЛИЁН/LIJON, ЙОД/JhOD, ЙЁД/JJOD, ЁД/JOD, НЫЭ/NYE, НЫЕ/NYJE, НЙ/NJ, ЦЗ/CIZ, ЧЗ/ChZ, ЦРУ/CIRU, ОБЖ/OBGI, АиФ/AiF.
+ИОН/ION, ЛИЁН/LIJON, ЙОД/JIOD, ЙЁД/JJOD, ЁД/JOD, НЫЭ/NYE, НЫЕ/NYJE, НЙ/NJ, ЦЗ/CIZ, ЧЗ/ChZ, ЦРУ/CIRU, ОБЖ/OBGI, АиФ/AiF.
 
 
 ## Пример текста
