@@ -480,7 +480,7 @@ Liubliu dymoc spaleonnoj gjnivy,
 V stepi nochujuschij oboz  
 Iy na holme sredj geoltoj nivy  
 Chetu belejuschih bereoz.  
-S otradoy, mnogym neznacomoj,  
+S otradoj, mnogym neznacomoj,  
 Ja vigiu polnoje gumno,  
 Izbu, pocrytuju solomoj,  
 S reznymi stavniami ocno;  
