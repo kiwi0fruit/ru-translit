@@ -17,8 +17,8 @@
 |     n     |     p     |    r     |    s     |    t     |
 |   **ф**   |   **х**   |  **ц**   |  **ч**   |  **ш**   |
 |     f     |   h/kh    |  c[eij]  |    ch    |    sh    |
-|   **щ**   |   **ъ**   |  **ь**   |  **сч, чж, кж**          | **кс, кц, ктс, йи**  |
-|    sch    |  None/qq  |    j     |   sch, cg[eij], ckg[eij] | cs, cts, ckts, jy/iy |
+|   **щ**   |   **ъ**   |  **ь**   |  **сч, чж, кж**          | **кс, кц, ктс, йи, кх**  |
+|    sch    |  None/qq  |    j     |   sch, cg[eij], ckg[eij] | cs, cts, ckts, jy/iy, ckh |
 
 После ц и ж могут быть только мягкие гласные (e/i) или ь (j). ки это cy, ги это gy, перед остальными мягкими гласными Кк это ck, Гг это gh. После ч, ш, щ, кц могут быть только e,i,a,o,u (ie, ia, io, iu, j(ь), ae(э), y(ы) не бывает). Ха это h в начале слов и после гласных, иначе - kh. Мягкий знак это j, а перед a,o,u,e(э),y(ы) его не бывает, но можно задать нужный прообраз с помощью jw. Твердый знак перед йотированными гласными не ставится - достаточно отсутствия смягчения согласной, а в остальных нетипичных случаях - qq. И Ее, и Ээ после согласных это просто Ee (кроме случаев твердых Кк и Гг: cae, gae), но для разводки противоречий можно явно поставить мягкую Ее - ie или твёрдую Ээ - ae.
 
@@ -51,7 +51,7 @@
 |                         **щ**                          |       **ъ, съ[еяёю]**       |        **ь, сь[еяёоюи], _force сь[эаоуы]_**         |               **кс**               |          **сч , _force сч[...]_**           |
 | так же как "сч" ("щ" имеет приоритет обратного образа) |        qq, sj[eaou]         |          j, sji[eaoouy], _sjw[...]_          |                 cs                 |          sch, _wsch[...]_           |
 
-Дополнительно: **чж - cg[eij]** (в аббревиатуры и инициалы идёт как **Ch**), **кж - ckg[eij]**.
+Дополнительно: **чж - cg[eij]** (в аббревиатуры и инициалы идёт как **Ch**), **кж - ckg[eij]**. И: **кх - ckh**.
 
 
 ### Аббревиатуры
@@ -396,7 +396,7 @@ Maer neboljshogo gorodishcy otcryl tabliciu exelia iy vozmutilsia cenoj novogo e
 
 V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij iy pohogj na nejo.
 
-Sxhod mestnyh gitelej indijscoj derevni sicxhov reshal chto ge delatj s otxhodami companiyi "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On iy nashol vyhod iz situaciyi.
+Sxhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otxhodami companiyi "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On iy nashol vyhod iz situaciyi.
 
 "Cto s mechom c nam pridiot, tot ot mecha iy..." - ne smog dogovoritj starshij mehanic Vasilij.
 
