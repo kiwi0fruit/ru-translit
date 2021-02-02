@@ -434,15 +434,15 @@ Vechor, ty pomnish, vjiuga zlilasj,
 Na mutnom nebe mgla nosilasj;  
 Luna, cac blednoje piatno,  
 Scvozj tuchi mrachnyje geltela,  
-I ty pechaljnaja sidela —  
+Iy ty pechaljnaja sidela —  
 A nynche… pogliadi v ocno:
 
 Pod golubymi nebesami  
 Velicolepnymi covrami,  
 Blestia na solnce, sneg legit;  
 Prozrachnyj les odin chernejet,  
-I jelj scvozj inej zelenejet,  
-I rechca podo ljdom blestit.
+Iy jelj scvozj inej zelenejet,  
+Iy rechca podo ljdom blestit.
 
 Vsia comnata jantarnym blescom  
 Ozarena. Veselym trescom  
@@ -454,9 +454,9 @@ Cobylcu buruju zaprech?
 Scoljzia po utrennemu snegu,  
 Drug milyj, predadimsia begu  
 Netoroplivogo conia  
-I navestim polia pustyje,  
+Iy navestim polia pustyje,  
 Lesa, nedavno stolj gustyje,  
-I bereg, milyj dlia menia.
+Iy bereg, milyj dlia menia.
 
 ----
 
