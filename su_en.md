@@ -25,7 +25,7 @@
 **i йотирует только после j**.
 
 *Дополнительные опциональные правила*: **чж - cg[eij]** (в аббревиатуры и инициалы идёт как **Ch**), **кж - ckg[eij]**. Может, стоит ввести и **кс - x, cs (на стыке морфем)**. Xenija вопреки всему даёт инициал **C.** Так же **xh** после согласных может быть лучшим вариантом, нежели текущий **kh**. Так же интересным выглядит использование **iy** для одинокой **и** - это выглядит лучше, и дополняет уже существующие исключения: ки/cy, ги/gy (но при этом: ии/iyi, их/ih). Но тогда придется писать одинокую **иы** как **iyy**... Так же можно писать **iyi** вместо **ii**.  
-*Ещё* можно для **ё после согласных** использовать **eo** вместо **io**. Так будет менее логично, но зато чуть более этимологично и будет лучшее переиспользование уже обученных нейросетей в голове.
+*Ещё* можно для **ё после согласных** (но не после йота) использовать **eo** вместо **io**. Так будет менее логично, но зато чуть более этимологично и будет лучшее переиспользование уже обученных нейросетей в голове.
 
 **Если "ке" читается как "кэ", то писать стоит "cae" вместо "cke".**
 
@@ -385,21 +385,21 @@ I bereg, milyj dlia menia.
 
 ### (Вариант с iy для одинокой и, iyi для ии, x для кс, xh для ха после согласных)
 
-Piyony iy vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
+Piyony iy vasiljcy vseo jescho rastut na poliane vozle derevni Peony, schitajuschejsia bogatoj.
 
 Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy iy plyli po recke v strane Cgiunxhua. No tut iz lesa vyshel Dgiordgj Maximus, conj v paljto iy rvanyh dginsah, cotoryj chto-to vyiscyval, iy pricazal vsem mytjsia iy gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiyce vse sadilisj na ladjiy iy plyli po recke v strane Cgiunxhua. No tut iz lesa vyshel Dgeordgj Maximus, conj v paljto iy rvanyh dginsah, cotoryj chto-to vyiscyval, iy pricazal vsem mytjsia iy gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
 
-Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridiotsia mazatj jod na ranu.
+Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu prideotsia mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu exelia iy vozmutilsia cenoj novogo excavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot iy daljshe, to biudgetu pridiotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliciu exelia iy vozmutilsia cenoj novogo excavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot iy daljshe, to biudgetu prideotsia hudo.
 
 V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij iy pohogj na nejo.
 
 Sxhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otxhodami companiyi "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On iy nashol vyhod iz situaciyi.
 
-"Cto s mechom c nam pridiot, tot ot mecha iy..." - ne smog dogovoritj starshij mehanic Vasilij.
+"Cto s mechom c nam prideot, tot ot mecha iy..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
@@ -409,9 +409,9 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho iy rodilisj v odin denj, 22 s
 
 – Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, iy denj rogjdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodiogj v bezotvetstvennom vozraste megjdu dvadciatjiu iy tridciatjiu tremia, posle chego hobbit naconecj moget schitatj sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu iy tridciatjiu tremia, posle chego hobbit naconecj moget schitatj sebia vzroslym.
 
-Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da iy chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitriohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da iy chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
 
 ----
 
