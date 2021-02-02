@@ -25,7 +25,7 @@
 **i йотирует только после j**.
 
 *Дополнительные опциональные правила*: **чж - cg[eij]** (в аббревиатуры и инициалы идёт как **Ch**), **кж - ckg[eij]**. Может, стоит ввести и **кс - x, cs (на стыке морфем)**. Xenija вопреки всему даёт инициал **C.** Так же **xh** после согласных может быть лучшим вариантом, нежели текущий **kh**. Так же интересным выглядит использование **iy** для одинокой **и** - это выглядит лучше, и дополняет уже существующие исключения: ки/cy, ги/gy (но при этом: ии/iyi, их/ih). Но тогда придется писать одинокую **иы** как **iyy**... Так же можно писать **iyi** вместо **ii**.  
-*Ещё* можно для **ё после согласных** (но не после йота) использовать **eo** вместо **io**. Так будет менее логично, но зато чуть более этимологично и будет лучшее переиспользование уже обученных нейросетей в голове.
+*Ещё* можно для **ё после согласных** (но не после йота) использовать **eo** вместо **io** (а **eo** после согласных становится **ieo**). Так будет менее логично, но зато чуть более этимологично и будет лучшее переиспользование уже обученных нейросетей в голове.
 
 **Если "ке" читается как "кэ", то писать стоит "cae" вместо "cke".**
 
@@ -411,13 +411,13 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho iy rodilisj v odin denj, 22 s
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu iy tridciatjiu tremia, posle chego hobbit naconecj moget schitatj sebia vzroslym.
 
-Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da iy chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da iy chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
 
 ----
 
 Imejetsia nescoljco gypotez proisxhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc iy necotoryje vidy shacalov.
 
-V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proisxhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
+V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proisxhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja tieorija).
 
 ----
 
