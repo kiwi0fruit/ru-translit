@@ -457,3 +457,36 @@ Netoroplivogo conia
 I navestim polia pustyje,  
 Lesa, nedavno stolj gustyje,  
 I bereg, milyj dlia menia.
+
+----
+
+Lermontov M.Ju. — Rodina 
+ 
+Liubliu otchiznu ja, no strannoju liubovjiu! 
+Ne pobedit jejo rassudoc moj. 
+Ni slava, cuplennaja сrovjiu, 
+Ni polnyj gordogo doverija pocoj, 
+Ni teomnoj stariny zavetnyje predanjia 
+Ne sheveliat vo mne otradnogo mechtanjia. 
+No ja liubliu — za chto, ne znaju sam — 
+Jejo stepej holodnoje molchanjie, 
+Jejo lesov bezbregjnyh colyhanije, 
+Razlivy rec jejo, podobnyje moriam; 
+Proseolochnym puteom liubliu scacatj v teleghe 
+Iy, vzorom medlennym pronzaja nochi tenj, 
+Vstrechatj po storonam, vzdyhaja o nochleghe, 
+Drogiaschije ogni pechaljnyh derevenj; 
+Liubliu dymoc spaleonnoj gjnivy, 
+V stepi nochujuschij oboz 
+Iy na holme sredj geoltoj nivy 
+Chetu belejuschih bereoz. 
+S otradoy, mnogym neznacomoj, 
+Ja vigiu polnoje gumno, 
+Izbu, pocrytuju solomoj, 
+S reznymi stavniami ocno; 
+Iy v prazdnic, vecherom rosistym, 
+Smotretj do polnochi gotov 
+Na pliascu s topanjiem iy svistom 
+Pod govor pjianyh mugichcov. 
+ 
+// God napisanija: 1841
