@@ -301,21 +301,21 @@ Piony i vasiljcy vseo jesceo rastut na poleane vozle derevni Peony, scitajuscejs
 
 Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsea, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zeleonom platjiyce vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsea i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiyce vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsea i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsea mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu ecselea i vozmutilsea cenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelea v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to beudgetu prideotsea hudo.
+Maer neboljshogo gorodishcy otcryl tabliciu exelea i vozmutilsea cienoj novogo excavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelea v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to beudgetu prideotsea hudo.
 
 V etom vide fraza ot A do Ja nacinajet vygleadetj sovsem po-drugomu. Sejceas sceotca novaja, no pozge ona stanet staraja. Chernysh leubit cogda jego ceshut jeju. Jogj coleucij i pohogj na nejo.
 
-Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashol vyhod iz situacii.
+Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Ciezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashol vyhod iz situaciyi.
 
 "Cto s meceom c nam prideot, tot ot mecea i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
-Leubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo deveanosto deveatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsea v Zasumcy. Tut ugj vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconceateljno.
+Leubimciem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo deveanosto deveatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsea v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconceateljno.
 
 Sluceaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisj v odin denj, 22 senteabrea.
 
@@ -333,7 +333,7 @@ V sugjdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenij
 
 ----
 
-Alecsandr Pushcyn — Zimneje utro
+Alexandr Pushcyn — Zimneje utro
 
 Moroz i solnce; denj ceudesnyj!  
 Jesceo ty dremlesh, drug prelestnyj —  
