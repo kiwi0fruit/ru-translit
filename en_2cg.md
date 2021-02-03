@@ -301,7 +301,7 @@ Piony i vasiljcy vseo jesceo rastut na poleane vozle derevni Peony, scitajuscejs
 
 Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsea, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zeleonom platjiyce vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsea i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiycie vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsea i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsea mazatj jod na ranu.
 
@@ -335,7 +335,7 @@ V sugjdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenij
 
 Alexandr Pushcyn — Zimneje utro
 
-Moroz i solnce; denj ceudesnyj!  
+Moroz i solncie; denj ceudesnyj!  
 Jesceo ty dremlesh, drug prelestnyj —  
 Pora, crasavicia, prosnisj:  
 Otcroj somcnuty negoj vzory  
@@ -351,7 +351,7 @@ A nynce… pogleadi v ocno:
 
 Pod golubymi nebesami  
 Velicolepnymi covrami,  
-Blestea na solnce, sneg legit;  
+Blestea na solncie, sneg legit;  
 Prozrachnyj les odin cernejet,  
 I jelj scvozj inej zelenejet,  
 I rechca podo ljdom blestit.
