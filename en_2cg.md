@@ -297,75 +297,76 @@ Vsem *givo* sobratjsia!
 
 ## Пример текста
 
-Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
+Piony i vasiljcy vseo jesceo rastut na poleane vozle derevni Peony, scitajuscejsea bogatoj.
 
-Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
+Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsea, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zelionom platjiyce vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgiordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiyce vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsea i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
 
-Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu pridiotsia mazatj jod na ranu.
+Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsea mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoliota. Jesli tac pojdiot i daljshe, to biudgetu pridiotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliciu ecselea i vozmutilsea cenoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelea v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to beudgetu prideotsea hudo.
 
-V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij i pohogj na nejo.
+V etom vide fraza ot A do Ja nacinajet vygleadetj sovsem po-drugomu. Sejceas sceotca novaja, no pozge ona stanet staraja. Chernysh leubit cogda jego ceshut jeju. Jogj coleucij i pohogj na nejo.
 
-Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Cezarj" (lat. \`Caligula Gaius Iulius Caesar\`). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
+Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashol vyhod iz situacii.
 
-"Cto s mechom c nam pridiot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
-
-----
-
-Liubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
-
-Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
-
-– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmechali by.
-
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodiogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle chego hobbit naconecj moget schitatj sebia vzroslym.
-
-Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto neobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitriohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+"Cto s meceom c nam prideot, tot ot mecea i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
-Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
+Leubimcem Biljbo byl junyj Frodo Sumnics. Cogda Biljbo stucnulo deveanosto deveatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsea v Zasumcy. Tut ugj vse nadegjdy Dericulj-Sumnicsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconceateljno.
 
-V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja teorija).
+Sluceaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisj v odin denj, 22 senteabrea.
+
+– Frodo, maljcic moj, – scazal cac-to raz Biljbo, – perebiralsea by ty co mne. Gleadish, i denj rogjdenija vmeste otmeceali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremea, posle cego hobbit naconecj moget scitatj sebea vzroslym.
+
+Proshlo jesceo dvenadciatj let. V Zasumcah cagjdyj god veselo otmeceali dvojnoj denj rogjdenija, c etomu privycli, no leubomu bylo jasno, chto nyneshnej osenjiu gotovitsea nechto neobychnoje. Biljbo ispolnealosj 111 let – vozrast dlea hobbita vesjma pochtennyj, da i cislo leubopytnoje, nu a Frodo gotovilsea otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+
+----
+
+Imejetsea nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami scitajutsea volc i necotoryje vidy shacalov.
+
+V sugjdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni scitajut, chto sobacy - polifileticescaja gruppa (proiskhodeasceaja ot nescoljcyh predcov), drugyje pridergivajutsea mnenija, chto vse sobacy proizoshli ot odnogo predca (monofileticescaja teorija).
 
 ----
 
 Alecsandr Pushcyn — Zimneje utro
 
-Moroz i solnce; denj chudesnyj!  
-Jescho ty dremlesh, drug prelestnyj —  
+Moroz i solnce; denj ceudesnyj!  
+Jesceo ty dremlesh, drug prelestnyj —  
 Pora, crasavicia, prosnisj:  
 Otcroj somcnuty negoj vzory  
-Navstrechu severnoj Avrory,  
+Navstreceu severnoj Avrory,  
 Zvezdoju severa javisj!
 
-Vechor, ty pomnish, vjiuga zlilasj,  
+Veceor, ty pomnish, vjiuga zlilasj,  
 Na mutnom nebe mgla nosilasj;  
-Luna, cac blednoje piatno,  
-Scvozj tuchi mrachnyje geltela,  
-I ty pechaljnaja sidela —  
-A nynche… pogliadi v ocno:
+Luna, cac blednoje peatno,  
+Scvozj tuci mrachnyje geltela,  
+I ty pecealjnaja sidela —  
+A nynce… pogleadi v ocno:
 
 Pod golubymi nebesami  
 Velicolepnymi covrami,  
-Blestia na solnce, sneg legit;  
-Prozrachnyj les odin chernejet,  
+Blestea na solnce, sneg legit;  
+Prozrachnyj les odin cernejet,  
 I jelj scvozj inej zelenejet,  
 I rechca podo ljdom blestit.
 
-Vsia comnata jantarnym blescom  
+Vsea comnata jantarnym blescom  
 Ozarena. Veselym trescom  
-Treschit zatoplennaja pech.  
-Prijatno dumatj u legiancy.  
+Trescit zatoplennaja pech.  
+Prijatno dumatj u legeancy.  
 No znajesh: ne veletj li v sancy  
 Cobylcu buruju zaprech?
 
-Scoljzia po utrennemu snegu,  
-Drug milyj, predadimsia begu  
-Netoroplivogo conia  
-I navestim polia pustyje,  
+Scoljzea po utrennemu snegu,  
+Drug milyj, predadimsea begu  
+Netoroplivogo conea  
+I navestim polea pustyje,  
 Lesa, nedavno stolj gustyje,  
-I bereg, milyj dlia menia.
+I bereg, milyj dlea menea.
+
