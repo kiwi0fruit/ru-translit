@@ -270,6 +270,31 @@ Vsem *givo* sobratjsia!
 ИОН/ION, ЛИЁН/LIJON, ЙОД/JIOD, ЙЁД/JJOD, ЁД/JOD, НЫЭ/NYE, НЫЕ/NYJE, НЙ/NJ, ЦЗ/CIZ, ЧЗ/ChZ, ЦРУ/CIRU, ОБЖ/OBGI, АиФ/AiF.
 
 
+## Последняя версия
+
+Придумалась хорошая комбинация. Суть должно быть видно по этим примерам: 
+
+ке/cke, че/ce, це/cie (ге/ghe, же/ge) 
+ки/cy, чи/ci, ци/ciy (ги/gy, жи/gi) 
+кё/ckio, чё/ceo, цо/cio (гё/ghio, жё/geo)
+кя/ckia, ча/cea, ца/cia (гя/ghia, жа/gea) 
+мя/mea, меч/mech, лечь/lech, ниц/nicj, рож/rogj, трожь/trogj, чиа/chia, чем/cem 
+
+Слегка нелогично (несоответствие правил для ж, ц, ч перед е-и либо же перед ь), но приемлемо. 
+
+С этим и в аббревиатурах будут C,CI,Ch,G,GI. 
+
+Подробнее: 
+
+1) ц[еэиыоёаяую]/ci[eyoau] - ц?ь/сj - ци[аоуэ]/ciy[aoue] - це[аоу]/cie[aou]
+2) ч[еэиы]/c[ei] - ч[оёаяую]/ce[oau] - ч?ь/ch - чи[аоуэ]/chi[aoue] - че[аоу]/che[aou]
+2) ж[еэиы]/g[ei] - ж[оёаяую]/ge[oau] - ж?ь/gj - жи[аоуэ]/gi[aoue] - же[аоу]/gie[aou]
+3) к[еы]/ck[ey] - к[ауои]/с[auoy] - к[яюё]/cki[auo] - кэ/cae - ки[аоуэ]/cy[aoue] - ке[аоу]/cke[aou]
+4) г[еы]/gh[ey] - г[ауои]/g[auoy] - г[яюё]/ghi[auo] - гэ/gae - ги[аоуэ]/gy[aoue] - ге[аоу]/ghe[aou]
+5) с[еауоиы]/s[eauoiy] - с[ёяю]/se[oau] - сэ/se/sae - си[аоуэ]/si[aoue] - се[аоу]/sie[aou]
+6) ш[еэиыоёаяую]/sh[eioau] - ш?ь/sh - ши[аоуэ]/shi[aoue] - ше[аоу]/she[aou]
+
+
 ## Пример текста
 
 Piyony i vasiljcy vsio jescho rastut na poliane vozle derevni Piony, schitajuschejsia bogatoj.
