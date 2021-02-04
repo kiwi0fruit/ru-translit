@@ -300,46 +300,26 @@ Vsem *givo* sobratjsia!
 
 **"Совлат англотранс с двойной G и тройной C"**
 
- Суть должно быть видно по этим примерам: 
+Суть должно быть видно по этим примерам: 
 
- 
-
-ке/cke, че/ce, це/cie (ге/ghe, же/ge) 
-
-ки/cy, чи/ci, ци/ciy (ги/gy, жи/gi) 
-
-кё/ckio, чё/ceo, цо/cio, чо/cho (гё/ghio, жё/geo, жо/gio)
-
-кя/ckia, ча/cha, ца/cia (гя/ghia, жа/gia) 
-
-мя/mia, меч/mech, лечь/lech, ниц/nicj, рож/rogj, трожь/trogj, чиа/chia, чем/cem 
-
- 
+* ке/cke, че/ce, це/cie (ге/ghe, же/ge) 
+* ки/cy, чи/ci, ци/ciy (ги/gy, жи/gi)
+* кё/ckio, чё/ceo, цо/cio, чо/cho (гё/ghio, жё/geo, жо/gio)
+* кя/ckia, ча/cha, ца/cia (гя/ghia, жа/gia) 
+* мя/mia, меч/mech, лечь/lech, ниц/nicj, рож/rogj, трожь/trogj, чиа/chia, чем/cem 
 
 Слегка нелогично (несоответствие правил для ж, ц, ч перед е-и либо же перед ь), но приемлемо. 
 
- 
-
 С этим и в аббревиатурах будут C,CI,Ch,G,GI. 
-
- 
 
 Подробнее: 
 
- 
-
 1) ц[еэиыоёаяую]/ci[eyoau] - ц?ь/сj - ци[аоуэ]/ciy[aoue] - це[аоу]/cie[aou]
-
 2) ч[еэиы]/c[ei] - чё/ceo - ч[оаяую]/ch[oau] - ч?ь/ch - чи[аоуэ]/chi[aoue] - чео/cheo - че[ау]/ce[au]
-
 2) ж[еэиы]/g[ei] - жё/geo - ж[оаяую]/gi[oau] - ж?ь/gj - жи[аоуэ]/giy[aoue] - жео/gieo - же[ау]/ge[au]
-
 3) к[еы]/ck[ey] - к[ауои]/с[auoy] - к[яюё]/cki[auo] - кэ/cae - ки[аоуэ]/cy[aoue] - ке[аоу]/cke[aou]
-
 4) г[еы]/gh[ey] - г[ауои]/g[auoy] - г[яюё]/ghi[auo] - гэ/gae - ги[аоуэ]/gy[aoue] - ге[аоу]/ghe[aou]
-
 5) с[еауоиы]/s[eauoiy] - сё/seo - с[яю]/si[au] - сэ/se/sae - си[аоуэ]/siy[aoue] - сео/sieo - се[ау]/se[au]
-
 6) ш[еэиыаяуюо]/sh[eiauo] - шё/sheo - ш?ь/sh - ши[аоуэ]/shi[aoue] - шео/shieo - ше[ау]/she[au]
 
 
