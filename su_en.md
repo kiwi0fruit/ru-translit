@@ -383,7 +383,7 @@ I bereg, milyj dlia menia.
 
 ## Пример текста номер 2
 
-### (Вариант с x для кс)
+### (Вариант с x для кс, eo вместо io)
 
 Piyony i vasiljcy vseo jescho rastut na poliane vozle derevni Peony, schitajuschejsia bogatoj.
 
