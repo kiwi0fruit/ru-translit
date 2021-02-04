@@ -24,7 +24,7 @@
 
 **i йотирует только после j**.
 
-*Дополнительные опциональные правила*: **чж - cg[eij]** (в аббревиатуры и инициалы идёт как **Ch**), **кж - ckg[eij]**. Может, стоит ввести и **кс - x, cs (на стыке морфем)**. Xenija вопреки всему даёт инициал **C.**  
+*Дополнительные опциональные правила*: **чж - cg[eij]** (в аббревиатуры и инициалы идёт как **Ch**), **кж - ckg[eij]**. Может, стоит ввести и **кс - x, cs (на стыке морфем)**. Xenija вопреки всему даёт инициал **C.** Ещё можно писать **кв** как **qv** в некоторых словарных словах латинского происхождения.  
 *Ещё* можно для **ё после согласных** (но не после йота или Цц) использовать **eo** вместо **io** (а **eo** после согласных кроме **h** и **k** становится **ieo**: lieo/лео, gheo/гео, ghiol/гёл, geoltoc/жёлток, licio/лицо). Так будет менее логично, но зато чуть более этимологично и будет лучшее переиспользование уже обученных нейросетей в голове. Так же стоит считать, что:
 
 1) ц[еэиы]/c[ei] - ц\_/ць/сj - ц[оёаяую]/ci[oau] - ци[аоуэ]/ciy[aoue] - це[аоуэ]/ce[aoue]
@@ -397,7 +397,7 @@ Piyony i vasiljcy vseo jescho rastut na poliane vozle derevni Peony, schitajusch
 
 Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zeleonom platjiyce vse sadilisj na ladjiy i plyli po recke v strane Cgiunkhua. No tut iz lesa vyshel Dgeordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiyce vse sadilisj na ladjiy i plyli po recke v strane Cgiunkhua. No tut iz lesa vyshel Dgeordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh aqvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu prideotsia mazatj jod na ranu.
 
