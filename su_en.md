@@ -24,7 +24,7 @@
 
 **i йотирует только после j**.
 
-*Дополнительные опциональные правила*: **чж - cg[eij]** (в аббревиатуры и инициалы идёт как **Ch**), **кж - ckg[eij]**. Может, стоит ввести и **кс - x, cs (на стыке морфем)**. Xenija вопреки всему даёт инициал **C.** Так же **xh** после согласных может быть лучшим вариантом, нежели текущий **kh**. Так же интересным выглядит использование **iy** для одинокой **и** - это выглядит лучше, и дополняет уже существующие исключения: ки/cy, ги/gy (но при этом: ии/iyi, их/ih). Но тогда придется писать одинокую **иы** как **iyy**... Так же можно писать **iyi** вместо **ii**.  
+*Дополнительные опциональные правила*: **чж - cg[eij]** (в аббревиатуры и инициалы идёт как **Ch**), **кж - ckg[eij]**. Может, стоит ввести и **кс - x, cs (на стыке морфем)**. Xenija вопреки всему даёт инициал **C.**  
 *Ещё* можно для **ё после согласных** (но не после йота или Цц) использовать **eo** вместо **io** (а **eo** после согласных кроме **h** и **k** становится **ieo**: lieo/лео, gheo/гео, ghiol/гёл, geoltoc/жёлток, licio/лицо). Так будет менее логично, но зато чуть более этимологично и будет лучшее переиспользование уже обученных нейросетей в голове.
 
 **Если "ке" читается как "кэ", то писать стоит "cae" вместо "cke".**
@@ -383,47 +383,47 @@ I bereg, milyj dlia menia.
 
 ## Пример текста номер 2
 
-### (Вариант с iy для одинокой и, iyi для ии, x для кс, xh для ха после согласных)
+### (Вариант с x для кс)
 
-Piyony iy vasiljcy vseo jescho rastut na poliane vozle derevni Peony, schitajuschejsia bogatoj.
+Piyony i vasiljcy vseo jescho rastut na poliane vozle derevni Peony, schitajuschejsia bogatoj.
 
 Pjianyj master po proectu sdelal mehanichescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zeleonom platjiyce vse sadilisj na ladjiy iy plyli po recke v strane Cgiunxhua. No tut iz lesa vyshel Dgeordgj Maximus, conj v paljto iy rvanyh dginsah, cotoryj chto-to vyiscyval, iy pricazal vsem mytjsia iy gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiyce vse sadilisj na ladjiy i plyli po recke v strane Cgiunkhua. No tut iz lesa vyshel Dgeordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu prideotsia mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu exelia iy vozmutilsia cenoj novogo excavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot iy daljshe, to biudgetu prideotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliciu exelia i vozmutilsia cenoj novogo excavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
-V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij iy pohogj na nejo.
+V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas schotca novaja, no pozge ona stanet staraja. Chernysh liubit cogda jego cheshut jeju. Jogj coliuchij i pohogj na nejo.
 
-Sxhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otxhodami companiyi "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On iy nashol vyhod iz situaciyi.
+Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Cezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nashol vyhod iz situacii.
 
-"Cto s mechom c nam prideot, tot ot mecha iy..." - ne smog dogovoritj starshij mehanic Vasilij.
-
-----
-
-Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom iy predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
-
-Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho iy rodilisj v odin denj, 22 sentiabria.
-
-– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, iy denj rogjdenija vmeste otmechali by.
-
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu iy tridciatjiu tremia, posle chego hobbit naconecj moget schitatj sebia vzroslym.
-
-Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da iy chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
-Imejetsia nescoljco gypotez proisxhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc iy necotoryje vidy shacalov.
+Liubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
-V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proisxhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja tieorija).
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescho i rodilisj v odin denj, 22 sentiabria.
+
+– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle chego hobbit naconecj moget schitatj sebia vzroslym.
+
+Proshlo jescho dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+
+----
+
+Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
+
+V sugjdenijah uchonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifiletichescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofiletichescaja tieorija).
 
 ----
 
 Alexandr Pushcyn — Zimneje utro
 
-Moroz iy solnce; denj chudesnyj!  
+Moroz i solnce; denj chudesnyj!  
 Jescho ty dremlesh, drug prelestnyj —  
 Pora, crasavicia, prosnisj:  
 Otcroj somcnuty negoj vzory  
@@ -434,15 +434,15 @@ Vechor, ty pomnish, vjiuga zlilasj,
 Na mutnom nebe mgla nosilasj;  
 Luna, cac blednoje piatno,  
 Scvozj tuchi mrachnyje geltela,  
-Iy ty pechaljnaja sidela —  
+I ty pechaljnaja sidela —  
 A nynche… pogliadi v ocno:
 
 Pod golubymi nebesami  
 Velicolepnymi covrami,  
 Blestia na solnce, sneg legit;  
 Prozrachnyj les odin chernejet,  
-Iy jelj scvozj inej zelenejet,  
-Iy rechca podo ljdom blestit.
+I jelj scvozj inej zelenejet,  
+I rechca podo ljdom blestit.
 
 Vsia comnata jantarnym blescom  
 Ozarena. Veselym trescom  
@@ -454,9 +454,9 @@ Cobylcu buruju zaprech?
 Scoljzia po utrennemu snegu,  
 Drug milyj, predadimsia begu  
 Netoroplivogo conia  
-Iy navestim polia pustyje,  
+I navestim polia pustyje,  
 Lesa, nedavno stolj gustyje,  
-Iy bereg, milyj dlia menia.
+I bereg, milyj dlia menia.
 
 ----
 
@@ -473,20 +473,20 @@ Jejo stepej holodnoje molchanjie,
 Jejo lesov bezbregjnyh colyhanije,  
 Razlivy rec jejo, podobnyje moriam;  
 Proseolochnym puteom liubliu scacatj v teleghe  
-Iy, vzorom medlennym pronzaja nochi tenj,  
+I, vzorom medlennym pronzaja nochi tenj,  
 Vstrechatj po storonam, vzdyhaja o nochleghe,  
 Drogiaschije ogni pechaljnyh derevenj;  
 Liubliu dymoc spaleonnoj gjnivy,  
 V stepi nochujuschij oboz  
-Iy na holme sredj geoltoj nivy  
+I na holme sredj geoltoj nivy  
 Chetu belejuschih bereoz.  
 S otradoj, mnogym neznacomoj,  
 Ja vigiu polnoje gumno,  
 Izbu, pocrytuju solomoj,  
 S reznymi stavniami ocno;  
-Iy v prazdnic, vecherom rosistym,  
+I v prazdnic, vecherom rosistym,  
 Smotretj do polnochi gotov  
-Na pliascu s topanjiem iy svistom  
+Na pliascu s topanjiem i svistom  
 Pod govor pjianyh mugichcov.
 
 // God napisanija: 1841
