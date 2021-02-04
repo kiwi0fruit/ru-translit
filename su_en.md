@@ -478,7 +478,7 @@ Ni teomnoj stariny zavetnyje predanjia
 Ne sheveliat vo mne otradnogo mechtanjia.  
 No ja liubliu — za chto, ne znaju sam —  
 Jejo stepej holodnoje molchanjie,  
-Jejo lesov bezbregjnyh colyhanije,  
+Jejo lesov bezbregjnyh colyhanjie,  
 Razlivy rec jejo, podobnyje moriam;  
 Proseolochnym puteom liubliu scacatj v teleghe  
 I, vzorom medlennym pronzaja nochi tenj,  
