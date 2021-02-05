@@ -413,7 +413,7 @@ Jejo stepej holodnoje molchanjie,
 Jejo lesov bezbregjnyh colyhanjie,  
 Razlivy rec jejo, podobnyje moriam;  
 Proseolochnym puteom liubliu scacatj v teleghe  
-I, vzorom medlennym pronzaja nochi tenj,  
+I, vzorom medlennym pronzaja noci tenj,  
 Vstrechatj po storonam, vzdyhaja o nochleghe,  
 Drogiascije ogni pechaljnyh derevenj;  
 Liubliu dymoc spaleonnoj gjnivy,  
