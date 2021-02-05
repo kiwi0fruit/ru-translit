@@ -1,4 +1,4 @@
-# Англотранс с двойными CG
+# Совлат англотранс с двойным G и тройным C
 
 Краткий конспект (подробности ниже):
  
@@ -384,7 +384,7 @@ Prozrachnyj les odin cernejet,
 I jelj scvozj inej zelenejet,  
 I rechca podo ljdom blestit.
 
-Vsea comnata jantarnym blescom  
+Vsia comnata jantarnym blescom  
 Ozarena. Veseolym trescom  
 Trescit zatoplennaja pech.  
 Prijatno dumatj u legiancy.  
