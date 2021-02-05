@@ -355,9 +355,9 @@ Proshlo jesceo dvenadciatj let. V Zasumcah cagjdyj god veselo otmeceali dvojnoj 
 
 ----
 
-Imejetsea nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami scitajutsea volc i necotoryje vidy shacalov.
+Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami scitajutsia volc i necotoryje vidy shacalov.
 
-V sugjdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni scitajut, chto sobacy - polifileticescaja gruppa (proiskhodeasceaja ot nescoljcyh predcov), drugyje pridergivajutsea mnenija, chto vse sobacy proizoshli ot odnogo predca (monofileticescaja teorija).
+V sugjdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni scitajut, chto sobacy - polifileticescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofileticescaja tieorija).
 
 ----
 
