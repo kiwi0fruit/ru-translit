@@ -1,7 +1,7 @@
 # Англотранс с двойными CG
 
 Краткий конспект (подробности ниже):
-
+ 
 | **a** |  **о**  |  **у**  |  **э**  |        **ы**        |
 |:-----:|:-------:|:-------:|:-------:|:-------------------:|
 |   a   |    o    |    u    |  e/ae   |         y/i/qy      |
@@ -343,15 +343,15 @@ Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodam
 
 ----
 
-Leubimciem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo deveanosto deveatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsea v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconceateljno.
+Liubimciem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
-Sluceaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisj v odin denj, 22 senteabrea.
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisj v odin denj, 22 sentiabria.
 
-– Frodo, maljcic moj, – scazal cac-to raz Biljbo, – perebiralsea by ty co mne. Gleadish, i denj rogjdenija vmeste otmeceali by.
+– Frodo, maljcic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremea, posle cego hobbit naconecj moget scitatj sebea vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle cego hobbit naconecj moget scitatj sebia vzroslym.
 
-Proshlo jesceo dvenadciatj let. V Zasumcah cagjdyj god veselo otmeceali dvojnoj denj rogjdenija, c etomu privycli, no leubomu bylo jasno, chto nyneshnej osenjiu gotovitsea nechto neobychnoje. Biljbo ispolnealosj 111 let – vozrast dlea hobbita vesjma pochtennyj, da i cislo leubopytnoje, nu a Frodo gotovilsea otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+Proshlo jesceo dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
 
 ----
 
