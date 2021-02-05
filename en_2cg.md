@@ -398,3 +398,35 @@ I navestim polia pustyje,
 Lesa, nedavno stolj gustyje,  
 I bereg, milyj dlia menia.
 
+----
+
+Lermontov M.Ju. — Rodina
+
+Liubliu otciznu ja, no strannoju liubovjiu!  
+Ne pobedit jejo rassudoc moj.  
+Ni slava, cuplennaja сrovjiu,  
+Ni polnyj gordogo doverija pocoj,  
+Ni teomnoj stariny zavetnyje predanjia  
+Ne sheveliat vo mne otradnogo mechtanjia.  
+No ja liubliu — za chto, ne znaju sam —  
+Jejo stepej holodnoje molchanjie,  
+Jejo lesov bezbregjnyh colyhanjie,  
+Razlivy rec jejo, podobnyje moriam;  
+Proseolochnym puteom liubliu scacatj v teleghe  
+I, vzorom medlennym pronzaja nochi tenj,  
+Vstrechatj po storonam, vzdyhaja o nochleghe,  
+Drogiascije ogni pechaljnyh derevenj;  
+Liubliu dymoc spaleonnoj gjnivy,  
+V stepi nochujuscij oboz  
+I na holme sredj geoltoj nivy  
+Cetu belejuscih bereoz.  
+S otradoj, mnogym neznacomoj,  
+Ja vigiu polnoje gumno,  
+Izbu, pocrytuju solomoj,  
+S reznymi stavniami ocno;  
+I v prazdnic, vecerom rosistym,  
+Smotretj do polnoci gotov  
+Na pliascu s topanjiem i svistom  
+Pod govor pjianyh mugichcov.
+
+// God napisanija: 1841
