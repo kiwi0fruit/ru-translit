@@ -325,9 +325,9 @@ Vsem *givo* sobratjsia!
 
 ## Пример текста
 
-Piony i vasiljcy vseo jesceo rastut na poleane vozle derevni Peony, scitajuscejsea bogatoj.
+Piyony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejsia bogatoj.
 
-Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsea, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
+Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
 V pjiese pro devushcu v zeleonom platjiycie vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
 
