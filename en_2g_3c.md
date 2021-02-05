@@ -325,19 +325,19 @@ Vsem *givo* sobratjsia!
 
 ## Пример текста
 
-Piyony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejsia bogatoj.
+Piyony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, schitajuscejsia bogatoj.
 
 Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zeleonom platjiycie vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiycie vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
 
-Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsia mazatj jod na ranu.
+Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu prideotsia mazatj jod na ranu.
 
 Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cienoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
-V etom vide fraza ot A do Ja nacinajet vygliadetj sovsem po-drugomu. Sejchas sceotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. Jogj coliucij i pohogj na nejo.
+V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas sceotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. Jogj coliuchij i pohogj na nejo.
 
-Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Ciezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nasheol vyhod iz situaciyi.
+Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Ciezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nasheol vyhod iz situacii.
 
 "Cto s meceom c nam prideot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
@@ -347,7 +347,7 @@ Liubimciem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto dev
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisj v odin denj, 22 sentiabria.
 
-– Frodo, maljcic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmechali by.
+– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmechali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle cego hobbit naconecj moget schitatj sebia vzroslym.
 
