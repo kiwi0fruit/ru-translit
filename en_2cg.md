@@ -333,9 +333,9 @@ V pjiese pro devushcu v zeleonom platjiycie vse sadilisj na ladjiy i plyli po re
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsea mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu exelea i vozmutilsea cienoj novogo excavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelea v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to beudgetu prideotsea hudo.
+Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cienoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
-V etom vide fraza ot A do Ja nacinajet vygleadetj sovsem po-drugomu. Sejceas sceotca novaja, no pozge ona stanet staraja. Chernysh leubit cogda jego ceshut jeju. Jogj coleucij i pohogj na nejo.
+V etom vide fraza ot A do Ja nacinajet vygliadetj sovsem po-drugomu. Sejchas sceotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. Jogj coliucij i pohogj na nejo.
 
 Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Ciezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nasheol vyhod iz situaciyi.
 
