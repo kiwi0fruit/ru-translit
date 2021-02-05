@@ -349,15 +349,15 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisj v odin denj, 22 se
 
 – Frodo, maljcic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle cego hobbit naconecj moget scitatj sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle cego hobbit naconecj moget schitatj sebia vzroslym.
 
-Proshlo jesceo dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+Proshlo jesceo dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
 
 ----
 
 Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami scitajutsia volc i necotoryje vidy shacalov.
 
-V sugjdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni scitajut, chto sobacy - polifileticescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofileticescaja tieorija).
+V sugjdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifileticescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofileticescaja tieorija).
 
 ----
 
@@ -373,7 +373,7 @@ Zvezdoju severa javisj!
 Veceor, ty pomnish, vjiuga zlilasj,  
 Na mutnom nebe mgla nosilasj;  
 Luna, cac blednoje piatno,  
-Scvozj tuci mrachnyje geltela,  
+Scvozj tuchi mrachnyje geltela,  
 I ty pechaljnaja sidela —  
 A nynce… pogliadi v ocno:
 
@@ -386,7 +386,7 @@ I rechca podo ljdom blestit.
 
 Vsia comnata jantarnym blescom  
 Ozarena. Veseolym trescom  
-Trescit zatoplennaja pech.  
+Treschit zatoplennaja pech.  
 Prijatno dumatj u legiancy.  
 No znajesh: ne veletj li v sancy  
 Cobylcu buruju zaprech?
@@ -402,9 +402,9 @@ I bereg, milyj dlia menia.
 
 Lermontov M.Ju. — Rodina
 
-Liubliu otciznu ja, no strannoju liubovjiu!  
+Liubliu otchiznu ja, no strannoju liubovjiu!  
 Ne pobedit jejo rassudoc moj.  
-Ni slava, cuplennaja сrovjiu,  
+Ni slava, cuplennaja crovjiu,  
 Ni polnyj gordogo doverija pocoj,  
 Ni teomnoj stariny zavetnyje predanjia  
 Ne sheveliat vo mne otradnogo mechtanjia.  
@@ -413,19 +413,19 @@ Jejo stepej holodnoje molchanjie,
 Jejo lesov bezbregjnyh colyhanjie,  
 Razlivy rec jejo, podobnyje moriam;  
 Proseolochnym puteom liubliu scacatj v teleghe  
-I, vzorom medlennym pronzaja noci tenj,  
+I, vzorom medlennym pronzaja nochi tenj,  
 Vstrechatj po storonam, vzdyhaja o nochleghe,  
-Drogiascije ogni pechaljnyh derevenj;  
+Drogiaschije ogni pechaljnyh derevenj;  
 Liubliu dymoc spaleonnoj gjnivy,  
-V stepi nochujuscij oboz  
+V stepi nochujuschij oboz  
 I na holme sredj geoltoj nivy  
-Cetu belejuscih bereoz.  
+Cetu belejuschih bereoz.  
 S otradoj, mnogym neznacomoj,  
 Ja vigiu polnoje gumno,  
 Izbu, pocrytuju solomoj,  
 S reznymi stavniami ocno;  
 I v prazdnic, vecerom rosistym,  
-Smotretj do polnoci gotov  
+Smotretj do polnochi gotov  
 Na pliascu s topanjiem i svistom  
 Pod govor pjianyh mugichcov.
 
