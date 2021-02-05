@@ -376,7 +376,7 @@ I jelj scvozj inej zelenejet,
 I rechca podo ljdom blestit.
 
 Vsia comnata jantarnym blescom  
-Ozarena. Veselym trescom  
+Ozarena. Veseolym trescom  
 Treschit zatoplennaja pech.  
 Prijatno dumatj u legiancy.  
 No znajesh: ne veletj li v sancy  
