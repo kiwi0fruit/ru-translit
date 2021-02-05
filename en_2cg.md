@@ -361,40 +361,40 @@ V sugjdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenij
 
 ----
 
-Alexandr Pushcyn — Zimneje utro
+Alecsandr Pushcyn — Zimneje utro
 
-Moroz i solncie; denj ceudesnyj!  
+Moroz i solncie; denj chudesnyj!  
 Jesceo ty dremlesh, drug prelestnyj —  
 Pora, crasavicia, prosnisj:  
 Otcroj somcnuty negoj vzory  
-Navstreceu severnoj Avrory,  
+Navstrechu severnoj Avrory,  
 Zvezdoju severa javisj!
 
 Veceor, ty pomnish, vjiuga zlilasj,  
 Na mutnom nebe mgla nosilasj;  
-Luna, cac blednoje peatno,  
+Luna, cac blednoje piatno,  
 Scvozj tuci mrachnyje geltela,  
-I ty pecealjnaja sidela —  
-A nynce… pogleadi v ocno:
+I ty pechaljnaja sidela —  
+A nynce… pogliadi v ocno:
 
 Pod golubymi nebesami  
 Velicolepnymi covrami,  
-Blestea na solncie, sneg legit;  
+Blestia na solncie, sneg legit;  
 Prozrachnyj les odin cernejet,  
 I jelj scvozj inej zelenejet,  
 I rechca podo ljdom blestit.
 
 Vsea comnata jantarnym blescom  
-Ozarena. Veselym trescom  
+Ozarena. Veseolym trescom  
 Trescit zatoplennaja pech.  
-Prijatno dumatj u legeancy.  
+Prijatno dumatj u legiancy.  
 No znajesh: ne veletj li v sancy  
 Cobylcu buruju zaprech?
 
-Scoljzea po utrennemu snegu,  
-Drug milyj, predadimsea begu  
-Netoroplivogo conea  
-I navestim polea pustyje,  
+Scoljzia po utrennemu snegu,  
+Drug milyj, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyje,  
 Lesa, nedavno stolj gustyje,  
-I bereg, milyj dlea menea.
+I bereg, milyj dlia menia.
 
