@@ -337,9 +337,9 @@ Maer neboljshogo gorodishcy otcryl tabliciu exelea i vozmutilsea cienoj novogo e
 
 V etom vide fraza ot A do Ja nacinajet vygleadetj sovsem po-drugomu. Sejceas sceotca novaja, no pozge ona stanet staraja. Chernysh leubit cogda jego ceshut jeju. Jogj coleucij i pohogj na nejo.
 
-Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Ciezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashol vyhod iz situaciyi.
+Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Ciezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nasheol vyhod iz situaciyi.
 
-"Cto s meceom c nam prideot, tot ot mecea i..." - ne smog dogovoritj starshij mehanic Vasilij.
+"Cto s meceom c nam prideot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
