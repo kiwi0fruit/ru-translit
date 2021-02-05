@@ -329,9 +329,9 @@ Piony i vasiljcy vseo jesceo rastut na poleane vozle derevni Peony, scitajuscejs
 
 Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsea, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zeleonom platjiycie vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsea i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiycie vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
 
-Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsea mazatj jod na ranu.
+Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsia mazatj jod na ranu.
 
 Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cienoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
