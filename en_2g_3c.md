@@ -314,8 +314,8 @@ Vsem *givo* sobratjsia!
 
 Подробнее: 
 
-1) ц[еэиыоёаяую]/ci[eyoau] - ц?ь/сj - ци[аоуэ]/ciy[aoue] - це[аоу]/cie[aou]
-2) ч[еэиы]/c[ei] - чё/ceo - ч[оаяую]/ch[oau] - ч?ь/ch - чи[аоуэ]/chi[aoue] - чео/cheo - че[ау]/ce[au]
+1) ц[иы]/ci, ц[еэоёаяую]/ci[eoau] - ц?ь/cj - ци[аоуэ]/ciy[aoue] - це[аоу]/cie[aou]
+2) ч[еэ]/ce - чё/ceo - ч[иыоаяую]/ch[ioau] - ч?ь/ch - чи[аоуэ]/chi[aoue] - чео/cheo - че[ау]/ce[au]
 2) ж[еэиы]/g[ei] - жё/geo - ж[оаяую]/gi[oau] - ж?ь/gj - жи[аоуэ]/giy[aoue] - жео/gieo - же[ау]/ge[au]
 3) к[еы]/ck[ey] - к[ауои]/с[auoy] - к[яюё]/cki[auo] - кэ/cae - ки[аоуэ]/cy[aoue] - ке[аоу]/cke[aou]
 4) г[еы]/gh[ey] - г[ауои]/g[auoy] - г[яюё]/ghi[auo] - гэ/gae - ги[аоуэ]/gy[aoue] - ге[аоу]/ghe[aou]
