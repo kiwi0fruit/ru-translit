@@ -303,7 +303,7 @@ Vsem *givo* sobratjsia!
 Суть должно быть видно по этим примерам: 
 
 * ке/cke, че/ce, це/cie (ге/ghe, же/ge) 
-* ки/cy, чи/ci, ци/ciy (ги/gy, жи/gi)
+* ки/cy, чи/chi, ци/ci (ги/gy, жи/gi)
 * кё/ckio, чё/ceo, цо/cio, чо/cho (гё/ghio, жё/geo, жо/gio)
 * кя/ckia, ча/cha, ца/cia (гя/ghia, жа/gia) 
 * мя/mia, меч/mech, лечь/lech, ниц/nicj, рож/rogj, трожь/trogj, чиа/chia, чем/cem 
