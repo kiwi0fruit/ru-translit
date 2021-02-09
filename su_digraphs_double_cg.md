@@ -304,22 +304,23 @@ Vsem *givo* sobratjsia!
 
 * ке/cke, че/ce, це/cze, ге/ghe, же/ge
 * ки/cy, чи/ci, ци/czi, ги/gy, жи/gi
-* кё/ckio, чё/ceo, чо/cho, цо/czo, цё/czo, гё/ghio, жё/geo, жо/gio
+* кё/ckeo, чё/ceo, чо/cho, цо/czo, цё/czeo, гё/gheo, жё/geo, жо/gio
 * кя/ckia, ча/cha, ца/cza (гя/ghia, жа/gia) 
-* мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/chia, чем/cem, географ/gaeograf, паникёр/panickeor
+* мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/chia, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog, отцы/otczy
 
 |       | и   | ы   | [еэ] | ё    | о   | [ая] | [ую] | ео    | и[ауоэ]   | .   | ь   | аббр. |
 | ----- | --- | --- | ---- | ---- | --- | ---- | ---- | ----- | --------- | --- | --- | ----- |
-| **ц** | czi | czy | cze  | czo  | czo | cza  | czu  | czeo  | czi[auoe] | cz. | czj | Cz    |
-| **ч** | ci  | ci  | ce   | ceo  | cho | cha  | chu  | cheo  | chi[auoe] | ch. | cj  | Ch    |
+| **ц** | czi | czy | cze  | czeo | czo | cza  | czu  | czieo | czi[auoe] | cz. | czj | Cz    |
+| **ч** | ci  | ci  | ce   | ceo  | cho | cha  | chu  | cieo  | chi[auoe] | ch. | cj  | Ch    |
 | **ж** | gi  | gi  | ge   | geo  | gio | gia  | giu  | gieo  | gzi[auoe] | gz. | gj  | Gz    |
 | **ш** | shi | shi | she  | sheo | sho | sha  | shu  | shieo | shi[auoe] | sh. | shj | Sh    |
 | **щ** | сч  |     |      |      |     |      |      |       |           |     |     | Sch   |
 
-|       | и  | [ауо]  | э   | ё    | [яю]    | [еыь]   | ео   | эо    | и[ауоэ]  | аббр. |
-| ----- | -- | ------ | --- | ---- | ------- | ------- | ---- | ----- | -------- | ----- |
-| **к** | cy | c[auo] | cae | ckeo | cki[au] | ck[eyj] | caeo | ckaeo | cy[auoe] | C/Ck  |
-| **г** | gy | g[auo] | gae | gheo | ghi[au] | gh[eyj] | gaeo | ghaeo | gy[auoe] | G/Gh  |
+|       | и  | [ауо]  | э   | ё    | [яю]    | [еыь]   | ео   | эо    | и[ауоэ]   | аббр. |
+| ----- | -- | ------ | --- | ---- | ------- | ------- | ---- | ----- | --------- | ----- |
+| **к** | cy | c[auo] | cae | ckeo | cki[au] | ck[eyj] | caeo | ckaeo | cy[auoe]  | C/Ck  |
+| **г** | gy | g[auo] | gae | gheo | ghi[au] | gh[eyj] | gaeo | ghaeo | gy[auoe]  | G/Gh  |
+| **с** | si | s[auo] | sae | seo  | si[au]  | s[eyj]  | sieo | saeo  | siy[auoe] | S     |
 
 ОБЖ/OBGz, ЖИ/GZI, ГЗИ/GhZI,  
 ЦПУ/CzPU, ЦИ/CZI, КЗИ/CkZI,  
@@ -328,17 +329,7 @@ Vsem *givo* sobratjsia!
 США/SShA, ШИ/SHI, СХИ/SkHI  
 ЕГЭ/JEGE, ЙЭ/JIE, ЙИ/JII
 
-Тут вводится специальное правило, что в аббревиатурах после строчных z и h нельзя писать заглавную I - чтобы не путать со строчной L (l). Нельзя: ChI, ChII, ChIM. Нужно в качестве исключения писать CHI, CHII, CHIM. С этим и в аббревиатурах будут C,Cz,Ch,Ck,G,Gz,Gh,Sh,Sch.
-
-Чуть подробнее: 
-
-1) ц[иы]/ci, ц[еэоёаяую]/ci[eoau] - ц?ь/cj - ци[аоуэ]/ciy[aoue] - це[аоу]/cie[aou]
-2) ч[еэ]/ce - чё/ceo - ч[иыоаяую]/ch[ioau] - ч?ь/ch - чи[аоуэ]/chi[aoue] - чео/cheo - че[ау]/ce[au]
-2) ж[еэиы]/g[ei] - жё/geo - ж[оаяую]/gi[oau] - ж?ь/gj - жи[аоуэ]/giy[aoue] - жео/gieo - же[ау]/ge[au]
-3) к[еы]/ck[ey] - к[ауои]/с[auoy] - к[яюё]/cki[auo] - кэ/cae - ки[аоуэ]/cy[aoue] - ке[аоу]/cke[aou]
-4) г[еы]/gh[ey] - г[ауои]/g[auoy] - г[яюё]/ghi[auo] - гэ/gae - ги[аоуэ]/gy[aoue] - ге[аоу]/ghe[aou]
-5) с[еауоиы]/s[eauoiy] - сё/seo - с[яю]/si[au] - сэ/se/sae - си[аоуэ]/siy[aoue] - сео/sieo - се[ау]/se[au]
-6) ш[еэиыаяуюо]/sh[eiauo] - шё/sheo - ш?ь/sh - ши[аоуэ]/shi[aoue] - шео/shieo - ше[ау]/she[au]
+Тут вводится специальное правило, что в аббревиатурах после строчных z и h нельзя писать заглавную i (I) - чтобы не путать со строчной L (l). Нельзя: ChI, ChII, ChIM. Нужно в качестве исключения писать CHI, CHII, CHIM. С этим и в аббревиатурах будут C,Cz,Ch,Ck,G,Gz,Gh,Sh,Sch.
 
 
 ## Пример текста
