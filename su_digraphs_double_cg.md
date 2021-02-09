@@ -334,71 +334,71 @@ Vsem *givo* sobratjsia!
 
 ## Пример текста
 
-Piyony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, schitajuscejsia bogatoj.
+Piyony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejsia bogatoj.
 
 Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zeleonom platjiycie vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgj Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znachit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiycze vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgz Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
 
-Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znachit jemu prideotsia mazatj jod na ranu.
+Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsia mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliciu ecselia i vozmutilsia cienoj novogo ecscavatora. Agj eczema snova stala jego bespocoitj. Oh ugj eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliczu ecselia i vozmutilsia czenoj novogo ecscavatora. Agz eckzema snova stala jego bespocoitj. Oh ugz eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
-V etom vide fraza ot A do Ja nachinajet vygliadetj sovsem po-drugomu. Sejchas sceotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. Jogj coliuchij i pohogj na nejo.
+V etom vide fraza ot A do Ja nacinajet vygliadetj sovsem po-drugomu. Sejchas sceotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. Jogz coliucij i pohogz na nejo.
 
-Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Ciezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On i nasheol vyhod iz situacii.
+Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Ciezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nasheol vyhod iz situaczii.
 
 "Cto s meceom c nam prideot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
-Liubimciem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugj vse nadegjdy Dericulj-Baegginsov, davno s vogjdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimczem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugz vse nadegzdy Dericulj-Baegginsov, davno s vogzdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisj v odin denj, 22 sentiabria.
 
-– Frodo, maljchic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadish, i denj rogjdenija vmeste otmechali by.
+– Frodo, maljcic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadishj, i denj rogzdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megjdu dvadciatjiu i tridciatjiu tremia, posle cego hobbit naconecj moget schitatj sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megzdu dvadczatjiu i tridczatjiu tremia, posle cego hobbit naconecz moget scitatj sebia vzroslym.
 
-Proshlo jesceo dvenadciatj let. V Zasumcah cagjdyj god veselo otmechali dvojnoj denj rogjdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i chislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridciatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+Proshlo jesceo dvenadczatj let. V Zasumcah cagzdyj god veselo otmechali dvojnoj denj rogzdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridczatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
 
 ----
 
-Imejetsia nescoljco gypotez proiskhogjdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsia volc i necotoryje vidy shacalov.
+Imejetsia nescoljco gypotez proiskhogzdenija sobacy, naiboleje verojatnymi jejo predcami scitajutsia volc i necotoryje vidy shacalov.
 
-V sugjdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polifileticescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofileticescaja tieorija).
+V sugzdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni scitajut, chto sobacy - polifileticescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofileticescaja tieorija).
 
 ----
 
 Alecsandr Pushcyn — Zimneje utro
 
-Moroz i solncie; denj chudesnyj!  
-Jesceo ty dremlesh, drug prelestnyj —  
-Pora, crasavicia, prosnisj:  
+Moroz i solncze; denj chudesnyj!  
+Jesceo ty dremleshj, drug prelestnyj —  
+Pora, crasavicza, prosnisj:  
 Otcroj somcnuty negoj vzory  
 Navstrechu severnoj Avrory,  
 Zvezdoju severa javisj!
 
-Veceor, ty pomnish, vjiuga zlilasj,  
+Veceor, ty pomnishj, vjiuga zlilasj,  
 Na mutnom nebe mgla nosilasj;  
 Luna, cac blednoje piatno,  
-Scvozj tuchi mrachnyje geltela,  
+Scvozj tuci mrachnyje geltela,  
 I ty pechaljnaja sidela —  
 A nynce… pogliadi v ocno:
 
 Pod golubymi nebesami  
 Velicolepnymi covrami,  
-Blestia na solncie, sneg legit;  
+Blestia na solncze, sneg legit;  
 Prozrachnyj les odin cernejet,  
 I jelj scvozj inej zelenejet,  
 I rechca podo ljdom blestit.
 
 Vsia comnata jantarnym blescom  
 Ozarena. Veseolym trescom  
-Treschit zatoplennaja pech.  
+Trescit zatoplennaja pecj.  
 Prijatno dumatj u legiancy.  
-No znajesh: ne veletj li v sancy  
-Cobylcu buruju zaprech?
+No znajeshj: ne veletj li v sancy  
+Cobylcu buruju zaprecj?
 
 Scoljzia po utrennemu snegu,  
 Drug milyj, predadimsia begu  
@@ -411,7 +411,7 @@ I bereg, milyj dlia menia.
 
 Lermontov M.Ju. — Rodina
 
-Liubliu otchiznu ja, no strannoju liubovjiu!  
+Liubliu otciznu ja, no strannoju liubovjiu!  
 Ne pobedit jejo rassudoc moj.  
 Ni slava, cuplennaja crovjiu,  
 Ni polnyj gordogo doverija pocoj,  
@@ -419,22 +419,22 @@ Ni teomnoj stariny zavetnyje predanjia
 Ne sheveliat vo mne otradnogo mechtanjia.  
 No ja liubliu — za chto, ne znaju sam —  
 Jejo stepej holodnoje molchanjie,  
-Jejo lesov bezbregjnyh colyhanjie,  
+Jejo lesov bezbregznyh colyhanjie,  
 Razlivy rec jejo, podobnyje moriam;  
 Proseolochnym puteom liubliu scacatj v teleghe  
-I, vzorom medlennym pronzaja nochi tenj,  
+I, vzorom medlennym pronzaja noci tenj,  
 Vstrechatj po storonam, vzdyhaja o nochleghe,  
-Drogiaschije ogni pechaljnyh derevenj;  
-Liubliu dymoc spaleonnoj gjnivy,  
-V stepi nochujuschij oboz  
+Drogiascije ogni pechaljnyh derevenj;  
+Liubliu dymoc spaleonnoj gznivy,  
+V stepi nochujuscij oboz  
 I na holme sredj geoltoj nivy  
-Cetu belejuschih bereoz.  
+Cetu belejuscih bereoz.  
 S otradoj, mnogym neznacomoj,  
 Ja vigiu polnoje gumno,  
 Izbu, pocrytuju solomoj,  
 S reznymi stavniami ocno;  
 I v prazdnic, vecerom rosistym,  
-Smotretj do polnochi gotov  
+Smotretj do polnoci gotov  
 Na pliascu s topanjiem i svistom  
 Pod govor pjianyh mugichcov.
 
