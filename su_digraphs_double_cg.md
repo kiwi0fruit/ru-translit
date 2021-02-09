@@ -303,9 +303,9 @@ Vsem *givo* sobratjsia!
 |       | и   | ы   | еэ  | ё    | о   | ая  | ую  | .  | ь   | аббр. |
 | ----- | --- | --- | --- | ---- | --- | --- | --- | -- | --- | ----- |
 | **ц** | czi | czy | cze | czo  | czo | cza | czu | cz | czj | Cz    |
-| **ч** | ci  | ci  | ce  | ceo  | cho | cha | chu | ch | chj | Ch    |
-| **ж** | gi  | gi  | ge  | geo  | gio | gia | giu | gz | gzj | Gz    |
-| **ш** | shi | shy | she | sheo | sho | sha | shu | sh | shj | Sh    |
+| **ч** | ci  | ci  | ce  | ceo  | cho | cha | chu | ch | cj  | Ch    |
+| **ж** | gi  | gi  | ge  | geo  | gio | gia | giu | gz | gj  | Gz    |
+| **ш** | shi | shi | she | sheo | sho | sha | shu | sh | shj | Sh    |
 | **щ** | сч  |     |     |      |     |     |     |    |     | Sch   |
 
 |       | и  | [ауо]  | э   | [яюё]    | [еыь]   | аббр. |
@@ -313,7 +313,7 @@ Vsem *givo* sobratjsia!
 | **к** | cy | c[auo] | cae | cki[auo] | ck[eyj] | C/Ck  |
 | **г** | gy | g[auo] | gae | ghi[auo] | gh[eyj] | G/Gh  |
 
-Суть должно быть видно по этим примерам: 
+Суть должно быть видно по этим примерам:
 
 * ке/cke, че/ce, це/cie (ге/ghe, же/ge) 
 * ки/cy, чи/chi, ци/ci (ги/gy, жи/gi)
