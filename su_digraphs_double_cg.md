@@ -54,7 +54,7 @@ Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodam
 
 ----
 
-Liubimczem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugz vse nadegzdy Dericulj-Baegginsov, davno s vogzdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
+Liubimczem Biljbo byl junyj Frodo Baeggyns. Cogda Biljbo stucnulo devianosto deviatj, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugz vse nadegzdy Dericulj-Baeggynsov, davno s vogzdelenijem posmatrivavshih na usadjbu, ruhnuli oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisj v odin denj, 22 sentiabria.
 
