@@ -101,7 +101,7 @@ I rechca podo ljdom blestit.
 Vsia comnata jantarnym blescom  
 Ozarena. Veseolym trescom  
 Trescit zatoplennaja pecj.  
-Prijatno dumatj u legiancy.  
+Prijatno dumatj u legzancy.  
 No znajeshj: ne veletj li v sancy  
 Cobylcu buruju zaprecj?
 
@@ -129,13 +129,13 @@ Razlivy rec jejo, podobnyje moriam;
 Proseolochnym puteom liubliu scacatj v teleghe  
 I, vzorom medlennym pronzaja noci tenj,  
 Vstrechatj po storonam, vzdyhaja o nochleghe,  
-Drogiascije ogni pechaljnyh derevenj;  
+Drogzascije ogni pechaljnyh derevenj;  
 Liubliu dymoc spaleonnoj gznivy,  
 V stepi nochujuscij oboz  
 I na holme sredj geoltoj nivy  
 Cetu belejuscih bereoz.  
 S otradoj, mnogym neznacomoj,  
-Ja vigiu polnoje gumno,  
+Ja vigzu polnoje gumno,  
 Izbu, pocrytuju solomoj,  
 S reznymi stavniami ocno;  
 I v prazdnic, vecerom rosistym,  
