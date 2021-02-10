@@ -18,11 +18,11 @@
 | **ш** | shi | shi | she  | sheo | sho | sha  | shu  | shieo | shi[auoe] | sh. | shj | Sh    |
 | **щ** | сч  |     |      |      |     |      |      |       |           |     |     | Sch   |
 
-|       | и  | [ауо]  | э   | ё    | [яю]    | [еыь]   | ео   | эо    | и[ауоэ]   | аббр. |
-| ----- | -- | ------ | --- | ---- | ------- | ------- | ---- | ----- | --------- | ----- |
-| **к** | cy | c[auo] | cae | ckeo | cki[au] | ck[eyj] | caeo | ckaeo | cy[auoe]  | C/Ck  |
-| **г** | gy | g[auo] | gae | gheo | ghi[au] | gh[eyj] | gaeo | ghaeo | gy[auoe]  | G/Gh  |
-| **с** | si | s[auo] | sae | seo  | si[au]  | s[eyj]  | sieo | saeo  | siy[auoe] | S     |
+|       | и  | [ауо]  | э   | ё    | [яю]    | [еыь]   | ео    | эо    | и[ауоэ]   | аббр. |
+| ----- | -- | ------ | --- | ---- | ------- | ------- | ----- | ----- | --------- | ----- |
+| **к** | cy | c[auo] | cae | ckeo | cki[au] | ck[eyj] | ckieo | caeo  | cy[auoe]  | C/Ck  |
+| **г** | gy | g[auo] | gae | gheo | ghi[au] | gh[eyj] | gaeo  | ghaeo | gy[auoe]  | G/Gh  |
+| **с** | si | s[auo] | sae | seo  | si[au]  | s[eyj]  | sieo  | saeo  | siy[auoe] | S     |
 
 ОБЖ/OBGz, ЖИ/GZI, ГЗИ/GhZI,  
 ЦПУ/CzPU, ЦИ/CZI, КЗИ/CkZI,  
