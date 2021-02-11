@@ -13,10 +13,10 @@
 
 |       | и   | ы   | [еэ] | ё    | [оаяую.] | аэ    | иэо    | [еэ]о | и[ауоэ]   | force [яю] | frc ы | frc э | ь   | аббр. |
 | ----- | --- | --- | ---- | ---- | -------- | ----- | ------ | ----- | --------- | ---------- | ----- | ----- | --- | ----- |
-| **ц** | czi | czy | cze  | czeo | cz[oau.] | czaae | cziyeo | czieo | czi[auoe] | wcz[au]    | czy   | czae  | czj | Cz    |
-| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chaae | ciyeo  | cieo  | ci[auoe]  | wch[au]    | chy   | chae  | cj  | Ch    |
-| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzaae | giyeo  | gieo  | gi[auoe]  | wgz[au]    | gzy   | gzae  | gj  | Gz    |
-| **ш** | shi | shy | she  | sheo | sh[oau.] | shaae | shiyeo | shieo | shi[auoe] | wsh[au]    | shy   | shae  | shj | Sh    |
+| **ц** | czi | czy | cze  | czeo | cz[oau.] | czaae | cziyeo | czieo | czy[auoe] | czi[au]    | czy   | czae  | czj | Cz    |
+| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chaae | ciyeo  | cieo  | chy[auoe] | chi[au]    | chy   | chae  | cj  | Ch    |
+| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzaae | giyeo  | gieo  | gzy[auoe] | gzi[au]    | gzy   | gzae  | gj  | Gz    |
+| **ш** | shi | shy | she  | sheo | sh[oau.] | shaae | shiyeo | shieo | shy[auoe] | shi[au]    | shy   | shae  | shj | Sh    |
 | **щ** | сч  |     |      |      |          |       |        |       |           |            |       |       |     | Sch   |
 
 |       | и  | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | аэ   | ь   | аббр. |
