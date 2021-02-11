@@ -11,13 +11,13 @@
 * мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/chia, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog, отцы/otczy
 
 
-|       | и   | ы   | [еэ] | ё    | о   | [ая] | [ую] | ео    | и[ауоэ]   | .   | ь   | аббр. |
-| ----- | --- | --- | ---- | ---- | --- | ---- | ---- | ----- | --------- | --- | --- | ----- |
-| **ц** | czi | czy | cze  | czeo | czo | cza  | czu  | czieo | czi[auoe] | cz. | czj | Cz    |
-| **ч** | ci  | ci  | ce   | ceo  | cho | cha  | chu  | cieo  | chi[auoe] | ch. | cj  | Ch    |
-| **ж** | gi  | gi  | ge   | geo  | gzo | gza  | gzu  | gieo  | gzi[auoe] | gz. | gj  | Gz    |
-| **ш** | shi | shi | she  | sheo | sho | sha  | shu  | shieo | shi[auoe] | sh. | shj | Sh    |
-| **щ** | сч  |     |      |      |     |      |      |       |           |     |     | Sch   |
+|       | и   | ы   | [еэ] | ё    | [оаяую.] | force ы | force э | ео    | и[ауоэ]   | force [яю] | ь   | аббр. |
+| ----- | --- | --- | ---- | ---- | -------- | ------- | ------- | ----- | --------- | ---------- | --- | ----- |
+| **ц** | czi | czy | cze  | czeo | cz[oau.] | czy     | czae    | czieo | czi[auoe] | wcz[au]    | czj | Cz    |
+| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chy     | chae    | cieo  | ci[auoe]  | wch[au]    | cj  | Ch    |
+| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzy     | gzae    | gieo  | gi[auoe]  | wgz[au]    | gj  | Gz    |
+| **ш** | shi | shy | she  | sheo | sh[oau.] | shy     | shae    | shieo | shi[auoe] | wsh[au]    | shj | Sh    |
+| **щ** | сч  |     |      |      |          |         |         |       |           |            |     | Sch   |
 
 |       | и  | ы   | е   | э   | ё    | [оау]  | [яю]    | ео   | эо    | и[ауоэ]   | .  | ь   | аббр. |
 | ----- | -- | --- | --- | --- | ---- | ------ | ------- | ---- | ----- | --------- | -- | --- | ----- |
