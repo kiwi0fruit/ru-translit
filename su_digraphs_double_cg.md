@@ -11,18 +11,18 @@
 * мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/chia, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog, отцы/otczy
 
 
-|       | и   | ы   | [еэ] | ё    | [оаяую.] | аэ   | иэо    | [еэ]о | и[ауоэ]   | force [яюэ] | force ы | ь   | аббр. |
-| ----- | --- | --- | ---- | ---- | -------- | ---- | ------ | ----- | --------- | ----------- | ------- | --- | ----- |
-| **ц** | czi | czy | cze  | czeo | cz[oau.] | czae | cziyeo | czieo | czi[auoe] | wcz[aue]    | czy     | czj | Cz    |
-| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chae | ciyeo  | cieo  | ci[auoe]  | wch[aue]    | chy     | cj  | Ch    |
-| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzae | giyeo  | gieo  | gi[auoe]  | wgz[aue]    | gzy     | gj  | Gz    |
-| **ш** | shi | shy | she  | sheo | sh[oau.] | shae | shiyeo | shieo | shi[auoe] | wsh[aue]    | shy     | shj | Sh    |
-| **щ** | сч  |     |      |      |          |      |        |       |           |             |         |     | Sch   |
+|       | и   | ы   | [еэ] | ё    | [оаяую.] | аэ    | иэо    | [еэ]о | и[ауоэ]   | force [яю] | frc.ы | frc.э | ь   | аббр. |
+| ----- | --- | --- | ---- | ---- | -------- | ----- | ------ | ----- | --------- | ---------- | ----- | ----- | --- | ----- |
+| **ц** | czi | czy | cze  | czeo | cz[oau.] | czaae | cziyeo | czieo | czi[auoe] | wcz[au]    | czy   | czae  | czj | Cz    |
+| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chaae | ciyeo  | cieo  | ci[auoe]  | wch[au]    | chy   | chae  | cj  | Ch    |
+| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzaae | giyeo  | gieo  | gi[auoe]  | wgz[au]    | gzy   | gzae  | gj  | Gz    |
+| **ш** | shi | shy | she  | sheo | sh[oau.] | shaae | shiyeo | shieo | shi[auoe] | wsh[au]    | shy   | shae  | shj | Sh    |
+| **щ** | сч  |     |      |      |          |       |        |       |           |            |       |       |     | Sch   |
 
 |       | и  | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | аэ   | ь   | аббр. |
 | ----- | -- | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | ---- | --- | ----- |
-| **к** | cy | cky | cke | cae | ckeo | c[oau.] | cki[au] | caeo | ckaeo | cy[aue]  | cyo | ckae | ckj | C/Ck  |
-| **г** | gy | ghy | ghe | gae | gheo | g[oau.] | ghi[au] | gaeo | ghaeo | gy[aue]  | gyo | ghae | ghj | G/Gh  |
+| **к** | cy | cky | cke | cae | ckeo | c[oau.] | cki[au] | caeo | ckaeo | cy[aue]  | cyo | caae | ckj | C/Ck  |
+| **г** | gy | ghy | ghe | gae | gheo | g[oau.] | ghi[au] | gaeo | ghaeo | gy[aue]  | gyo | gaae | ghj | G/Gh  |
 | **с** | si | sy  | se  | sae | seo  | s[oau.] | si[au]  | sieo | saeo  | siy[aue] | sio | saae | sj  | S     |
 
 **Про диграфы cz и gz**. Стоит отметить, что рукописная буква z выглядит либо как рукописная цифра 2 с угловатым верхом, либо как кириллическая рукописная "з" с хвостиком внизу, но более угловатая сверху. Когда z отдельно это смотрится нормально, а вот в диграфах cz и gz оба варианта написания z смотрятся плохо. В этом случае стоит использовать специальные рукописные лигатуры. Для cz - рукописная "ц" с петелькой, "c" идет в первую палку "ц", а "z" (вариант с петелькой) идет во вторую палку "ц" и петельку (заглавный вариант тоже должен выглядеть как рукописная "Ц"). Для gz - рукописная "g", к которой справа вплотную добавлена кириллическая буква "з" без петельки внизу (будто стяжка на правой дуге рукописной буквы "ф"). Заглавный вариант выглядит как рукописная "G", у которой внутренняя палочка является началом рукописной "z" (вариант с петелькой). Обе лигатуры легко писать и они имеют в себе логическую связь с составляющими их буквами.
