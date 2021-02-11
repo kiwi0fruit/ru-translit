@@ -11,13 +11,13 @@
 * мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/chia, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog, отцы/otczy
 
 
-|       | и   | ы   | [еэ] | ё    | [оаяую.] | force ы | force э | ео    | и[ауоэ]   | force [яю] | ь   | аббр. |
-| ----- | --- | --- | ---- | ---- | -------- | ------- | ------- | ----- | --------- | ---------- | --- | ----- |
-| **ц** | czi | czy | cze  | czeo | cz[oau.] | czy     | czae    | czieo | czi[auoe] | wcz[au]    | czj | Cz    |
-| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chy     | chae    | cieo  | ci[auoe]  | wch[au]    | cj  | Ch    |
-| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzy     | gzae    | gieo  | gi[auoe]  | wgz[au]    | gj  | Gz    |
-| **ш** | shi | shy | she  | sheo | sh[oau.] | shy     | shae    | shieo | shi[auoe] | wsh[au]    | shj | Sh    |
-| **щ** | сч  |     |      |      |          |         |         |       |           |            |     | Sch   |
+|       | и   | ы   | [еэ] | ё    | [оаяую.] | force ы | иэ    | [еэ]о | и[ауо]   | force [яюэ] | ь   | аббр. |
+| ----- | --- | --- | ---- | ---- | -------- | ------- | ----- | ----- | -------- | ----------- | --- | ----- |
+| **ц** | czi | czy | cze  | czeo | cz[oau.] | czy     | cziye | czieo | czi[auo] | wcz[aue]    | czj | Cz    |
+| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chy     | ciye  | cieo  | ci[auo]  | wch[aue]    | cj  | Ch    |
+| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzy     | giye  | gieo  | gi[auo]  | wgz[aue]    | gj  | Gz    |
+| **ш** | shi | shy | she  | sheo | sh[oau.] | shy     | shiye | shieo | shi[auo] | wsh[aue]    | shj | Sh    |
+| **щ** | сч  |     |      |      |          |         |       |       |          |             |     | Sch   |
 
 |       | и  | ы   | е   | э   | ё    | [оау]  | [яю]    | ео   | эо    | и[ауоэ]   | .  | ь   | аббр. |
 | ----- | -- | --- | --- | --- | ---- | ------ | ------- | ---- | ----- | --------- | -- | --- | ----- |
