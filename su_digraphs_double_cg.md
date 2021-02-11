@@ -39,7 +39,7 @@
 
 ## Пример текста
 
-Piyony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejsia bogatoj.
+Piony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejsia bogatoj. V nej rodilsia izvestnyj piyanist.
 
 Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
