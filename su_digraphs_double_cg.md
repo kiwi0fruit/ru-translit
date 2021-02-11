@@ -11,13 +11,13 @@
 * мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/ciya, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog (исключение), отцы/otczy
 
 
-|       | и   | ы   | [еэ] | ё   | [оау.]   | [еэ]о | ио   | и[ауэ]    | [яю]     | frc ы | frc э | ь   | аббр. |
-| ----- | --- | --- | --- | ---- | -------- | ----- | ---- | --------- | -------- | ----- | ----- | --- | ----- |
-| **ц** | czi | czy | cze | czeo | cz[oau.] | czieo | czio | cziy[aue] | czi[au]  | czy   | czae  | czj | Cz    |
-| **ч** | ci  | ci  | ce  | ceo  | ch[oau.] | cieo  | cio  | ciy[aue]  | ci[au]   | chy   | chae  | cj  | Ch    |
-| **ж** | gi  | gi  | ge  | geo  | gz[oau.] | gieo  | gio  | giy[aue]  | gi[au]   | gzy   | gzae  | gj  | Gz    |
-| **ш** | shi | shy | she | sheo | sh[oau.] | shieo | shio | shiy[aue] | shi[au]  | shy   | shae  | shj | Sh    |
-| **щ** | сч  |     |     |      |          |       |      |           |          |       |       |     | Sch   |
+|       | и   | ы   | е   | ё    | [оау.]   | [еэ]о | ио   | и[ауэ]    | [яю]     | э    | ь   | аббр. |
+| ----- | --- | --- | --- | ---- | -------- | ----- | ---- | --------- | -------- | ---- | --- | ----- |
+| **ц** | czi | czy | cze | czeo | cz[oau.] | czieo | czio | cziy[aue] | czi[au]  | czae | czj | Cz    |
+| **ч** | ci  | chy | ce  | ceo  | ch[oau.] | cieo  | cio  | ciy[aue]  | ci[au]   | chae | cj  | Ch    |
+| **ж** | gi  | gzy | ge  | geo  | gz[oau.] | gieo  | gio  | giy[aue]  | gi[au]   | gzae | gj  | Gz    |
+| **ш** | shi | shy | she | sheo | sh[oau.] | shieo | shio | shiy[aue] | shi[au]  | shae | shj | Sh    |
+| **щ** | сч  |     |     |      |          |       |      |           |          |      |     | Sch   |
 
 |       | и      | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | ь   | аббр. |
 | ----- | ------ | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | --- | ----- |
