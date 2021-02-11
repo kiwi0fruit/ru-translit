@@ -19,6 +19,8 @@
 | **ш** | shi | shy | she  | sheo | sh[oau.] | shaae | shiyeo | shieo | shi[auoe] | wsh[au]    | shy   | shae  | shj | Sh    |
 | **щ** | сч  |     |      |      |          |       |        |       |           |            |       |       |     | Sch   |
 
+`chi[auoe]` значит тоже самое, что и `ci[auoe]`, но никогда не используется. Аналогично с `che` и `ce`, `chieo` и `cieo`.
+
 |       | и  | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | аэ   | ь   | аббр. |
 | ----- | -- | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | ---- | --- | ----- |
 | **к** | cy | cky | cke | cae | ckeo | c[oau.] | cki[au] | caeo | ckaeo | cy[aue]  | cyo | caae | ckj | C/Ck  |
