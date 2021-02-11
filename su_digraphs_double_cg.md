@@ -11,13 +11,13 @@
 * мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/chia, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog, отцы/otczy
 
 
-|       | и   | ы   | [еэ] | ё    | [оаяую.] | аэ    | иэо    | [еэ]о | и[ауоэ]   | force [яю] | frc ы | frc э | ь   | аббр. |
-| ----- | --- | --- | ---- | ---- | -------- | ----- | ------ | ----- | --------- | ---------- | ----- | ----- | --- | ----- |
-| **ц** | czi | czy | cze  | czeo | cz[oau.] | czaae | cziyeo | czieo | czy[auoe] | czi[au]    | czy   | czae  | czj | Cz    |
-| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chaae | ciyeo  | cieo  | chy[auoe] | ci[au]     | chy   | chae  | cj  | Ch    |
-| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzaae | giyeo  | gieo  | gzy[auoe] | gi[au]     | gzy   | gzae  | gj  | Gz    |
-| **ш** | shi | shy | she  | sheo | sh[oau.] | shaae | shiyeo | shieo | shy[auoe] | shi[au]    | shy   | shae  | shj | Sh    |
-| **щ** | сч  |     |      |      |          |       |        |       |           |            |       |       |     | Sch   |
+|       | и   | ы   | [еэ] | ё    | [оаяую.] | аэ    | иэо   | [еэ]о | и[ауоэ]   | force [яю] | frc ы | frc э | ь   | аббр. |
+| ----- | --- | --- | ---- | ---- | -------- | ----- | ----- | ----- | --------- | ---------- | ----- | ----- | --- | ----- |
+| **ц** | czi | czy | cze  | czeo | cz[oau.] | czaae | czyeo | czieo | czy[auoe] | czi[au]    | cziy  | czae  | czj | Cz    |
+| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chaae | chyeo | cieo  | chy[auoe] | ci[au]     | chiy  | chae  | cj  | Ch    |
+| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzaae | gzyeo | gieo  | gzy[auoe] | gi[au]     | gziy  | gzae  | gj  | Gz    |
+| **ш** | shi | shy | she  | sheo | sh[oau.] | shaae | shyeo | shieo | shy[auoe] | shi[au]    | shiy  | shae  | shj | Sh    |
+| **щ** | сч  |     |      |      |          |       |       |       |           |            |       |       |     | Sch   |
 
 |       | и  | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | аэ   | ь   | аббр. |
 | ----- | -- | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | ---- | --- | ----- |
