@@ -11,7 +11,7 @@
 * мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/ciya, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog (исключение), отцы/otczy
 
 
-|       | и   | ы   | [еэ] | ё   | [оау.]   | [еэ]о | ио   | и[ауэ]    | [яю]     | frc ы | frc э | ь  | аббр. |
+|       | и   | ы   | [еэ] | ё   | [оау.]   | [еэ]о | ио   | и[ауэ]    | [яю]     | frc ы | frc э | ь   | аббр. |
 | ----- | --- | --- | --- | ---- | -------- | ----- | ---- | --------- | -------- | ----- | ----- | --- | ----- |
 | **ц** | czi | czy | cze | czeo | cz[oau.] | czieo | czio | cziy[aue] | czi[au]  | czy   | czae  | czj | Cz    |
 | **ч** | ci  | ci  | ce  | ceo  | ch[oau.] | cieo  | cio  | ciy[aue]  | ci[au]   | chy   | chae  | cj  | Ch    |
