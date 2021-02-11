@@ -8,22 +8,22 @@
 * ки/cy, чи/ci, ци/czi, ги/gy, жи/gi
 * кё/ckeo, чё/ceo, чо/cho, цо/czo, цё/czeo, гё/gheo, жё/geo, жо/gzo
 * кя/ckia, ча/cha, ца/cza (гя/ghia, жа/gza) 
-* мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/chia, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog, отцы/otczy
+* мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/ciya, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog (исключение), отцы/otczy
 
 
-|       | и   | ы   | [еэ] | ё    | [оаяую.] | аэ    | иэо   | [еэ]о | и[ауоэ]   | force [яю] | frc ы | frc э | ь   | аббр. |
-| ----- | --- | --- | ---- | ---- | -------- | ----- | ----- | ----- | --------- | ---------- | ----- | ----- | --- | ----- |
-| **ц** | czi | czy | cze  | czeo | cz[oau.] | czaae | czyeo | czieo | czy[auoe] | czi[au]    | cziy  | czae  | czj | Cz    |
-| **ч** | ci  | ci  | ce   | ceo  | ch[oau.] | chaae | chyeo | cieo  | chy[auoe] | ci[au]     | chiy  | chae  | cj  | Ch    |
-| **ж** | gi  | gi  | ge   | geo  | gz[oau.] | gzaae | gzyeo | gieo  | gzy[auoe] | gi[au]     | gziy  | gzae  | gj  | Gz    |
-| **ш** | shi | shy | she  | sheo | sh[oau.] | shaae | shyeo | shieo | shy[auoe] | shi[au]    | shiy  | shae  | shj | Sh    |
-| **щ** | сч  |     |      |      |          |       |       |       |           |            |       |       |     | Sch   |
+|       | и   | ы   | [еэ] | ё   | [оау.]   | [еэ]о | ио   | и[ауэ]    | [яю]     | frc ы | frc э | ь  | аббр. |
+| ----- | --- | --- | --- | ---- | -------- | ----- | ---- | --------- | -------- | ----- | ----- | --- | ----- |
+| **ц** | czi | czy | cze | czeo | cz[oau.] | czieo | czio | cziy[aue] | czi[au]  | czy   | czae  | czj | Cz    |
+| **ч** | ci  | ci  | ce  | ceo  | ch[oau.] | cieo  | cio  | ciy[aue]  | ci[au]   | chy   | chae  | cj  | Ch    |
+| **ж** | gi  | gi  | ge  | geo  | gz[oau.] | gieo  | gio  | giy[aue]  | gi[au]   | gzy   | gzae  | gj  | Gz    |
+| **ш** | shi | shy | she | sheo | sh[oau.] | shieo | shio | shiy[aue] | shi[au]  | shy   | shae  | shj | Sh    |
+| **щ** | сч  |     |     |      |          |       |      |           |          |       |       |     | Sch   |
 
-|       | и  | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | аэ   | ь   | аббр. |
-| ----- | -- | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | ---- | --- | ----- |
-| **к** | cy | cky | cke | cae | ckeo | c[oau.] | cki[au] | caeo | ckaeo | cy[aue]  | cyo | caae | ckj | C/Ck  |
-| **г** | gy | ghy | ghe | gae | gheo | g[oau.] | ghi[au] | gaeo | ghaeo | gy[aue]  | gyo | gaae | ghj | G/Gh  |
-| **с** | si | sy  | se  | sae | seo  | s[oau.] | si[au]  | sieo | saeo  | siy[aue] | sio | saae | sj  | S     |
+|       | и  | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | ь   | аббр. |
+| ----- | -- | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | --- | ----- |
+| **к** | cy | cky | cke | cae | ckeo | c[oau.] | cki[au] | caeo | ckaeo | cy[aue]  | cyo | ckj | C/Ck  |
+| **г** | gy | ghy | ghe | gae | gheo | g[oau.] | ghi[au] | gaeo | ghaeo | gy[aue]  | gyo | ghj | G/Gh  |
+| **с** | si | sy  | se  | sae | seo  | s[oau.] | si[au]  | sieo | saeo  | siy[aue] | sio | sj  | S     |
 
 `chi[auoe]` значит тоже самое, что и `ci[auoe]`, но никогда не используется. Аналогично с `che` и `ce`, `chieo` и `cieo`.
 
