@@ -113,9 +113,9 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisj v odin denj, 22 se
 
 – Frodo, maljcic moj, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadishj, i denj rogzdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megzdu dvadczatjiu i tridczatjiu tremia, posle cego hobbit naconecz moget scitatj sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogj v bezotvetstvennom vozraste megzdu dvadczatju i tridczatju tremia, posle cego hobbit naconecz moget scitatj sebia vzroslym.
 
-Proshlo jesceo dvenadczatj let. V Zasumcah cagzdyj god veselo otmechali dvojnoj denj rogzdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenjiu gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridczatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+Proshlo jesceo dvenadczatj let. V Zasumcah cagzdyj god veselo otmechali dvojnoj denj rogzdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnej osenju gotovitsia nechto nieobychnoje. Biljbo ispolnialosj 111 let – vozrast dlia hobbita vesjma pochtennyj, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetitj tridczatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
 
 ----
 
@@ -166,15 +166,15 @@ I bereg, milyj dlia menia.
 
 Lermontov M.Ju. — Rodina
 
-Liubliu otciznu ja, no strannoju liubovjiu!  
+Liubliu otciznu ja, no strannoju liubovju!  
 Ne pobedit jejo rassudoc moj.  
-Ni slava, cuplennaja crovjiu,  
+Ni slava, cuplennaja crovju,  
 Ni polnyj gordogo doverija pocoj,  
-Ni teomnoj stariny zavetnyje predanjia  
-Ne sheveliat vo mne otradnogo mechtanjia.  
+Ni teomnoj stariny zavetnyje predanja  
+Ne sheveliat vo mne otradnogo mechtanja.  
 No ja liubliu — za chto, ne znaju sam —  
-Jejo stepej holodnoje molchanjie,  
-Jejo lesov bezbregznyh colyhanjie,  
+Jejo stepej holodnoje molchanje,  
+Jejo lesov bezbregznyh colyhanje,  
 Razlivy rec jejo, podobnyje moriam;  
 Proseolochnym puteom liubliu scacatj v teleghe  
 I, vzorom medlennym pronzaja noci tenj,  
