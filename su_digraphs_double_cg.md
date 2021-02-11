@@ -19,11 +19,11 @@
 | **ш** | shi | shy | she | sheo | sh[oau.] | shieo | shio | shiy[aue] | shi[au]  | shy   | shae  | shj | Sh    |
 | **щ** | сч  |     |     |      |          |       |      |           |          |       |       |     | Sch   |
 
-|       | и  | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | ь   | аббр. |
-| ----- | -- | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | --- | ----- |
-| **к** | cy | cky | cke | cae | ckeo | c[oau.] | cki[au] | caeo | ckaeo | cy[aue]  | cyo | ckj | C/Ck  |
-| **г** | gy | ghy | ghe | gae | gheo | g[oau.] | ghi[au] | gaeo | ghaeo | gy[aue]  | gyo | ghj | G/Gh  |
-| **с** | si | sy  | se  | sae | seo  | s[oau.] | si[au]  | sieo | saeo  | siy[aue] | sio | sj  | S     |
+|       | и      | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | ь   | аббр. |
+| ----- | ------ | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | --- | ----- |
+| **к** | cy/cki | cky | cke | cae | ckeo | c[oau.] | cki[au] | caeo | ckaeo | cy[aue]  | cyo | ckj | C/Ck  |
+| **г** | gy/ghi | ghy | ghe | gae | gheo | g[oau.] | ghi[au] | gaeo | ghaeo | gy[aue]  | gyo | ghj | G/Gh  |
+| **с** | si     | sy  | se  | sae | seo  | s[oau.] | si[au]  | sieo | saeo  | siy[aue] | sio | sj  | S     |
 
 `che` значит тоже самое, что и `ce`, но никогда не используется. Аналогично с `chieo` и `cieo`.
 
