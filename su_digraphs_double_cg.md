@@ -97,11 +97,11 @@ Piony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejs
 
 Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zeleonom platjiycze vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgz Macsimus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
+V pjiese pro devushcu v zeleonom platjiycze vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgz Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
 
 Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsia mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliczu ecsaelia i vozmutilsia czenoj novogo ecscavatora. Agz eckzaema snova stala jego bespocoitj. Oh ugz eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliczu exaelia i vozmutilsia czenoj novogo excavatora. Agz exzaema snova stala jego bespocoitj. Oh ugz eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
 V etom vide fraza ot A do Ja nacinajet vygliadetj sovsem po-drugomu. Sejchas sceotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. Jogz coliucij i pohogz na nejo.
 
@@ -129,7 +129,7 @@ V sugzdenijah uceonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenij
 
 ----
 
-Alecsandr Pushcyn — Zimneje utro
+Alexandr Pushcyn — Zimneje utro
 
 Moroz i solncze; denj chudesnyj!  
 Jesceo ty dremleshj, drug prelestnyj —  
