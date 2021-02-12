@@ -19,11 +19,9 @@
 
 Придумал в качестве развлечения ещё один транслит.
 
-UPD: [**Ещё одна, совсем веселая версия транслита**](https://github.com/kiwi0fruit/ru-translit/blob/main/fun.md)
+UPD1: [**Ещё одна, совсем веселая версия транслита**](https://github.com/kiwi0fruit/ru-translit/blob/main/fun.md)
 
-UPD2: [**Альтернативная более эстетичная версия #1 (Совлат с двойными CG)**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_fr.md)
-
-UPD3: [**Альтернативная более эстетичная версия #2 (Совлат англотранс с двойными CG)**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_en.md)
+UPD4: [**Альтернативная более эстетичная версия (Совлат с диграфами и двойными CG)**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_digraphs_double_cg.md)
 
 Развлечением было удовлетворить ограничениям:
 
