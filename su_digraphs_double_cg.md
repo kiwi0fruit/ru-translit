@@ -1,6 +1,8 @@
 # Совлат англотранс с диграфами, двойными CG и без Kk
 
-Лучше все же использовать ё/eo, но ю/iu, я/ia. Новая версия на основе [**предыдущей**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_en.md).
+Новая версия на основе [**предыдущей**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_en.md).
+
+Лучше все же использовать ё/eo, но ю/iu, я/ia.
 
 а - a,  
 о - o,  
