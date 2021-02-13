@@ -16,7 +16,7 @@
 й - j / ji - между согласными или когда нужен **не смягчающий йот**,  
 ъ - съ[еёюя] -- sji[eoua] / qq - иначе,  
 ь - j (в т.ч. сь[еёюяи] - sj[eouay]),  
-ji - несмягчающий йот (диграф, две буквы, но один звук), j - смягчающий йот,  
+ji - несмягчающий йот, j - смягчающий йот,  
 
 б - b,  
 в - v,  
@@ -96,11 +96,11 @@ Allilujja, Jjemen, съезд/sjiezd, месье/mesje, colyhanje, colyhanije, C
 
 Piony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejsia bogatoj. V nej rodilsia izvestnyj piyanist.
 
-Pjianyj master po proectu sdelal mehanicescyj object s izjanom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
+Pjanyj master po proectu sdelal mehanicescyj objiect s izjianom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
-V pjiese pro devushcu v zeleonom platjiycze vse sadilisj na ladjiy i plyli po recke. No tut iz lesa vyshel Dgeordgz Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljion. Znacit snova pjiom do lysyh acvalangystov.
+V pjese pro devushcu v zeleonom platjycze vse sadilisj na ladjy i plyli po recke. No tut iz lesa vyshel Dgeordgz Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljon. Znacit snova pjom do lysyh acvalangystov.
 
-Prepodobnyj Bajies podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsia mazatj jod na ranu.
+Prepodobnyj Bajjes podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsia mazatj jod na ranu.
 
 Maer neboljshogo gorodishcy otcryl tabliczu exaelia i vozmutilsia czenoj novogo excavatora. Agz exzaema snova stala jego bespocoitj. Oh ugz eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
@@ -139,7 +139,7 @@ Otcroj somcnuty negoj vzory
 Navstrechu severnoj Avrory,  
 Zvezdoju severa javisj!
 
-Veceor, ty pomnishj, vjiuga zlilasj,  
+Veceor, ty pomnishj, vjuga zlilasj,  
 Na mutnom nebe mgla nosilasj;  
 Luna, cac blednoje piatno,  
 Scvozj tuci mrachnyje geltela,  
@@ -195,7 +195,7 @@ Izbu, pocrytuju solomoj,
 S reznymi stavniami ocno;  
 I v prazdnic, vecerom rosistym,  
 Smotretj do polnoci gotov  
-Na pliascu s topanjiem i svistom  
-Pod govor pjianyh mugichcov.
+Na pliascu s topanjem i svistom  
+Pod govor pjanyh mugichcov.
 
 // God napisanija: 1841
