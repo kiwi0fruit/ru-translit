@@ -52,7 +52,7 @@
 ьи - jiy,  
 кх - ckh.
 
-Cserocs, Csenija, taxi, exzaema, exzecuczija, saex, saxofon.
+Cserocs, Csenija, taxi, exzaema, exzecuczija, saex, saxofon, raep.
 
 Суть должно быть видно по этим примерам:
 
