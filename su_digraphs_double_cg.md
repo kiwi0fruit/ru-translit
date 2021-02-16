@@ -100,13 +100,13 @@ Allilujja, Jjemen, съезд/sjiezd, месье/mesje, colyhanje, colyhanije, C
 
 Piony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejsia bogatoj. V nej rodilsia izvestnyj piyanist.
 
-Pjanyj master po proectu sdelal mehanicescyj objiect s izjianom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
+Pjanyj master po projectu sdelal mehanicescyj objiect s izjianom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
 V pjese pro devushcu v zeleonom platjycze vse sadilisj na ladjy i plyli po recke. No tut iz lesa vyshel Dgeordgz Maximus, conj v paljto i rvanyh dginsah, cotoryj chto-to vyiscyval, i pricazal vsem mytjsia i gotovitj buljon. Znacit snova pjom do lysyh acvalangystov.
 
 Prepodobnyj Bajjes podcynul igraljnyje costi. Vypalo shestj, znacit jemu prideotsia mazatj jod na ranu.
 
-Maer neboljshogo gorodishcy otcryl tabliczu exaelia i vozmutilsia czenoj novogo excavatora. Agz exzaema snova stala jego bespocoitj. Oh ugz eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
+Maer neboljshogo gorodishcy otcryl tabliczu exelia i vozmutilsia czenoj novogo excavatora. Agz exzema snova stala jego bespocoitj. Oh ugz eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
 V etom vide fraza ot A do Ja nacinajet vygliadetj sovsem po-drugomu. Sejchas sceotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. Jogz coliucij i pohogz na nejo.
 
