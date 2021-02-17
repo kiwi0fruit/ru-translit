@@ -123,7 +123,7 @@ V etom vide fraza ot A do Ja nacinajet vygliadetj sovsem po-drugomu. Sejchas sce
 
 Skhod mestnyh gitelej indijscoj derevni sickhov reshal chto ge delatj s otkhodami companii "Caligula Gaj Julij Czezarj" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nasheol vyhod iz situaczii.
 
-"Cto s meceom c nam prideot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovoritj starshij mehanic Vasilij.
 
 ----
 
@@ -154,7 +154,7 @@ Otcroj somcnuty negoj vzory
 Navstrechu severnoj Avrory,  
 Zvezdoju severa javisj!
 
-Veceor, ty pomnishj, vjuga zlilasj,  
+Vechor, ty pomnishj, vjuga zlilasj,  
 Na mutnom nebe mgla nosilasj;  
 Luna, cac blednoje piatno,  
 Scvozj tuci mrachnyje geltela,  
