@@ -91,17 +91,18 @@ Allilujja, Jjemen, съезд/sjiezd, месье/mesje, colyhanje, colyhanije, C
 * всегда пишутся Ч/Ch, Ц/Cz, Ж/Gz, Ш/Sh, Я/JA, Е/JE, Ё/JO, Ю/JU, Й/J/JI, Э/E,
 * перед "ЭИЫЙ,ЕЁЮЯ,З" в аббревиатурах используются К/Ck,Г/Gh (в общем, везде, где можно прочитать неправильно),
 * после C,G,S или перед I (И) всегда писать Х/kH,
-* передыдущая буква перед И/I пишется капсом.
+* передыдущая буква перед И/I пишется капсом,
+* опционально можно сокращать Gh, Ck и kH до G', C', 'H.
 
-ГЕ/GhJE, ГЭ/GhE, ГИ/GHI, ГЫ/GhY, ГЗ/GhZ,  
+ГЕ/GhJE/G'JE, ГЭ/GhE/G'E, ГИ/GHI/G'I, ГЫ/GhY/G'Y, ГЗ/GhZ/G'Z,  
 ЖЕ/GzJE, ЖЭ/GzE, ЖИ/GZI, ЖЫ/GzY,  
-КЕ/CkJE, КЭ/CkE, КИ/CKI, КЫ/CkY, КЗ/CkZ,  
-ГХ/GkH, ГЗ/GhZ, КЗ/CkZ, КХИ/CkHI, НХ/NH, НХИ/NkHI,  
-SCHI/СЧИ, ScHI/ЩИ, СЧ/SCh, ЩУ/SchU,  
-ЦИ/CZI, ЧИ/CHI, ШИ/SHI, СХИ/SkHI, ЩИ/ScHI,  
+КЕ/CkJE/C'JE, КЭ/CkE/C'E, КИ/CKI/C'I, КЫ/CkY/C'Y, КЗ/CkZ/C'Z,  
+ГХ/GkH/G'H, ГЗ/GhZ/G'Z, КЗ/CkZ/C'Z, КХИ/CkHI/C'HI, НХ/NH, НХИ/NkHI/N'HI,  
+СЧИ/SCHI, ЩИ/ScHI, СЧ/SCh, ЩУ/SchU,  
+ЦИ/CZI, ЧИ/CHI, ШИ/SHI, СХИ/SkHI/S'HI, ЩИ/ScHI,  
 ЙЭ/JIE, ЙИ/JII.
 
-ЕГЭ/JEGhE, ОБЖ/OBGz, ЦПУ/CzPU, ЧС/ChS, США/SShA, ЭЭГ/EEG, ЖЭК/GzEC, ЖКХ/GzCkH, НХЛ/NHL, КХЛ/CkHL, ЕКА/JECA, ФИЯ/FIJA, ЦЕРН/CZERN (исключение), ОБСЕ/OBSJE, ГИБДД/GHIBDD, ЧИМ/CHIM.
+ЕГЭ/JEGhE/JEG'E, ОБЖ/OBGz, ЦПУ/CzPU, ЧС/ChS, США/SShA, ЭЭГ/EEG, ЖЭК/GzEC, ЖКХ/GzCkH/GzC'H, НХЛ/NHL, КХЛ/CkHL/C'HL, ЕКА/JECA, ФИЯ/FIJA, ЦЕРН/CZERN (исключение), ОБСЕ/OBSJE, ГИБДД/GHIBDD/G'IBDD, ЧИМ/CHIM.
 
 Тут вводится специальное правило, что в аббревиатурах после строчных z,h,k нельзя писать заглавную i (I) - чтобы не путать со строчной L (l). Нельзя: ChI, ChII, ChIM. Нужно в качестве исключения писать CHI, CHII, CHIM.
 
