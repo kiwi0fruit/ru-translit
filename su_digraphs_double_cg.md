@@ -276,9 +276,9 @@ Proshlo jesceo dvenadczate let. V Zasumcah cagzdyi god vesielo otmechali dvoinoi
 
 ----
 
-Imejetsia nescoleco gypotez proiskhogzdenija sobacy, naiyboleje verojatnymi jejo predcami scitajutsia volc i necotoryje vidy shacalov.
+Imejetsia nescoleco gypotez proiyskhogzdenija sobacy, naiyboleje verojatnymi jejo predcami scitajutsia volc i necotoryje vidy shacalov.
 
-V sugzdenijah uceonyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odni scitajut, chto sobacy - polifilieticescaja gruppa (proiskhodiaschaja ot nescolecyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofilieticescaja tieorija).
+V sugzdenijah uceonyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odni scitajut, chto sobacy - polifilieticescaja gruppa (proiyskhodiaschaja ot nescolecyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proiyzoshli ot odnogo predca (monofilieticescaja tieorija).
 
 ----
 
