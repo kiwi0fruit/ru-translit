@@ -241,7 +241,7 @@ V mojom testovom fragmente texta 34 vkhogzdenij ."\ce\W" (.e posle soglasnyh na 
 34 / 231 = e1[%] / 8.01[%] => e1 =1.179%  
 34 / 213 = e2[%] / 6.26[%] => e2 = 0.999%
 
-Tacym obrazom, grubaja oczenca chastotnosti ."\ce\W" budet primerno 1%. To jestj zamenite na concze slov .\cj na .\ce (a .\ce na .\cie) budet stoiyte ~1.09% digrafnyh potere. Jesli ge zamieniatj prosto .\cj na .\cie, to digrafnyje poteri budut ~1.44% (da i eto budet meneje logychno).
+Tacym obrazom, grubaja oczenca chastotnosti ."\ce\W" budet primerno 1%. To jestj zamenite na concze slov .\cj na .\ce (a .\ce na .\cie) budet stoiyte ~1.09% digrafnyh potere. Jesli ge zamieniate prosto .\cj na .\cie, to digrafnyje poteri budut ~1.44% (da i eto budet meneje logychno).
 
 
 ## Пример текста с уменьшенным вхождением j
