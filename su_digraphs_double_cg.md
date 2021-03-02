@@ -272,7 +272,7 @@ Sluchaju bylo ugodno, chtoby Bilebo s Frodo jesceo i rodilise v odin dene, 22 se
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogz v bezotvetstvennom vozraste megzdu dvadczatju i tridczatju tremia, posle cego hobbit naconecz moget scitate sebia vzroslym.
 
-Proshlo jesceo dvenadczate let. V Zasumcah cagzdyi god vesielo otmechali dvoinoi dene rogzdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnei osenju gotovitsia nechto nieobychnoje. Bilebo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetite tridczatitreohletije – toge znamenateljnaja data – sovershennolietije po-hobbitscy.
+Proshlo jesceo dvenadczate let. V Zasumcah cagzdyi god vesielo otmechali dvoinoi dene rogzdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnei osenju gotovitsia nechto nieobychnoje. Bilebo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetite tridczatitreohletije – toge znamenatielenaja data – sovershennolietije po-hobbitscy.
 
 ----
 
