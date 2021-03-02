@@ -236,12 +236,12 @@ Ne opredieleonnymi do concza ostalise socetanija tipa: ileci, ilecha, ilesha, il
 
 Рассчеты были проведены на основе этого фрагмента:
 
-V mojom testovom fragmente texta 34 vkhogzdenij ."\ce\W" (.e posle soglasnyh na concze slov) i 45 vkhogzdenij ."\cj\W" (.j posle soglasnyh na concze slov), gde ."\c" eto soglasnaja (.consonant). V russcoj versii testovogo fragmenta 231 bucva .Аа i 213 bucv .Тт. Otnoshenije .Тт c .Аа iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyj srednestatistichnyj... No vseo ravno budem ispoljzovatj jego.
+V mojom testovom fragmente texta 34 vkhogzdenij ."\ce\W" (.e posle soglasnyh na concze slov) i 45 vkhogzdenij ."\cj\W" (.j posle soglasnyh na concze slov), gde ."\c" eto soglasnaja (.consonant). V russcoi versii testovogo fragmenta 231 bucva .Аа i 213 bucv .Тт. Otnoshenije .Тт c .Аа iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyi srednestatistichnyi... No vseo ravno budem ispolezovate jego.
 
 34 / 231 = e1[%] / 8.01[%] => e1 =1.179%  
 34 / 213 = e2[%] / 6.26[%] => e2 = 0.999%
 
-Tacym obrazom, grubaja oczenca chastotnosti ."\ce\W" budet primerno 1%. To jestj zamenitj na concze slov .\cj na .\ce (a .\ce na .\cie) budet stoitj ~1.09% digrafnyh poterj. Jesli ge zameniatj prosto .\cj na .\cie, to digrafnyje poteri budut ~1.44% (da i eto budet meneje logychno).
+Tacym obrazom, grubaja oczenca chastotnosti ."\ce\W" budet primerno 1%. To jestj zamenite na concze slov .\cj na .\ce (a .\ce na .\cie) budet stoite ~1.09% digrafnyh potere. Jesli ge zamieniatj prosto .\cj na .\cie, to digrafnyje poteri budut ~1.44% (da i eto budet meneje logychno).
 
 
 ## Пример текста с уменьшенным вхождением j
