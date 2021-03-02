@@ -214,3 +214,140 @@ Na pliascu s topanjem i svistom
 Pod govor pjanyh mugichcov.
 
 // God napisanija: 1841
+
+
+## Уменьшение вхождений j
+
+Было посчитано (см. конец этого раздела), что замена мягкого знака в конце слов с j на e потребует замены e в конце слова после согласных на ie. Что приведет к диграфу вместо одной буквы для вхождений частотностью примерно 1.1%. В середине же слов можно оставить j. Если объединить данное изменение с заменой й в конце слова с j на i (кроме случаев ий), то можно практически полностью избавиться от j в конце слов. Кто-то говорил, что мол j в конце слов выглядит не эстетично. Что-то в этом есть... Но стоит ли оно 1.1% частотности диграфных потерь в ASCII латинице? Нет, не стоит.
+
+Потери частотности можно большей частью убрать, введя аналог закрытого и открытого слогов (думаю, потери будут примерно 0.5%). Если идет гласная + согласная + e + конец слова, либо снова согласная + гласная, то "e" - немая, и не читается, а только смягчает. Для полногласной "е" нужно использовать "ie".
+
+Только теперь мягкий знак в виде "e" может быть и в середине слова. Но обязательно между двумя "открытыми" слогами. Иначе он пишется "j". (В самом низу - пример текста).
+
+ась./ase., асе./asie., асьта/aseta, асета/asieta, асьтса/asjtsa, асетса/asetsa, ачь/ach, аче/ace, ажь/agz, аже/age, ашь/ash, аше/ashe, ащь/asch, аще/asce, аць/acz, аце/acze, акь/ackj, аке/acke, агь/aghj, аге/aghe, карате/ckaratae, карать/carate
+
+Ne opredieleonnymi do concza ostalise socetanija tipa: ileci, ilecha, ilesha, ilesci, ilegi, ilegza, ilecza. Cac v "doleshe". Eti difrafy scitajutsia za odin zvuc i pozvoliajut reductsiju.
+
+ЭТО ДАСТ 20 ЛИШНИХ ВХОЖДЕНИЙ ДИГРАФА ie.
+
+20 / 231 = e1[%] / 8.01[%] => e1 =0.69%  
+20 / 213 = e2[%] / 6.26[%] => e2 = 0.59%  
+среднее: 0.64%
+
+Рассчеты были проведены на основе этого фрагмента:
+
+V mojom testovom fragmente texta 34 vkhogzdenij ."\ce\W" (.e posle soglasnyh na concze slov) i 45 vkhogzdenij ."\cj\W" (.j posle soglasnyh na concze slov), gde ."\c" eto soglasnaja (.consonant). V russcoj versii testovogo fragmenta 231 bucva .Аа i 213 bucv .Тт. Otnoshenije .Тт c .Аа iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyj srednestatistichnyj... No vseo ravno budem ispoljzovatj jego.
+
+34 / 231 = e1[%] / 8.01[%] => e1 =1.179%  
+34 / 213 = e2[%] / 6.26[%] => e2 = 0.999%
+
+Tacym obrazom, grubaja oczenca chastotnosti ."\ce\W" budet primerno 1%. To jestj zamenitj na concze slov .\cj na .\ce (a .\ce na .\cie) budet stoitj ~1.09% digrafnyh poterj. Jesli ge zameniatj prosto .\cj na .\cie, to digrafnyje poteri budut ~1.44% (da i eto budet meneje logychno).
+
+
+## Пример текста с уменьшенным вхождением j
+
+Piony i vasilecy vseo jesceo rastut na polianie vozle derevni Peony, scitajusceisia bogatoi. V nei rodilsia izvestnyi piyanist.
+
+Pjanyi master po projectu sdelal mehanicescyi objiect s izjianom. Jesli brac ne obnarugitsia, to belyje bolidy boleshe ne smogut vyiygryvate goncy.
+
+V pjesie pro devushcu v zeleonom platjycze vse sadilise na ladjy i plyli po recke. No tut iz lesa vyshel Dgeordgz Maximus, cone v paleto i rvanyh dginsah, cotoryi chto-to vyiyscyval, i pricazal vsem mytesia i gotovite buljon. Znacit snova pjom do lysyh acvalangystov.
+
+Prepodobnyi Baijes podcynul igralenyje costi. Vypalo shestj, znacit jemu prideotsia mazate jod na ranu.
+
+Maer neboleshogo gorodishcy otcryl tabliczu exelia i vozmutilsia czenoi novogo excavatora. Agz exzema snova stala jego bespocoiyte. Oh ugz eta pocupca vechnogo dvigatielia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac poideot i daleshe, to biudgetu prideotsia hudo.
+
+V etom vide fraza ot A do Ja nacinajet vygliadiete sovsem po-drugomu. Seichas sceotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. Jogz coliucij i pohogz na nejo.
+
+Skhod mestnyh gitielei indijscoi derevni sickhov reshal chto ge delate s otkhodami companii "Caligula Gai Julij Czezare" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golovie. On i nasheol vyhod iz situaczii.
+
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshij mehanic Vasilij.
+
+----
+
+Liubimczem Bilebo byl junyi Frodo Baeggyns. Cogda Bilebo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoiym naslednicom i predlogil pereselitesia v Zasumcy. Tut ugz vse nadegzdy Dericule-Baeggynsov, davno s vogzdelienijem posmatrivavshih na usadebu, ruhnuli oconchatieleno.
+
+Sluchaju bylo ugodno, chtoby Bilebo s Frodo jesceo i rodilise v odin dene, 22 sentiabria.
+
+– Frodo, malecic moi, – scazal cac-to raz Bilebo, – periebiralsia by ty co mne. Gliadish, i dene rogzdenija vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogz v bezotvetstvennom vozraste megzdu dvadczatju i tridczatju tremia, posle cego hobbit naconecz moget scitate sebia vzroslym.
+
+Proshlo jesceo dvenadczate let. V Zasumcah cagzdyi god vesielo otmechali dvoinoi dene rogzdenija, c etomu privycli, no liubomu bylo jasno, chto nyneshnei osenju gotovitsia nechto nieobychnoje. Bilebo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetite tridczatitreohletije – toge znamenateljnaja data – sovershennolietije po-hobbitscy.
+
+----
+
+Imejetsia nescoleco gypotez proiskhogzdenija sobacy, naiyboleje verojatnymi jejo predcami scitajutsia volc i necotoryje vidy shacalov.
+
+V sugzdenijah uceonyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odni scitajut, chto sobacy - polifilieticescaja gruppa (proiskhodiaschaja ot nescolecyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshli ot odnogo predca (monofilieticescaja tieorija).
+
+----
+
+Alexandr Pushcyn — Zimneje utro
+
+Moroz i solncze; dene chudesnyi!  
+Jesceo ty dremlesh, drug prelestnyi —  
+Pora, crasavicza, prosnise:  
+Otcroi somcnuty negoi vzory  
+Navstrechu severnoi Avrory,  
+Zvezdoju severa javise!
+
+Vechor, ty pomnish, vjuga zlilase,  
+Na mutnom nebe mgla nosilase;  
+Luna, cac blednoje piatno,  
+Scvoze tuci mrachnyje geltela,  
+I ty pechalenaja sidela —  
+A nynce… pogliadi v ocno:
+
+Pod golubymi nebiesami  
+Velicolepnymi covrami,  
+Blestia na solncze, sneg legit;  
+Prozrachnyi les odin cernejet,  
+I jele scvoze inei zelenejet,  
+I rechca podo ljdom blestit.
+
+Vsia comnata jantarnym blescom  
+Ozariena. Veseolym trescom  
+Trescit zatoplennaja pech.  
+Prijatno dumate u legzancy.  
+No znajesh: ne veliete li v sancy  
+Cobylcu buruju zaprech?
+
+Scolezia po utrennemu snegu,  
+Drug milyi, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyje,  
+Lesa, nedavno stole gustyje,  
+I bereg, milyi dlia menia.
+
+----
+
+Lermontov M.Ju. — Rodina
+
+Liubliu otciznu ja, no strannoju liubovju!  
+Ne pobedit jejo rassudoc moi.  
+Ni slava, cuplennaja crovju,  
+Ni polnyi gordogo doverija pocoi,  
+Ni teomnoi stariny zavetnyje predanja  
+Ne shevieliat vo mne otradnogo mechtanja.  
+No ja liubliu — za chto, ne znaju sam —  
+Jejo stepei holodnoje molchanje,  
+Jejo lesov bezbregznyh colyhanje,  
+Razlivy rec jejo, podobnyje moriam;  
+Proseolochnym puteom liubliu scacate v telieghe  
+I, vzorom medlennym pronzaja noci tene,  
+Vstrechate po storonam, vzdyhaja o nochleghe,  
+Drogzascije ogni pechalenyh derieviene;  
+Liubliu dymoc spaleonnoi gznivy,  
+V stepi nochujuscij oboz  
+I na holme srede geoltoi nivy  
+Cetu belejuscih bereoz.  
+S otradoi, mnogym neznacomoi,  
+Ja vigzu polnoje gumno,  
+Izbu, pocrytuju solomoi,  
+S reznymi stavniami ocno;  
+I v prazdnic, vecerom rosistym,  
+Smotrete do polnoci gotov  
+Na pliascu s topanjem i svistom  
+Pod govor pjanyh mugichcov.
+
+// God napisanija: 1841
