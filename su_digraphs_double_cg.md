@@ -226,7 +226,7 @@ Pod govor pjanyh mugichcov.
 
 ась./ase., асе./asie., асьта/aseta, асета/asieta, асьтса/asjtsa, асетса/asetsa, ачь/ach, аче/ace, ажь/agz, аже/age, ашь/ash, аше/ashe, ащь/asch, аще/asce, аць/acz, аце/acze, акь/ackj, аке/acke, агь/aghj, аге/aghe, карате/ckaratae, карать/carate
 
-Ne opredieleonnymi do concza ostalise socetanija tipa: ileci, ilecha, ilesha, ilesci, ilegi, ilegza, ilecza. Cac v "doleshe". Eti difrafy scitajutsia za odin zvuc i pozvoliajut reductsiju.
+Ne opredieleonnymi do concza ostalise socetanija tipa: ileci, ilecha, ilesha, ilesci, ilegi, ilegza, ilecza. Cac v "doleshe" i "Jeleczovca". Eti difrafy scitajutsia za odin zvuc i pozvoliajut reductsiju.
 
 ЭТО ДАСТ 21 ЛИШНЕЕ ВХОЖДЕНИЕ ДИГРАФА "ie".
 
