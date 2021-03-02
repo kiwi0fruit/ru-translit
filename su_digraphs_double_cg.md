@@ -228,11 +228,11 @@ Pod govor pjanyh mugichcov.
 
 Ne opredieleonnymi do concza ostalise socetanija tipa: ileci, ilecha, ilesha, ilesci, ilegi, ilegza, ilecza. Cac v "doleshe". Eti difrafy scitajutsia za odin zvuc i pozvoliajut reductsiju.
 
-ЭТО ДАСТ 20 ЛИШНИХ ВХОЖДЕНИЙ ДИГРАФА ie.
+ЭТО ДАСТ 21 ЛИШНИХ ВХОЖДЕНИЙ ДИГРАФА ie.
 
-20 / 231 = e1[%] / 8.01[%] => e1 =0.69%  
-20 / 213 = e2[%] / 6.26[%] => e2 = 0.59%  
-среднее: 0.64%
+21 / 231 = e1[%] / 8.01[%] => e1 =0.73%  
+21 / 213 = e2[%] / 6.26[%] => e2 = 0.62%  
+среднее: 0.68%
 
 Рассчеты были проведены на основе этого фрагмента:
 
