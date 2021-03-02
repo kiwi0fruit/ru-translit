@@ -302,7 +302,7 @@ Pod golubymi nebiesami
 Velicolepnymi covrami,  
 Blestia na solncze, sneg legit;  
 Prozrachnyi les odin cernejet,  
-I jele scvoze inei zelenejet,  
+I jele scvoze inei zelienejet,  
 I rechca podo ljdom blestit.
 
 Vsia comnata jantarnym blescom  
