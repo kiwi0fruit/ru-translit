@@ -244,13 +244,13 @@ V mojom testovom fragmente texta: 34 vkhogzdenij `\ce\W` (`e` posle soglasnyh na
 => ~1.09%
 
 `\cj\W`  
-45 / 231 = e1[%] / 8.01[%] => e1 = 1.560%  
-45 / 213 = e2[%] / 6.26[%] => e2 = 1.323%  
+45 / 231 = j1[%] / 8.01[%] => j1 = 1.560%  
+45 / 213 = j2[%] / 6.26[%] => j2 = 1.323%  
 => ~1.44%
 
 `\ci\W`  
-28 / 231 = e1[%] / 8.01[%] => e1 = 0.971%  
-28 / 213 = e2[%] / 6.26[%] => e2 = 0.823%  
+28 / 231 = i1[%] / 8.01[%] => i1 = 0.971%  
+28 / 213 = i2[%] / 6.26[%] => i2 = 0.823%  
 => ~0.90%
 
 Zamenitj na concze slov `\cj` na `\ce` (a `\ce` na `\cie`) budet stoitj ~1.09% digrafnyh poterj.  
