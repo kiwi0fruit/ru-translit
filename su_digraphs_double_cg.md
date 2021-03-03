@@ -236,21 +236,26 @@ Ne opredeleonnymi do concza ostalisj socetanija tipa: ileci, ilecha, ilesha, ile
 
 Рассчеты были проведены на основе этого фрагмента:
 
-V mojom testovom fragmente texta: 34 vkhogzdenij ."\ce\W" (.e posle soglasnyh na concze slov), 45 vkhogzdenij ."\cj\W" (.j posle soglasnyh na concze slov), 28 vkhogzdenij ."\ci\W" (.i posle soglasnyh na concze slov). Gde ."\c" - eto soglasnaja "[rtpsdfghklzxcvbnm]". V russcoj versii testovogo fragmenta 231 bucva .Аа i 213 bucv .Тт. Otnoshenije .Тт c .Аа iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyj srednestatistichnyj... No vseo ravno budem ispoljzovatj jego.
+V mojom testovom fragmente texta: 34 vkhogzdenij `\ce\W` (`e` posle soglasnyh na concze slov), 45 vkhogzdenij `\cj\W` (`j` posle soglasnyh na concze slov), 28 vkhogzdenij `\ci\W` (`i` posle soglasnyh na concze slov). Gde `\c` - eto soglasnaja `[rtpsdfghklzxcvbnm]`. V russcoj versii testovogo fragmenta 231 bucva `Аа` i 213 bucv `Тт`. Otnoshenije `Тт` c `Аа` iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyj srednestatistichnyj... No vseo ravno budem ispoljzovatj jego.
 
+`\ce\W`  
 34 / 231 = e1[%] / 8.01[%] => e1 = 1.179%  
 34 / 213 = e2[%] / 6.26[%] => e2 = 0.999%  
 => ~1.09%
 
+`\cj\W`  
 45 / 231 = e1[%] / 8.01[%] => e1 = 1.560%  
 45 / 213 = e2[%] / 6.26[%] => e2 = 1.323%  
 => ~1.44%
 
+`\ci\W`  
 28 / 231 = e1[%] / 8.01[%] => e1 = 0.971%  
 28 / 213 = e2[%] / 6.26[%] => e2 = 0.823%  
 => ~0.90%
 
-Tacym obrazom, grubaja oczenca chastotnosti ."\ce\W" budet primerno 1%. To jestj zamenitj na concze slov .\cj na .\ce (a .\ce na .\cie) budet stoitj ~1.09% digrafnyh poterj. Jesli ge zameniatj prosto .\cj na .\cie, to digrafnyje poteri budut ~1.44% (da i eto budet meneje logychno).
+Zamenitj na concze slov `\cj` na `\ce` (a `\ce` na `\cie`) budet stoitj ~1.09% digrafnyh poterj.  
+Jesli ge zameniatj prosto `\cj` na `\cie`, to digrafnyje poteri budut ~1.44% (da i eto budet meneje logychno).  
+A zamenitj na concze slov `\cj` na `\ci` (a `\ci` na `\ciy`) budet stoitj ~0.90% digrafnyh poterj.
 
 
 ## Пример текста с уменьшенным вхождением j
