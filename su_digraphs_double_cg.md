@@ -109,7 +109,7 @@ Allilujja, Jemen (исключение), съезд/sjiezd, месье/mesje, co
 
 ## Пример текста
 
-Piony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejsia bogatoj. V nej rodilsia izvestnyj piyanist.
+Piony i vasiljcy vseo jesceo rastut na poliane vozle derevni Peony, scitajuscejsia bogatoj. V nej rodilsia izvestnyj piyanist, perejehavshij v Siyetl na rabotu v companii "Moi i tvoi".
 
 Pjanyj master po projectu sdelal mehanicescyj objiect s izjianom. Jesli brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvatj goncy.
 
