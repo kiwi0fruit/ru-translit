@@ -218,24 +218,6 @@ Pod govor pjanyh mugichcov.
 
 ## Уменьшение вхождений j
 
-Было посчитано (см. конец этого раздела), что замена мягкого знака в конце слов с j на e потребует замены e в конце слова после согласных на ie. Что приведет к диграфу вместо одной буквы для вхождений частотностью примерно 1.1%. В середине же слов можно оставить j. Если объединить данное изменение с заменой й в конце слова с j на i (кроме случаев ий), то можно практически полностью избавиться от j в конце слов. Кто-то говорил, что мол j в конце слов выглядит не эстетично. Что-то в этом есть... Но стоит ли оно 1.1% частотности диграфных потерь в ASCII латинице? Нет, не стоит.
-
-Потери частотности можно большей частью убрать, введя аналог закрытого и открытого слогов (думаю, потери будут примерно 0.68%). Если идет гласная + согласная + e + конец слова, либо снова согласная + гласная, то "e" - немая, и не читается, а только смягчает. Для полногласной "е" нужно использовать "ie".
-
-Только теперь мягкий знак в виде "e" может быть и в середине слова. Но обязательно между двумя "открытыми" слогами. Иначе он пишется "j". (В самом низу - пример текста).
-
-ась./ase., асе./asie., асьта/aseta, асета/asieta, асьтса/asjtsa, асетса/asetsa, ачь/ach, аче/ace, ажь/agz, аже/age, ашь/ash, аше/ashe, ащь/asch, аще/asce, аць/acz, аце/acze, акь/ackj, аке/acke, агь/aghj, аге/aghe, карате/ckaratae, карать/carate
-
-Ne opredeleonnymi do concza ostalisj socetanija tipa: ileci, ilecha, ilesha, ilesci, ilegi, ilegza, ilecza. Cac v ."doleshe" i ."Jeleczovca". Eti difrafy scitajutsia za odin zvuc i pozvoliajut reductsiju.
-
-ЭТО ДАСТ 21 ЛИШНЕЕ ВХОЖДЕНИЕ ДИГРАФА "ie".
-
-21 / 231 = e1[%] / 8.01[%] => e1 = 0.73%  
-21 / 213 = e2[%] / 6.26[%] => e2 = 0.62%  
-среднее: 0.68%
-
-Рассчеты были проведены на основе этого фрагмента:
-
 V mojom testovom fragmente texta: 34 vkhogzdenij `\ce\W` (`e` posle soglasnyh na concze slov), 45 vkhogzdenij `\cj\W` (`j` posle soglasnyh na concze slov), 28 vkhogzdenij `\ci\W` (`i` posle soglasnyh na concze slov), 37 vkhogzdenij `[eyuoa]j\W`, 0 vkhogzdenij `[eyuoa]i\W`. Gde `\c` - eto soglasnaja `[rtpsdfghklzxcvbnm]`. V russcoj versii testovogo fragmenta 231 bucva `[Аа]` i 213 bucv `[Тт]`. Otnoshenije `Тт` c `Аа` iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyj srednestatistichnyj... No vseo ravno budem ispoljzovatj jego.
 
 `\ce\W`  
