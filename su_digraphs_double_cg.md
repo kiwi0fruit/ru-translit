@@ -226,7 +226,7 @@ Pod govor pjanyh mugichcov.
 
 ась./ase., асе./asie., асьта/aseta, асета/asieta, асьтса/asjtsa, асетса/asetsa, ачь/ach, аче/ace, ажь/agz, аже/age, ашь/ash, аше/ashe, ащь/asch, аще/asce, аць/acz, аце/acze, акь/ackj, аке/acke, агь/aghj, аге/aghe, карате/ckaratae, карать/carate
 
-Ne opredieleonnymi do concza ostalise socetanija tipa: ileci, ilecha, ilesha, ilesci, ilegi, ilegza, ilecza. Cac v "doleshe" i "Jeleczovca". Eti difrafy scitajutsia za odin zvuc i pozvoliajut reductsiju.
+Ne opredeleonnymi do concza ostalisj socetanija tipa: ileci, ilecha, ilesha, ilesci, ilegi, ilegza, ilecza. Cac v ."doleshe" i ."Jeleczovca". Eti difrafy scitajutsia za odin zvuc i pozvoliajut reductsiju.
 
 ЭТО ДАСТ 21 ЛИШНЕЕ ВХОЖДЕНИЕ ДИГРАФА "ie".
 
@@ -236,12 +236,21 @@ Ne opredieleonnymi do concza ostalise socetanija tipa: ileci, ilecha, ilesha, il
 
 Рассчеты были проведены на основе этого фрагмента:
 
-V mojom testovom fragmente texta 34 vkhogzdenij ."\ce\W" (.e posle soglasnyh na concze slov) i 45 vkhogzdenij ."\cj\W" (.j posle soglasnyh na concze slov), gde ."\c" eto soglasnaja (.consonant). V russcoi versii testovogo fragmenta 231 bucva .Аа i 213 bucv .Тт. Otnoshenije .Тт c .Аа iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyi srednestatistichnyi... No vseo ravno budem ispolezovate jego.
+V mojom testovom fragmente texta: 34 vkhogzdenij ."\ce\W" (.e posle soglasnyh na concze slov), 45 vkhogzdenij ."\cj\W" (.j posle soglasnyh na concze slov), 28 vkhogzdenij ."\ci\W" (.i posle soglasnyh na concze slov). Gde ."\c" - eto soglasnaja "[rtpsdfghklzxcvbnm]". V russcoj versii testovogo fragmenta 231 bucva .Аа i 213 bucv .Тт. Otnoshenije .Тт c .Аа iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyj srednestatistichnyj... No vseo ravno budem ispoljzovatj jego.
 
-34 / 231 = e1[%] / 8.01[%] => e1 =1.179%  
-34 / 213 = e2[%] / 6.26[%] => e2 = 0.999%
+34 / 231 = e1[%] / 8.01[%] => e1 = 1.179%  
+34 / 213 = e2[%] / 6.26[%] => e2 = 0.999%  
+=> ~1.09%
 
-Tacym obrazom, grubaja oczenca chastotnosti ."\ce\W" budet primerno 1%. To jestj zamenite na concze slov .\cj na .\ce (a .\ce na .\cie) budet stoiyte ~1.09% digrafnyh potere. Jesli ge zamieniate prosto .\cj na .\cie, to digrafnyje poteri budut ~1.44% (da i eto budet meneje logychno).
+45 / 231 = e1[%] / 8.01[%] => e1 = 1.560%  
+45 / 213 = e2[%] / 6.26[%] => e2 = 1.323%  
+=> ~1.44%
+
+28 / 231 = e1[%] / 8.01[%] => e1 = 0.971%  
+28 / 213 = e2[%] / 6.26[%] => e2 = 0.823%  
+=> ~0.90%
+
+Tacym obrazom, grubaja oczenca chastotnosti ."\ce\W" budet primerno 1%. To jestj zamenitj na concze slov .\cj na .\ce (a .\ce na .\cie) budet stoitj ~1.09% digrafnyh poterj. Jesli ge zameniatj prosto .\cj na .\cie, to digrafnyje poteri budut ~1.44% (da i eto budet meneje logychno).
 
 
 ## Пример текста с уменьшенным вхождением j
