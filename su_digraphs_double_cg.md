@@ -276,6 +276,8 @@ Skhod mestnyh gitelei indijscoi derevniy sickhov reshal chto ge delati s otkhoda
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovoriti starshij mehanic Vasilij.
 
+----
+
 Liubimczem Biljbo byl junyi Frodo Baeggyns. Cogda Biljbo stucnulo devianosto deviati, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugz vse nadegzdy Dericuli-Baeggynsov, davno s vogzdelenijem posmatrivavshih na usadjbu, ruhnuliy oconchateljno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisi v odin deni, 22 sentiabria.
@@ -286,74 +288,80 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogi v bezotvetstvenno
 
 Proshlo jesceo dvenadczati let. V Zasumcah cagzdyi god veselo otmechaliy dvojnoi deni rogzdenija, c etomu privycliy, no liubomu bylo jasno, chto nyneshnei osenju gotovitsia nechto nieobychnoje. Biljbo ispolnialosi 111 let – vozrast dlia hobbita vesjma pochtennyi, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetiti tridczatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
 
+----
+
 Imejetsia nescoljco gypotez proiskhogzdenija sobacy, naiboleje verojatnymiy jejo predcamiy scitajutsia volc i necotoryje vidy shacalov.
 
 V sugzdenijah uceonyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odniy scitajut, chto sobacy - polifileticescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshliy ot odnogo predca (monofileticescaja tieorija).
 
+----
+
 Alexandr Pushcyn — Zimneje utro
 
-Moroz i solncze; deni chudesnyi!
-Jesceo ty dremleshi, drug prelestnyi —
-Pora, crasavicza, prosnisi:
-Otcroi somcnuty negoi vzory
-Navstrechu severnoi Avrory,
-Zvezdoju severa javisi!
+Moroz i solncze; deni chudesnyi!  
+Jesceo ty dremleshi, drug prelestnyi —  
+Pora, crasavicza, prosnisi:  
+Otcroi somcnuty negoi vzory  
+Navstrechu severnoi Avrory,  
+Zvezdoju severa javisi!  
 
-Vechor, ty pomnishi, vjuga zlilasi,
-Na mutnom nebe mgla nosilasi;
-Luna, cac blednoje piatno,
-Scvozi tuciy mrachnyje geltela,
-I ty pechaljnaja sidela —
-A nynce… pogliadiy v ocno:
+Vechor, ty pomnishi, vjuga zlilasi,  
+Na mutnom nebe mgla nosilasi;  
+Luna, cac blednoje piatno,  
+Scvozi tuciy mrachnyje geltela,  
+I ty pechaljnaja sidela —  
+A nynce… pogliadiy v ocno:  
 
-Pod golubymiy nebesamiy
-Velicolepnymiy covramiy,
-Blestia na solncze, sneg legit;
-Prozrachnyi les odin cernejet,
-I jeli scvozi inei zelenejet,
-I rechca podo ljdom blestit.
+Pod golubymiy nebesamiy  
+Velicolepnymiy covramiy,  
+Blestia na solncze, sneg legit;  
+Prozrachnyi les odin cernejet,  
+I jeli scvozi inei zelenejet,  
+I rechca podo ljdom blestit.  
 
-Vsia comnata jantarnym blescom
-Ozarena. Veseolym trescom
-Trescit zatoplennaja peci.
-Prijatno dumati u legzancy.
-No znajeshi: ne veleti liy v sancy
-Cobylcu buruju zapreci?
+Vsia comnata jantarnym blescom  
+Ozarena. Veseolym trescom  
+Trescit zatoplennaja peci.  
+Prijatno dumati u legzancy.  
+No znajeshi: ne veleti liy v sancy  
+Cobylcu buruju zapreci?  
 
-Scoljzia po utrennemu snegu,
-Drug milyi, predadimsia begu
-Netoroplivogo conia
-I navestim polia pustyje,
-Lesa, nedavno stoli gustyje,
-I bereg, milyi dlia menia.
+Scoljzia po utrennemu snegu,  
+Drug milyi, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyje,  
+Lesa, nedavno stoli gustyje,  
+I bereg, milyi dlia menia.  
+
+----
 
 Lermontov M.Ju. — Rodina
 
-Liubliu otciznu ja, no strannoju liubovju!
-Ne pobedit jejo rassudoc moi.
-Ni slava, cuplennaja crovju,
-Ni polnyi gordogo doverija pocoi,
-Ni teomnoi stariny zavetnyje predanja
-Ne sheveliat vo mne otradnogo mechtanja.
-No ja liubliu — za chto, ne znaju sam —
-Jejo stepei holodnoje molchanje,
-Jejo lesov bezbregznyh colyhanje,
-Razlivy rec jejo, podobnyje moriam;
-Proseolochnym puteom liubliu scacati v teleghe
-I, vzorom medlennym pronzaja nociy teni,
-Vstrechati po storonam, vzdyhaja o nochleghe,
-Drogzascije ogniy pechaljnyh dereveni;
-Liubliu dymoc spaleonnoi gznivy,
-V stepiy nochujuscij oboz
-I na holme sredi geoltoi nivy
-Cetu belejuscih bereoz.
-S otradoi, mnogym neznacomoi,
-Ja vigzu polnoje gumno,
-Izbu, pocrytuju solomoi,
-S reznymiy stavniamiy ocno;
-I v prazdnic, vecerom rosistym,
-Smotreti do polnociy gotov
-Na pliascu s topanjem i svistom
-Pod govor pjanyh mugichcov.
+Liubliu otciznu ja, no strannoju liubovju!  
+Ne pobedit jejo rassudoc moi.  
+Ni slava, cuplennaja crovju,  
+Ni polnyi gordogo doverija pocoi,  
+Ni teomnoi stariny zavetnyje predanja  
+Ne sheveliat vo mne otradnogo mechtanja.  
+No ja liubliu — za chto, ne znaju sam —  
+Jejo stepei holodnoje molchanje,  
+Jejo lesov bezbregznyh colyhanje,  
+Razlivy rec jejo, podobnyje moriam;  
+Proseolochnym puteom liubliu scacati v teleghe  
+I, vzorom medlennym pronzaja nociy teni,  
+Vstrechati po storonam, vzdyhaja o nochleghe,  
+Drogzascije ogniy pechaljnyh dereveni;  
+Liubliu dymoc spaleonnoi gznivy,  
+V stepiy nochujuscij oboz  
+I na holme sredi geoltoi nivy  
+Cetu belejuscih bereoz.  
+S otradoi, mnogym neznacomoi,  
+Ja vigzu polnoje gumno,  
+Izbu, pocrytuju solomoi,  
+S reznymiy stavniamiy ocno;  
+I v prazdnic, vecerom rosistym,  
+Smotreti do polnociy gotov  
+Na pliascu s topanjem i svistom  
+Pod govor pjanyh mugichcov.  
 
 // God napisanija: 1841
