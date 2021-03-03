@@ -236,7 +236,7 @@ Ne opredeleonnymi do concza ostalisj socetanija tipa: ileci, ilecha, ilesha, ile
 
 Рассчеты были проведены на основе этого фрагмента:
 
-V mojom testovom fragmente texta: 34 vkhogzdenij `\ce\W` (`e` posle soglasnyh na concze slov), 45 vkhogzdenij `\cj\W` (`j` posle soglasnyh na concze slov), 28 vkhogzdenij `\ci\W` (`i` posle soglasnyh na concze slov). Gde `\c` - eto soglasnaja `[rtpsdfghklzxcvbnm]`. V russcoj versii testovogo fragmenta 231 bucva `[Аа]` i 213 bucv `[Тт]`. Otnoshenije `Тт` c `Аа` iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyj srednestatistichnyj... No vseo ravno budem ispoljzovatj jego.
+V mojom testovom fragmente texta: 34 vkhogzdenij `\ce\W` (`e` posle soglasnyh na concze slov), 45 vkhogzdenij `\cj\W` (`j` posle soglasnyh na concze slov), 28 vkhogzdenij `\ci\W` (`i` posle soglasnyh na concze slov), 37 vkhogzdenij `[eyuoa]j\W`, 0 vkhogzdenij `[eyuoa]i\W`. Gde `\c` - eto soglasnaja `[rtpsdfghklzxcvbnm]`. V russcoj versii testovogo fragmenta 231 bucva `[Аа]` i 213 bucv `[Тт]`. Otnoshenije `Тт` c `Аа` iz https://ru.wikipedia.org/wiki/Частотность ravniajetsia 0.782. A eto ge otnoshenije v testovom fragmente - 0.922. To jestj, text ne samyj srednestatistichnyj... No vseo ravno budem ispoljzovatj jego.
 
 `\ce\W`  
 34 / 231 = e1[%] / 8.01[%] => e1 = 1.179%  
