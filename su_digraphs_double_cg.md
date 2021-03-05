@@ -1,34 +1,24 @@
 # Совлат англотранс с диграфами, двойными CG и без Kk
 
-Новая версия на основе [**предыдущей**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_en.md). Базируется на идеях совлата, англотранслитов с диграфами, двойного использования CG, минимизации Kk, умеренного использования Jj.
+Новая версия на основе [**предыдущей**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_en.md).
 
-В качестве основных идей латиницы можно выделить:
-
-* Сознательное исключение буквы Kk,
-* Сознательное использование явной йотации буквы Ее для соответствия другим йотированным гласным.
-* За основу был взят совлат,
-* Который был переделан в ASCII-only версию без небуквенных символов,
-* Xx для "ха" был сразу исключён,
-* Особое внимание было уделено оптимизации частотных букв и сочетаний.
-* Для этого пришлось использовать двойные C и G, а так же диграфы:
-* Английские ш-sh, ч-ch, х-h/kh. Древнеримско-итальянский ц-cz и, наконец, ж-gz, очевидный в контексте cz и двойной G.
-* Некоторое ограничение использования буквы Jj, особенно, в конце слов: ь/ie.
+Лучше все же использовать ё/eo, но ю/iu, я/ia.
 
 а - a,  
 о - o,  
 у - u,  
 э - e / ae - после согласных,  
 ы - y,  
-я - ja / ea - после согласных / jia - вместо ъя,  
+я - ja / ia - после согласных / jia - вместо ъя,  
 ё - jo / eo - после согласных / jio - вместо ъё,  
-ю - ju / eu - после согласных / jiu - вместо ъю,  
-е - je / e - после согласных / ie - после согласных перед "оау" / jie - вместо ъе,  
-и - i / iy - после согласных перед "э", после гласных в конце слова / y - после к,г и иногда после ц (cy,gy,czy),  
+ю - ju / iu - после согласных / jiu - вместо ъю,  
+е - je / e - после согласных / ie - после согласных перед "о" / jie - вместо ъе,  
+и - i / iy - после согласных перед ауэ (но не "о") / y - после к,г и иногда после ц (cy,gy,czy),  
 
-й - i - после гласных в конце слова (кроме ij) / ji - йот, не смягчающий предыдущую согласную / j - иначе,  
-ъ - съ[еёюя] — sji[eoua] / qq - иначе,  
-ь - сь[еэёоюяи] — sj[eeoouay] / сь[ау] — se[au] / ie - иначе,  
-ji - йот, не смягчающий предыдущую согласную (диграф, две буквы, но один звук), j - смягчающий предыдущую согласную йот,   
+й - j / ji - между согласными или когда нужен **йот, не смягчающий предыдущую согласную**,  
+ъ - съ[еёюя] -- sji[eoua] / qq - иначе,  
+ь - j (в т.ч. сь[еёюяи] - sj[eouay]),  
+ji - йот, не смягчающий предыдущую согласную (диграф, две буквы, но один звук), j - смягчающий предыдущую согласную йот,  
 
 б - b,  
 в - v,  
@@ -69,28 +59,28 @@ ji - йот, не смягчающий предыдущую согласную (
 * ке/cke, че/ce, це/cze, ге/ghe, же/ge
 * ки/cy, чи/ci, ци/czi, ги/gy, жи/gi
 * кё/ckeo, чё/ceo, чо/cho, цо/czo, цё/czeo, гё/gheo, жё/geo, жо/gzo
-* кя/ckea, ча/cha, ца/cza (гя/ghea, жа/gza)
-* мя/mea, меч/mech, лечь/lecie, ниц/nicz, рож/rogz, трожь/trogie, чиа/cia, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyi, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog (исключение), отцы/otczy, полиэтилен/poliyetilen.
+* кя/ckia, ча/cha, ца/cza (гя/ghia, жа/gza) 
+* мя/mia, меч/mech, лечь/lecj, ниц/nicz, рож/rogz, трожь/trogj, чиа/ciya, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyj, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog (исключение), отцы/otczy
 
-Allilujja, Jemen (исключение), съезд/sjiezd, месье/mesje, colyhanje, colyhanije, Cserocs, Csenija, taxi, exzema, exzecuczija, sex, saxofon, raep (исключение).
-сьи/sjy сйи/sjiy, сйс/sjs, сьа/sea (force: siewa), сьйя/sjja, сйя/sjiia, сьйс/siejs, сейс/sejs.
+Allilujja, Jemen (исключение), съезд/sjiezd, месье/mesje, colyhanje, colyhanije, Cserocs, Csenija, taxi, exzema, exzecuczija, sex, saxofon, raep (исключение).  
+сьи/sjy сйи/sjiy, сьйя/sjja, сйя/sjiia, сьйс/sjjis, сйс/sjis, сьа/sia (force: sjwa).
 
 Обратите внимание, что йот+твердая гласная (аоуэ) даёт мягкое звучание гласной (a => æ, o => ɵ, u => ʉ, ɛ => e, так пусть и ɨ => i будет). То есть, фонетика строится в предположении, что йы и йи звучат одинаково и в латинице обозначаются jy, чтобы быть согласованными с йотацией других гласных.
 
 
-|       | и   | ы   | е   | [ёяю]    | [оау.]   | [еэ][оау] | иэ    | и[оау]   | э    | ь    | аббр. |
-| ----- | --- | --- | --- | -------- | -------- | --------- | ----- | -------- | ---- | ---- | ----- |
-| **ц** | czi | czy | cze | cze[oau] | cz[oau.] | czie[oau] | cziye | czi[oau] | czae | czie | Cz    |
-| **ч** | ci  | chy | ce  | ce[oau]  | ch[oau.] | cie[oau]  | ciye  | ci[oau]  | chae | cie  | Ch    |
-| **ж** | gi  | gzy | ge  | ge[oau]  | gz[oau.] | gie[oau]  | giye  | gi[oau]  | gzae | gie  | Gz    |
-| **ш** | shi | shy | she | she[oau] | sh[oau.] | shie[oau] | shiye | shi[oau] | shae | shie | Sh    |
-| **щ** | сч  |     |     |          |          |           |       |          |      |      | Sch   |
+|       | и   | ы   | е   | ё    | [оау.]   | [еэ]о | ио   | и[ауэ]    | [яю]     | э    | ь   | аббр. |
+| ----- | --- | --- | --- | ---- | -------- | ----- | ---- | --------- | -------- | ---- | --- | ----- |
+| **ц** | czi | czy | cze | czeo | cz[oau.] | czieo | czio | cziy[aue] | czi[au]  | czae | czj | Cz    |
+| **ч** | ci  | chy | ce  | ceo  | ch[oau.] | cieo  | cio  | ciy[aue]  | ci[au]   | chae | cj  | Ch    |
+| **ж** | gi  | gzy | ge  | geo  | gz[oau.] | gieo  | gio  | giy[aue]  | gi[au]   | gzae | gj  | Gz    |
+| **ш** | shi | shy | she | sheo | sh[oau.] | shieo | shio | shiy[aue] | shi[au]  | shae | shj | Sh    |
+| **щ** | сч  |     |     |      |          |       |      |           |          |      |     | Sch   |
 
-|       | и      | ы   | е   | э   | [ёяю]    | [оау.]  | ео   | эо    | иэ   | и[оау]  | ь    | аббр. |
-| ----- | ------ | --- | --- | --- | -------- | ------- | ---- | ----- | ---- | ------- | ---- | ----- |
-| **к** | cy/cki | cky | cke | cae | cke[oau] | c[oau.] | caeo | ckaeo | cye  | cy[oau] | ckie | C/Ck  |
-| **г** | gy/ghi | ghy | ghe | gae | ghe[oau] | g[oau.] | gaeo | ghaeo | gye  | gy[oau] | ghie | G/Gh  |
-| **с** | si     | sy  | se  | sae | se[oau]  | s[oau.] | sieo | saeo  | siye | si[oau] | sie  | S     |
+|       | и      | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | ь   | аббр. |
+| ----- | ------ | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | --- | ----- |
+| **к** | cy/cki | cky | cke | cae | ckeo | c[oau.] | cki[au] | caeo | ckaeo | cy[aue]  | cyo | ckj | C/Ck  |
+| **г** | gy/ghi | ghy | ghe | gae | gheo | g[oau.] | ghi[au] | gaeo | ghaeo | gy[aue]  | gyo | ghj | G/Gh  |
+| **с** | si     | sy  | se  | sae | seo  | s[oau.] | si[au]  | sieo | saeo  | siy[aue] | sio | sj  | S     |
 
 `che` значит тоже самое, что и `ce`, но никогда не используется. Аналогично с `chieo` и `cieo`.
 
@@ -119,108 +109,108 @@ Allilujja, Jemen (исключение), съезд/sjiezd, месье/mesje, co
 
 ## Пример текста
 
-Piony i vasiliecy vseo jesceo rastut na poleane vozle derevni Peony, scitajuscejsea bogatoi. V nei rodilsea izvestnyi pianist, perejehavshij v Siyetl na rabotu v companii "Moiy i tvoiy".
+Piony i vasiljcy vseo jesceo rastut na poliane vozle derevniy Peony, scitajuscejsia bogatoi. V nei rodilsia izvestnyi piyanist.
 
-Pjanyi master po projectu sdelal mehanicescyi objiect s izjianom. Jesli brac ne obnarugitsea, to belyje bolidy bolieshe ne smogut vyigryvatie goncy.
+Pjanyi master po projectu sdelal mehanicescyi objiect s izjianom. Jesliy brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvati goncy.
 
-V pjese pro devushcu v zeleonom platjycze vse sadilisie na ladjy i plyli po recke. No tut iz lesa vyshel Dgeordgz Maximus, conie v palieto i rvanyh dginsah, cotoryi chto-to vyiscyval, i pricazal vsem mytiesea i gotovitie buljon. Znacit snova pjom do lysyh acvalangystov.
+V pjese pro devushcu v zeleonom platjycze vse sadilisi na ladjy i plyliy po recke. No tut iz lesa vyshel Dgeordgz Maximus, coni v paljto i rvanyh dginsah, cotoryi chto-to vyiscyval, i pricazal vsem mytjsia i gotoviti buljon. Znacit snova pjom do lysyh acvalangystov.
 
-Prepodobnyi Bajjes podcynul igralienyje costi. Vypalo shestie, znacit jemu prideotsea mazatie jod na ranu.
+Prepodobnyi Bajjes podcynul igraljnyje costiy. Vypalo shesti, znacit jemu prideotsia mazati jod na ranu.
 
-Maer nebolieshogo gorodishcy otcryl tabliczu exelea i vozmutilsea czenoi novogo excavatora. Agz exzema snova stala jego bespocoitie. Oh ugz eta pocupca vechnogo dvigatelea v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesli tac pojdeot i dalieshe, to beudgetu prideotsea hudo.
+Maer neboljshogo gorodishcy otcryl tabliczu exelia i vozmutilsia czenoi novogo excavatora. Agz exzema snova stala jego bespocoiti. Oh ugz eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesliy tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
-V etom vide fraza ot A do Ja nacinajet vygleadetie sovsem po-drugomu. Sejchas sceotca novaja, no pozge ona stanet staraja. Cernysh leubit cogda jego ceshut jeju. Jogz coleucij i pohogz na nejo.
+V etom vide fraza ot A do Ja nacinajet vygliadeti sovsem po-drugomu. Sejchas sceotca novaja, no pozge ona stanet staraja. Cernysh liubit cogda jego ceshut jeju. Jogz coliucij i pohogz na nejo.
 
-Skhod mestnyh gitelei indijscoi derevni sickhov reshal chto ge delatie s otkhodami companii "Caligula Gai Julij Czezarie" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nasheol vyhod iz situaczii.
+Skhod mestnyh gitelei indijscoi derevniy sickhov reshal chto ge delati s otkhodamiy companii "Caligula Gai Julij Czezari" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nasheol vyhod iz situaczii.
 
-"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovoritie starshij mehanic Vasilij.
-
-----
-
-Leubimczem Biliebo byl junyi Frodo Baeggyns. Cogda Biliebo stucnulo deveanosto deveatie, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitiesea v Zasumcy. Tut ugz vse nadegzdy Dericulie-Baeggynsov, davno s vogzdelenijem posmatrivavshih na usadiebu, ruhnuli oconchatelieno.
-
-Sluchaju bylo ugodno, chtoby Biliebo s Frodo jesceo i rodilisie v odin denie, 22 senteabrea.
-
-– Frodo, maliecic moi, – scazal cac-to raz Biliebo, – perebiralsea by ty co mne. Gleadishie, i denie rogzdenija vmeste otmechali by.
-
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogie v bezotvetstvennom vozraste megzdu dvadczatju i tridczatju tremea, posle cego hobbit naconecz moget scitatie sebea vzroslym.
-
-Proshlo jesceo dvenadczatie let. V Zasumcah cagzdyi god veselo otmechali dvojnoi denie rogzdenija, c etomu privycli, no leubomu bylo jasno, chto nyneshnei osenju gotovitsea nechto nieobychnoje. Biliebo ispolnealosie 111 let – vozrast dlea hobbita vesiema pochtennyi, da i cislo leubopytnoje, nu a Frodo gotovilsea otmetitie tridczatitreohletije – toge znamenatelienaja data – sovershennoletije po-hobbitscy.
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovoriti starshij mehanic Vasilij.
 
 ----
 
-Imejetsea nescolieco gypotez proiskhogzdenija sobacy, naiboleje verojatnymi jejo predcami scitajutsea volc i necotoryje vidy shacalov.
+Liubimczem Biljbo byl junyi Frodo Baeggyns. Cogda Biljbo stucnulo devianosto deviati, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsia v Zasumcy. Tut ugz vse nadegzdy Dericuli-Baeggynsov, davno s vogzdelenijem posmatrivavshih na usadjbu, ruhnuliy oconchateljno.
 
-V sugzdenijah uceonyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odni scitajut, chto sobacy - polifileticescaja gruppa (proiskhodeaschaja ot nescoliecyh predcov), drugyje pridergivajutsea mnenija, chto vse sobacy proizoshli ot odnogo predca (monofileticescaja tieorija).
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisi v odin deni, 22 sentiabria.
+
+– Frodo, maljcic moi, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadishi, i deni rogzdenija vmeste otmechaliy by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogi v bezotvetstvennom vozraste megzdu dvadczatju i tridczatju tremia, posle cego hobbit naconecz moget scitati sebia vzroslym.
+
+Proshlo jesceo dvenadczati let. V Zasumcah cagzdyi god veselo otmechaliy dvojnoi deni rogzdenija, c etomu privycliy, no liubomu bylo jasno, chto nyneshnei osenju gotovitsia nechto nieobychnoje. Biljbo ispolnialosi 111 let – vozrast dlia hobbita vesjma pochtennyi, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetiti tridczatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+
+----
+
+Imejetsia nescoljco gypotez proiskhogzdenija sobacy, naiboleje verojatnymiy jejo predcamiy scitajutsia volc i necotoryje vidy shacalov.
+
+V sugzdenijah uceonyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odniy scitajut, chto sobacy - polifileticescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshliy ot odnogo predca (monofileticescaja tieorija).
 
 ----
 
 Alexandr Pushcyn — Zimneje utro
 
-Moroz i solncze; denie chudesnyi!  
-Jesceo ty dremleshie, drug prelestnyi —  
-Pora, crasavicza, prosnisie:  
+Moroz i solncze; deni chudesnyi!  
+Jesceo ty dremleshi, drug prelestnyi —  
+Pora, crasavicza, prosnisi:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Avrory,  
-Zvezdoju severa javisie!  
+Zvezdoju severa javisi!  
 
-Vechor, ty pomnishie, vjuga zlilasie,  
-Na mutnom nebe mgla nosilasie;  
-Luna, cac blednoje peatno,  
-Scvozie tuci mrachnyje geltela,  
-I ty pechalienaja sidela —  
-A nynce… pogleadi v ocno:  
+Vechor, ty pomnishi, vjuga zlilasi,  
+Na mutnom nebe mgla nosilasi;  
+Luna, cac blednoje piatno,  
+Scvozi tuciy mrachnyje geltela,  
+I ty pechaljnaja sidela —  
+A nynce… pogliadiy v ocno:  
 
-Pod golubymi nebesami  
-Velicolepnymi covrami,  
-Blestea na solncze, sneg legit;  
+Pod golubymiy nebesamiy  
+Velicolepnymiy covramiy,  
+Blestia na solncze, sneg legit;  
 Prozrachnyi les odin cernejet,  
-I jelie scvozie inei zelenejet,  
-I rechca podo liedom blestit.  
+I jeli scvozi inei zelenejet,  
+I rechca podo ljdom blestit.  
 
-Vsea comnata jantarnym blescom  
+Vsia comnata jantarnym blescom  
 Ozarena. Veseolym trescom  
-Trescit zatoplennaja pecie.  
-Prijatno dumatie u legzancy.  
-No znajeshie: ne veletie li v sancy  
-Cobylcu buruju zaprecie?  
+Trescit zatoplennaja peci.  
+Prijatno dumati u legzancy.  
+No znajeshi: ne veleti liy v sancy  
+Cobylcu buruju zapreci?  
 
-Scoliezea po utrennemu snegu,  
-Drug milyi, predadimsea begu  
-Netoroplivogo conea  
-I navestim polea pustyje,  
-Lesa, nedavno stolie gustyje,  
-I bereg, milyi dlea menea.  
+Scoljzia po utrennemu snegu,  
+Drug milyi, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyje,  
+Lesa, nedavno stoli gustyje,  
+I bereg, milyi dlia menia.  
 
 ----
 
 Lermontov M.Ju. — Rodina
 
-Leubleu otciznu ja, no strannoju leubovju!  
+Liubliu otciznu ja, no strannoju liubovju!  
 Ne pobedit jejo rassudoc moi.  
-Ni slava, cuplennaja crovju,  
-Ni polnyi gordogo doverija pocoi,  
-Ni teomnoi stariny zavetnyje predanja  
-Ne sheveleat vo mne otradnogo mechtanja.  
-No ja leubleu — za chto, ne znaju sam —  
+Niy slava, cuplennaja crovju,  
+Niy polnyi gordogo doverija pocoi,  
+Niy teomnoi stariny zavetnyje predanja  
+Ne sheveliat vo mne otradnogo mechtanja.  
+No ja liubliu — za chto, ne znaju sam —  
 Jejo stepei holodnoje molchanje,  
 Jejo lesov bezbregznyh colyhanje,  
-Razlivy rec jejo, podobnyje moream;  
-Proseolochnym puteom leubleu scacatie v teleghe  
-I, vzorom medlennym pronzaja noci tenie,  
-Vstrechatie po storonam, vzdyhaja o nochleghe,  
-Drogzascije ogni pechalienyh derevenie;  
-Leubleu dymoc spaleonnoi gznivy,  
-V stepi nochujuscij oboz  
-I na holme sredie geoltoi nivy  
+Razlivy rec jejo, podobnyje moriam;  
+Proseolochnym puteom liubliu scacati v teleghe  
+I, vzorom medlennym pronzaja nociy teni,  
+Vstrechati po storonam, vzdyhaja o nochleghe,  
+Drogzascije ogniy pechaljnyh dereveni;  
+Liubliu dymoc spaleonnoi gznivy,  
+V stepiy nochujuscij oboz  
+I na holme sredi geoltoi nivy  
 Cetu belejuscih bereoz.  
 S otradoi, mnogym neznacomoi,  
 Ja vigzu polnoje gumno,  
 Izbu, pocrytuju solomoi,  
-S reznymi stavneami ocno;  
+S reznymiy stavniamiy ocno;  
 I v prazdnic, vecerom rosistym,  
-Smotretie do polnoci gotov  
-Na pleascu s topanjem i svistom  
+Smotreti do polnociy gotov  
+Na pliascu s topanjem i svistom  
 Pod govor pjanyh mugichcov.  
 
 // God napisanija: 1841
