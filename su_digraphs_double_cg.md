@@ -253,7 +253,7 @@ ji => j́
 sia => sá, siu => sú, sie => sé  
 siy. => sý. (кроме ciy,giy)  
 iy => í  
-sio => sįo, siia => sįa, siiu => sįu, siie => sįe, siiy => sįy  
+sio => sįo, siia => sįa, siiu => sįu, siie => sįe, siiy => sįy (кроме scio, там sciio => scįo)  
 skh => sκh  
 caeo => ckéo, gaeo => ghéo  
 cz => ç  
