@@ -268,7 +268,7 @@ Píony i vasiljcy vsø jescø rastut na poláne vozle derevný Pøny, schitajusc
 
 Pjanyi master po projectu sdelal mehanicescyi obj́ect s izj́anom. Jeslý brac ne obnarugitsá, to belyje bolidy boljshe ne smogut vyigryvati goncy.
 
-V pjese pro devushcu v zelønom platjyçe vse sadilisi na ladjy i plylý po recke. No tut iz lesa vyshel Dgørdgz Maximus, coni v paljto i rvanyh dginsah, cotoryi chto-to vyiscyval, i pricazal vsem mytjsá i gotoviti bulion. Znacit snova pjøm do lysyh acvalangystov.
+V pjese pro devushcu v zelønom platjyçe vse sadilisi na ladjy i plylý po recke. No tut iz lesa vyshel Dgørdgz Maximus, coni v paljto i rvanyh dginsah, cotoryi chto-to vyiscyval, i pricazal vsem mytjsá i gotoviti bulįon. Znacit snova pjøm do lysyh acvalangystov.
 
 Prepodobnyi Bajjes podcynul igraljnyje costý. Vypalo shesti, znacit jemu pridøtsá mazati j́od na ranu.
 
