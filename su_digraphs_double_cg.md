@@ -87,8 +87,10 @@ Allilujja, Jemen (исключение), съезд/sjiezd, месье/mesje, co
 | **ж**  | gi   | gzy   | ge   | geo   | gz[oau.]  | gieo   | giy[oaue]   | gi[au]    | gzae   | gjs    | gi.    | gzs  | Gz    |
 | **ш**  | shi  | shy   | she  | sheo  | sh[oau.]  | shieo  | shiy[oaue]  | shi[au]   | shae   | shjs   | shi.   | shs  | Sh    |
 | **ч**  | ci   | chy   | ce   | ceo   | ch[oau.]  | cieo   | ciy[oaue]   | ci[au]    | chae   | cjs    | ci.    | chs  | Ch    |
-| **щ**  | sci  | schy  | sce  | sceo  | sci[oau.] | scieo  | sciy[oaue]  | schi[au]  | schae  | schjs  | schi.  | scjs | Sch   |
-| **сч** | schi | wschy | sche | scheo | sch[oau.] | schieo | schiy[oaue] | wschi[au] | wschae | wschjs | wschi. | schs | SCh   |
+| **щ**  | **sci** | **schy** | **sce** | **sceo** | sci[oau.] | **scieo** | **sciy[oaue]** | **schi[au]** | schae  | schjs  | schi.  | scjs | Sch   |
+| **сч** | schi | wschy | sche | scheo | **sch[oau.]** | schieo | schiy[oaue] | wschi[au] | wschae | wschjs | wschi. | schs | SCh   |
+
+Жирным показан вариант, который будет стандартным после реформы орфограции.
 
 |       | и      | ы   | е   | э   | ё    | [оау.c]  | [яю]    | ео   | эо    | и[оауэ]   | ьс   | ь.   | аббр. |
 | ----- | ------ | --- | --- | --- | ---- | -------- | ------- | ---- | ----- | --------- | ---- | ---- | ----- |
