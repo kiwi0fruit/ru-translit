@@ -131,7 +131,7 @@ Pjanyi master po projectu sdelal mehanicescyi objiect s izjianom. Jesliy brac ne
 
 V pjese pro devushcu v zeleonom platjycze vse sadilisi na ladjy i plyliy po recke. No tut iz lesa vyshel Dgeordgz Maximus, coni v paljto i rvanyh dginsah, cotoryi chto-to vyiscyval, i pricazal vsem mytjsia i gotoviti bulion. Znacit snova pjom do lysyh acvalangystov.
 
-Prepodobnyi Bajjes podcynul igraljnyje costiy. Vypalo shesti, znacit jemu prideotsia mazati jod na ranu.
+Prepodobnyi Bajjes podcynul igraljnyje costiy. Vypalo shesti, znacit jemu prideotsia mazati jiod na ranu.
 
 Maer neboljshogo gorodishcy otcryl tabliczu exelia i vozmutilsia czenoi novogo excavatora. Agz exzema snova stala jego bespocoiti. Oh ugz eta pocupca vechnogo dvigatelia v proshlom godu! A tac ge pocupca aeroplana-ecranoleota. Jesliy tac pojdeot i daljshe, to biudgetu prideotsia hudo.
 
