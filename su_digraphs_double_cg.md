@@ -261,5 +261,111 @@ wsch => ṡch
 
 Диграфы согласных, скорее всего, трогать не стоит. Ибо иначе написание будет слишком разниться в ASCII и лигатурной версиях, а это не очень хорошо.
 
-Пример текста смотрите ниже.
 
+## Пример текста
+
+Píony i vasiljcy vsø jescø rastut na poláne vozle derevný Pøny, schitajuscejsá bogatoi. V nei rodilsá izvestnyi píanist.
+
+Pjanyi master po projectu sdelal mehanicescyi obj́ect s izj́anom. Jeslý brac ne obnarugitsá, to belyje bolidy boljshe ne smogut vyigryvati goncy.
+
+V pjese pro devushcu v zelønom platjyçe vse sadilisi na ladjy i plylý po recke. No tut iz lesa vyshel Dgørdgz Maximus, coni v paljto i rvanyh dginsah, cotoryi chto-to vyiscyval, i pricazal vsem mytjsá i gotoviti bulion. Znacit snova pjøm do lysyh acvalangystov.
+
+Prepodobnyi Bajjes podcynul igraljnyje costý. Vypalo shesti, znacit jemu pridøtsá mazati j́od na ranu.
+
+Mær neboljshogo gorodishcy otcryl tabliçu exelá i vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoiti. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranoløta. Jeslý tac pojdøt i daljshe, to búdgetu pridøtsá hudo.
+
+V etom vide fraza ot A do Ja nacinajet vygládeti sovsem po-drugomu. Sejchas scøtca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshut jeju. Jogz colúcij i pohogz na nejø.
+
+Sκhod mestnyh gitelei indijscoi derevný sicκhov reshal chto ge delati s otκhodamý companii "Caligula Gai Julij Czezari" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashøl vyhod iz situaçii.
+
+"Cto s mechom c nam pridøt, tot ot mecha i..." - ne smog dogovoriti starshij mehanic Vasilij.
+
+----
+
+Lúbimçem Biljbo byl junyi Frodo Bæggyns. Cogda Biljbo stucnulo devánosto deváti, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsá v Zasumcy. Tut ugz vse nadegzdy Dericuli-Bæggynsov, davno s vogzdelenijem posmatrivavshih na usadjbu, ruhnulý oconchateljno.
+
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescø i rodilisi v odin deni, 22 sentábrá.
+
+– Frodo, maljcic moi, – scazal cac-to raz Biljbo, – perebiralsá by ty co mne. Gládishi, i deni rogzdenija vmeste otmechalý by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodøgi v bezotvetstvennom vozraste megzdu dvadçatju i tridçatju tremá, posle cego hobbit naconeç moget schitati sebá vzroslym.
+
+Proshlo jescø dvenadçati let. V Zasumcah cagzdyi god veselo otmechalý dvojnoi deni rogzdenija, c etomu privyclý, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto néobychnoje. Biljbo ispolnálosi 111 let – vozrast dlá hobbita vesjma pochtennyi, da i cislo lúbopytnoje, nu a Frodo gotovilsá otmetiti tridçatitrøhletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+
+----
+
+Imejetsá nescoljco gypotez proisκhogzdenija sobacy, naiboleje verojatnymý jejø predcamý schitajutsá volc i necotoryje vidy shacalov.
+
+V sugzdenijah ucønyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odný schitajut, chto sobacy - polifileticescaja gruppa (proisκhodásciaja ot nescoljcyh predcov), drugyje pridergivajutsá mnenija, chto vse sobacy proizoshlý ot odnogo predca (monofileticescaja téorija).
+
+----
+
+Alexandr Pushcyn — Zimneje utro
+
+Moroz i solnçe; deni chudesnyi!  
+Jescø ty dremleshi, drug prelestnyi —  
+Pora, crasaviça, prosnisi:  
+Otcroi somcnuty negoi vzory  
+Navstrechu severnoi Avrory,  
+Zvezdoju severa javisi!  
+
+Vechor, ty pomnishi, vjuga zlilasi,  
+Na mutnom nebe mgla nosilasi;  
+Luna, cac blednoje pátno,  
+Scvozi tuciy mrachnyje geltela,  
+I ty pechaljnaja sidela —  
+A nynce… pogládý v ocno:  
+
+Pod golubymý nebesamý  
+Velicolepnymý covramý,  
+Blestá na solnçe, sneg legit;  
+Prozrachnyi les odin cernejet,  
+I jeli scvozi inei zelenejet,  
+I rechca podo ljdom blestit.  
+
+Vsá comnata jantarnym blescom  
+Ozarena. Vesølym trescom  
+Trescit zatoplennaja peci.  
+Prijatno dumati u legzancy.  
+No znajeshi: ne veleti lý v sancy  
+Cobylcu buruju zapreci?  
+
+Scoljzá po utrennemu snegu,  
+Drug milyi, predadimsá begu  
+Netoroplivogo coná  
+I navestim polá pustyje,  
+Lesa, nedavno stoli gustyje,  
+I bereg, milyi dlá mená.  
+
+----
+
+Lermontov M.Ju. — Rodina
+
+Lúblú otciznu ja, no strannoju lúbovju!  
+Ne pobedit jejø rassudoc moi.  
+Ný slava, cuplennaja crovju,  
+Ný polnyi gordogo doverija pocoi,  
+Ný tømnoi stariny zavetnyje predanja  
+Ne shevelát vo mne otradnogo mechtanja.  
+No ja lúblú — za chto, ne znaju sam —  
+Jejø stepei holodnoje molchanje,  
+Jejø lesov bezbregznyh colyhanje,  
+Razlivy rec jejø, podobnyje morám;  
+Prosølochnym putøm lúblú scacati v teleghe  
+I, vzorom medlennym pronzaja nociy teni,  
+Vstrechati po storonam, vzdyhaja o nochleghe,  
+Drogzascije ogný pechaljnyh dereveni;  
+Lúblú dymoc spalønnoi gznivy,  
+V stepý nochujuscij oboz  
+I na holme sredi gøltoi nivy  
+Cetu belejuscih berøz.  
+S otradoi, mnogym neznacomoi,  
+Ja vigzu polnoje gumno,  
+Izbu, pocrytuju solomoi,  
+S reznymý stavnámý ocno;  
+I v prazdnic, vecerom rosistym,  
+Smotreti do polnociy gotov  
+Na pláscu s topanjem i svistom  
+Pod govor pjanyh mugichcov.  
+
+// God napisanija: 1841
