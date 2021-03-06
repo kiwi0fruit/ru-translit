@@ -4,6 +4,7 @@
 
 В качестве основных идей латиницы можно выделить:
 
+* Латиница обратимая,
 * Сознательное исключение буквы Kk,
 * Сознательное использование явной йотации буквы Ее для соответствия другим йотированным гласным.
 * За основу был взят совлат,
@@ -25,11 +26,11 @@
 ё - jo / eo - после согласных / jio - вместо ъё,  
 ю - ju / iu - после согласных / jiu - вместо ъю,  
 е - je / e - после согласных / ie - после согласных перед "о" / jie - вместо ъе,  
-и - i / iy - после согласных перед ауэ (но не "о") / y - после к,г и иногда после ц (cy,gy,czy),  
+и - i / iy - после согласных перед ауэо / y - после к,г и иногда после ц (cy,gy,czy),  
 
-ъ - съ[еёюя] — sji[eoua] / qq - иначе,  
-ь - i - после согласных в конце слова / сь[еэёоюяи] — sj[eeoouay] / сь[ау] — si[au] / j - иначе,  
-й - i - после гласных в конце слова (кроме ij) / ji - йот, не смягчающий предыдущую согласную / j - иначе,  
+ъ - съ[ёеюя] — sji[oeua] / qq - иначе,  
+ь - i - после согласных в конце слова / сь[иёеюя] — sj[yoeua] / сьо — sio (исключение щьо — sciio) / сь[ыэуа] — sii[yeua] / j - иначе,  
+й - i - после гласных в конце слова (кроме ij) / ji - перед гласными (йот, не смягчающий предыдущую согласную) / j - иначе,  
 ji - йот, не смягчающий предыдущую согласную (диграф, две буквы, но один звук), j - смягчающий предыдущую согласную йот,  
 
 б - b,  
@@ -51,11 +52,12 @@ ji - йот, не смягчающий предыдущую согласную (
 ц - cz,  
 ч - ch / c - перед еёиь,  
 ш - sh,  
-щ - sch / sc - перед еёиь,  
+щ - sc - перед еёи / sci - перед ауо и в конце слова / scj - перед согласными / sch - перед ьюяыэ (щь — schj/schi),  
+сч - sch - перед ауёеио, согласными, в конце слова (но не перед ь!) / wsch - перед юяыэь,  
 
 кео - caeo, кэо - ckaeo,  
 гео - gaeo, гэо - ghaeo,  
-сч - sch / sc - перед еёиь,  
+
 кс - cs / x - иногда, но только когда слово не начинается на кс/кз, и не на стыке морфем,  
 кз - ckz / xz - иногда, но только когда слово не начинается на кс/кз, и не на стыке морфем,  
 кц - cts,  
@@ -75,24 +77,24 @@ ji - йот, не смягчающий предыдущую согласную (
 * мя/mia, меч/mech, лечь/leci, ниц/nicz, рож/rogz, трожь/trogi, чиа/ciya, чем/cem, географ/gaeograf, паникёр/panickeor, солнцеобразный/solnczieobraznyi, лучеобразно/lucieobrazno, цирк/czirc, цитолог/czytolog (исключение), отцы/otczy
 
 Allilujja, Jemen (исключение), съезд/sjiezd, месье/mesje, colyhanje, colyhanije, Cserocs, Csenija, taxi, exzema, exzecuczija, sex, saxofon, raep (исключение).  
-сьи/sjy сйи/sjiy, сьйя/sjja, сйя/sjiia, сьйс/sjjis, сйс/sjis, сьа/sia (force: sjwa).
+сьи/sjy сйи/sjiy, сьйя/sjja, сйя/sjiia, сьйс/sjjis, сйс/sjis.
 
 Обратите внимание, что йот+твердая гласная (аоуэ) даёт мягкое звучание гласной (a => æ, o => ɵ, u => ʉ, ɛ => e, так пусть и ɨ => i будет). То есть, фонетика строится в предположении, что йы и йи звучат одинаково и в латинице обозначаются jy, чтобы быть согласованными с йотацией других гласных.
 
+|        |  и   |  ы    |  е   |  ё    |  [оау.]   |  ео    |  и[оауэ]    |  [яю]     |  э     |  ьс    |  ь.    |  с   | аббр. |
+| ------ | ---- | ----- | ---- | ----- | --------- | ------ | ----------- | --------- | ------ | ------ | ------ | ---- | ----- |
+| **ц**  | czi  | czy   | cze  | czeo  | cz[oau.]  | czieo  | cziy[oaue]  | czi[au]   | czae   | czjs   | czi.   | czs  | Cz    |
+| **ж**  | gi   | gzy   | ge   | geo   | gz[oau.]  | gieo   | giy[oaue]   | gi[au]    | gzae   | gjs    | gi.    | gzs  | Gz    |
+| **ш**  | shi  | shy   | she  | sheo  | sh[oau.]  | shieo  | shiy[oaue]  | shi[au]   | shae   | shjs   | shi.   | shs  | Sh    |
+| **ч**  | ci   | chy   | ce   | ceo   | ch[oau.]  | cieo   | ciy[oaue]   | ci[au]    | chae   | cjs    | ci.    | chs  | Ch    |
+| **щ**  | sci  | schy  | sce  | sceo  | sci[oau.] | scieo  | sciy[oaue]  | schi[au]  | schae  | schjs  | schi.  | scjs | Sch   |
+| **сч** | schi | wschy | sche | scheo | sch[oau.] | schieo | schiy[oaue] | wschi[au] | wschae | wschjs | wschi. | schs | SCh   |
 
-|       | и   | ы   | е   | ё    | [оау.]   | [еэ]о | ио   | и[ауэ]    | [яю]     | э    | ьс   | ь.   | аббр. |
-| ----- | --- | --- | --- | ---- | -------- | ----- | ---- | --------- | -------- | ---- | ---- | ---- | ----- |
-| **ц** | czi | czy | cze | czeo | cz[oau.] | czieo | czio | cziy[aue] | czi[au]  | czae | czjs | czi. | Cz    |
-| **ч** | ci  | chy | ce  | ceo  | ch[oau.] | cieo  | cio  | ciy[aue]  | ci[au]   | chae | cjs  | ci.  | Ch    |
-| **ж** | gi  | gzy | ge  | geo  | gz[oau.] | gieo  | gio  | giy[aue]  | gi[au]   | gzae | gjs  | gi.  | Gz    |
-| **ш** | shi | shy | she | sheo | sh[oau.] | shieo | shio | shiy[aue] | shi[au]  | shae | shjs | shi. | Sh    |
-| **щ** | сч  |     |     |      |          |       |      |           |          |      |      |      | Sch   |
-
-|       | и      | ы   | е   | э   | ё    | [оау.]  | [яю]    | ео   | эо    | и[ауэ]   | ио  | ьс   | ь.   | аббр. |
-| ----- | ------ | --- | --- | --- | ---- | ------- | ------- | ---- | ----- | -------- | --- | ---- | ---- | ----- |
-| **к** | cy/cki | cky | cke | cae | ckeo | c[oau.] | cki[au] | caeo | ckaeo | cy[aue]  | cyo | ckjs | cki. | C/Ck  |
-| **г** | gy/ghi | ghy | ghe | gae | gheo | g[oau.] | ghi[au] | gaeo | ghaeo | gy[aue]  | gyo | ghjs | ghi. | G/Gh  |
-| **с** | si     | sy  | se  | sae | seo  | s[oau.] | si[au]  | sieo | saeo  | siy[aue] | sio | sjs  | si.  | S     |
+|       | и      | ы   | е   | э   | ё    | [оау.c]  | [яю]    | ео   | эо    | и[оауэ]   | ьс   | ь.   | аббр. |
+| ----- | ------ | --- | --- | --- | ---- | -------- | ------- | ---- | ----- | --------- | ---- | ---- | ----- |
+| **к** | cy/cki | cky | cke | cae | ckeo | c[oau.s] | cki[au] | caeo | ckaeo | cy[oaue]  | ckjs | cki. | C/Ck  |
+| **г** | gy/ghi | ghy | ghe | gae | gheo | g[oau.s] | ghi[au] | gaeo | ghaeo | gy[oaue]  | ghjs | ghi. | G/Gh  |
+| **с** | si     | sy  | se  | sae | seo  | s[oau.s] | si[au]  | sieo | saeo  | siy[oaue] | sjs  | si.  | S     |
 
 `che` значит тоже самое, что и `ce`, но никогда не используется. Аналогично с `chieo` и `cieo`.
 
@@ -121,11 +123,11 @@ Allilujja, Jemen (исключение), съезд/sjiezd, месье/mesje, co
 
 ## Пример текста
 
-Piony i vasiljcy vseo jesceo rastut na poliane vozle derevniy Peony, scitajuscejsia bogatoi. V nei rodilsia izvestnyi piyanist.
+Piyony i vasiljcy vseo jesceo rastut na poliane vozle derevniy Peony, schitajuscejsia bogatoi. V nei rodilsia izvestnyi piyanist.
 
 Pjanyi master po projectu sdelal mehanicescyi objiect s izjianom. Jesliy brac ne obnarugitsia, to belyje bolidy boljshe ne smogut vyigryvati goncy.
 
-V pjese pro devushcu v zeleonom platjycze vse sadilisi na ladjy i plyliy po recke. No tut iz lesa vyshel Dgeordgz Maximus, coni v paljto i rvanyh dginsah, cotoryi chto-to vyiscyval, i pricazal vsem mytjsia i gotoviti buljon. Znacit snova pjom do lysyh acvalangystov.
+V pjese pro devushcu v zeleonom platjycze vse sadilisi na ladjy i plyliy po recke. No tut iz lesa vyshel Dgeordgz Maximus, coni v paljto i rvanyh dginsah, cotoryi chto-to vyiscyval, i pricazal vsem mytjsia i gotoviti bulion. Znacit snova pjom do lysyh acvalangystov.
 
 Prepodobnyi Bajjes podcynul igraljnyje costiy. Vypalo shesti, znacit jemu prideotsia mazati jod na ranu.
 
@@ -145,15 +147,15 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesceo i rodilisi v odin deni, 22 se
 
 – Frodo, maljcic moi, – scazal cac-to raz Biljbo, – perebiralsia by ty co mne. Gliadishi, i deni rogzdenija vmeste otmechaliy by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogi v bezotvetstvennom vozraste megzdu dvadczatju i tridczatju tremia, posle cego hobbit naconecz moget scitati sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeogi v bezotvetstvennom vozraste megzdu dvadczatju i tridczatju tremia, posle cego hobbit naconecz moget schitati sebia vzroslym.
 
 Proshlo jesceo dvenadczati let. V Zasumcah cagzdyi god veselo otmechaliy dvojnoi deni rogzdenija, c etomu privycliy, no liubomu bylo jasno, chto nyneshnei osenju gotovitsia nechto nieobychnoje. Biljbo ispolnialosi 111 let – vozrast dlia hobbita vesjma pochtennyi, da i cislo liubopytnoje, nu a Frodo gotovilsia otmetiti tridczatitreohletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
 
 ----
 
-Imejetsia nescoljco gypotez proiskhogzdenija sobacy, naiboleje verojatnymiy jejo predcamiy scitajutsia volc i necotoryje vidy shacalov.
+Imejetsia nescoljco gypotez proiskhogzdenija sobacy, naiboleje verojatnymiy jejo predcamiy schitajutsia volc i necotoryje vidy shacalov.
 
-V sugzdenijah uceonyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odniy scitajut, chto sobacy - polifileticescaja gruppa (proiskhodiaschaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshliy ot odnogo predca (monofileticescaja tieorija).
+V sugzdenijah uceonyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odniy schitajut, chto sobacy - polifileticescaja gruppa (proiskhodiasciaja ot nescoljcyh predcov), drugyje pridergivajutsia mnenija, chto vse sobacy proizoshliy ot odnogo predca (monofileticescaja tieorija).
 
 ----
 
