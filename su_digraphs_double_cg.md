@@ -1,4 +1,4 @@
-# Латиница Dual-asckii-diacritic
+# Латиница Dual-ASCKIIWI-diacritic
 
 Новая версия на основе [**предыдущей**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_en.md). Являет собой дуальную ASCII-only и диакритическую версии, совместимые между собой. То есть, например, слово из ASCII версии будет значить тоже самое в диакритической версии. 
 
