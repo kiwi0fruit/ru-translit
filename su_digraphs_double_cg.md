@@ -57,7 +57,7 @@
 **Тут проблема со словообразованием, которое портит суффиксы. Возможно, оно же есть с КИ**  
 ъ - съ[ёеюя] — sji[oeua] (sjiezd, jezdité),  
 ъ - qh - иначе (obqhizvestié объизвестить),  
-йи - сйи — sjií (sjiyi) - после согласных (superjíppi / superjiyippi),  
+йи - сйи — sjií (sjiyi) - после согласных (superjiíppi / superjiyippi),  
 йи - jí / jyi - иначе (rajíspolcom / rajyispolcom, jíppi / jyippi),  
 йыи - jÿi / jyyi,  
 ь - сь[еюя] — sj[eua] (pjesa),  
