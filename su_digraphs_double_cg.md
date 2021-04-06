@@ -55,10 +55,11 @@
 ае - ae - обычно (aero),  
 
 **Тут проблема со словообразованием, которое портит суффиксы. Возможно, оно же есть с КИ**  
-ъ - съ[ёеюя] — sji[oeua],  
+ъ - съ[ёеюя] — sji[oeua] (sjiezd, jezdité),  
 ъ - qh - иначе (obqhizvestié объизвестить),  
-йи - sjií — сйи - после согласных (**jiippi, superjiippi**),  
-йи - jí / jyi - иначе (rajíspolcom / rajyispolcom),  
+йи - сйи — sjií (sjiyi) - после согласных (superjíppi / superjiyippi),  
+йи - jí / jyi - иначе (rajíspolcom / rajyispolcom, jíppi / jyippi),
+йыи - jÿi / jyyi
 ь - сь[еюя] — sj[eua] (pjesa),  
 ьи - сьи — sjí / sjyi (platjíce / platjyice, creslice),  
 ьё - сьё — sjeó / sjo (pjeóm),  
