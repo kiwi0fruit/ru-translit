@@ -58,7 +58,7 @@
 ъ - съ[ёеюя] — sji[oeua],  
 ъ - qh - иначе (obqhizvestié объизвестить),  
 йи - sjií — сйи - после согласных (**jiippi, superjiippi**),  
-йи - jí / jyi - иначе (rajíspolcom rajyispolcom),  
+йи - jí / jyi - иначе (rajíspolcom / rajyispolcom),  
 ь - сь[еюя] — sj[eua] (pjesa),  
 ьи - сьи — sjí / sjyi (platjíce / platjyice, creslice),  
 ьё - сьё — sjeó / sjo (pjeóm),  
