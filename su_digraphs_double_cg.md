@@ -60,7 +60,7 @@
 йи - sjií — сйи - после согласных (**jiippi, superjiippi**),  
 йи - jí / jyi - иначе (rajíspolcom rajyispolcom),  
 ь - сь[еюя] — sj[eua] (pjesa),  
-ьи - сьи — sjí (sjyi) (platjíce / platjyice, creslice),  
+ьи - сьи — sjí / sjyi (platjíce / platjyice, creslice),  
 ьё - сьё — sjeó / sjo (pjeóm),  
 ьо - сьо — jö /siio (buljön),  
 ь - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz),  
