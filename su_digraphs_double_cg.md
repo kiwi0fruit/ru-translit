@@ -63,7 +63,7 @@
 и - í / yi - после "й,ь". А так же в конце слова после гласных кроме "и" (moí / moyi мои, platjíce / platjjyice, rajíspolcom / rajyispolcom, jíppi / jyippi),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
-ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиы (кроме "э"), или в конце слова (ty, crasnyi, crasnyje, vyüchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyÿ / tyyy тыы),  
+ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиы (кроме "э"), или в конце слова (ty, crasnyi, crasnyje, vyüchil / vyyuchil, vyíscyvaté / vyyiscyvatj, jyí / jyyi йыи, tyÿ / tyyy тыы),  
 ы - ÿ / yy - в остальных случаях - в т.ч. перед "э" (ÿdgzyd / yydgzyd ыджыд, tÿe / tyye тыэ, tyÿ / tyyy ты),  
 аэ - äe / aae - после согласной (mäestro / maaestro, jäe / jiaae йаэ),  
 яэ - áe / aae - после согласной + я (Pucamáe / Pucamyaae Пукамяэ, jáe / jjaae йяэ),  
@@ -86,17 +86,16 @@
 ьо - сьо — sjó /siio (buljón / buliion),  
 ь - é / j - после согласных (paléma / paljma),  
 ь - qqh - иначе (aqqh аь),  
-
-**Тут проблема со словообразованием, которое портит суффиксы. Возможно, оно же есть с КИ. Новая проблема - теперь как сйи?**  
-й - j / ji - перед нейотированными гласными аоуыэ - кроме и,э (jöd / jiod, Majämi / Majiami, Seórckjösen / Syorckjiosen Сёркйосен),  
-й - j - перед и,э (ejaen эйэн, rajíspolcom / rajyispolcom, jíppi / jyippi),  
+й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
+й - j / ji - перед нейотированными гласными аоу - кроме иыэ (jöd / jiod, Majämi / Majiami, Seórckjösen / Syorckjiosen Сёркйосен),  
+йи - jí (jï) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjïppi / superjyippi),  
+йэ - jae  (ejaen эйэн),  
+йы - jy / jy (jyí / jyyi йыи),  
 й - i - после гласных в конце слова (кроме ий - ij) (moi мой),  
-ий - ij - в конце слова (sinij),  
-йи - сйи — sjií (sjiyi) - после согласных (superjiíppi / superjiyippi),  
-йи - jí / jyi - иначе (),  
-йыи - jyí / jyyi,  
-й - j - иначе (allilujá / allilujja, pojmal),  
+й - j - иначе - в т.ч. "ий" в конце слова (allilujá / allilujja, pojmal, sinij),  
+й[оау] - j[öäü] / ji[oau] (jöd / jiod, Majämi / Majiami)
 
+**Возможна проблема со словообразованием, которое портит суффиксы из-за ки/cy.**  
 
 **Примеры**:
 
