@@ -9,7 +9,7 @@
 
 *После слэша дано написание в ASCII-only версии. Требования этимологии распространяются только на основу слова.*
 
-Новые буквы: äáöóÿýüúêéîí ïç (13 - ÄÁÖÓŸÝÜÚÊÉÎÍÇ). Не используется пока что: Ww.
+Новые буквы: äáöóÿýüúêéîíç (13 - ÄÁÖÓŸÝÜÚÊÉÎÍÇ). Не используется пока что: Ww.
 
 а - a,  
 о - o,  
@@ -40,7 +40,7 @@
 
 кк - ckk (hockkei),  
 к - ck - перед еёюяьч и иногда перед "и" (v recke),  
-к - c - обычно (в т.ч. перед ц) (calejdoscop, accent, privleócsá, fractziá),  
+к - c - обычно (в т.ч. перед ц) (caleidoscop, accent, privleócsá, fractziá),  
 ки - cy - перед согласным звуком (в т.ч. йотации) или в конце слова (Cyrill, bancy, cyi кий),  
 ки - cki - в остальных случаях (Mackiavelli),  
 кс - x - где этимология требует x, но только когда слово не начинается на кс/кз, и не на стыке морфем (taxi),  
@@ -74,11 +74,12 @@
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
-ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиы (кроме "э"), или в конце слова (ty, crasnyi, crasnyje, vyüchil / vyyuchil, vyíscyvaté / vyyiscyvatj, jyí / jyyi йыи, tyÿ / tyyy тыы),  
-ы - ÿ / yy - в остальных случаях - в т.ч. перед "э" (ÿdgzyd / yydgzyd ыджыд, tÿe / tyye тыэ, tyÿ / tyyy ты),  
+ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyi, crasnyje, vyüchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyê / tyye тыэ, jyí / jyyi йыи, tyÿ / tyyy тыы),  
+ы - ÿ / yy - в остальных случаях - в т.ч. перед "э" (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 ый - yj - не в конце слова (nyjca ныйка),  
 
-аэ - äe / aae - после согласной (mäestro / maaestro, jäe / jiaae йаэ),  
+йаэ - jäe / jaae (jäe / jiaae йаэ), 
+аэ - aê / aae - после согласной (maêstro / maaestro),  
 яэ - áe / aae - после согласной + я (Pucamáe / Pucamyaae Пукамяэ, jáe / jjaae йяэ),  
 яэ - jaê / jaae  - после я, пишущейся как ja (Jaêl / Jaael Яэл),  
 э - ae - после согласных или "й" (maer, ejaen эйэн),  
@@ -97,11 +98,13 @@
 
 й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
 й - j / ji - перед нейотированными гласными аоу - кроме иыэ (jöd / jiod, Majämi / Majiami, Seórckjösen / Syorckjiosen Сёркйосен),  
-йи - jí (jï) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjïppi / superjyippi),  
+йи - jí (jî) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjîppi / superjyippi),  
 йэ - jae  (ejaen эйэн),  
 йы - jy / jy (jyí / jyyi йыи),  
-й - i - после гласных - кроме ий,ый,кий - ij,yj,cyj (moi мой, poimal поймал, zaíca / zayica заика, cyjca кийка),  
-й - j - иначе (allilujá / allilujja, sinij),  
+ый - yi - в конце слова (crasnyi),  
+кий - cyi - в конце слова (cyi),
+й - i - после гласных - кроме ий,ый,кий (moi мой, poimal поймал, zaíca / zayica заика),  
+й - j - иначе (allilujá / allilujja, sinij, cyjca кийка, nyjca ныйка),  
 й[оау] - j[öäü] / ji[oau] (jöd / jiod, Majämi / Majiami)
 
 **Возможна проблема со словообразованием, которое портит суффиксы из-за ки/cy.**  
