@@ -78,11 +78,9 @@
 ы - ÿ / yy - в остальных случаях - в т.ч. перед "э" (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 ый - yj - не в конце слова (nyjca ныйка),  
 
-йаэ - jäe / jaae (jäe / jiaae йаэ),  
 аэ - aê / aae - после согласной (maêstro / maaestro),  
-яэ - áe / aae - после согласной + я (Pucamáe / Pucamyaae Пукамяэ, jáe / jjaae йяэ),  
-яэ - jaê / jaae  - после я, пишущейся как ja (Jaêl / Jaael Яэл),  
-э - ae - после согласных или "й" (maer, ejaen эйэн),  
+йэ - jê / jie (ejên / ejien эйэн),
+э - ae - после согласных (maer),  
 э - e - обычно - в т.ч. "аэ" не после согласных (etot, aero),  
 
 ъ - j - перед йотированными гласными - съ[ёеюя] — sj[oeua] (sjezd, zajezd),  
@@ -97,15 +95,14 @@
 ь - qqh - иначе (aqqh аь),  
 
 й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
-й - j / ji - перед нейотированными гласными аоу - кроме иыэ (jöd / jiod, Majämi / Majiami, Seórckjösen / Syorckjiosen Сёркйосен),  
+й - j / ji - перед нейотированными гласными аоуэ - кроме иы (jöd / jiod, Majämi / Majiami, Seórckjösen / Syorckjiosen Сёркйосен, ejên / ejien эйэн),  
 йи - jí (jî) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjîppi / superjyippi),  
-йэ - jae  (ejaen эйэн),  
 йы - jy / jy (jyí / jyyi йыи),  
 ый - yi - в конце слова (crasnyi),  
-кий - cyi - в конце слова (cyi),
+кий - cyi - в конце слова (cyi кий),
 й - i - после гласных - кроме ий,ый,кий (moi мой, poimal поймал, zaíca / zayica заика),  
 й - j - иначе (allilujá / allilujja, sinij, cyjca кийка, nyjca ныйка),  
-й[оау] - j[öäü] / ji[oau] (jöd / jiod, Majämi / Majiami)
+й[оауэ] - j[öäüê] / ji[oaue] (jöd / jiod, Majämi / Majiami, ejên / ejien эйэн)
 
 **Возможна проблема со словообразованием, которое портит суффиксы из-за ки/cy.**  
 
