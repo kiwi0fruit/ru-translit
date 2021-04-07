@@ -76,30 +76,27 @@
 я - á / ja - после и,й,ь (Mariá / Marija, allilujá / allilujja, pján / pjjan),  
 я - ja - иначе (ja я),  
 
-**Тут проблема со словообразованием, которое портит суффиксы. Возможно, оно же есть с КИ**
+ъ - j - перед йотированными гласными - съ[ёеюя] — sj[oeua] (sjezd, zajezd),  
+ъ - qh - иначе (obqhizvestité / obqhizvestitj объизвестить, aqh аъ),  
+ь - j - перед йотированными гласными кроме "ё" - сь[еюя] — sj[éúá] / sjj[eua] (pjésa / pjjesa),  
+ьё - сьё — sjéo / sjjo (pjéom / pjjom),  
+ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz),  
+ьи - сьи — sjí / sjjyi (platjíce / platjjyice, creslice),  
+ьо - сьо — sjó /siio (buljón / buliion),  
+ь - é / j - после согласных (paléma / pajma),  
+ь - ??? / qh - иначе (??? / aqh аь - в ASCII версии превращается в "аъ"),  
 
-й - j / ji - перед нейотированными гласными аоуыэ - кроме "и" (jöd / jiod, Majämi / Majiami),  
-й - j - перед "э" (ejaen эйэн),  
+**Тут проблема со словообразованием, которое портит суффиксы. Возможно, оно же есть с КИ. Новая проблема - теперь как ьи?**  
+й - j / ji - перед нейотированными гласными аоуыэ - кроме и,э (jöd / jiod, Majämi / Majiami, Seórckjösen / Syorckjiosen Сёркйосен),  
+й - j - перед и,э (ejaen эйэн, rajíspolcom / rajyispolcom, jíppi / jyippi),  
 й - i - после гласных в конце слова (кроме ий - ij) (moi мой),  
 ий - ij - в конце слова (sinij),  
-й - **TODO: wj - перед гласными после согласных**,  
-й - й[оыауэ] — j[öÿäüë] / ji[oyaue] - не после согласных (jöd, Majämi, ejën эйэн),  
-й - j - иначе (allilujá, pojmal),  
 йи - сйи — sjií (sjiyi) - после согласных (superjiíppi / superjiyippi),  
-йи - jí / jyi - иначе (rajíspolcom / rajyispolcom, jíppi / jyippi),  
+йи - jí / jyi - иначе (),  
 йыи - jyí / jyyi,  
-*ji - йот, не смягчающий предыдущую согласную (диграф, две буквы, но один звук),*  
-*j - смягчающий предыдущую согласную йот,*  
+й - j - иначе (allilujá / allilujja, pojmal),  
 
-ъ - съ[ёеюя] — sji[oeua] (sjiezd, zajezd),  
-ъ - qh - иначе (obqhizvestié объизвестить),  
-ь - сь[еюя] — sj[eua] (pjesa),  
-ьи - сьи — sjí / sjyi (platjíce / platjyice, creslice),  
-ьё - сьё — sjeó / sjo (pjeóm),  
-ьо - сьо — jö /siio (buljön),  
-ь - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz),  
-ь - é / j - после согласных (paléma),  
-ь - qh - иначе (aqh аь),  
+
 
 
 **Примеры**:
