@@ -78,7 +78,7 @@
 ы - ÿ / yy - в остальных случаях - в т.ч. перед "э" (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 ый - yj - не в конце слова (nyjca ныйка),  
 
-йаэ - jäe / jaae (jäe / jiaae йаэ), 
+йаэ - jäe / jaae (jäe / jiaae йаэ),  
 аэ - aê / aae - после согласной (maêstro / maaestro),  
 яэ - áe / aae - после согласной + я (Pucamáe / Pucamyaae Пукамяэ, jáe / jjaae йяэ),  
 яэ - jaê / jaae  - после я, пишущейся как ja (Jaêl / Jaael Яэл),  
