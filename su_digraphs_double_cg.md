@@ -46,7 +46,7 @@
 ц - z - после ц (piczza),  
 ц - tz - где этимология требует t, но не в начале слова (ratzion, fractziá),  
 ц - ц[иеь] — с[ieé] / с[iej] - перед иеь (Ciceron),  
-ц - cz - обычно (jajczo),  
+ц - cz - обычно (jaiczo яйцо),  
 чч - cch (capricchio),  
 ч - ch (chto),  
 щ - sç / shch (jesçeó / jeshchyo),  
@@ -60,11 +60,12 @@
 ё - éo / jo - после и,й,ь (mumiéo / mumijo, pjéom / pjjom, jéogz / jjogz йёж, mumiéö / mumijeo, pjéöm / pjjeom пьеом, jéögz / jjeogz йеож),  
 ё - jeó / jo - иначе (jeógz / jogz, podjeóm / podjom),  
 и - ï / yi - после согласной+й (superjïppi / superjyippi суперйиппи),  
-и - í / yi - после "й,ь". А так же в конце слова после гласных кроме "и" (moí / moyi мои, platjíce / platjjyice, rajíspolcom / rajyispolcom, jíppi / jyippi),  
+и - í / yi - после "й,ь". А так же после гласных кроме "и" (moí / moyi мои, zaíca / zayica заика, platjíce / platjjyice, rajíspolcom / rajyispolcom, jíppi / jyippi),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиы (кроме "э"), или в конце слова (ty, crasnyi, crasnyje, vyüchil / vyyuchil, vyíscyvaté / vyyiscyvatj, jyí / jyyi йыи, tyÿ / tyyy тыы),  
 ы - ÿ / yy - в остальных случаях - в т.ч. перед "э" (ÿdgzyd / yydgzyd ыджыд, tÿe / tyye тыэ, tyÿ / tyyy ты),  
+ый - yj - не в конце слова (nyjca ныйка)
 аэ - äe / aae - после согласной (mäestro / maaestro, jäe / jiaae йаэ),  
 яэ - áe / aae - после согласной + я (Pucamáe / Pucamyaae Пукамяэ, jáe / jjaae йяэ),  
 яэ - jaë / jaae  - после я, пишущейся как ja (Jaël / Jaael Яэл),  
@@ -91,8 +92,8 @@
 йи - jí (jï) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjïppi / superjyippi),  
 йэ - jae  (ejaen эйэн),  
 йы - jy / jy (jyí / jyyi йыи),  
-й - i - после гласных в конце слова (кроме ий - ij) (moi мой),  
-й - j - иначе - в т.ч. "ий" в конце слова (allilujá / allilujja, pojmal, sinij),  
+й - i - после гласных - кроме ий - ij (moi мой, poimal поймал, zaíca / zayica заика),  
+й - j - иначе (allilujá / allilujja, sinij),  
 й[оау] - j[öäü] / ji[oau] (jöd / jiod, Majämi / Majiami)
 
 **Возможна проблема со словообразованием, которое портит суффиксы из-за ки/cy.**  
