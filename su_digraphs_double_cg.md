@@ -41,7 +41,7 @@
 кк - ckk (hockkei),  
 к - ck - перед еёюяьч и иногда перед "и" (v recke),  
 к - c - обычно (в т.ч. перед ц) (calejdoscop, accent, privleócsá, fractziá),  
-ки - cy - перед согласным звуком (в т.ч. йотации) или в конце слова (Cyrill, bancy),  
+ки - cy - перед согласным звуком (в т.ч. йотации) или в конце слова (Cyrill, bancy, cyi кий),  
 ки - cki - в остальных случаях (Mackiavelli),  
 кс - x - где этимология требует x, но только когда слово не начинается на кс/кз, и не на стыке морфем (taxi),  
 кз - xz - где этимология требует x, но только когда слово не начинается на кс/кз, и не на стыке морфем (exzamen),  
@@ -100,7 +100,7 @@
 йи - jí (jï) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjïppi / superjyippi),  
 йэ - jae  (ejaen эйэн),  
 йы - jy / jy (jyí / jyyi йыи),  
-й - i - после гласных - кроме ий - ij (moi мой, poimal поймал, zaíca / zayica заика),  
+й - i - после гласных - кроме ий,ый,кий - ij,yj,cyj (moi мой, poimal поймал, zaíca / zayica заика, cyjca кийка),  
 й - j - иначе (allilujá / allilujja, sinij),  
 й[оау] - j[öäü] / ji[oau] (jöd / jiod, Majämi / Majiami)
 
