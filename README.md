@@ -19,9 +19,7 @@
 
 Придумал в качестве развлечения ещё один транслит.
 
-UPD1: [**Ещё одна, совсем веселая версия транслита**](https://github.com/kiwi0fruit/ru-translit/blob/main/fun.md)
-
-UPD4: [**Альтернативная более эстетичная версия (Совлат англотранс с диграфами, двойными CG и без Kk)**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_digraphs_double_cg.md)
+UPD: [**Альтернативная более эстетичная версия (Латиница Dual-ASCKIIWI-diacritic)**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_digraphs_double_cg.md)
 
 Развлечением было удовлетворить ограничениям:
 
