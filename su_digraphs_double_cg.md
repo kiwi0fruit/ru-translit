@@ -71,7 +71,7 @@
 я - á / ja - после и,й,ь (Mariá / Marija, allilujá / allilujja, pján / pjjan),  
 я - ja - иначе (ja я),  
 
-и - ï / i - в начале слова перед гласной (Ïacov / Iacov, ïon / ion),  
+и - ï / i - в начале слова перед гласной или йотом (Ïacov / Iacov, ïon / ion, Ïisus / Iisus),  
 и - ï / yi - после согласной+й (superjïppi / superjyippi суперйиппи),  
 и - í / yi - после "й,ь". А так же после гласных кроме "и" (moí / moyi мои, zaíca / zayica заика, platjíce / platjjyice, rajíspolcom / rajyispolcom, jíppi / jyippi),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema),  
