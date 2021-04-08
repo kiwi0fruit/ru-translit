@@ -128,7 +128,7 @@
 | **Я**  |     **Ё**      |  **Ю**  | **Е**  |  **И**  |
 | Á (JA) |    Éó (JO)     |  Ú (JU) | É (JE) |  I / Ï  |
 | **Б**  |     **В**      |  **Г**  | **Д**  |  **Ж**  |
-|   B    |       V        | G / Gh  |   D    |   Gz    |
+|   B    |       V        | G / Gh  |   D    |   GJ    |
 | **З**  |     **Й**      |  **К**  | **Л**  |  **М**  |
 |   Z    |     J / JI     |    K    |   L    |    M    |
 | **Н**  |     **П**      |  **Р**  | **С**  |  **Т**  |
@@ -147,14 +147,14 @@
 * но вот буква Jj называется Йот, а в математических контекстах - Жи,
 * но вот буква Hh называется Ха, а в математических контекстах - Аш,
 
-GzÏ ЖИ (GzI), GzZI ЖЗИ,  
+GJÏ ЖИ (GJI), GJZI ЖЗИ,  
 GZI ГЗИ, TZ ТЗ,  
 SZI СЗИ,  
 ShÏ ШИ (ShI),  
 SHI СХИ,  
 ÉGÊ ЕГЭ (JEGE),  
-GÉ ГЕ (GJE), GÊ ГЭ (GE), GÏ ГИ (GI), GY ГЫ,  
-GzÉ ЖЕ (GzJE), GzÊ ЖЭ (GzE), GzÏ ЖИ (GzI), GzY ЖЫ, GhzA ГзА,  
+GÉ ГЕ (GhJE), GÊ ГЭ (GE), GÏ ГИ (GI), GY ГЫ,  
+GJÉ ЖЕ (GJJE), GJÊ ЖЭ (GJE), GJI ЖИ, GJŸ ЖЫ (GJYY), GhzA ГзА,  
 CÏ ЦИ (CI), CZI ЦЗИ, CA ЦА, CZA ЦЗА, CzA ЦзА,  
 
 KÉ КЕ (KJE), KÊ КЭ (KaE), KÏ КИ (KI),  
@@ -163,7 +163,7 @@ SChÏ СЧИ (SChI), SÇI ЩИ (ShchI), SCh СЧ, SÇU ЩУ (ShchU),
 CÏ ЦИ (CI), ChÏ ЧИ (ChI), ShÏ ШИ (ShI), SHI СХИ, SÇI ЩИ (ShchI),  
 JÊ ЙЭ (JIE), JÏ ЙИ (JII).
 
-ÉGÊ ЕГЭ (JEGE), OBGz ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), GzÊK ЖЭК (GzEK), GzKH ЖКХ, NHL НХЛ, KHL КХЛ, ÉKA ЕКА (JEKA), FIÁ ФИЯ (FIJA), CÉRN ЦЕРН (CJERN), OBSÉ ОБСЕ (OBSJE), GIBDD ГИБДД, ChIM ЧИМ.
+ÉGÊ ЕГЭ (JEGE), OBGJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), GJÊK ЖЭК (GJEK), GJKH ЖКХ, NHL НХЛ, KHL КХЛ, ÉKA ЕКА (JEKA), FIÁ ФИЯ (FIJA), CÉRN ЦЕРН (CJERN), OBSÉ ОБСЕ (OBSJE), GIBDD ГИБДД, ChIM ЧИМ.
 
 
 ## Пример текста
