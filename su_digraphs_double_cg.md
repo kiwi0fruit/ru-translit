@@ -33,7 +33,7 @@
 ж - z - после ж (gzugzzit),  
 ж - gz - обычно (gzuc),  
 дж - dg - перед гласными i,e,eó/yo,ía/ya,íu/yu (Dgeórdg / Dgyordg),  
-дг - dhg - перед гласными i,e,eó/yo,ía/ya,íu/yu (podgon, ???),  
+дг - dhg - перед гласными i,e,eó/yo,ía/ya,íu/yu (podgon, adhgeziá, podhgibaté),  
 т - th - перед з и где этимология требует th (othzyv, mathematica, theoriá, theologiá, Theodor),  
 т - t - обычно,  
 х - çh / kh - после согласных или где этимология требует ch или kh (sçhod / skhod, çhimera / khimera, Loçhnesscyi),  
