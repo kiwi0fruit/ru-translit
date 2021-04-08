@@ -123,9 +123,9 @@
 
 | **А**  |     **О**      |  **У**  | **Э**  |  **Ы**  |
 |:------:|:--------------:|:-------:|:------:|:-------:|
-| A / Ä  |     O / Ö      |  U / Ü  |  Ê (E) |  Ÿ (Yy) |
+|   A    |       O        |    U    |  Ê (E) |  Ÿ (Yy) |
 | **Я**  |     **Ё**      |  **Ю**  | **Е**  |  **И**  |
-| Á (JA) |    ÉÓ (JO)     |  Ú (JU) | É (JE) |    I    |
+| Á (JA) |    ÉÓ (JO)     |  Ú (JU) | É (JE) |  I / Ï  |
 | **Б**  |     **В**      |  **Г**  | **Д**  |  **Ж**  |
 |   B    |       V        | G / Gh  |   D    |   Gz    |
 | **З**  |     **Й**      |  **К**  | **Л**  |  **М**  |
@@ -146,7 +146,7 @@
 * не должно быть неоднозначностей когда все капсом. А смешанный регистр предотвращает смешение в диграфы.
 
 GzÏ ЖИ (GzI), GzZI ЖЗИ,  
-GhZI ГЗИ,  
+GhZI ГЗИ, ThZ ТЗ,  
 SZI СЗИ,  
 ShÏ ШИ (ShI),  
 SÇhÏ СХИ (SKhI),  
@@ -155,11 +155,11 @@ GÉ ГЕ (GJE), GÊ ГЭ (GaE), GI ГИ, GY ГЫ,
 GzÉ ЖЕ (GzJE), GzÊ ЖЭ (GzaE), GzÏ ЖИ (GzI), GzY ЖЫ,  
 CI ЦИ, CzZI ЦЗИ, CzA ЦА, CzZA ЦЗА,  
 
-КЕ/CkÉ/C'É (CkJE), КЭ/CkÊ/C'Ê (CkE), КИ/CKI/C'I, КЫ/CkY/C'Y, КЗ/CkZ/C'Z,  
-ГХ/GçH/G'H (GkH), ГЗ/GhZ/G'Z, КЗ/CkZ/C'Z, КХИ/CçHI/C'HI (CkHI), НХ/NH, НХИ/NçHI/N'HI (NkHI),  
-СЧИ/SCHI, ЩИ/ScHI, СЧ/SCh, ЩУ/SchU,  
-ЦИ/CZI, ЧИ/CHI, ШИ/SHI, СХИ/SkHI/S'HI, ЩИ/ScHI,  
-ЙЭ/JIE, ЙИ/JII.
+KÉ КЕ (KJE), KÊ КЭ (KaE), KI КИ,  
+GÇh ГХ (GKh), GhZ ГЗ, KZ КЗ, KÇhÏ КХИ (KKhI), NÇh НХ (NKh), NÇhÏ НХИ (NKhI),  
+SChÏ СЧИ (SChI), SÇI ЩИ (ShchI), SCh СЧ, SÇU ЩУ (ShchU),  
+CI ЦИ, ChÏ ЧИ (ChI), ShÏ ШИ (ShI), SÇhÏ СХИ (SKhI), SÇI ЩИ (ShchI),  
+JÊ ЙЭ (JIE), JÏ ЙИ (JII).
 
 ЕГЭ/JEGhE/JEG'E, ОБЖ/OBGz, ЦПУ/CzPU, ЧС/ChS, США/SShA, ЭЭГ/EEG, ЖЭК/GzEC, ЖКХ/GzCkH/GzC'H, НХЛ/NHL, КХЛ/CkHL/C'HL, ЕКА/JECA, ФИЯ/FIJA, ЦЕРН/CZERN (исключение), ОБСЕ/OBSJE, ГИБДД/GHIBDD/G'IBDD, ЧИМ/CHIM.
 
