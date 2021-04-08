@@ -27,8 +27,9 @@
 ф - f,  
 ш - sh,  
 
-г - gh - перед з и где этимология требует h (ghippopotam, ghz гз, Buçhghalter / Bukhghalter),  
+г - gh - перед з,ь и где этимология требует h (ghippopotam, ghz гз, Buçhghalter / Bukhghalter, Alighjéri Алигьери),  
 г - g - обычно (gorod),  
+ж - gj - при заимствованиях когда там и не пахнет буквой Zz (gjurnal, Dgjuljetta - from Giulietta, Gjeórgj / Gjyorgj Жорж)
 ж - z - после ж (gzugzzit),  
 ж - gz - обычно (gzuc),  
 т - th - перед з и где этимология требует th (othzyv, mathematica, theoriá, theologiá, Theodor),  
