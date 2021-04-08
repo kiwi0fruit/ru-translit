@@ -137,7 +137,8 @@
 | **Щ**  |     **ШЧ**     |         |        |         |
 | SÇ (Shch) |   ShCh      |         |        |         |
 
-* после строчных букв I всегда пишется как Ï (только когда после нет других согласных букв кроме I): ChÏ (ChI), ChÏI (ChII),
+* после строчных букв I всегда пишется как Ï (только когда после нет других заглавных букв, кроме I): ChÏ (ChI), ChÏI (ChII),
+* в аббревиатурах из двух *латинских* букв, если последняя - I, то она пишется как Ï,
 * в аббревиатуры и инициалы C, читающаяся как "к", а так же X - сокращаются как K (KVN КВН - club...),
 * в аббревиатуры Ц идет как Cz перед OAUY, и как C иначе. И читается как "Це" (CRU ЦРУ, CzA ЦА),
 * в аббревиатуры Х идёт всегда как Çh (Kh): NÇhL (NKhL), KÇhL (KKhL), NGAÇhA (NGAKhA), Heljga => Çh., Çhristos => Çh.,
@@ -151,14 +152,14 @@ SZI СЗИ,
 ShÏ ШИ (ShI),  
 SÇhÏ СХИ (SKhI),  
 ÉGÊ ЕГЭ (JEGaE),  
-GÉ ГЕ (GJE), GÊ ГЭ (GaE), GI ГИ, GY ГЫ,  
+GÉ ГЕ (GJE), GÊ ГЭ (GaE), GÏ ГИ (GI), GY ГЫ,  
 GzÉ ЖЕ (GzJE), GzÊ ЖЭ (GzaE), GzÏ ЖИ (GzI), GzY ЖЫ,  
-CI ЦИ, CzZI ЦЗИ, CzA ЦА, CzZA ЦЗА,  
+CÏ ЦИ (CI), CzZI ЦЗИ, CzA ЦА, CzZA ЦЗА,  
 
-KÉ КЕ (KJE), KÊ КЭ (KaE), KI КИ,  
+KÉ КЕ (KJE), KÊ КЭ (KaE), KÏ КИ (KI),  
 GÇh ГХ (GKh), GhZ ГЗ, KZ КЗ, KÇhÏ КХИ (KKhI), NÇh НХ (NKh), NÇhÏ НХИ (NKhI),  
 SChÏ СЧИ (SChI), SÇI ЩИ (ShchI), SCh СЧ, SÇU ЩУ (ShchU),  
-CI ЦИ, ChÏ ЧИ (ChI), ShÏ ШИ (ShI), SÇhÏ СХИ (SKhI), SÇI ЩИ (ShchI),  
+CÏ ЦИ (CI), ChÏ ЧИ (ChI), ShÏ ШИ (ShI), SÇhÏ СХИ (SKhI), SÇI ЩИ (ShchI),  
 JÊ ЙЭ (JIE), JÏ ЙИ (JII).
 
 ÉGÊ ЕГЭ (JEGaE), OBGz ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), GzÊK ЖЭК (GzaEK), GzKÇh ЖКХ (GzKKh), NÇhL НХЛ (NKhL), KÇhL КХЛ (KKhL), ÉKA ЕКА (JEKA), FIÁ ФИЯ (FIJA), CERN ЦЕРН, OBSÉ ОБСЕ (OBSJE), GIBDD ГИБДД, ChIM ЧИМ.
