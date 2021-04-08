@@ -40,7 +40,8 @@
 ч - ch (chto),  
 
 кк - ckk (hockkei),  
-к - ck - перед еёюяьч и иногда перед "и" (v recke),  
+к - k - когда этимология требует Kk (Keniá, kefir, koboljd, koala),  
+к - ck - перед еёюяьч и иногда перед "и" - формы слова должны быть здесь (reca, v recke),  
 к - c - обычно (в т.ч. перед ц) (caleidoscop, accent, privleócsá, fractziá),  
 ки - cy - перед согласным звуком (в т.ч. йотации) или в конце слова (Cyrill, bancy, cyi кий),  
 ки - cki - в остальных случаях (Mackiavelli),  
@@ -137,18 +138,18 @@
 | SÇ (Shch) |   ShCh      |         |        |         |
 
 * перед I всегда пишется строчная буква: CHI, CZI, SÇI (ShcHI),
-* в аббревиатуры и инициалы C, читающаяся как "к", а так же X - сокращаются как K (KVN КВН).
+* в аббревиатуры и инициалы C, читающаяся как "к", а так же X - сокращаются как K (KVN КВН - club...).
 * в аббревиатуры Ц идет как Cz перед OAUY, и как C иначе. И читается как "Це" (CRU ЦРУ, CzA ЦА).
 * в аббревиатуры Х идёт всегда как Çh (Kh): NÇhL, NGAÇhA, Heljga => Çh., Çhristos => Çh.,
 
 GZI ЖИ,  
 GhZI ГЗИ,  
 SZI СЗИ,  
-SHI ШИ (ShI),  
-SÇHI СХИ,  
+SHI ШИ,  
+SÇHI СХИ (SKHI),  
 ÉGÊ ЕГЭ (JEGE),  
 GÉ ГЕ (GJE), GÊ ГЭ (GE), GI ГИ, GY ГЫ,  
-GzÉ ЖЕ (GzJE), GzÊ ЖЭ (GzE), GzÏ ЖИ (GzI), GzY ЖЫ,  
+GzÉ ЖЕ (GzJE), GzÊ ЖЭ (GzE), GZI ЖИ, GzY ЖЫ,  
 
 КЕ/CkÉ/C'É (CkJE), КЭ/CkÊ/C'Ê (CkE), КИ/CKI/C'I, КЫ/CkY/C'Y, КЗ/CkZ/C'Z,  
 ГХ/GçH/G'H (GkH), ГЗ/GhZ/G'Z, КЗ/CkZ/C'Z, КХИ/CçHI/C'HI (CkHI), НХ/NH, НХИ/NçHI/N'HI (NkHI),  
