@@ -133,7 +133,7 @@
 | **Н**  |     **П**      |  **Р**  | **С**  |  **Т**  |
 |   N    |       P        |    R    |   S    |    T    |
 | **Ф**  |     **Х**      |  **Ц**  | **Ч**  |  **Ш**  |
-|   F    |     Çh (Kh)    | C / Cz  |  Ch    |   Sh    |
+|   F    |       H        |    C    |  Ch    |   Sh    |
 | **Щ**  |     **ШЧ**     |         |        |         |
 | SÇ (Shch) |   ShCh      |         |        |         |
 
@@ -150,16 +150,16 @@ GzÏ ЖИ (GzI), GzZI ЖЗИ,
 GZI ГЗИ, TZ ТЗ,  
 SZI СЗИ,  
 ShÏ ШИ (ShI),  
-SHÏ СХИ (SHI),  
+SHI СХИ,  
 ÉGÊ ЕГЭ (JEGE),  
 GÉ ГЕ (GJE), GÊ ГЭ (GE), GÏ ГИ (GI), GY ГЫ,  
 GzÉ ЖЕ (GzJE), GzÊ ЖЭ (GzE), GzÏ ЖИ (GzI), GzY ЖЫ,  
 CÏ ЦИ (CI), CZI ЦЗИ, CA ЦА, CZA ЦЗА,  
 
 KÉ КЕ (KJE), KÊ КЭ (KaE), KÏ КИ (KI),  
-GH ГХ, GZ ГЗ, KZ КЗ, KHÏ КХИ (KHI), NH НХ, NHÏ НХИ (NHI),  
+GH ГХ, GZ ГЗ, KZ КЗ, KHI КХИ, NH НХ, NHI НХИ,  
 SChÏ СЧИ (SChI), SÇI ЩИ (ShchI), SCh СЧ, SÇU ЩУ (ShchU),  
-CÏ ЦИ (CI), ChÏ ЧИ (ChI), ShÏ ШИ (ShI), SHÏ СХИ (SHI), SÇI ЩИ (ShchI),  
+CÏ ЦИ (CI), ChÏ ЧИ (ChI), ShÏ ШИ (ShI), SHI СХИ, SÇI ЩИ (ShchI),  
 JÊ ЙЭ (JIE), JÏ ЙИ (JII).
 
 ÉGÊ ЕГЭ (JEGE), OBGz ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), GzÊK ЖЭК (GzEK), GzKH ЖКХ, NHL НХЛ, KHL КХЛ, ÉKA ЕКА (JEKA), FIÁ ФИЯ (FIJA), CÉRN ЦЕРН (CJERN), OBSÉ ОБСЕ (OBSJE), GIBDD ГИБДД, ChIM ЧИМ.
