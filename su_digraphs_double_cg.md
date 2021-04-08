@@ -27,7 +27,7 @@
 ф - f,  
 ш - sh,  
 
-г - gh - перед з и где этимология требует h (ghippopotam, ghz гз),  
+г - gh - перед з и где этимология требует h (ghippopotam, ghz гз, Buçhghalter / Bukhghalter),  
 г - g - обычно (gorod),  
 ж - z - после ж (gzugzzit),  
 ж - gz - обычно (gzuc),  
