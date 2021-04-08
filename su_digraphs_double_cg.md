@@ -154,7 +154,7 @@ ShÏ ШИ (ShI),
 SHI СХИ,  
 ÉGÊ ЕГЭ (JEGE),  
 GÉ ГЕ (GhJE), GÊ ГЭ (GE), GÏ ГИ (GI), GY ГЫ,  
-GJÉ ЖЕ (GJJE), GJÊ ЖЭ (GJE), GJI ЖИ, GJŸ ЖЫ (GJYY), GhzA ГзА,  
+GJÉ ЖЕ (GJJE), GJÊ ЖЭ (GJE), GJI ЖИ, GJŸ ЖЫ (GJYY), GzA ГзА,  
 CÏ ЦИ (CI), CZI ЦЗИ, CA ЦА, CZA ЦЗА, CzA ЦзА,  
 
 KÉ КЕ (KJE), KÊ КЭ (KaE), KÏ КИ (KI),  
