@@ -71,6 +71,7 @@
 я - á / ja - после и,й,ь (Mariá / Marija, allilujá / allilujja, pján / pjjan),  
 я - ja - иначе (ja я),  
 
+и - ï / i - в начале слова (Ïacov / Iacov),  
 и - ï / yi - после согласной+й (superjïppi / superjyippi суперйиппи),  
 и - í / yi - после "й,ь". А так же после гласных кроме "и" (moí / moyi мои, zaíca / zayica заика, platjíce / platjjyice, rajíspolcom / rajyispolcom, jíppi / jyippi),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema),  
@@ -141,7 +142,7 @@
 * в аббревиатуры Ц идет как Cz перед OAUY, и как C иначе. И читается как "Це" (CRU ЦРУ, CzA ЦА),
 * в аббревиатуры Х идёт всегда как Çh (Kh): NÇhL (NKhL), KÇhL (KKhL), NGAÇhA (NGAKhA), Heljga => Çh., Çhristos => Çh.,
 * буквы Cc называется Це, буква Hh назыввается Аш, буква Yy называется Игрек.
-* но вот буква Jj называется Йот, а не Жи.
+* но вот буква Jj называется Йот, а в математических контекстах - Жи.
 
 GZI ЖИ, GzZI ЖЗИ,  
 GhZI ГЗИ,  
