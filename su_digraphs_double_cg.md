@@ -29,10 +29,10 @@
 
 г - gh - перед з,ь и где этимология требует h (ghippopotam, ghz гз, Buçhghalter / Bukhghalter, Alighjéri Алигьери),  
 г - g - обычно (gorod),  
-ж - gj - *перед гласными* при заимствованиях когда там и не пахнет буквой Zz - но не перед "ж" (gjurnal, Dgjuljetta - from Giulietta, Gjeórgz / Gjyorgz Жорж),  
+ж - gj - *перед гласными* при заимствованиях когда там и не пахнет буквой Zz - но не перед "ж" (gjurnal, Gjeórgz / Gjyorgz Жорж),  
 ж - z - после ж (gzugzzit),  
 ж - gz - обычно (gzuc),  
-дж - dg - перед гласными i,e,eó/yo,ía/ya,íu/yu (Dgeórdg / Dgyordg),  
+дж - dg - перед гласными i,e,eó/yo,ía/ya,íu/yu (Dgeórdg / Dgyordg, Dgíuljetta / Dgyuljetta),  
 дг - dhg - перед гласными i,e,eó/yo,ía/ya,íu/yu (podgon, adhgeziá, podhgibaté),  
 т - th - перед з и где этимология требует th (othzyv, mathematica, theoriá, theologiá, Theodor),  
 т - t - обычно,  
