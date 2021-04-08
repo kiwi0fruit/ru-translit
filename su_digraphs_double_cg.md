@@ -149,6 +149,7 @@ SÇHI СХИ (SKHI),
 ÉGÊ ЕГЭ (JEGE),  
 GÉ ГЕ (GJE), GÊ ГЭ (GE), GI ГИ, GY ГЫ,  
 GzÉ ЖЕ (GzJE), GzÊ ЖЭ (GzE), GZI ЖИ, GzY ЖЫ,  
+CI ЦИ, CZI ЦЗИ, CzA ЦА, CZA ЦЗА,  
 
 КЕ/CkÉ/C'É (CkJE), КЭ/CkÊ/C'Ê (CkE), КИ/CKI/C'I, КЫ/CkY/C'Y, КЗ/CkZ/C'Z,  
 ГХ/GçH/G'H (GkH), ГЗ/GhZ/G'Z, КЗ/CkZ/C'Z, КХИ/CçHI/C'HI (CkHI), НХ/NH, НХИ/NçHI/N'HI (NkHI),  
