@@ -1,4 +1,4 @@
-# Латиница Dual-ASCKIIWI-diacritic
+# Латиница "Романо-славянский симулякр"
 
 Новая версия на основе [**предыдущей**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_en.md). Являет собой дуальную ASCII-only и диакритическую версии, совместимые между собой. То есть, например, слово из ASCII версии будет значить тоже самое в диакритической версии. 
 
@@ -27,12 +27,11 @@
 ф - f,  
 ш - sh,  
 
-г - gh - перед з и в исключениях где этимология требует h (ghippopotam, ghz гз),  
+г - gh - перед з и где этимология требует h (ghippopotam, ghz гз),  
 г - g - обычно (gorod),  
 ж - z - после ж (gzugzzit),  
 ж - gz - обычно (gzuc),  
-т - th - где этимология требует (mathematica, theoriá, theologiá, Theodor),  
-тз - thz (othzyv),  
+т - th - перед з и где этимология требует th (othzyv, mathematica, theoriá, theologiá, Theodor),  
 т - t - обычно,  
 х - çh / kh - после согласных или где этимология требует ch или kh (sçhod / skhod, çhimera / khimera, Loçhnesscyi),  
 х - h - обычно (hoholoc, moh, Heljga),  
