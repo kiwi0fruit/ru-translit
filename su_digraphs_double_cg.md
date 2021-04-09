@@ -32,9 +32,9 @@
 ч - ch,  
 ш - sh,  
 
-г - gh - перед з,ь и где этимология требует h (ghippopotam, ghz гз, Buçhghalter / Bukhghalter, Alighjéri Алигьери),  
+г - gh - перед з,ь и где этимология требует h (ghippopotam, ghz гз, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
 дж - dg - перед гласными i, e, eó/yo, ío/zo, ía/za, íu/zu и перед é/j (Dgeórdgz / Dgyordgz, Dgíuljetta / Dgzuljetta, dgé / dgj джь, Dgíovanni / Dgzovanni, dgin джин),  
-дг - dgg / dgh - перед гласными i, e, eó/yo, ío/zo, ía/ya, íu/yu и перед é/j (podgon, adgheziá, podggibaté),  
+дг - dgg - перед гласными i, e, eó/yo, ío/zo, ía/ya, íu/yu и перед é/j (podgon, podggibaté, Sandggerdi),  
 ж - z - после ж (gzugzzit),  
 ж - gj - перед гласными где этимология требует j - но не перед "ж" (gjurnal, degjavú дежавю, Gzeórgz / Gzyorgz Жорж),  
 р - rh - где этимология требует rh (rhýthm),  
