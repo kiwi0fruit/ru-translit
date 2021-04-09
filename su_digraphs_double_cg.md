@@ -52,11 +52,12 @@
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
 
+тц - tç,  
 ц - z - после ц (piczza),  
-ц - ц[иеь] — tc[ieé] / tc[iej] - где этимология требует t, но не в начале слова (ratcion, fractciá, militciá),  
-тц - tc,  
+ц - ц[иеь] — tc[ieé] / tc[iej] - где этимология требует t, но не в начале слова (ratcion, fractciá, militciá, cedité, otçedité),  
+ц - ц[аоу] — tc[áóú] / tc[aou] - где этимология требует t, но не в начале слова (militcái),  
 ц - ц[иеь] — с[ieé] / с[iej] - перед иеь (Ciceron),  
-ц - ç / cz - обычно (jaiço / jaiczo яйцо),  
+ц - ç / cz - иначе (jaiço / jaiczo яйцо),  
 
 щ - sç / shch (jesçeó / jeshchyo),  
 шч - shéch / shjch (vesnushéchat / vesnushjchat),  
