@@ -76,6 +76,7 @@
 е - je - иначе (Jevropa, podjezd),  
 ё - eó / yo - после согласных (meód / myod),  
 ё - éo / jo - после и,й,ь (mumiéo / mumijo, pjéom / pjjom, jéogz / jjogz йёж, mumiéö / mumijeo, pjéöm / pjjeom пьеом, jéögz / jjeogz йеож),  
+ё - jo - после "е" (jejo, nejo),  
 ё - jeó / jo - иначе (jeógz / jogz, podjeóm / podjom),  
 ю - ú / yu - после согласных (lúbimyi / lyubimyi),  
 ю - ú / ju - после и,й,ь (Juliú / Juliju, pjú / pjju),  
