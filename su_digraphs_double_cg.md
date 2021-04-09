@@ -53,9 +53,10 @@
 кх - ckh (sickh),  
 
 ц - z - после ц (piczza),  
-ц - tz - где этимология требует t, но не в начале слова (ratzion, fractziá, militziá),  
+ц - ц[иеь] — tc[ieé] / tc[iej] - где этимология требует t, но не в начале слова (ratcion, fractciá, militciá),  
+тц - tc,  
 ц - ц[иеь] — с[ieé] / с[iej] - перед иеь (Ciceron),  
-ц - cz - обычно (jaiczo яйцо),  
+ц - ç / cz - обычно (jaiço / jaiczo яйцо),  
 
 щ - sç / shch (jesçeó / jeshchyo),  
 шч - shéch / shjch (vesnushéchat / vesnushjchat),  
