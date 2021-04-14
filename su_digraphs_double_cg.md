@@ -227,7 +227,7 @@ Maer neboléshogo gorodishci otcryl tabliçu exelá I vozmutilsá çenoi novogo 
 
 V etom vide fraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas sçheótca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeógz colúchij I pohogz na nejo.
 
-Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Cezaré" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujusçhih nosil hoholoc na golove. On I nasheól vyhod iz situaçii.
+Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Çezaré" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujusçhih nosil hoholoc na golove. On I nasheól vyhod iz situaçii.
 
 "Cto s mechom c nam prideót, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
