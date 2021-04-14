@@ -219,7 +219,7 @@ Piony I vasiléci vseó jesçhe rastut na poláne vozle derevni Peóny, schitaju
 
 Pjanyj master po projectu sdelal meçhanichescij object s izjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
 
-V pjése pro devushcu v zeleónom platjíçe vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Dgeórdgj Maximus, coné v paléto I rvanyh djinsah, cotoryj cogo-to obìscival, I pricazal vsem mytésá I gotovité buljón. Znachit snova pjéom do lysyh acvalangistov.
+V pjése pro devushcu v zeleónom platjíçe vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Dgeórdgj Maximus, coné v paléto I rvanyh djinsah, cotoryj cogo-to obìscival, I pricazal vsem mytésá I gotovité buljón. Znachit snova pjéom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu prideótsá mazaté jòd na ranu.
 
