@@ -53,7 +53,7 @@
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
 
-щ - sçh / shch (jesçhe / jeshche),  
+щ - sçh / shch (jesçhe / jeshche, sçhit / shchit),  
 сх - sòçh / skh - когда этимология требует ch (rasòçhimera / raskhimera расхимера),  
 шч - shjch (vesnushjchat),  
 шьч - shéch / shjcch, шьчч - shécch / shjccch,  
