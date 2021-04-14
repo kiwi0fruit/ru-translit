@@ -20,6 +20,7 @@
 д - d,  
 ж - gz,  
 з - z,  
+к - c,  
 л - l,  
 м - m,  
 н - n,  
@@ -29,6 +30,7 @@
 т - t,  
 ф - f,  
 х - h,  
+ц - ç / cz,  
 ч - ch,  
 ш - sh,  
 
@@ -41,19 +43,20 @@
 т - tò / th - перед з (otòzyv / othzyv),  
 т - th - не перед з где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
 ф - ph - где этимология требует ph (telephon),  
-х - çh / kh - после согласных или где этимология требует ch или kh (sçhod / skhod, çhimera / khimera, Loçhnesscyi),  
+х - çh / kh - после согласных или где этимология требует ch или kh (sçhod / skhod, çhimera / khimera, Loçhness),  
 ч - c - перед ч (capricchio),  
 
-кк - ckk (hockkei),  
-к - k - когда этимология требует Kk (Keniá, kefir, koboljd, koala),  
-к - ck - перед еёюяьч и иногда перед "и" - формы слова должны быть здесь (reca, v recke),  
-к - c - обычно (в т.ч. перед ц) (caleidoscop, accent, privleócsá, fractziá),  
-ки - cy - перед согласным звуком (в т.ч. йотации) или в конце слова (Cyrill, bancy, cyi кий),  
-ки - cki - в остальных случаях (Mackiavelli),  
+к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Miçhaèlé),  
+к - k - когда этимология требует Kk (Keniá, kefir, koboljd, koala, karate),  
 кс - x - где этимология требует x, но только не на стыке морфем (taxi, Xeniá),  
 кз - xz - где этимология требует x, но только не на стыке морфем (exzamen),  
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
+
+щ - sçh / shch (jesçhe / jeshche),  
+сх - sòçh / skh - когда этимология требует ch (rasòçhimera / raskhimera расхимера),  
+шч - shjch (vesnushjchat),  
+шьч - shéch / shjcch, шьчч - shécch / shjccch,  
 
 цц - czz (piczza),  
 ц - tç / tcz - где этимология требует t (ratçion / ratczion, fractçiá / fractczija, militçiá / militczija, militçai / militczai, militç / militcz милиц, tçundere / tczundere),  
@@ -62,15 +65,10 @@
 ц[ьяю] - ç[éáú] / cz(j|y[au]) - (Czúrih / Czyurih, Çúané / Czyuanj Цюань),  
 ц - c - иначе - ц[.иеаоуы] — c(é|[ieáóúý]) / c(j|[ie]|y[aoui]) (Ciceron, jaicó / jaiсyo яйцо, zajacé / zajacj,  otcý / otcyi отцы, otcá / otcyа отца, cýan / cyian, cedité, otcedité, latinicá, Ceós / ??? Цёс),  
 Блин, нарушается принцип визуальной идентификации рода-части предложения по окончанию: zajacé
-
 тц - tç (cedité, otçedité),  
 ц - ц[иеаоу.ыё] — tc([ieáóúéý]|eó) / tc([ieaouj]|yi|yo) - где этимология требует t, но не в начале слова (ratcion, fractciá, militciá, militcái, militcé / militcj милиц),  
 ц - ц[иеь] — с[ieé] / с[iej] - перед иеь (Ciceron),  
 ц - ç / cz - иначе (jaiço / jaiczo яйцо),  
-
-щ - sç / shch (jesçeó / jeshchyo),  
-шч - shéch / shjch (vesnushéchat / vesnushjchat),  
-шьч - shécch / shjcch, шьчч - shéccch / shjccch,  
 
 е - e - после согласных (leto),  
 е - é / je - после и,й,ь (sinié / sinije, Bajés / Bajjes, pjésa / pjjesa),  
@@ -79,6 +77,7 @@
 ё - éo / jo - после и,й,ь (mumiéo / mumijo, pjéom / pjjom, jéogz / jjogz йёж, mumiéö / mumijeo, pjéöm / pjjeom пьеом, jéögz / jjeogz йеож),  
 ё - jo - после "е" (jejo, nejo),  
 ё - jeó / jo - иначе (jeógz / jogz, podjeóm / podjom),  
+ещё — ещё$ / (j)esçhe$ / (j)eshche$ - исключение для ещё на конце слова (jesçhe / jeshche ещё, jesçhíe / jeshchiie ещьэ - звучит как "ще"),  
 ю - ú / yu - после согласных (lúbimyi / lyubimyi),  
 ю - ú / ju - после и,й,ь (Juliú / Juliju, pjú / pjju),  
 ю - ju - иначе (jula),  
@@ -89,7 +88,7 @@
 и - ï / i - в начале слова перед гласной или йотом (Ïacov / Iacov, ïon / ion, Ïisus / Iisus),  
 и - ï / yi - после согласной+й (superjïppi / superjyippi суперйиппи),  
 и - í / yi - после "й,ь". А так же после гласных кроме "и" (moí / moyi мои, zaíca / zayica заика, platjíce / platjjyice, rajíspolcom / rajyispolcom, jíppi / jyippi),  
-и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema),  
+и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
 ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyi, crasnyje, vyüchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyê / tyye тыэ, jyí / jyyi йыи, tyÿ / tyyy тыы),  
@@ -105,7 +104,7 @@
 
 ь - j - перед йотированными гласными кроме "ё" - сь[еюя] — sj[éúá] / sjj[eua] (pjésa / pjjesa),  
 ьё - сьё — sjéo / sjjo (pjéom / pjjom),  
-ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz),  
+ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те"),  
 ьи - сьи — sjí / sjjyi (platjíce / platjjyice, creslice),  
 ьо - сьо — sjó /siio (buljón / buliion),  
 ь - é / j - после согласных не в корне или когда однокоренные имеют чередование ь/е/ё (conécy / conjcy коньки, léda / ljda льда),  
