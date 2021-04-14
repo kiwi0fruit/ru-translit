@@ -271,7 +271,7 @@ I rechca podo lédom blestit.
 Vsá comnata jantarnym blescom
 Ozarena. Veseólym trescom
 Tresçhit zatoplennaja peché.
-Priátno dumaté u legzanci.
+Prijatno dumaté u legzanci.
 No znajeshé: ne veleté li v sanci
 Cobylcu buruju zapreché?
 
@@ -291,8 +291,8 @@ Ni polnyj gordogo doveriá pocoi,
 Ni teómnoi stariny zavetnyje predanjá
 Ne shevelát vo mne otradnogo mechtanjá.
 No ja lúblú — za chto, ne znaju sam —
-Jejo stepei holodnoje molchanjá,
-Jejo lesov bezbregznyh colyhanjá,
+Jejo stepei holodnoje molchanjé,
+Jejo lesov bezbregznyh colyhanjé,
 Razlivy rec jejo, podobnyje morám;
 Proseólochnym puteóm lúblú scacaté v telege
 I, vzorom medlennym pronzaja nochi tené,
