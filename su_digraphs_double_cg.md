@@ -56,19 +56,13 @@
 кз - xz - где этимология требует x, но только не на стыке морфем (exzamen),  
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
-Примеры: ocean, centavr, cino кино, cinematograph, cýber, cýsta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cýrill, Cýpr, scýf, cit кит, cýnolog.
+Примеры: ocean, centavr, cino кино, cinematograph, cýber, cýsta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cýrill, Cýpr, scýf, cit кит, cýnolog.  
 
+-ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá),  
+ц - tz - где этимология требует t. Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere),  
 цц - czz (piczza),  
-ц - tç / tcz - где этимология требует t (ratçion / ratczion, fractçiá / fractczija, militçiá / militczija, militçai / militczai, militç / militcz милиц, tçundere / tczundere),  
 ц - cz - где этимология требует z (Ponczi, Czúrih / Czyurih Цюрих),  
-тц[ьяю] - *не поддерживается*,  
-ц[ьяю] - ç[éáú] / cz(j|y[au]) - (Czúrih / Czyurih, Çúané / Czyuanj Цюань),  
-ц - c - иначе - ц[.иеаоуы] — c(é|[ieáóúý]) / c(j|[ie]|y[aoui]) (Ciceron, jaicó / jaiсyo яйцо, zajacé / zajacj,  otcý / otcyi отцы, otcá / otcyа отца, cýan / cyian, cedité, otcedité, latinicá, Ceós / ??? Цёс),  
-Блин, нарушается принцип визуальной идентификации рода-части предложения по окончанию: zajacé
-тц - tç (cedité, otçedité),  
-ц - ц[иеаоу.ыё] — tc([ieáóúéý]|eó) / tc([ieaouj]|yi|yo) - где этимология требует t, но не в начале слова (ratcion, fractciá, militciá, militcái, militcé / militcj милиц),  
-ц - ц[иеь] — с[ieé] / с[iej] - перед иеь (Ciceron),  
-ц - ç / cz - иначе (jaiço / jaiczo яйцо),  
+Примеры: latiniça, jaiço / jaiczo, zajacz, otçy / otczy, Çiçeron, çýan / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çeós / Czyos Цёс.  
 
 е - e - после согласных (leto),  
 е - é / je - после и,й,ь (sinié / sinije, Bajés / Bajjes, pjésa / pjjesa),  
