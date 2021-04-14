@@ -217,9 +217,9 @@ JÊ ЙЭ (JIE), JÏ ЙИ (JII).
 
 Piony I vasiléci vseó jesçhe rastut na poláne vozle derevni Peóny, schitajusçheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
 
-Pjanyj master po projectu sdelal meçhanichescij objiect s izjianom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
+Pjanyj master po projectu sdelal meçhanichescij object s izjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
 
-V pjese pro devushcu v zeleónom platjyçe vse sadilisé na ladjy I plyli po rece. No tut iz lesa vyshel Dgeórdgj Maximus, coné v paléto I rvanyh djinsah, cotoryj cogo-to obìscival, I pricazal vsem mytésá I gotovité buljón. Znachit snova pjeóm do lysyh acvalangistov.
+V pjése pro devushcu v zeleónom platjíçe vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Dgeórdgj Maximus, coné v paléto I rvanyh djinsah, cotoryj cogo-to obìscival, I pricazal vsem mytésá I gotovité buljón. Znachit snova pjéom do lysyh acvalangistov.
 
 Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu prideótsá mazaté jòd na ranu.
 
@@ -237,9 +237,9 @@ Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesçhe I rodilisé v odin dené, 2
 
 – Frodo, maléchic moi, – scazal cac-to raz Bilébo, – perebiralsá by ty co mne. Gládishé, I dené rogzdeniá vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeógzé v bezotvetstvennom vozraste megzdu dvadçatju I tridçatju tremá, posle chego hobbit naconeç mogzet schitaté sebá vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeógzé v bezotvetstvennom vozraste megzdu dvadçatjú I tridçatjú tremá, posle chego hobbit naconeç mogzet schitaté sebá vzroslym.
 
-Proshlo jesçhe dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Bilébo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitreóhletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
+Proshlo jesçhe dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenjú gotovitsá nechto neobychnoe. Bilébo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitreóhletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
 
 Imejetsá nescoléco ghýpotez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotorye vidy shacalov.
 
@@ -254,7 +254,7 @@ Otcroi somcnuty negoi vzory
 Navstrechu severnoi Avrory,
 Zvezdoju severa javisé!
 
-Vechor, ty pomnishé, vjuga zlilasé,
+Vechor, ty pomnishé, vjúga zlilasé,
 Na mutnom nebe mgla nosilasé;
 Luna, cac blednoje pátno,
 Scvozé tuchi mrachnyje gzeltela,
@@ -284,15 +284,15 @@ I bereg, milyj dlá mená.
 
 Lermontov M.Ju. — Rodina
 
-Lúblú otchiznu ja, no strannoju lúbovju!
+Lúblú otchiznu ja, no strannoju lúbovjú!
 Ne pobedit jejo rassudoc moi.
-Ni slava, cuplennaja crovju,
+Ni slava, cuplennaja crovjú,
 Ni polnyj gordogo doveriá pocoi,
-Ni teómnoi stariny zavetnyje predanja
-Ne shevelát vo mne otradnogo mechtanja.
+Ni teómnoi stariny zavetnyje predanjá
+Ne shevelát vo mne otradnogo mechtanjá.
 No ja lúblú — za chto, ne znaju sam —
-Jejo stepei holodnoje molchanje,
-Jejo lesov bezbregznyh colyhanje,
+Jejo stepei holodnoje molchanjá,
+Jejo lesov bezbregznyh colyhanjá,
 Razlivy rec jejo, podobnyje morám;
 Proseólochnym puteóm lúblú scacaté v telege
 I, vzorom medlennym pronzaja nochi tené,
@@ -308,8 +308,8 @@ Izbu, pocrytuju solomoi,
 S reznymi stavnámi ocno;
 I v prazdnic, vecherom rosistym,
 Smotreté do polnochi gotov
-Na pláscu s topanjem I svistom
-Pod govor pjanyh mugzichcov.
+Na pláscu s topanjém I svistom
+Pod govor pjányh mugzichcov.
 
 // God napisaniá: 1841
 
