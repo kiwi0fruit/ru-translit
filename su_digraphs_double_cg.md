@@ -51,11 +51,12 @@
 шьч - shéch / shjcch, шьчч - shécch / shjccch,  
 
 к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Miçhaèlé),  
-к - k - когда этимология требует Kk (Keniá, kefir, koboljd, koala, karate),  
+к - k - когда этимология требует k (Keniá, kefir, koboljd, koala, karate),  
 кс - x - где этимология требует x, но только не на стыке морфем (taxi, Xeniá),  
 кз - xz - где этимология требует x, но только не на стыке морфем (exzamen),  
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
+Примеры: ocean, centavr, cino кино, cinematograph, cýber, cýsta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cýrill, Cýpr, scýf, cit кит, cýnolog.
 
 цц - czz (piczza),  
 ц - tç / tcz - где этимология требует t (ratçion / ratczion, fractçiá / fractczija, militçiá / militczija, militçai / militczai, militç / militcz милиц, tçundere / tczundere),  
