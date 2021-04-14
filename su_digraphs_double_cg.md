@@ -58,7 +58,7 @@
 кх - ckh (sickh),  
 Примеры: ocean, centavr, cino кино, cinematograph, cýber, cýsta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cýrill, Cýpr, scýf, cit кит, cýnolog.  
 
--ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá),  
+-ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
 ц - tz - где этимология требует t. Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere),  
 цц - czz (piczza),  
 ц - cz - где этимология требует z (Ponczi, Czúrih / Czyurih Цюрих),  
