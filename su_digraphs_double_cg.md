@@ -243,7 +243,7 @@ Proshlo jesçhe dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoino
 
 Imejetsá nescoléco ghýpothez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotorye vidy shacalov.
 
-V sugzdenijah ucheónyh o predcah domashnei sobaci prisutstvujut dve tochci zreniá. Odni schitajut, chto sobaci - poliphiletichescaja gruppa (proísòhodásçhaja ot nescolécih predcov), drugié pridergzivajutsá mneniá, chto vse sobaci proízoshli ot odnogo predca (monophiletichescaja theoriá).
+V sugzdenijah ucheónyh o predcah domashnei sobaci prisutstvujut dve tochci zreniá. Odni schitajut, chto sobaci - polýphýletichescaja gruppa (proísòhodásçhaja ot nescolécih predcov), drugié pridergzivajutsá mneniá, chto vse sobaci proízoshli ot odnogo predca (monophýletichescaja theoriá).
 
 Alexandr Pushcin — Zimneje utro
 
