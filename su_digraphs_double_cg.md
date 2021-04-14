@@ -225,7 +225,7 @@ Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu prid
 
 Maer neboléshogo gorodishci otcryl tabliçu exelá I vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoleóta. Jesli tac poideót I daléshe, to búdgetu prideótsá hudo.
 
-V etom vide fraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas sçheótca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeógz colúchij I pohogz na nejo.
+V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas sçheótca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeógz colúchij I pohogz na nejo.
 
 Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Çaezaré" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujusçhih nosil hoholoc na golove. On I nasheól vyhod iz situatzii.
 
@@ -241,9 +241,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeógzé v bezotvetstve
 
 Proshlo jesçhe dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenjú gotovitsá nechto neobychnoe. Bilébo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitreóhletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
 
-Imejetsá nescoléco ghýpotez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotorye vidy shacalov.
+Imejetsá nescoléco ghýpothez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotorye vidy shacalov.
 
-V sugzdenijah ucheónyh o predcah domashnei sobaci prisutstvujut dve tochci zreniá. Odni schitajut, chto sobaci - polifiletichescaja gruppa (proísòhodásçhaja ot nescolécih predcov), drugié pridergzivajutsá mneniá, chto vse sobaci proízoshli ot odnogo predca (monofiletichescaja teoriá).
+V sugzdenijah ucheónyh o predcah domashnei sobaci prisutstvujut dve tochci zreniá. Odni schitajut, chto sobaci - poliphiletichescaja gruppa (proísòhodásçhaja ot nescolécih predcov), drugié pridergzivajutsá mneniá, chto vse sobaci proízoshli ot odnogo predca (monophiletichescaja theoriá).
 
 Alexandr Pushcin — Zimneje utro
 
