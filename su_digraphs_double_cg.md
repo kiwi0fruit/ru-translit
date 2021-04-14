@@ -121,7 +121,7 @@
 й - j - иначе - в т.ч. ий,ый,кий (allilujá / allilujja, sinij, cyjca кийка, nyjca ныйка),  
 й[оауэ] - j[öäüê] / ji[oaue] (jöd / jiod, Majämi / Majiami, ejên / ejien эйэн),  
 
-Ударения:
+**Ударения:**
 
 Основная идея:
 
