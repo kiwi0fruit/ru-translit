@@ -62,7 +62,7 @@
 ц - tz - где этимология требует t. Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere),  
 цц - czz (piczza),  
 ц - cz - где этимология требует z (Ponczi, Czúrih / Czyurih Цюрих),  
-Примеры: latiniça, jaiço / jaiczo, zajacz, otçy / otczy, Çiçeron, çýan / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çeós / Czyos Цёс.  
+Примеры: latiniça, jaiço / jaiczo, zajaç / zajacz, otçy / otczy, Çiçeron, çýan / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çeós / Czyos Цёс.  
 
 е - e - после согласных (leto),  
 е - é / je - после и,й,ь (sinié / sinije, Bajés / Bajjes, pjésa / pjjesa),  
