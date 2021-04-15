@@ -94,16 +94,19 @@
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
+ы - ì / ui - когда этимология требует i (obìscaté / obuiscatj, muzìca / muzuica, latìnè / latuinj),  
 ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sjyí / sjyyi сйыи, jys йыс, sjys сйыс, tyÿ / tyyy тыы, но platjíce / platjyice),  
 ы - ÿ / yy - в остальных случаях (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 
-аэ - aê / aae - после согласной (maêstro / maaestro),  
-йэ - jê / jie (ejên / ejien эйэн),  
-э - ae - после согласных (maer),  
+аэ - aè / aae - после согласной (maèstro / maaestro),  
+йэ - jie (ejien эйэн),  
+э - æ / ae - после согласных когда этимология требует "a" (mær / maer, Thætcher),  
+э - è / ue - обычно после согласных (partèr / partuer),  
 э - e - обычно - в т.ч. "аэ" не после согласных (etot, aero),  
 
 ъ - j - перед йотированными гласными - съ[ёеюя] — sj[oeua] (sjezd, zajezd),  
-ъ - qh - иначе (obqhizvestité / obqhizvestitj объизвестить, aqh аъ),  
+ъ - ò - в остальных случаях после согласных, кроме j,w (obòizvestité / obqhizvestitj объизвестить),  
+ъ - qh - иначе (aqh аъ),  
 
 ь - j - перед йотированными гласными кроме "ё" - сь[еюя] — sj[éúá] / sjj[eua] (pjésa / pjjesa),  
 ьё - сьё — sjéo / sjjo (pjéom / pjjom),  
