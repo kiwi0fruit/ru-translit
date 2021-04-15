@@ -99,7 +99,6 @@
 ы - ÿ / yy - в остальных случаях (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 
 аэ - aè / aae - после согласной (maèstro / maaestro),  
-йэ - jie (ejien эйэн),  
 э - æ / ae - после согласных когда этимология требует "a" (mær / maer, Thætcher),  
 э - æ / aae - в начале слова когда этимология требует "a" (Æppl / Aaeppl, Ændý),  
 э - è / ue - обычно после согласных (partèr / partuer, tuèr / tuuer туэр),  
@@ -119,7 +118,9 @@
 
 й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, tonéyork / tonjyork тоньйорк),  
 й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
-й - j / ji - перед нейотированными гласными аоуэ - кроме иы (jöd / jiod, Majämi / Majiami, Seórckjösen / Syorckjiosen Сёркйосен, ejên / ejien эйэн),  
+й - i - после гласной перед гласной, но не перед "о" (Maiami, eien эйэн),  
+й - j / ji - перед "о" **не** после согласной (jód / jiod, majór),  
+й - ji - перед нейотированными гласными ауоэ - кроме иы (Seórckjiosen / Syorckjiosen Сёркйосен),  
 йи - jí (jï) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjïppi / superjyippi),  
 йы - jy / jy (jyí / jyyi йыи),  
 ый - yi - в конце слова (crasnyi),  
