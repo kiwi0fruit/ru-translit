@@ -114,9 +114,8 @@
 ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те"),  
 ьи - сьи — sjí / sjyi (platjíce / platjyice, creslice),  
 ьо - сьо — sjó /siio (buljón / buliion),  
-ь - é / j - после согласных не в корне или когда однокоренные имеют чередование ь/е/ё (conéci / conjci коньки, léda / ljda льда),  
-ь - j - после согласных в корне когда однокоренные **не** имеют чередования ь/е/ё (culjtura, paljma),  
-ь - qqh - иначе (aqqh аь),  
+ь - é / j - после согласных (conéci / conjci коньки, léda / ljda льда, даже culétura, paléma),  
+ь - qh - иначе запрещено (aqh аь становится аъ),  
 
 й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, tonéyork / tonjyork тоньйорк),  
 й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
