@@ -94,7 +94,7 @@
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
-ы - y - после согласного звука (**в т.ч. йота**) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи - **из-за platjyice**, tyÿ / tyyy тыы),  
+ы - y - после согласного звука (**в т.ч. йота**) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, **jyí / jyyi йыи - из-за platjyice tonjyork, jys йыс**, tyÿ / tyyy тыы),  
 ы - ÿ / yy - в остальных случаях" (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 
 аэ - aê / aae - после согласной (maêstro / maaestro),  
@@ -114,7 +114,7 @@
 ь - j - после согласных в корне когда однокоренные **не** имеют чередования ь/е/ё (culjtura, paljma),  
 ь - qqh - иначе (aqqh аь),  
 
-й - y - где этимология требует (yippi, York, superòyippi / superqhyippi),  
+й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, tonéyork / tonjyork тоньйорк),  
 й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
 й - j / ji - перед нейотированными гласными аоуэ - кроме иы (jöd / jiod, Majämi / Majiami, Seórckjösen / Syorckjiosen Сёркйосен, ejên / ejien эйэн),  
 йи - jí (jï) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjïppi / superjyippi),  
