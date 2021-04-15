@@ -36,10 +36,10 @@
 щ - sçh / shch,  
 
 г - gh - перед з,ь и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
-дж - dg, dgí / dgj - перед мягкими гласными и согласными, где этимология требует (Dgeórdgj / Dgyordgj, Dgíuljetta / Dgjuljetta, Dgíovanni / Dgjovanni, dgin / джин, búdget / byudget, dgzé / dgzj джь, podgzidal, podgon),  
-дг - dòg / dgg - перед мягкими гласными (podògibaté / podggibatj, Sandògerdi / Sandggerdi),  
-ж - z - после ж (gzugzzit),  
-ж - gj - где этимология требует - но не перед "ж" и не после "д" (gjurnal, degjavú дежавю, Gjeórgj / Gjyorgj Жорж),  
+дж - dg[èìj] / dgj - перед мягкими гласными и согласными, где этимология требует (Dgèordgj / Dgjyordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
+ж - gj - где этимология требует - но не после "д" (gjurnal, degjavú дежавю, Gjeórgj / Gjyorgj Жорж),  
+ж - z - после ж/gz (gzugzzit),  
+ж - j - после ж/gj (hadgjj),  
 р - rh - где этимология требует rh (rhýthm),  
 т - tò / th - перед з (otòzyv / othzyv),  
 т - th - не перед з где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
@@ -219,7 +219,7 @@ Piony I vasiléci vseó jesçhe rastut na poláne vozle derevni Peóny, schitaju
 
 Pjányj master po projectu sdelal meçhanichescij object s izjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
 
-V pjése pro devushcu v zeleónom platjíçe vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Dgeórdgj Maximus, coné v paléto I rvanyh djinsah, cotoryj cogo-to obìscival, I pricazal vsem mytésá I gotovité buljón. Znachit snova pjéom do lysyh aqvalangistov.
+V pjése pro devushcu v zeleónom platjíçe vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Dgeórdgj Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscival, I pricazal vsem mytésá I gotovité buljón. Znachit snova pjéom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu prideótsá mazaté jòd na ranu.
 
