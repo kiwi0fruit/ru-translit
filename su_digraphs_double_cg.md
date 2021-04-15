@@ -95,7 +95,7 @@
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
 ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sjyí / sjyyi сйыи, jys йыс, sjys сйыс, tyÿ / tyyy тыы, но platjíce / platjyice),  
-ы - ÿ / yy - в остальных случаях" (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
+ы - ÿ / yy - в остальных случаях (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 
 аэ - aê / aae - после согласной (maêstro / maaestro),  
 йэ - jê / jie (ejên / ejien эйэн),  
