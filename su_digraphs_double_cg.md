@@ -87,8 +87,8 @@
 я - á / ja - после й,ь и "и" в окончаниях (Mariá / Marija, allilujá / allilujja, pján / pjjan),  
 я - ja - иначе (ja я),  
 
-и - ï / ii - в начале слова перед гласной или йотом в именах собственных (Ïacov / Iiacov, ion),  
-ии - ïy / iy - в начале слова (Ïyda / Iyda, Ïesus / Iesus - исключение),  
+и - ï / ii - в начале слова перед гласной или йотом с заглавной буквы (Ïacov / Iacov, Ïesus / Iesus - исключение, ion / ion),  
+ии - ïy / iy - в начале слова с заглавной буквы (Ïyda / Iyda),  
 и - í / ii - после гласных кроме "и", и после й (moí / moii мои, zaíca / zaiica заика, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип),  
 и - í / yi - после ь (platjíce / platjyice),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
