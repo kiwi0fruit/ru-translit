@@ -67,7 +67,7 @@
 Примеры: ocean, centavr, cino кино, cinematograph, cýber, cýsta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cýrill, Cýpr, scýf, cit кит, cýnolog.  
 
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
-ц - tz - где этимология требует t или z, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere, Pontzi, Tzúrih / Tzyurih Цюрих),  
+ц - tz - где этимология требует t или z, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere, Pontzi, Tzúriçh / Tzyurikh Цюрих),  
 цц - tzz (pitzza),  
 цц - czz - когда этимология требует "c",  
 Примеры: latiniça, acçent, jaiço, zajaç, otçy, Çiçeron, çýan / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çeós / Czyos Цёс.  
