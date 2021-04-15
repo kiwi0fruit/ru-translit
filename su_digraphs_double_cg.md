@@ -36,7 +36,8 @@
 щ - sçh / shch,  
 
 г - gh - перед з,ь и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
-дж - dg[èìj] / dgj - перед мягкими гласными и согласными, где этимология требует (Dgèordgj / Dgjyordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
+дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjyordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
+дж - dj[èì] / djh - только перед гласными, где этимология требует (Djàeims / Djhaeims, Djàèms / Djhaaems Джаэмс, Djàrmush, djìnsy, Djàeck),  
 ж - gj - где этимология требует - но не после "д" (gjurnal, degjavú дежавю, Gjeórgj / Gjyorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
 ж - j - после ж/gj (hadgjj),  
