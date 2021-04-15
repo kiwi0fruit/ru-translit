@@ -91,6 +91,7 @@
 ии - ïy / iy - в начале слова с заглавной буквы перед согласной (Ïyda / Iyda),  
 и - í / ii - после гласных кроме "и", и после й (moí / moii мои, zaíca / zaiica заика, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип),  
 и - í / yi - после ь (platjíce / platjyice),  
+и - y - в исключениях где этимология требует "y" и где нельзя спутать с "ы" (Yggdrasilé Иггдрасиль),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
