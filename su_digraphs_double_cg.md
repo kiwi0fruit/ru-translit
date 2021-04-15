@@ -51,7 +51,7 @@
 х - òçh / kh - после "с/s" когда этимология требует ch (rasòçhimera / raskhimera расхимера),  
 ч - c - перед ч (capricchio),  
 шч - shjch (vesnushjchat),  
-шьч - shéch / shjcch, шьчч - shécch / shjccch,  
+шьч - запрещен,  
 
 к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Miçhaèlé),  
 к - k - когда этимология требует k (Keniá, kefir, koboljd, koala, karate),  
