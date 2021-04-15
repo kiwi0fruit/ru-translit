@@ -37,10 +37,11 @@
 
 г - gh - перед з,ь и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjyordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
-дж - dj[èì] / djh - только перед гласными, где этимология требует (Djàeims / Djhaeims, Djàèms / Djhaaems Джаэмс, Djàrmush, djìnsy, Djàeck),  
-ж - gj - где этимология требует - но не после "д" (gjurnal, degjavú дежавю, Gjeórgj / Gjyorgj Жорж),  
+дж - dj[èìh] / djh - где этимология требует,  
+дж - j[èìh] / jh - где этимология требует - но не после д/d (Jàeims / Jhaeims, Jàèms / Jhaaems Джаэмс, Jàrmush, jìnsy, Jàeck, hajjh),  
+ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeórgj / Gjyorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
-ж - j - после ж/gj (hadgjj),  
+ж - j - после ж/gj, перед ж/jh  (hajjh),  
 р - rh - где этимология требует rh (rhýthm),  
 т - tò / th - перед з (otòzyv / othzyv),  
 т - th - не перед з где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
@@ -222,7 +223,7 @@ Pjányj master po projectu sdelal meçhanichescij object s izjanom. Jesli brac n
 
 V pjése pro devushcu v zeleónom platjíçe vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Dgeórdgj Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscival, I pricazal vsem mytésá I gotovité buljón. Znachit snova pjéom do lysyh aqvalangistov.
 
-Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu prideótsá mazaté jòd na ranu.
+Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu prideótsá mazaté jód na ranu.
 
 Maer neboléshogo gorodishci otcryl tabliçu exelá I vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoleóta. Jesli tac poideót I daléshe, to búdgetu prideótsá hudo.
 
