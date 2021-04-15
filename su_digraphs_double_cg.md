@@ -52,8 +52,9 @@
 ч - c - перед ч (capricchio),  
 шч - shjch (vesnushjchat),  
 шьч - запрещен,  
-у - w[] - перед гласными, когда этимология требует w (Wòatson Уотсон, Wèst Уэст),  
-в - w - перед гласными, когда этимология требует w (Watson Ватсон, Watt Ватт),  
+у - w[èìòàùỳ] / wu - перед гласными, когда этимология требует w (Wòtson / Wuotson Уотсон, Wèst / Wuest Уэст),  
+в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuàtt / Wuuatt Вуатт),  
+*(то есть, после j и w буква ò становится полногласной, в остальных же случаях - это твёрдый знак),*  
 
 к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Miçhaèlé),  
 к - k - когда этимология требует k (Keniá, kefir, koboljd, koala, karate),  
@@ -61,6 +62,7 @@
 кз - xz - где этимология требует x, но только не на стыке морфем (exzamen),  
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
+кв - qv - когда этимология требует q (aqvarium),  
 Примеры: ocean, centavr, cino кино, cinematograph, cýber, cýsta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cýrill, Cýpr, scýf, cit кит, cýnolog.  
 
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
