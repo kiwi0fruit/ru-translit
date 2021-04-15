@@ -112,7 +112,7 @@
 ь - j - перед йотированными гласными кроме "ё" - сь[еюя] — sj[éúá] / sjj[eua] (pjésa / pjjesa),  
 ьё - сьё — sjéo / sjjo (pjéom / pjjom),  
 ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те"),  
-ьи - сьи — sjí / sjyi (platjíce / platjyice, creslice),  
+ьи - сьи — sjí / sjyi (platjíçe / platjyicze, cresliçe),  
 ьо - сьо — sjó /siio (buljón / buliion),  
 ь - é / j - после согласных (conéci / conjci коньки, léda / ljda льда, даже culétura, paléma),  
 ь - qh - иначе запрещено (aqh аь становится аъ),  
