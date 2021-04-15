@@ -247,69 +247,69 @@ V sugzdenijah ucheónyh o predcah domashnei sobaci prisutstvujut dve tochci zren
 
 Alexandr Pushcin — Zimneje utro
 
-Moroz I solnçe; dené chudesnyj!
-Jesçhe ty dremleshé, drug prelestnyj —
-Pora, crasaviça, prosnisé:
-Otcroi somcnuty negoi vzory
-Navstrechu severnoi Avrory,
-Zvezdoju severa javisé!
+Moroz I solnçe; dené chudesnyj!  
+Jesçhe ty dremleshé, drug prelestnyj —  
+Pora, crasaviça, prosnisé:  
+Otcroi somcnuty negoi vzory  
+Navstrechu severnoi Avrory,  
+Zvezdoju severa javisé!  
 
-Vechor, ty pomnishé, vjúga zlilasé,
-Na mutnom nebe mgla nosilasé;
-Luna, cac blednoje pátno,
-Scvozé tuchi mrachnyje gzeltela,
-I ty pechalénaja sidela —
-A nynche… pogládi v ocno:
+Vechor, ty pomnishé, vjúga zlilasé,  
+Na mutnom nebe mgla nosilasé;  
+Luna, cac blednoje pátno,  
+Scvozé tuchi mrachnyje gzeltela,  
+I ty pechalénaja sidela —  
+A nynche… pogládi v ocno:  
 
-Pod golubymi nebesami
-Velicolepnymi covrami,
-Blestá na solnçe, sneg legzit;
-Prozrachnyj les odin chernejet,
-I jelé scvozé inei zelenejet,
-I rechca podo lédom blestit.
+Pod golubymi nebesami  
+Velicolepnymi covrami,  
+Blestá na solnçe, sneg legzit;  
+Prozrachnyj les odin chernejet,  
+I jelé scvozé inei zelenejet,  
+I rechca podo lédom blestit.  
 
-Vsá comnata jantarnym blescom
-Ozarena. Veseólym trescom
-Tresçhit zatoplennaja peché.
-Prijatno dumaté u legzanci.
-No znajeshé: ne veleté li v sanci
-Cobylcu buruju zapreché?
+Vsá comnata jantarnym blescom  
+Ozarena. Veseólym trescom  
+Tresçhit zatoplennaja peché.  
+Prijatno dumaté u legzanci.  
+No znajeshé: ne veleté li v sanci  
+Cobylcu buruju zapreché?  
 
-Scolézá po utrennemu snegu,
-Drug milyj, predadimsá begu
-Netoroplivogo coná
-I navestim polá pustyje,
-Lesa, nedavno stolé gustyje,
-I bereg, milyj dlá mená.
+Scolézá po utrennemu snegu,  
+Drug milyj, predadimsá begu  
+Netoroplivogo coná  
+I navestim polá pustyje,  
+Lesa, nedavno stolé gustyje,  
+I bereg, milyj dlá mená.  
 
 Lermontov M.Ju. — Rodina
 
-Lúblú otchiznu ja, no strannoju lúbovjú!
-Ne pobedit jejo rassudoc moi.
-Ni slava, cuplennaja crovjú,
-Ni polnyj gordogo doveriá pocoi,
-Ni teómnoi stariny zavetnyje predanjá
-Ne shevelát vo mne otradnogo mechtanjá.
-No ja lúblú — za chto, ne znaju sam —
-Jejo stepei holodnoje molchanjé,
-Jejo lesov bezbregznyh colyhanjé,
-Razlivy rec jejo, podobnyje morám;
-Proseólochnym puteóm lúblú scacaté v telege
-I, vzorom medlennym pronzaja nochi tené,
-Vstrechaté po storonam, vzdyhaja o nochlege,
-Drogzasçhié ogni pechalényh derevené;
-Lúblú dymoc spaleónnoi gznivy,
-V stepi nochujusçhij oboz
-I na holme sredé gzeóltoi nivy
-Chetu belejusçhih bereóz.
-S otradoi, mnogim neznacomoi,
-Ja vigzu polnoje gumno,
-Izbu, pocrytuju solomoi,
-S reznymi stavnámi ocno;
-I v prazdnic, vecherom rosistym,
-Smotreté do polnochi gotov
-Na pláscu s topanjém I svistom
-Pod govor pjányh mugzichcov.
+Lúblú otchiznu ja, no strannoju lúbovjú!  
+Ne pobedit jejo rassudoc moi.  
+Ni slava, cuplennaja crovjú,  
+Ni polnyj gordogo doveriá pocoi,  
+Ni teómnoi stariny zavetnyje predanjá  
+Ne shevelát vo mne otradnogo mechtanjá.  
+No ja lúblú — za chto, ne znaju sam —  
+Jejo stepei holodnoje molchanjé,  
+Jejo lesov bezbregznyh colyhanjé,  
+Razlivy rec jejo, podobnyje morám;  
+Proseólochnym puteóm lúblú scacaté v telege  
+I, vzorom medlennym pronzaja nochi tené,  
+Vstrechaté po storonam, vzdyhaja o nochlege,  
+Drogzasçhié ogni pechalényh derevené;  
+Lúblú dymoc spaleónnoi gznivy,  
+V stepi nochujusçhij oboz  
+I na holme sredé gzeóltoi nivy  
+Chetu belejusçhih bereóz.  
+S otradoi, mnogim neznacomoi,  
+Ja vigzu polnoje gumno,  
+Izbu, pocrytuju solomoi,  
+S reznymi stavnámi ocno;  
+I v prazdnic, vecherom rosistym,  
+Smotreté do polnochi gotov  
+Na pláscu s topanjém I svistom  
+Pod govor pjányh mugzichcov.  
 
 // God napisaniá: 1841
 
