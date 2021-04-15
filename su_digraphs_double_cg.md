@@ -266,7 +266,7 @@ V pjése pro devushcu v zeleónom platjíçe vse sadilisé na ladjí I plyli po 
 
 Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu prideótsá mazaté jód na ranu.
 
-Maer neboléshogo gorodishci otcryl tabliçu exelá I vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoleóta. Jesli tac poideót I daléshe, to búdgetu prideótsá hudo.
+Mær neboléshogo gorodishci otcryl tabliçu exelá I vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoleóta. Jesli tac poideót I daléshe, to búdgetu prideótsá hudo.
 
 V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas sçheótca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeógz colúchij I pohogz na nejo.
 
@@ -274,7 +274,7 @@ Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otò
 
 "Cto s mechom c nam prideót, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
-Lúbimçem Bilébo byl junyj Frodo Baeggins. Cogda Bilébo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
+Lúbimçem Bilébo byl junyj Frodo Bæggins. Cogda Bilébo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumci. Tut ugz vse nadegzdy Dericulé-Bægginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
 Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesçhe I rodilisé v odin dené, 22 sentábrá.
 
