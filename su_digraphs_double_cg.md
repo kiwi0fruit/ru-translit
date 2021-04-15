@@ -88,9 +88,9 @@
 я - ja - иначе (ja я),  
 
 и - ï / i - в начале слова перед гласной или йотом (Ïacov / Iacov, ïon / ion),  
-ии - ïý / iyi - в начале слова (Ïýda / Iyida, Ïesus / Iesus - исключение),  
-и - ï / yi - после согласной+й (superjïppi / superjyippi суперйиппи),  
-и - í / yi - после "й,ь". А так же после гласных кроме "и" (moí / moyi мои, zaíca / zayica заика, platjíce / platjjyice, rajíspolcom / rajyispolcom, jíppi / jyippi),  
+ии - ïi / ii - в начале слова (Ïida / Iida, Ïesus / Iesus - исключение),  
+и - í / ii - после гласных кроме "и", и после й (moí / moii мои, zaíca / zaiica заика, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип),  
+и - í / yi - после ь (platjíce / platjyice),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
@@ -114,6 +114,7 @@
 ь - j - после согласных в корне когда однокоренные **не** имеют чередования ь/е/ё (culjtura, paljma),  
 ь - qqh - иначе (aqqh аь),  
 
+й - y - где этимология требует (yippi, York, superòyippi / superqhyippi),  
 й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
 й - j / ji - перед нейотированными гласными аоуэ - кроме иы (jöd / jiod, Majämi / Majiami, Seórckjösen / Syorckjiosen Сёркйосен, ejên / ejien эйэн),  
 йи - jí (jï) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjïppi / superjyippi),  
