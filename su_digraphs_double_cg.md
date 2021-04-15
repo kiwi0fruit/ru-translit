@@ -9,7 +9,7 @@
 
 *После слэша дано написание в ASCII-only версии. Требования этимологии распространяются только на основу слова.*
 
-Новые буквы: àáòóỳýùúèéìíçï (14 - ÀÁÒÓỲÝÙÚÈÉÍÇÏ).
+Новые буквы: àáòóỳýùúèéìíçïæ (15 - ÀÁÒÓỲÝÙÚÈÉÍÇÏÆ).
 
 а - a,  
 о - o,  
@@ -35,10 +35,10 @@
 ш - sh,  
 щ - sçh / shch,  
 
-г - gh - перед зьъ,ы/ì/ui,**э/è** и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
+г - gh - перед зьъ,ы/ì/ui,э/è/ue (но не ы/y,э/æ/ae) и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjyordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
-дж - j[èìòàùỳh] / jh - где этимология требует - но не после д/d (Jàeims / Jhaeims, Jàèms / Jhaaems Джаэмс, Jàrmush, jìnsy, Jàeck, hajjh, jòker),  
-дж - dj[èìòàùỳh] / djh - где этимология требует (можно считать, что это особенность чтения),  
+дж - jæ,j[èìòàùỳh] / jae,jh - где этимология требует - но не после д/d (Jæims / Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jæck, hajjh, jòker),  
+дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
 ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeórgj / Gjyorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
 ж - j - после ж/gj, перед ж/jh  (hajjh),  
