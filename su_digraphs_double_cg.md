@@ -42,7 +42,7 @@
 ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeórgj / Gjyorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
 ж - j - после ж/gj,  
-жж - jjh - когда сторая после ж/jh  (hajjh),  
+жж - jjh (hajjh),  
 р - rh - где этимология требует rh (rhýthm),  
 т - tò / th - перед з (otòzyv / othzyv),  
 т - th - не перед з где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
