@@ -118,9 +118,10 @@
 
 й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, tonéyork / tonjyork тоньйорк),  
 й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
-й - i - после гласной перед гласной, но не перед "о" (Maiami, eien эйэн),  
+й - i - после гласной перед гласной, но не перед "о" (aia айа, eien эйэн),  
 й - j / ji - перед "о" **не** после согласной (jód / jiod, majór),  
 й - ji - перед нейотированными гласными ауоэ - кроме иы (Seórckjiosen / Syorckjiosen Сёркйосен),  
+
 йи - jí (jï) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjïppi / superjyippi),  
 йы - jy / jy (jyí / jyyi йыи),  
 ый - yi - в конце слова (crasnyi),  
