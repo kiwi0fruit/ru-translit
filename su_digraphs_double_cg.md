@@ -94,7 +94,7 @@
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
-ы - y - после согласного звука (**в т.ч. йота**) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, **jyí / jyyi йыи - из-за platjyice tonjyork, jys йыс**, tyÿ / tyyy тыы),  
+ы - y - после согласного звука (**в т.ч. йота**) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, **jyí / jyyi йыи - из-за platjyice tonjyork, sjyí / sjyyi сйыи, jys йыс, sjys сйыс,** tyÿ / tyyy тыы),  
 ы - ÿ / yy - в остальных случаях" (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 
 аэ - aê / aae - после согласной (maêstro / maaestro),  
