@@ -64,13 +64,13 @@
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
 кв - qv - когда этимология требует q (aqvarium),  
-Примеры: ocean, centavr, cino кино, cinematograph, cýber, cýsta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cýrill, Cýpr, scýf, cit кит, cýnolog.  
+*Примеры:* ocean, centavr, cino кино, cinematograph, cýber, cýsta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cýrill, Cýpr, scýf, cit кит, cýnolog.  
 
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
 ц - tz - где этимология требует t или z, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere, Pontzi, Tzúriçh / Tzyurikh Цюрих),  
 цц - tzz (pitzza),  
 цц - czz - когда этимология требует "c",  
-Примеры: latiniça, acçent, jaiço, zajaç, otçy, Çiçeron, çýan / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çeós / Czyos Цёс.  
+*Примеры:* latiniça, acçent, jaiço, zajaç, otçy, Çiçeron, çýan / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çeós / Czyos Цёс.  
 
 е - e - после согласных (leto),  
 е - é / je - после й,ь и "и" в окончаниях (sinié / sinije, Bajés / Bajjes, pjésa / pjjesa),  
@@ -86,7 +86,7 @@
 я - á / ya - после согласных (sinája / sinyaja),  
 я - á / ja - после й,ь и "и" в окончаниях (Mariá / Marija, allilujá / allilujja, pján / pjjan),  
 я - ja - иначе (ja я),  
-(já,jú,jé,jéo,jý создают дополнительную йотацию, а jí,jó не создают дополнительную йотацию)  
+*(já,jú,jé,jéo,jý создают дополнительную йотацию, а jí,jó не создают дополнительную йотацию).*  
 
 и - ï / ii - в начале слова перед гласной или йотом с заглавной буквы (Ïacov / Iacov, Ïesus / Iesus - исключение, ion / ion),  
 ии - ïy / iy - в начале слова с заглавной буквы перед согласной (Ïyda / Iyda),  
@@ -99,6 +99,7 @@
 ы - ì / ui - когда этимология требует i (obìscaté / obuiscatj, muzìca / muzuica, latìnè / latuinj),  
 ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sjyí / sjyyi сйыи, jys йыс, sjys сйыс, tyÿ / tyyy тыы, но platjíce / platjyice),  
 ы - ÿ / yy - в остальных случаях (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
+*(тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. Точно так же, но наоборот, когда рядом с Yy есть только согласные звуки-буквы - это Ыы, а иначе - Ии)*.  
 
 аэ - aè / aae - после согласной (maèstro / maaestro),  
 э - æ / ae - после согласных когда этимология требует "a" (mær / maer, Thætcher),  
