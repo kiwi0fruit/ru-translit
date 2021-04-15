@@ -87,14 +87,14 @@
 я - á / ja - после й,ь и "и" в окончаниях (Mariá / Marija, allilujá / allilujja, pján / pjjan),  
 я - ja - иначе (ja я),  
 
-и - ï / i - в начале слова перед гласной или йотом (Ïacov / Iacov, ïon / ion),  
+и - ï / ii - в начале слова перед гласной или йотом в именах собственных (Ïacov / Iiacov, ion),  
 ии - ïy / iy - в начале слова (Ïyda / Iyda, Ïesus / Iesus - исключение),  
 и - í / ii - после гласных кроме "и", и после й (moí / moii мои, zaíca / zaiica заика, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип),  
 и - í / yi - после ь (platjíce / platjyice),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
-ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи - **из-за platjyice**, tyÿ / tyyy тыы),  
+ы - y - после согласного звука (**в т.ч. йота**) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи - **из-за platjyice**, tyÿ / tyyy тыы),  
 ы - ÿ / yy - в остальных случаях" (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 
 аэ - aê / aae - после согласной (maêstro / maaestro),  
