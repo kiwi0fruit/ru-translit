@@ -121,14 +121,10 @@
 й - i - после гласной перед гласной, но не перед "о" (aia айа, eien эйэн),  
 й - j / ji - перед "о" **не** после согласной (jód / jiod, majór),  
 й - ji - перед нейотированными гласными ауоэ - кроме иы (Seórckjiosen / Syorckjiosen Сёркйосен),  
-
-йи - jí (jï) / jyi (rajíspolcom / rajyispolcom, jíppi / jyippi, superjïppi / superjyippi),  
-йы - jy / jy (jyí / jyyi йыи),  
-ый - yi - в конце слова (crasnyi),  
-кий - cyi - в конце слова (cyi кий),  
-й - i - после гласных - кроме ий,ый,кий (moi мой, poimal поймал, zaíca / zayica заика),  
-й - j - иначе - в т.ч. ий,ый,кий (allilujá / allilujja, sinij, cyjca кийка, nyjca ныйка),  
-й[оауэ] - j[öäüê] / ji[oaue] (jöd / jiod, Majämi / Majiami, ejên / ejien эйэн),  
+йи - jí / jii (rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip),  
+йы - jy (jyí / jyyi йыи),  
+й - i - после гласных - кроме ий,ый,уй (moi мой, poimal поймал, zaíca / zaiica заика),  
+й - j - иначе - в т.ч. ий,ый,уй (allilujá / allilujja, sinij, crasnyj, duj),  
 
 
 ### Дополнительные примеры
