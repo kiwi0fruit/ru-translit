@@ -387,7 +387,7 @@ Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesche I rodilisé v odin dené, 22
 
 – Frodo, maléchic moi, – scazal cac-to raz Bilébo, – perebiralsya by ty co mne. Glyadishé, I dené rogzdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadczatju I tridczatju tremya, posle chego hobbit naconeç mogzet schitaté sebya vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadczatju I tridczatju tremya, posle chego hobbit naconecz mogzet schitaté sebya vzroslym.
 
 Proshlo jesche dvenadczaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoi dené rogzdenija, c etomu privycli, no lyubomu bylo jasno, chto nyneshnei osenju gotovitsya nechto neobychnoe. Bilébo ispolnyalosé 111 let – vozrast dlya hobbita veséma pochtennyj, da I chislo lyubopytnoje, nu a Frodo gotovilsya otmetité tridczatitréohletije – togze znamenatelénaja data – sovershennoletije po-hobbitscy.
 
