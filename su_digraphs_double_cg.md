@@ -389,9 +389,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstve
 
 Proshlo jesche dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoj dené rogzdenija, c etomu privycli, no lyubomu bylo jasno, chto nyneshnej osenju gotovitsya nechto neobychnoe. Bilébo ispolnyalosé 111 let – vozrast dlya hobbita veséma pochtennyj, da I chislo lyubopytnoje, nu a Frodo gotovilsya otmetité tridçatitréohletije – togze znamenatelénaja data – sovershennoletije po-hobbitsci.
 
-Imejetsya nescoléco ghýpothez proisòhogzdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsya volc I necotorye vidy shacalov.
+Imejetsya nescoléco ghypothez proisòhogzdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsya volc I necotorye vidy shacalov.
 
-V sugzdenijah uchéonyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polýphýletichescaja gruppa (proisòhodyaschaja ot nescolécih predcov), drugije pridergzivajutsya mnenija, chto vse sobaci proizoshli ot odnogo predca (monophýletichescaja theorija).
+V sugzdenijah uchéonyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polyiphyletichescaja gruppa (proisòhodyaschaja ot nescolécih predcov), drugije pridergzivajutsya mnenija, chto vse sobaci proizoshli ot odnogo predca (monophyletichescaja theorija).
 
 Alexandr Pushcin — Zimneje utro
 
