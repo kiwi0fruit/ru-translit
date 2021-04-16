@@ -359,7 +359,8 @@ Pod govor pjányh mugzichcov.
 
 ## Пример текста в новой версии
 
-*// щ - sch / shch, cч - sch / sçh (ssch). Вторые варианты нужны только при выходе за словарь известных слов. шч - shjch, ссч - ssçh (sssch).*
+*щ - sch / shch, cч - sch / sçh (ssch). Вторые варианты нужны только при выходе за словарь известных слов. шч - shjch, ссч - ssçh (sssch).*  
+*phy - всегда фи, fy - фы, cy,cky - всегда ки, cÿ (cyy) - кы, gy,ghy - всегда ги, gÿ (gyy) - гы.*
 
 Piony I vasiléci vséo jesche rastut na polyane vozle derevni Péony, schitajuschejsya bogatoj. V nej rodilsya izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moi I tvoi".
 
