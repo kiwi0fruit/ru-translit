@@ -357,110 +357,102 @@ Pod govor pjányh mugzichcov.
 // God napisaniá: 1841
 
 
-## Пример текста ASCII-only версии
+## Пример текста в новой версии
 
-Píony i vasiljcy vsø jescø rastut na poláne vozle derevný Pøny, schitajuscejsá bogatoi. V nei rodilsá izvestnyi píanist.
+Piony I vasiléci vséo jesçhe rastut na polyane vozle derevni Péony, schitajusçhejsya bogatoj. V nej rodilsya izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moi I tvoi".
 
-Pjanyi master po projectu sdelal mehanicescyi obj́ect s izj́anom. Jeslý brac ne obnarugitsá, to belyje bolidy boljshe ne smogut vyigryvati goncy.
+Pjanyj master po projectu sdelal meçhanichescij obòject s izòjanom. Jesli brac ne obnarugzitsya, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyùchité svoi oshibci.
 
-V pjese pro devushcu v zelønom platjyçe vse sadilisi na ladjy i plylý po recke. No tut iz lesa vyshel Dgørdgz Maximus, coni v paljto i rvanyh dginsah, cotoryi chto-to vyiscyval, i pricazal vsem mytjsá i gotoviti bulįon. Znacit snova pjøm do lysyh acvalangystov.
+V pjése pro devushcu v zeléonom platjyiçe vse sadilisé na ladjyi I plyli po rece. No tut iz lesa vyshel Dgéordgj Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obuiscival, I pricazal vsem mytésya I gotovité buljon. Znachit snova pjéom do lysyh aqvalangistov.
 
-Prepodobnyi Bajjes podcynul igraljnyje costý. Vypalo shesti, znacit jemu pridøtsá mazati j́od na ranu.
+Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu pridéotsya mazaté jod na ranu.
 
-Mær neboljshogo gorodishcy otcryl tabliçu exelá i vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoiti. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac ge pocupca aeroplana-ecranoløta. Jeslý tac pojdøt i daljshe, to búdgetu pridøtsá hudo.
+Maer neboléshogo gorodishci otcryl tabliçu exelya I vozmutilsya çenoj novogo excavatora. Agz exzema snova stala jego bespocoité. Oh ugz eta pocupca vechnogo dvigatelya v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac pojdéot I daléshe, to byudgetu pridéotsya hudo.
 
-V etom vide fraza ot A do Ja nacinajet vygládeti sovsem po-drugomu. Sejchas scøtca novaja, no pozge ona stanet staraja. Cernysh lúbit cogda jego ceshut jeju. Jogz colúcij i pohogz na nejø.
+V etom vide phraza ot A do Ja nachinajet vyglyadeté sovsem po-drugomu. Sejchas sçhéotca novaja, no pozgze ona stanet staraja. Chernysh lyubit cogda jego cheshut jeju. Jeogz colyuchij I pohogz na nejo.
 
-Sκhod mestnyh gitelei indijscoi derevný sicκhov reshal chto ge delati s otκhodamý companii "Caligula Gai Julij Czezari" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuscih nosil hoholoc na golove. On i nashøl vyhod iz situaçii.
+Sòhod mestnyh gzitelej indijscoj derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gaj Julij Çaezaré" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujusçhih nosil hoholoc na golove. On I nashéol vyhod iz situatzii.
 
-"Cto s mechom c nam pridøt, tot ot mecha i..." - ne smog dogovoriti starshij mehanic Vasilij.
+"Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
-----
+Lyubimçem Bilébo byl junyj Frodo Baeggins. Cogda Bilébo stucnulo devyanosto devyaté, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom I predlogzil pereselitésya v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
-Lúbimçem Biljbo byl junyi Frodo Bæggyns. Cogda Biljbo stucnulo devánosto deváti, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom i predlogil pereselitjsá v Zasumcy. Tut ugz vse nadegzdy Dericuli-Bæggynsov, davno s vogzdelenijem posmatrivavshih na usadjbu, ruhnulý oconchateljno.
+Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesçhe I rodilisé v odin dené, 22 sentyabrya.
 
-Sluchaju bylo ugodno, chtoby Biljbo s Frodo jescø i rodilisi v odin deni, 22 sentábrá.
+– Frodo, maléchic moj, – scazal cac-to raz Bilébo, – perebiralsya by ty co mne. Glyadishé, I dené rogzdenija vmeste otmechali by.
 
-– Frodo, maljcic moi, – scazal cac-to raz Biljbo, – perebiralsá by ty co mne. Gládishi, i deni rogzdenija vmeste otmechalý by.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadçatju I tridçatju tremya, posle chego hobbit naconeç mogzet schitaté sebya vzroslym.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodøgi v bezotvetstvennom vozraste megzdu dvadçatju i tridçatju tremá, posle cego hobbit naconeç moget schitati sebá vzroslym.
+Proshlo jesçhe dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoj dené rogzdenija, c etomu privycli, no lyubomu bylo jasno, chto nyneshnej osenju gotovitsya nechto neobychnoe. Bilébo ispolnyalosé 111 let – vozrast dlya hobbita veséma pochtennyj, da I chislo lyubopytnoje, nu a Frodo gotovilsya otmetité tridçatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
 
-Proshlo jescø dvenadçati let. V Zasumcah cagzdyi god veselo otmechalý dvojnoi deni rogzdenija, c etomu privyclý, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto néobychnoje. Biljbo ispolnálosi 111 let – vozrast dlá hobbita vesjma pochtennyi, da i cislo lúbopytnoje, nu a Frodo gotovilsá otmetiti tridçatitrøhletije – toge znamenateljnaja data – sovershennoletije po-hobbitscy.
+Imejetsya nescoléco ghýpothez proisòhogzdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsya volc I necotorye vidy shacalov.
 
-----
+V sugzdenijah uchéonyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polýphýletichescaja gruppa (proisòhodyasçhaja ot nescolécih predcov), drugié pridergzivajutsya mnenija, chto vse sobaci proizoshli ot odnogo predca (monophýletichescaja theorija).
 
-Imejetsá nescoljco gypotez proisκhogzdenija sobacy, naiboleje verojatnymý jejø predcamý schitajutsá volc i necotoryje vidy shacalov.
+Alexandr Pushcin — Zimneje utro
 
-V sugzdenijah ucønyh o predcah domashnei sobacy prisutstvujut dve tochcy zrenija. Odný schitajut, chto sobacy - polifileticescaja gruppa (proisκhodásciaja ot nescoljcyh predcov), drugyje pridergivajutsá mnenija, chto vse sobacy proizoshlý ot odnogo predca (monofileticescaja téorija).
+Moroz I solnçe; dené chudesnyj!  
+Jesçhe ty dremleshé, drug prelestnyj —  
+Pora, crasaviça, prosnisé:  
+Otcroj somcnuty negoj vzory  
+Navstrechu severnoj Avrory,  
+Zvezdoju severa javisé!  
 
-----
+Vechor, ty pomnishé, vjuga zlilasé,  
+Na mutnom nebe mgla nosilasé;  
+Luna, cac blednoje pyatno,  
+Scvozé tuchi mrachnyje gzeltela,  
+I ty pechalénaja sidela —  
+A nynche… poglyadi v ocno:  
 
-Alexandr Pushcyn — Zimneje utro
+Pod golubymi nebesami  
+Velicolepnymi covrami,  
+Blestya na solnçe, sneg legzit;  
+Prozrachnyj les odin chernejet,  
+I jelé scvozé inej zelenejet,  
+I rechca podo lédom blestit.  
 
-Moroz i solnçe; deni chudesnyi!  
-Jescø ty dremleshi, drug prelestnyi —  
-Pora, crasaviça, prosnisi:  
-Otcroi somcnuty negoi vzory  
-Navstrechu severnoi Avrory,  
-Zvezdoju severa javisi!  
+Vsya comnata jantarnym blescom  
+Ozarena. Veséolym trescom  
+Tresçhit zatoplennaja peché.  
+Prijatno dumaté u legzanci.  
+No znajeshé: ne veleté li v sanci  
+Cobylcu buruju zapreché?  
 
-Vechor, ty pomnishi, vjuga zlilasi,  
-Na mutnom nebe mgla nosilasi;  
-Luna, cac blednoje pátno,  
-Scvozi tuciy mrachnyje geltela,  
-I ty pechaljnaja sidela —  
-A nynce… pogládý v ocno:  
-
-Pod golubymý nebesamý  
-Velicolepnymý covramý,  
-Blestá na solnçe, sneg legit;  
-Prozrachnyi les odin cernejet,  
-I jeli scvozi inei zelenejet,  
-I rechca podo ljdom blestit.  
-
-Vsá comnata jantarnym blescom  
-Ozarena. Vesølym trescom  
-Trescit zatoplennaja peci.  
-Prijatno dumati u legzancy.  
-No znajeshi: ne veleti lý v sancy  
-Cobylcu buruju zapreci?  
-
-Scoljzá po utrennemu snegu,  
-Drug milyi, predadimsá begu  
-Netoroplivogo coná  
-I navestim polá pustyje,  
-Lesa, nedavno stoli gustyje,  
-I bereg, milyi dlá mená.  
-
-----
+Scolézya po utrennemu snegu,  
+Drug milyj, predadimsya begu  
+Netoroplivogo conya  
+I navestim polya pustyje,  
+Lesa, nedavno stolé gustyje,  
+I bereg, milyj dlya menya.  
 
 Lermontov M.Ju. — Rodina
 
-Lúblú otciznu ja, no strannoju lúbovju!  
-Ne pobedit jejø rassudoc moi.  
-Ný slava, cuplennaja crovju,  
-Ný polnyi gordogo doverija pocoi,  
-Ný tømnoi stariny zavetnyje predanja  
-Ne shevelát vo mne otradnogo mechtanja.  
-No ja lúblú — za chto, ne znaju sam —  
-Jejø stepei holodnoje molchanje,  
-Jejø lesov bezbregznyh colyhanje,  
-Razlivy rec jejø, podobnyje morám;  
-Prosølochnym putøm lúblú scacati v teleghe  
-I, vzorom medlennym pronzaja nociy teni,  
-Vstrechati po storonam, vzdyhaja o nochleghe,  
-Drogzascije ogný pechaljnyh dereveni;  
-Lúblú dymoc spalønnoi gznivy,  
-V stepý nochujuscij oboz  
-I na holme sredi gøltoi nivy  
-Cetu belejuscih berøz.  
-S otradoi, mnogym neznacomoi,  
+Lyublyu otchiznu ja, no strannoju lyubovju!  
+Ne pobedit jejo rassudoc moj.  
+Ni slava, cuplennaja crovju,  
+Ni polnyj gordogo doverija pocoj,  
+Ni téomnoj stariny zavetnyje predanja  
+Ne shevelyat vo mne otradnogo mechtanja.  
+No ja lyublyu — za chto, ne znaju sam —  
+Jejo stepej holodnoje molchanjé,  
+Jejo lesov bezbregznyh colyhanjé,  
+Razlivy rec jejo, podobnyje moryam;  
+Proséolochnym putéom lyublyu scacaté v telege  
+I, vzorom medlennym pronzaja nochi tené,  
+Vstrechaté po storonam, vzdyhaja o nochlege,  
+Drogzasçhié ogni pechalényh derevené;  
+Lyublyu dymoc spaléonnoj gznivy,  
+V stepi nochujusçhij oboz  
+I na holme sredé gzéoltoj nivy  
+Chetu belejusçhih beréoz.  
+S otradoj, mnogim neznacomoj,  
 Ja vigzu polnoje gumno,  
-Izbu, pocrytuju solomoi,  
-S reznymý stavnámý ocno;  
-I v prazdnic, vecerom rosistym,  
-Smotreti do polnociy gotov  
-Na pláscu s topanjem i svistom  
-Pod govor pjanyh mugichcov.  
+Izbu, pocrytuju solomoj,  
+S reznymi stavnyami ocno;  
+I v prazdnic, vecherom rosistym,  
+Smotreté do polnochi gotov  
+Na plyascu s topanjém I svistom  
+Pod govor pjanyh mugzichcov.  
 
 // God napisanija: 1841
