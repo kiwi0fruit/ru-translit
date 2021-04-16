@@ -363,7 +363,7 @@ Pod govor pjányh mugzichcov.
 *phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy - фы,ты,ры,хы.*  
 *cy,cky - всегда ки, cÿ (cyy) - кы, gy,ghy - всегда ги, gÿ (gyy) - гы.*  
 *В конце слова oj,aj,ej превращается в oi, ai, ei. А oi,ai,ei - в oí,aí,eí.*  
-*Буква Cc называется Це и в аббревиатуры идёт как Ç. И обозначает она там начальнй __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются K. Carina Petrova => K.Petrova. Cezaré Romanov => Ç.Romanov.*  
+*Буква Cc называется Це и в аббревиатуры идёт как Ç. И обозначает она там начальнй __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются K. Carina Petrova => K.Petrova. Cezaré Romanov => Ç.Romanov. Освободившаяся буква C в сокращениях и аббервиатурах читается как Че - сокращение от Ch. Che Gevara => C.Gevara.*  
 
 Piony I vasilécy vséo jesche rastut na polyane vozle derevni Péony, schitajuschejsya bogatoi. V nei rodilsya izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
 
