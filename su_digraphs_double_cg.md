@@ -363,15 +363,16 @@ Pod govor pjányh mugzichcov.
 *phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy - фы,ты,ры,хы.*  
 *cy,cky - всегда ки, cÿ (cyy) - кы, gy,ghy - всегда ги, gÿ (gyy) - гы.*  
 *В конце слова oj,aj,ej превращается в oi, ai, ei. А oi,ai,ei - в oí,aí,eí.*  
+
 Piony I vasilécy vséo jesche rastut na polyane vozle derevni Péony, schitajuschejsya bogatoi. V nei rodilsya izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
 
 Pjanyj master po projectu sdelal meçhanichescyj obòject s izòjanom. Jesli brac ne obnarugzitsya, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyùchité svoí oshibcy.
 
-V pjese pro devushcu v zeléonom platjyice vse sadilisé na ladjyi I plyli po recke. No tut iz lesa vyshel Dgéordgj Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésya I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjyice vse sadilisé na ladjyi I plyli po recke. No tut iz lesa vyshel Dgèordgj Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésya I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsya mazaté jod na ranu.
 
-Maer neboléshogo gorodishcy otcryl tabliczu exelya I vozmutilsya cenoi novogo excavatora. Agz exzema snova stala jego bespocoité. Oh ugz eta pocupca vechnogo dvigatelya v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac pojdéot I daléshe, to byudgetu pridéotsya hudo.
+Maer neboléshogo gorodishcy otcryl tabliczu exelya I vozmutilsya cenoi novogo excavatora. Agz exzema snova stala jego bespocoité. Oh ugz eta pocupca vechnogo dvigatelya v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac pojdéot I daléshe, to byudgètu pridéotsya hudo.
 
 V etom vide phraza ot A do Ja nachinajet vyglyadeté sovsem po-drugomu. Sejchas schéotca novaja, no pozgze ona stanet staraja. Chernysh lyubit cogda jego cheshut jeju. Jeogz colyuchij I pohogz na nejo.
 
@@ -460,4 +461,3 @@ Na plyascu s topanjem I svistom
 Pod govor pjanyh mugzichcov.  
 
 // God napisanija: 1841
-
