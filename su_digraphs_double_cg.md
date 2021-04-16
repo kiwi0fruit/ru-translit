@@ -363,15 +363,15 @@ Pod govor pjányh mugzichcov.
 *phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy - фы,ты,ры,хы.*  
 *cy,cky - всегда ки, cÿ (cyy) - кы, gy,ghy - всегда ги, gÿ (gyy) - гы.*
 
-Piony I vasiléci vséo jesche rastut na polyane vozle derevni Péony, schitajuschejsya bogatoj. V nej rodilsya izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moi I tvoi".
+Piony I vasilécy vséo jesche rastut na polyane vozle derevni Péony, schitajuschejsya bogatoj. V nej rodilsya izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moi I tvoi".
 
-Pjanyj master po projectu sdelal meçhanichescij obòject s izòjanom. Jesli brac ne obnarugzitsya, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyùchité svoi oshibci.
+Pjanyj master po projectu sdelal meçhanichescyj obòject s izòjanom. Jesli brac ne obnarugzitsya, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyùchité svoi oshibcy.
 
-V pjese pro devushcu v zeléonom platjyiçe vse sadilisé na ladjyi I plyli po rece. No tut iz lesa vyshel Dgéordgj Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obìscival, I pricazal vsem mytésya I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjyice vse sadilisé na ladjyi I plyli po recke. No tut iz lesa vyshel Dgéordgj Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésya I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
-Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu pridéotsya mazaté jod na ranu.
+Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsya mazaté jod na ranu.
 
-Maer neboléshogo gorodishci otcryl tabliçu exelya I vozmutilsya çenoj novogo excavatora. Agz exzema snova stala jego bespocoité. Oh ugz eta pocupca vechnogo dvigatelya v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac pojdéot I daléshe, to byudgetu pridéotsya hudo.
+Maer neboléshogo gorodishcy otcryl tabliczu exelya I vozmutilsya cenoj novogo excavatora. Agz exzema snova stala jego bespocoité. Oh ugz eta pocupca vechnogo dvigatelya v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac pojdéot I daléshe, to byudgetu pridéotsya hudo.
 
 V etom vide phraza ot A do Ja nachinajet vyglyadeté sovsem po-drugomu. Sejchas schéotca novaja, no pozgze ona stanet staraja. Chernysh lyubit cogda jego cheshut jeju. Jeogz colyuchij I pohogz na nejo.
 
@@ -379,25 +379,25 @@ Sòhod mestnyh gzitelej indijscoj derevni sickhov reshal chto gze delaté s otò
 
 "Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
-Lyubimçem Bilébo byl junyj Frodo Baeggins. Cogda Bilébo stucnulo devyanosto devyaté, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom I predlogzil pereselitésya v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdelenijem posmatrivavshih na usadébu, ruhnuli oconchateléno.
+Lyubimcem Bilébo byl junyj Frodo Baeggins. Cogda Bilébo stucnulo devyanosto devyaté, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom I predlogzil pereselitésya v Zasumcy. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdelenijem posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
 Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesche I rodilisé v odin dené, 22 sentyabrya.
 
 – Frodo, maléchic moj, – scazal cac-to raz Bilébo, – perebiralsya by ty co mne. Glyadishé, I dené rogzdenija vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadçatju I tridçatju tremya, posle chego hobbit naconeç mogzet schitaté sebya vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadczatju I tridczatju tremya, posle chego hobbit naconeç mogzet schitaté sebya vzroslym.
 
-Proshlo jesche dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoj dené rogzdenija, c etomu privycli, no lyubomu bylo jasno, chto nyneshnej osenju gotovitsya nechto neobychnoe. Bilébo ispolnyalosé 111 let – vozrast dlya hobbita veséma pochtennyj, da I chislo lyubopytnoje, nu a Frodo gotovilsya otmetité tridçatitréohletije – togze znamenatelénaja data – sovershennoletije po-hobbitsci.
+Proshlo jesche dvenadczaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoj dené rogzdenija, c etomu privycli, no lyubomu bylo jasno, chto nyneshnej osenju gotovitsya nechto neobychnoe. Bilébo ispolnyalosé 111 let – vozrast dlya hobbita veséma pochtennyj, da I chislo lyubopytnoje, nu a Frodo gotovilsya otmetité tridczatitréohletije – togze znamenatelénaja data – sovershennoletije po-hobbitscy.
 
-Imejetsya nescoléco ghypothez proisòhogzdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsya volc I necotorye vidy shacalov.
+Imejetsya nescoléco ghypothez proisòhogzdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsya volc I necotorye vidy shacalov.
 
-V sugzdenijah uchéonyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polyiphyletichescaja gruppa (proisòhodyaschaja ot nescolécih predcov), drugije pridergzivajutsya mnenija, chto vse sobaci proizoshli ot odnogo predca (monophyletichescaja theorija).
+V sugzdenijah uchéonyh o predcah domashnej sobacy prisutstvujut dve tochcy zrenija. Odni schitajut, chto sobacy - polyiphyletichescaja gruppa (proisòhodyaschaja ot nescolécyh predcov), drugije pridergzivajutsya mnenija, chto vse sobacy proizoshli ot odnogo predca (monophyletichescaja theorija).
 
-Alexandr Pushcin — Zimneje utro
+Alexandr Pushcyn — Zimneje utro
 
-Moroz I solnçe; dené chudesnyj!  
+Moroz I solnce; dené chudesnyj!  
 Jesche ty dremleshé, drug prelestnyj —  
-Pora, crasaviça, prosnisé:  
+Pora, crasavicza, prosnisé:  
 Otcroj somcnuty negoj vzory  
 Navstrechu severnoj Avrory,  
 Zvezdoju severa javisé!  
@@ -411,7 +411,7 @@ A nynche… poglyadi v ocno:
 
 Pod golubymi nebesami  
 Velicolepnymi covrami,  
-Blestya na solnçe, sneg legzit;  
+Blestya na solnce, sneg legzit;  
 Prozrachnyj les odin chernejet,  
 I jelé scvozé inej zelenejet,  
 I rechca podo lédom blestit.  
@@ -419,8 +419,8 @@ I rechca podo lédom blestit.
 Vsya comnata jantarnym blescom  
 Ozarena. Veséolym trescom  
 Treschit zatoplennaja peché.  
-Prijatno dumaté u legzanci.  
-No znajeshé: ne veleté li v sanci  
+Prijatno dumaté u legzancy.  
+No znajeshé: ne veleté li v sancy  
 Cobylcu buruju zapreché?  
 
 Scolézya po utrennemu snegu,  
@@ -460,4 +460,3 @@ Na plyascu s topanjem I svistom
 Pod govor pjanyh mugzichcov.  
 
 // God napisanija: 1841
-
