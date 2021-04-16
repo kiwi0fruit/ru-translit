@@ -367,7 +367,7 @@ Piony I vasiléci vséo jesche rastut na polyane vozle derevni Péony, schitajus
 
 Pjanyj master po projectu sdelal meçhanichescij obòject s izòjanom. Jesli brac ne obnarugzitsya, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyùchité svoi oshibci.
 
-V pjese pro devushcu v zeléonom platjyiçe vse sadilisé na ladjyi I plyli po rece. No tut iz lesa vyshel Dgéordgj Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obuiscival, I pricazal vsem mytésya I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjyiçe vse sadilisé na ladjyi I plyli po rece. No tut iz lesa vyshel Dgéordgj Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obìscival, I pricazal vsem mytésya I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu pridéotsya mazaté jod na ranu.
 
@@ -460,3 +460,4 @@ Na plyascu s topanjem I svistom
 Pod govor pjanyh mugzichcov.  
 
 // God napisanija: 1841
+
