@@ -363,7 +363,7 @@ Piony I vasiléci vséo jesçhe rastut na polyane vozle derevni Péony, schitaju
 
 Pjanyj master po projectu sdelal meçhanichescij obòject s izòjanom. Jesli brac ne obnarugzitsya, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyùchité svoi oshibci.
 
-V pjése pro devushcu v zeléonom platjyiçe vse sadilisé na ladjyi I plyli po rece. No tut iz lesa vyshel Dgéordgj Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obuiscival, I pricazal vsem mytésya I gotovité buljon. Znachit snova pjéom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjyiçe vse sadilisé na ladjyi I plyli po rece. No tut iz lesa vyshel Dgéordgj Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obuiscival, I pricazal vsem mytésya I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu pridéotsya mazaté jod na ranu.
 
@@ -375,7 +375,7 @@ Sòhod mestnyh gzitelej indijscoj derevni sickhov reshal chto gze delaté s otò
 
 "Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
-Lyubimçem Bilébo byl junyj Frodo Baeggins. Cogda Bilébo stucnulo devyanosto devyaté, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom I predlogzil pereselitésya v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
+Lyubimçem Bilébo byl junyj Frodo Baeggins. Cogda Bilébo stucnulo devyanosto devyaté, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom I predlogzil pereselitésya v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdelenijem posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
 Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesçhe I rodilisé v odin dené, 22 sentyabrya.
 
@@ -383,11 +383,11 @@ Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesçhe I rodilisé v odin dené, 2
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadçatju I tridçatju tremya, posle chego hobbit naconeç mogzet schitaté sebya vzroslym.
 
-Proshlo jesçhe dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoj dené rogzdenija, c etomu privycli, no lyubomu bylo jasno, chto nyneshnej osenju gotovitsya nechto neobychnoe. Bilébo ispolnyalosé 111 let – vozrast dlya hobbita veséma pochtennyj, da I chislo lyubopytnoje, nu a Frodo gotovilsya otmetité tridçatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
+Proshlo jesçhe dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoj dené rogzdenija, c etomu privycli, no lyubomu bylo jasno, chto nyneshnej osenju gotovitsya nechto neobychnoe. Bilébo ispolnyalosé 111 let – vozrast dlya hobbita veséma pochtennyj, da I chislo lyubopytnoje, nu a Frodo gotovilsya otmetité tridçatitréohletije – togze znamenatelénaja data – sovershennoletije po-hobbitsci.
 
 Imejetsya nescoléco ghýpothez proisòhogzdenija sobaci, naiboleje verojatnymi jejo predcami schitajutsya volc I necotorye vidy shacalov.
 
-V sugzdenijah uchéonyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polýphýletichescaja gruppa (proisòhodyasçhaja ot nescolécih predcov), drugié pridergzivajutsya mnenija, chto vse sobaci proizoshli ot odnogo predca (monophýletichescaja theorija).
+V sugzdenijah uchéonyh o predcah domashnej sobaci prisutstvujut dve tochci zrenija. Odni schitajut, chto sobaci - polýphýletichescaja gruppa (proisòhodyasçhaja ot nescolécih predcov), drugije pridergzivajutsya mnenija, chto vse sobaci proizoshli ot odnogo predca (monophýletichescaja theorija).
 
 Alexandr Pushcin — Zimneje utro
 
@@ -435,13 +435,13 @@ Ni polnyj gordogo doverija pocoj,
 Ni téomnoj stariny zavetnyje predanja  
 Ne shevelyat vo mne otradnogo mechtanja.  
 No ja lyublyu — za chto, ne znaju sam —  
-Jejo stepej holodnoje molchanjé,  
-Jejo lesov bezbregznyh colyhanjé,  
+Jejo stepej holodnoje molchanje,  
+Jejo lesov bezbregznyh colyhanje,  
 Razlivy rec jejo, podobnyje moryam;  
 Proséolochnym putéom lyublyu scacaté v telege  
 I, vzorom medlennym pronzaja nochi tené,  
 Vstrechaté po storonam, vzdyhaja o nochlege,  
-Drogzasçhié ogni pechalényh derevené;  
+Drogzasçhije ogni pechalényh derevené;  
 Lyublyu dymoc spaléonnoj gznivy,  
 V stepi nochujusçhij oboz  
 I na holme sredé gzéoltoj nivy  
@@ -452,7 +452,7 @@ Izbu, pocrytuju solomoj,
 S reznymi stavnyami ocno;  
 I v prazdnic, vecherom rosistym,  
 Smotreté do polnochi gotov  
-Na plyascu s topanjém I svistom  
+Na plyascu s topanjem I svistom  
 Pod govor pjanyh mugzichcov.  
 
 // God napisanija: 1841
