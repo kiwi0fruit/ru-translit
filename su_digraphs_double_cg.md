@@ -56,7 +56,7 @@ cч - sch (sçh / ssch),
 *(вторые варианты нужны только при выходе за словарь известных слов),*  
 шч - shjch (vesnushjchat),  
 шьч - запрещен,  
-ссч - ssçh (sssch),  
+ссч - ssçh / sssch,  
 у - w[èìòàùỳ] / wu - перед гласными, когда этимология требует w (Wòtson / Wuotson Уотсон, Wèst / Wuest Уэст),  
 в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuàtt / Wuuatt Вуатт),  
 *(то есть, после j и w буква ò становится полногласной, после других согласных - это твёрдый знак),*  
@@ -84,7 +84,7 @@ phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy -
 ё - éo / jo - после й,ь и "и" в окончаниях (mumiéo / mumijo, pjéom / pjjom, jéogz / jjogz йёж, mumiéò / mumijeo, pjéòm / pjjeom пьеом, jéògz / jjeogz йеож),  
 ё - jo - после "е" (jejo, nejo),  
 ё - jeó / jo - иначе (jeógz / jogz, podjeóm / podjom),  
-ещё — ещё$ / (j)esçhe$ / (j)eshche$ - исключение для ещё на конце слова (jesçhe / jeshche ещё, jesçhíe / jeshchiie ещьэ - звучит как "ще"),  
+ещё — ещё$ / (j)esche$ - исключение для ещё на конце слова (jesche ещё, jeshchíe / jeshchiie ещьэ - звучит как "ще"),  
 ю - ú / yu - после согласных (lúbimyj / lyubimyj),  
 ю - ú / ju - после й,ь и "и" в окончаниях (Juliú / Juliju, pjú / pjju),  
 ю - ju - иначе (jula),  
