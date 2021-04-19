@@ -33,7 +33,7 @@
 ц - ç / cz,  
 ч - ch,  
 ш - sh,  
-щ - sçh / shch,  
+
 
 г - gh - перед зьъ,ы/ì/ui,э/è/ue (но не ы/y,э/æ/ae) и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjyordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
@@ -51,11 +51,16 @@
 х - òh / xh - после согласных (sòhod / sxhod),  
 х - òçh / kh - после "с/s" когда этимология требует ch (rasòçhimera / raskhimera расхимера),  
 ч - c - перед ч (capricchio),  
+щ - sch (shch),  
+cч - sch (sçh / ssch),  
+*(вторые варианты нужны только при выходе за словарь известных слов),*  
 шч - shjch (vesnushjchat),  
 шьч - запрещен,  
+ссч - ssçh (sssch),  
 у - w[èìòàùỳ] / wu - перед гласными, когда этимология требует w (Wòtson / Wuotson Уотсон, Wèst / Wuest Уэст),  
 в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuàtt / Wuuatt Вуатт),  
 *(то есть, после j и w буква ò становится полногласной, после других согласных - это твёрдый знак),*  
+phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy - фы,ты,ры,хы.  
 
 к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Miçhaèlé),  
 к - k - когда этимология требует k (Keniá, kefir, koboléd, koala, karate),  
