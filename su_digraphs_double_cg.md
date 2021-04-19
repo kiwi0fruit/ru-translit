@@ -290,7 +290,7 @@ vs. / vs'.
 
 ## Пример текста
 
-Piony I vasiléci vseó jesçhe rastut na poláne vozle derevni Peóny, schitajusçheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
+Piony I vasiléci vseó jesche rastut na poláne vozle derevni Peóny, schitajuscheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
 
 Pjányj master po projectu sdelal meçhanichescij object s izjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
 
@@ -300,30 +300,30 @@ Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu prid
 
 Mær neboléshogo gorodishci otcryl tabliçu exelá I vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoleóta. Jesli tac poideót I daléshe, to búdgetu prideótsá hudo.
 
-V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas sçheótca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeógz colúchij I pohogz na nejo.
+V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas scheótca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeógz colúchij I pohogz na nejo.
 
-Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Çaezaré" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujusçhih nosil hoholoc na golove. On I nasheól vyhod iz situatzii.
+Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Çaezaré" (lat. ..Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On I nasheól vyhod iz situatzii.
 
 "Cto s mechom c nam prideót, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
 Lúbimçem Bilébo byl junyj Frodo Bæggins. Cogda Bilébo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumci. Tut ugz vse nadegzdy Dericulé-Bægginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
-Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesçhe I rodilisé v odin dené, 22 sentábrá.
+Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesche I rodilisé v odin dené, 22 sentábrá.
 
 – Frodo, maléchic moi, – scazal cac-to raz Bilébo, – perebiralsá by ty co mne. Gládishé, I dené rogzdeniá vmeste otmechali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeógzé v bezotvetstvennom vozraste megzdu dvadçatjú I tridçatjú tremá, posle chego hobbit naconeç mogzet schitaté sebá vzroslym.
 
-Proshlo jesçhe dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenjú gotovitsá nechto neobychnoe. Bilébo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitreóhletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
+Proshlo jesche dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenjú gotovitsá nechto neobychnoe. Bilébo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitreóhletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
 
-Imejetsá nescoléco ghýpothez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
+Imejetsá nescoléco ghypothez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
 
-V sugzdenijah ucheónyh o predcah domashnei sobaci prisutstvujut dve tochci zreniá. Odni schitajut, chto sobaci - polýphýletichescaja gruppa (proísòhodásçhaja ot nescolécih predcov), drugié pridergzivajutsá mneniá, chto vse sobaci proízoshli ot odnogo predca (monophýletichescaja theoriá).
+V sugzdenijah ucheónyh o predcah domashnei sobaci prisutstvujut dve tochci zreniá. Odni schitajut, chto sobaci - polýphyletichescaja gruppa (proísòhodáschaja ot nescolécih predcov), drugié pridergzivajutsá mneniá, chto vse sobaci proízoshli ot odnogo predca (monophyletichescaja theoriá).
 
 Alexandr Pushcin — Zimneje utro
 
 Moroz I solnçe; dené chudesnyj!  
-Jesçhe ty dremleshé, drug prelestnyj —  
+Jesche ty dremleshé, drug prelestnyj —  
 Pora, crasaviça, prosnisé:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Avrory,  
@@ -345,7 +345,7 @@ I rechca podo lédom blestit.
 
 Vsá comnata jantarnym blescom  
 Ozarena. Veseólym trescom  
-Tresçhit zatoplennaja peché.  
+Treschit zatoplennaja peché.  
 Prijatno dumaté u legzanci.  
 No znajeshé: ne veleté li v sanci  
 Cobylcu buruju zapreché?  
@@ -372,11 +372,11 @@ Razlivy rec jejo, podobnyje morám;
 Proseólochnym puteóm lúblú scacaté v telege  
 I, vzorom medlennym pronzaja nochi tené,  
 Vstrechaté po storonam, vzdyhaja o nochlege,  
-Drogzasçhié ogni pechalényh derevené;  
+Drogzaschié ogni pechalényh derevené;  
 Lúblú dymoc spaleónnoi gznivy,  
-V stepi nochujusçhij oboz  
+V stepi nochujuschij oboz  
 I na holme sredé gzeóltoi nivy  
-Chetu belejusçhih bereóz.  
+Chetu belejuschih bereóz.  
 S otradoi, mnogim neznacomoi,  
 Ja vigzu polnoje gumno,  
 Izbu, pocrytuju solomoi,  
