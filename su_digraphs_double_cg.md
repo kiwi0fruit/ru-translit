@@ -292,6 +292,28 @@ Watson'овский / 'Watson'ovscij
 vs. / vs'.  
 
 
+### Требование обратимости латиниц друг в друга - излишне
+
+Требование обратимости латиниц друг в друга - слишком жесткое (диакритической и АСКИ версий). Словарь и люди знают, что аски версия не обязана дублировать диакритическую. Она лишь должна дублировать кириллицу. Так что у некоторых слов в АСКИ есть несколько возможных написаний с диакритикой, но лишь одно каноническое. Например, АСКИ daljshe становится daléshe, но АСКИ scoljzya становится scoljzá.
+
+Scoljzá - sclizscyj (более распространенный вариант перешел в "И", склезкий тоже был, но редок)  
+Biljbo - eng. Bilbo'  
+
+(в конце - всегда é)  
+igralényje, oconchateléno, znamenatelénaja, mytésá, pereselitésá (на стыке словообразования - é)  
+veséma - vesé (на стыке словообразования - é)  
+vasilécy - vasiléoc  
+boléshe - boleje  
+paléto - fr. paletot'  
+neboléshogo - boleje  
+daléshe - daleco  
+usadébu - priusadebnyj  
+maléchic - maleç  
+nescoléco - niscolechcy  
+pechalénaja, pechalényh - opechalennyj  
+lédom - ledovyj  
+
+
 ## Пример текста
 
 Piony I vasiléci vséo jesche rastut na poláne vozle derevni Péony, schitajuscheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
@@ -391,27 +413,6 @@ Na pláscu s topanjem I svistom
 Pod govor pjanyh mugzichcov.  
 
 // God napisaniá: 1841
-
-----
-
-Требование обратимости латиниц друг в друга - слишком жесткое. Словарь и люди знают, что аски версия не обязана дублировать диакритическую. Она лишь должна дублировать кириллицу. Так что у некоторых слов в АСКИ есть несколько возможных написаний с диакритикой, но лишь одно каноническое. Например, АСКИ daljshe становится daléshe, но АСКИ scoljzya становится scoljzá.
-
-Scoljzá - sclizscyj (более распространенный вариант перешел в "И", склезкий тоже был, но редок)  
-Biljbo - eng. Bilbo'  
-
-(в конце - всегда é)  
-igralényje, oconchateléno, znamenatelénaja, mytésá, pereselitésá (на стыке словообразования - é)  
-veséma - vesé (на стыке словообразования - é)  
-vasilécy - vasiléoc  
-boléshe - boleje  
-paléto - fr. paletot'  
-neboléshogo - boleje  
-daléshe - daleco  
-usadébu - priusadebnyj  
-maléchic - maleç  
-nescoléco - niscolechcy  
-pechalénaja, pechalényh - opechalennyj  
-lédom - ledovyj  
 
 
 ## Пример текста в новой версии
