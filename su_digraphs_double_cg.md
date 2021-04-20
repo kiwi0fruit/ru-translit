@@ -9,7 +9,7 @@
 
 *После слэша дано написание в ASCII-only версии. Требования этимологии распространяются только на основу слова.*
 
-Новые буквы: áàóòýÿúùéèí ï ìçćśšǧ (18 - ÁÀÓÒÝŸÚÙÉÈÍ Ï ÌÇĆŚŠǦ).
+Новые буквы: äáàóòýÿúùéèí ï ìçćśšǧ (19 - ÄÁÀÓÒÝŸÚÙÉÈÍ Ï ÌÇĆŚŠǦ).
 
 а - a,  
 о - o,  
@@ -35,7 +35,7 @@
 ш - sh,  
 
 
-г - gh - перед зьъ,ы/ì/ui,э/è/ue (но не ы/y,э/æ/ae) и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
+г - gh - перед зьъ,ы/ì/y,э/è/ae (но не ы/y/y,э/ae/ae) и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjyordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
 дж - jae,jÿ,j[èìòàùỳh] / jae,jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jòker, ÿjÿd / yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
@@ -58,7 +58,7 @@ cч - sch (sçh / ssch),
 шьч - запрещен,  
 ссч - ssçh / sssch,  
 у - w[èìòàùỳ] / wu - перед гласными, когда этимология требует w (Wòtson / Wuotson Уотсон, Wèst / Wuest Уэст),  
-в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuàtt / Wuuatt Вуатт),  
+в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuätt / Wuuatt Вуатт),  
 *(то есть, после j и w буква ò становится полногласной, после других согласных - это твёрдый знак),*  
 phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy - фы,ты,ры,хы.  
 
@@ -78,20 +78,22 @@ phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy -
 *Примеры:* latiniça, acçent, jaiço, zajaç, otçy, Çiçeron, çýan / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çeós / Czyos Цёс.  
 
 е - e - после согласных (leto),  
-е - é / je - после й,ь и "и" в окончаниях (sinié / sinije, Bajés / Bajjes, pjésa / pjjesa),  
-е - je - иначе (Jevropa, podjezd),  
+е - é / je - после й, после "и" в окончаниях (sinié / sinije, Bajés / Bajjes),  
+е - je - иначе (Jevropa, podòjezd / podjiezd, pjesa),  
 ё - yo / yo - после согласных, где этимология требует именно yo,  
-ё - eó / yo - после согласных (meód / myod),  
-ё - éo / jo - после й,ь и "и" в окончаниях (mumiéo / mumijo, pjéom / pjjom, jéogz / jjogz йёж, mumiéò / mumijeo, pjéòm / pjjeom пьеом, jéògz / jjeogz йеож),  
+ё - éo / yo - после согласных (méod / myod, geograph географ),  
+ё - éo / jeo - после й, после "и" в окончаниях (mumiéo / mumijeo, mumiéò / mumijeeo, jéogz / jjeogz йёж, jéògz / jjeeogz йеож),  
 ё - jo - после "е" (jejo, nejo),  
-ё - jeó / jo - иначе (jeógz / jogz, podjeóm / podjom),  
+ё - jeo - иначе (jeogz, podòjeom / podjieom, pjeom, pjeòm / pjeeom пьеом),  
 ещё — ещё$ / (j)esche$ - исключение для ещё на конце слова (jesche ещё, jeshchíe / jeshchiie ещьэ - звучит как "ще"),  
+ю - yu / yu - после согласных, где этимология требует именно yu,  
 ю - ú / yu - после согласных (lúbimyj / lyubimyj),  
-ю - ú / ju - после й,ь и "и" в окончаниях (Juliú / Juliju, pjú / pjju),  
-ю - ju - иначе (jula),  
+ю - ú / ju - после й, после "и" в окончаниях (Juliú / Juliju),  
+ю - ju - иначе (jula, pju),  
+я - ya / ya - после согласных, где этимология требует именно ya (nya),  
 я - á / ya - после согласных (sinája / sinyaja),  
-я - á / ja - после й,ь и "и" в окончаниях (Mariá / Marija, allilujá / allilujja, pján / pjjan),  
-я - ja - иначе (ja я),  
+я - á / ja - после й, после "и" в окончаниях (Mariá / Marija, allilujá / allilujja),  
+я - ja - иначе (ja я, pjan),  
 *(já,jú,jé,jéo,jý создают дополнительную йотацию, а jí,jó не создают дополнительную йотацию).*  
 
 и - ï / ii - в начале слова перед гласной или йотом с заглавной буквы (Ïacov / Iacov, Ïesus / Iesus - исключение, ion / ion),  
@@ -102,8 +104,8 @@ phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy -
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 
-ы - ì / ui - когда этимология требует i (obìscaté / obuiscatj, muzìca / muzuica, latìnè / latuinj),  
-ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sjyí / sjyyi сйыи, jys йыс, sjys сйыс, tyÿ / tyyy тыы, но platjíce / platjyice),  
+ы - ì / y - когда этимология требует i (obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj),  
+ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sjyí / sjyyi сйыи, jys йыс, sjys сйыс, tyÿ / tyyy тыы, но platjíce / platjyice),  
 ы - ÿ / yy - в остальных случаях (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
