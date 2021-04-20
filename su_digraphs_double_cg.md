@@ -85,7 +85,7 @@ cч - sch (sçh / ssch),
 це - çae / czae - где этимология требует AE (Çaezaré),  
 це - ce (Ciceron),  
 ц - ç / cz - иначе (otçy, çypléonoc),  
-*Примеры:* latiniça, accent, jaiço, zajaç, otçy, Ciceron, çyàn / czyian, cedité, otcedité, Çúané / Czyuanj Цюань, Çéos / Czyos Цёс.  
+*Примеры:* latiniça, accent, jaiço, zajaç, otçy, Ciceron, çyàn / czyian, cedité, otcedité, Çúané / Czyuanj Цюань, Céos / Czyos Цёс.  
 
 е - e - после согласных (leto),  
 е - é / je - после й, после "и" в окончаниях (sinié / sinije, Bajés / Bajjes),  
@@ -122,12 +122,9 @@ cч - sch (sçh / ssch),
 phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи,  
 cy,cky - всегда ки,  
 gy,ghy - всегда ги,  
-çy / czy - цы - на конце слова или не в конце слова только в словах исключениях (otçy, çygan, çypléonoc),  
-çy / czy - ци - инчае (çyàn циан),  
-fy,ty,ry,(ò)hy/(x)hy - фы,ты,ры,хы,  
+fy,ty,ry,hy,òhy/xhy - фы,ты,ры,хы,хы,  
 cÿ / cyy - кы,  
 gÿ / gyy - гы,  
-çÿ / czyy - цы,  
 
 аэ - aè / aae - после согласной (maèstro / maaestro),  
 э - àe / aae - в начале слова или после гласных когда этимология требует "a" (Àeppl / Aaeppl, Àendý / Aaendyi),  
