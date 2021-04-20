@@ -88,7 +88,7 @@ cч - sch (sçh / ssch),
 це - çae / czae - где этимология требует AE (Çaezaré),  
 це - ce - иначе (Ciceron),  
 ц - ç / cz - иначе (otçy, çypléonoc),  
-*Примеры:* latiniça, accent, jaiço, zajaç, otçy, Ciceron, çyàn / czyian, cedité, otcedité, Çúané / Czyuanj Цюань, Céos / Czyos Цёс.  
+*Примеры:* latiniça, accent, jaiço, zajaç, otçy, Ciceron, çýan / czyian, cedité, otcedité, Çúané / Czyuanj Цюань, Céos / Czyos Цёс.  
 
 е - e - после согласных (leto),  
 е - é / je - после й, после "и" в окончаниях (sinié / sinije, Bajés / Bajjes),  
