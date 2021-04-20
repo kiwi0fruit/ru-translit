@@ -83,7 +83,7 @@ cч - sch (sçh / ssch),
 ци - çy / czy - где этимология требует Y (çyàn циан),  
 ци - ci - иначе (Ciceron),  
 це - çae / czae - где этимология требует AE (Çaezaré),  
-це - ce (Ciceron),  
+це - ce - иначе (Ciceron),  
 ц - ç / cz - иначе (otçy, çypléonoc),  
 *Примеры:* latiniça, accent, jaiço, zajaç, otçy, Ciceron, çyàn / czyian, cedité, otcedité, Çúané / Czyuanj Цюань, Céos / Czyos Цёс.  
 
