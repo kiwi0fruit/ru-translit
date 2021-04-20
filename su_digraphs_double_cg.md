@@ -35,15 +35,15 @@
 ш - sh,  
 
 
-г - gh - перед зьъ,ы/ì/y,э/è/ae (но не ы/y/y,э/ae/ae) и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
-дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjyordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
+г - gh - перед зьъ,ы/ì/y,э/è/ae (но не ы/y/y,э/ae/ae) и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
+дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjeordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
 дж - jae,jÿ,j[èìòàùỳh] / jae,jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jòker, ÿjÿd / yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
-ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeórgj / Gjyorgj Жорж),  
+ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
 ж - j - после ж/gj,  
 жж - jjh (hajjh),  
-р - rh - где этимология требует rh (rhýthm),  
+р - rh - где этимология требует rh (rhythm),  
 т - tò / th - перед з (otòzyv / othzyv),  
 т - th - не перед з где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
 ф - ph - где этимология требует ph (telephon),  
@@ -73,9 +73,9 @@ cч - sch (sçh / ssch),
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
 ц - tz - где этимология требует t, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere),  
 ц - cz / cz - где этимология требует z, но не требует t (Ponczi, Czúriçh / Czyurikh Цюрих),  
-цц - tzz (pitzza),  
-цц - czz - когда этимология требует "c",  
-*Примеры:* latiniça, acçent, jaiço, zajaç, otçy, Çiçeron, çýan / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çeós / Czyos Цёс.  
+цц - tzz - когда этимология требует t, но не требует "c",  
+цц - czz - когда этимология требует z, но не требует t (piczza),  
+*Примеры:* latiniça, acçent, jaiço, zajaç, otçy, Çiçeron, çyàn / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çéos / Czyos Цёс.  
 
 е - e - после согласных (leto),  
 е - é / je - после й, после "и" в окончаниях (sinié / sinije, Bajés / Bajjes),  
@@ -94,7 +94,7 @@ cч - sch (sçh / ssch),
 я - á / ya - после согласных (sinája / sinyaja),  
 я - á / ja - после й, после "и" в окончаниях (Mariá / Marija, allilujá / allilujja),  
 я - ja - иначе (ja я, pjan),  
-*(já,jú,jé,jéo,jý создают дополнительную йотацию, а jí,jó не создают дополнительную йотацию).*  
+*(já,jú,jé,jéo,jý,jó создают дополнительную йотацию, а jí не создаёт дополнительную йотацию).*  
 
 и - ï / ii - в начале слова перед гласной или йотом с заглавной буквы (Ïacov / Iacov, Ïesus / Iesus - исключение, ion / ion),  
 ии - ïy / iy - в начале слова с заглавной буквы перед согласной (Ïyda / Iyda),  
@@ -103,17 +103,21 @@ cч - sch (sçh / ssch),
 и - y - в исключениях где этимология требует "y" и где нельзя спутать с "ы" (Yggdrasilé Иггдрасиль),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
-phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи,  
-cy,cky - всегда ки,  
-gy,ghy - всегда ги,  
 
 ы - ì / y - когда этимология требует i (obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj),  
 ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sjyí / sjyyi сйыи, jys йыс, sjys сйыс, tyÿ / tyyy тыы, но platjíce / platjyice),  
 ы - ÿ / yy - в остальных случаях (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
+
+phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи,  
+cy,cky - всегда ки,  
+gy,ghy - всегда ги,  
+çy / czy - цы - на конце слова или не в конце слова только в словах исключениях (otçy, çygan, çypléonoc),  
+çy / czy - ци - инчае (çyàn циан),  
 fy,ty,ry,(ò)hy/(x)hy - фы,ты,ры,хы,  
-cÿ (cyy) - кы,  
-gÿ (gyy) - гы,  
+cÿ / cyy - кы,  
+gÿ / gyy - гы,  
+çÿ / czyy - цы,  
 
 аэ - aè / aae - после согласной (maèstro / maaestro),  
 э - àe / aae - в начале слова или после гласных когда этимология требует "a" (Àeppl / Aaeppl, Àendý / Aaendyi),  
