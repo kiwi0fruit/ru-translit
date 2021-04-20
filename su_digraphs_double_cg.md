@@ -150,8 +150,8 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 й - ji - перед нейотированными гласными ауоэ - кроме иы (Seórckjiosen / Syorckjiosen Сёркйосен),  
 йи - jí / jii (rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip),  
 йы - jy (jyí / jyyi йыи),  
-й - i - после гласных - кроме ий,ый,уй (moi мой, poimal поймал, zaíca / zaiica заика),  
-й - j - иначе - в т.ч. ий,ый,уй (allilujá / allilujja, sinij, crasnyj, duj),  
+й - i - после гласных - кроме ий,ый (moi мой, poimal поймал, zaíca / zaiica заика, dui дуй),  
+й - j - иначе - в т.ч. ий,ый (allilujá / allilujja, sinij, crasnyj),  
 
 
 ### Дополнительные примеры
