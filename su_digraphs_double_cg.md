@@ -20,7 +20,6 @@
 д - d,  
 ж - gz,  
 з - z,  
-к - c,  
 л - l,  
 м - m,  
 н - n,  
@@ -68,7 +67,12 @@ cч - sch (sçh / ssch),
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
 кв - qv - когда этимология требует q (aqvarium),  
-*Примеры:* ocean, centavr, cino кино, cinematograph, cyber, cysta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cyrill, Cypr, scyf, cit кит, cynolog.  
+ки - cì / cki - где этимология требует ci (cìno / ckino кино, ckinematograph),  
+ке - cè / cke - где этимология требует ce (ocèan / ockean, cèntavr / ckentavr),  
+ки - cy (recy, reca),  
+ке - cke (v recke, reca),  
+к - c - иначе,  
+*Примеры:* ocèan, cèntavr, cìno кино, cìnematograph, cyber, cysta киста, cìrasa кираса, ascèt аскет, ancèr анкер, scèptic скептик, Cyrill, Cypr, scyf, cyt кит, cynolog.  
 
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
 ц - tz - где этимология требует t, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere),  
@@ -134,8 +138,8 @@ gÿ / gyy - гы,
 ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те"),  
 ьи - сьи — sjí / sjyi (platjíçe / platjyicze, cresliçe),  
 ьо - сьо — sjó /siio (buljón / buliion),  
-ь - j / j - после согласных где по этимологии не было дополнительного смягчения, или же славянский Ьь в однокоренных словах перешёл в Ии (culjtura, paljma, scoljzcij),  
-ь - é / j - после согласных (conéci / conjci коньки, léda / ljda льда),  
+ь - j / j - после согласных где по этимологии не было дополнительного смягчения, или же славянский Ьь в однокоренных словах перешёл в Ии (culjtura, paljma, scoljzcyj),  
+ь - é / j - после согласных (conécy / conjcy коньки, léda / ljda льда),  
 ь - qh - иначе запрещено (aqh аь становится аъ),  
 
 й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, tonéyork / tonjyork тоньйорк),  
@@ -284,7 +288,7 @@ JÊ ЙЭ (JIE), JÏ ЙИ (JII).
 
 Andrew' (одно слово - только буквы)  
 gh'/г', gz'/ж' (так же)  
-'Watson'ovscij (русское окончание Watson'овский)  
+'Watson'ovscyj (русское окончание Watson'овский)  
 .this is OK. I eto horosho. (от нетипичной точки сразу перед буквой до конца предложения. ".3" не катит)  
 .. - можно от .. до .. помечать целые абзацы. Но можно и просто вот так:  
 ..this is.. horosho.  
@@ -301,8 +305,8 @@ girls' / girls''
 (перед открывающей кавычкой должен быть небуквенный символ, чтобы она считалась именно открывающей кавычкой)  
 d'Arc / d'Arc'  
 Д'Арк / D'Arc  
-'Watson'овский / ''Watson'ovscij  
-Watson'овский / 'Watson'ovscij  
+'Watson'овский / ''Watson'ovscyj  
+Watson'овский / 'Watson'ovscyj  
 vs. / vs'.  
 
 
@@ -334,15 +338,15 @@ lédom - ledovyj
 
 ## Пример текста
 
-Piony I vasiléci vséo jesche rastut na poláne vozle derevni Péony, schitajuscheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
+Piony I vasilécy vséo jesche rastut na poláne vozle derevni Péony, schitajuscheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
 
-Pjanyj master po projectu sdelal meçhanichescij obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
+Pjanyj master po projectu sdelal meçhanichescyj obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyúchité svoí oshibcy.
 
-V pjese pro devushcu v zeléonom platjíçe vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Dgèordgj Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscival, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjíçe vse sadilisé na ladjí I plyli po recke. No tut iz lesa vyshel Dgèordgj Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
-Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
+Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
-Maer neboléshogo gorodishci otcryl tabliçu exelá I vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
+Maer neboléshogo gorodishcy otcryl tabliçu exelá I vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
 
 V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas schéotca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeogz colúchij I pohogz na nejo.
 
@@ -350,7 +354,7 @@ Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otò
 
 "Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
-Lúbimçem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
+Lúbimçem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumcy. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesche I rodilisé v odin dené, 22 sentábrá.
 
@@ -358,13 +362,13 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesche I rodilisé v odin dené, 22 
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadçatju I tridçatju tremá, posle chego hobbit naconeç mogzet schitaté sebá vzroslym.
 
-Proshlo jesche dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
+Proshlo jesche dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitscy.
 
-Imejetsá nescoléco ghypothez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
+Imejetsá nescoléco ghypothez proísòhogzdeniá sobacy, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
 
-V sugzdenijah uchéonyh o predcah domashnei sobaci prisutstvujut dve tochci zreniá. Odni schitajut, chto sobaci - polýphyletichescaja gruppa (proísòhodáschaja ot nescolécih predcov), drugié pridergzivajutsá mneniá, chto vse sobaci proízoshli ot odnogo predca (monophyletichescaja theoriá).
+V sugzdenijah uchéonyh o predcah domashnei sobacy prisutstvujut dve tochcy zreniá. Odni schitajut, chto sobacy - polýphyletichescaja gruppa (proísòhodáschaja ot nescolécyh predcov), drugié pridergzivajutsá mneniá, chto vse sobacy proízoshli ot odnogo predca (monophyletichescaja theoriá).
 
-Alexandr Pushcin — Zimneje utro
+Alexandr Pushcyn — Zimneje utro
 
 Moroz I solnçe; dené chudesnyj!  
 Jesche ty dremleshé, drug prelestnyj —  
@@ -390,8 +394,8 @@ I rechca podo lédom blestit.
 Vsá comnata jantarnym blescom  
 Ozarena. Veséolym trescom  
 Treschit zatoplennaja peché.  
-Prijatno dumaté u legzanci.  
-No znajeshé: ne veleté li v sanci  
+Prijatno dumaté u legzancy.  
+No znajeshé: ne veleté li v sancy  
 Cobylcu buruju zapreché?  
 
 Scoljzá po utrennemu snegu,  
