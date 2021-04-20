@@ -37,7 +37,7 @@
 
 г - gh - перед зьъ,ы/ì/ui,э/è/ue (но не ы/y,э/æ/ae) и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjéri Алигьери, adgheziá),  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjyordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
-дж - j[æÿ],j[èìòàùỳh] / jae,jh - где этимология требует - но не после д/d (Jæims / Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jæck, hajjh, jòker, ÿjÿd / yyjhyd ыджыд - альтернативный вариант),  
+дж - jae,jÿ,j[èìòàùỳh] / jae,jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jòker, ÿjÿd / yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
 ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeórgj / Gjyorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
@@ -108,9 +108,9 @@ phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy -
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
 аэ - aè / aae - после согласной (maèstro / maaestro),  
-э - æ / ae - после согласных когда этимология требует "a" (mær / maer, Thætcher),  
-э - æ / aae - в начале слова когда этимология требует "a" (Æppl / Aaeppl, Ændý),  
-э - è / ue - обычно после согласных (partèr / partuer, tuèr / tuuer туэр),  
+э - àe / aae - в начале слова когда этимология требует "a" (Àeppl / Aaeppl, Àendý / Aaendyi),  
+э - ae / ae - после согласных когда этимология требует "a" (maer, Thaetcher),  
+э - è / ae - обычно после согласных (partèr / partaer),  
 э - e - обычно - в т.ч. "аэ" не после согласных (etot, aero),  
 
 ъ - j - перед йотированными гласными - съ[ёеюя] — sj[oeua] (sjezd, zajezd),  
