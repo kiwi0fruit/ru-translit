@@ -116,7 +116,7 @@ cч - sch (sçh / ssch),
 *(под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc),*  
 
 ы - ì / y - когда этимология требует i (obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj),  
-ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice),  
+ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice),  
 ы - yy / yy - в остальных случаях (yydgzyd ыджыд, ayy аы),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
@@ -142,10 +142,11 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 ь - é / j - после согласных (conécy / conjcy коньки, léda / ljda льда),  
 ь - qh - иначе запрещено (aqh аь становится аъ),  
 
-й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, tonéyork / tonjyork тоньйорк),  
+й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, superjyippi / superjyippi - альтернативная этимологичная форма, tonjyork тоньйорк),  
 й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
 й - i - после гласной перед гласной, но не перед "о" (aia айа, eien эйэн),  
-й - j / ji - перед "о" **не** после согласной (jód / jiod, majór),  
+й - j - перед "о" **не** после согласной (jod, major),  
+
 й - ji - перед нейотированными гласными ауоэ - кроме иы (Seórckjiosen / Syorckjiosen Сёркйосен),  
 йи - jí / jii (rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip),  
 йы - jy (jyí / jyyi йыи),  
