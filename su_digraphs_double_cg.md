@@ -60,7 +60,6 @@ cч - sch (sçh / ssch),
 у - w[èìòàùỳ] / wu - перед гласными, когда этимология требует w (Wòtson / Wuotson Уотсон, Wèst / Wuest Уэст),  
 в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuätt / Wuuatt Вуатт),  
 *(то есть, после j и w буква ò становится полногласной, после других согласных - это твёрдый знак),*  
-phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy - фы,ты,ры,хы.  
 
 к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Miçhaèlé),  
 к - k - когда этимология требует k (Keniá, kefir, koboléd, koala, karate),  
@@ -69,10 +68,11 @@ phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy -
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
 кв - qv - когда этимология требует q (aqvarium),  
-*Примеры:* ocean, centavr, cino кино, cinematograph, cýber, cýsta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cýrill, Cýpr, scýf, cit кит, cýnolog.  
+*Примеры:* ocean, centavr, cino кино, cinematograph, cyber, cysta киста, cirasa кираса, ascet аскет, ancer анкер, sceptic скептик, Cyrill, Cypr, scyf, cit кит, cynolog.  
 
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
-ц - tz - где этимология требует t или z, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere, Pontzi, Tzúriçh / Tzyurikh Цюрих),  
+ц - tz - где этимология требует t, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere),  
+ц - cz / cz - где этимология требует z, но не требует t (Ponczi, Czúriçh / Czyurikh Цюрих),  
 цц - tzz (pitzza),  
 цц - czz - когда этимология требует "c",  
 *Примеры:* latiniça, acçent, jaiço, zajaç, otçy, Çiçeron, çýan / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çeós / Czyos Цёс.  
@@ -103,11 +103,17 @@ phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy -
 и - y - в исключениях где этимология требует "y" и где нельзя спутать с "ы" (Yggdrasilé Иггдрасиль),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, Cýrill / Cyirill),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
+phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи,  
+cy,cky - всегда ки,  
+gy,ghy - всегда ги,  
 
 ы - ì / y - когда этимология требует i (obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj),  
 ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sjyí / sjyyi сйыи, jys йыс, sjys сйыс, tyÿ / tyyy тыы, но platjíce / platjyice),  
 ы - ÿ / yy - в остальных случаях (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
+fy,ty,ry,(ò)hy/(x)hy - фы,ты,ры,хы,  
+cÿ (cyy) - кы,  
+gÿ (gyy) - гы,  
 
 аэ - aè / aae - после согласной (maèstro / maaestro),  
 э - àe / aae - в начале слова или после гласных когда этимология требует "a" (Àeppl / Aaeppl, Àendý / Aaendyi),  
@@ -318,6 +324,8 @@ pechalénaja, pechalényh - opechalennyj
 lédom - ledovyj 
 
 Так же с заимствованиями из япоского, где yo - это ё (например, гё/gyo). Оно таким и остается в диакритической версии, а не становится éo.
+
+Так же с заимствованиями из языков, где Цц это Zz - в них cz не становится ç.
 
 
 ## Пример текста
