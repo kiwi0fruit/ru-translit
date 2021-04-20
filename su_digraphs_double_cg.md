@@ -345,11 +345,11 @@ Piony I vasilécy vséo jesche rastut na poláne vozle derevni Péony, schitajus
 
 Pjanyj master po projectu sdelal meçhanichescyj obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyúchité svoí oshibcy.
 
-V pjese pro devushcu v zeléonom platjíçe vse sadilisé na ladjí I plyli po recè. No tut iz lesa vyshel Dgèordgj Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjíce vse sadilisé na ladjí I plyli po recè. No tut iz lesa vyshel Dgèordgj Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
-Maer neboléshogo gorodishcy otcryl tabliçu exelá I vozmutilsá çenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
+Maer neboléshogo gorodishcy otcryl tabliçu exelá I vozmutilsá cenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
 
 V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas schéotca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeogz colúchij I pohogz na nejo.
 
@@ -373,7 +373,7 @@ V sugzdenijah uchéonyh o predcah domashnei sobacy prisutstvujut dve tochcy zren
 
 Alexandr Pushcyn — Zimneje utro
 
-Moroz I solnçe; dené chudesnyj!  
+Moroz I solnce; dené chudesnyj!  
 Jesche ty dremleshé, drug prelestnyj —  
 Pora, crasaviça, prosnisé:  
 Otcroi somcnuty negoi vzory  
@@ -389,7 +389,7 @@ A nynche… pogládi v ocno:
 
 Pod golubymi nebesami  
 Velicolepnymi covrami,  
-Blestá na solnçe, sneg legzit;  
+Blestá na solnce, sneg legzit;  
 Prozrachnyj les odin chernejet,  
 I jelé scvozé inei zelenejet,  
 I rechca podo lédom blestit.  
