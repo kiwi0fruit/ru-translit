@@ -9,7 +9,7 @@
 
 *После слэша дано написание в ASCII-only версии. Требования этимологии распространяются только на основу слова.*
 
-Новые буквы: äáàóòýÿúùéèí ï ìçćśšǧ (19 - ÄÁÀÓÒÝŸÚÙÉÈÍ Ï ÌÇĆŚŠǦ).
+Новые буквы: áàóòýúùéèí ï ìçćśšǧ (17 - ÁÀÓÒÝÚÙÉÈÍ Ï ÌÇĆŚŠǦ).
 
 а - a,  
 о - o,  
@@ -35,7 +35,7 @@
 
 г - gh - перед зьъ,ы/ì/y,э/è/ae (но не ы/y/y,э/ae/ae) и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjeordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
-дж - jae,jÿ,j[èìòàùỳh] / jae,jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jòker, ÿjÿd / yyjhyd ыджыд - альтернативный вариант),  
+дж - jae, j[èìòàùỳh] / jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jòker, yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
 ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
@@ -116,8 +116,8 @@ cч - sch (sçh / ssch),
 *(под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc),*  
 
 ы - ì / y - когда этимология требует i (obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj),  
-ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyÿ / tyyy тыы, но platjíce / platjyice),  
-ы - ÿ / yy - в остальных случаях (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy тыы),  
+ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice),  
+ы - yy / yy - в остальных случаях (yydgzyd ыджыд, ayy аы),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
 ghy,phy,thy,rhy,çhy(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
@@ -129,7 +129,7 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 э - è / ae - обычно после согласных (partèr / partaer),  
 э - e - иначе (etot, erotica),  
 
-ъ - j - перед йотированными гласными - съ[ёеюя] — sj[oeua] (sjezd, zajezd),  
+ъ - j - перед йотированными гласными - съ[ёеюя] — sòj[oeua] / sji[oeua] (sòjezd / sjiezd, zajezd),  
 ъ - ò / qh - в остальных случаях после согласных, кроме j,w (obòizvestité / obqhizvestitj объизвестить),  
 ъ - qh - иначе (aqh аъ),  
 
