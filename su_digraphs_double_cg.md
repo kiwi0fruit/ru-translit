@@ -56,7 +56,7 @@ cч - sch (sçh / ssch),
 шьч - запрещен,  
 ссч - ssçh / sssch,  
 у - w[èìòàùỳ] / wu - перед гласными, когда этимология требует w (Wòtson / Wuotson Уотсон, Wèst / Wuest Уэст),  
-в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuätt / Wuuatt Вуатт),  
+в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuàtt / Wuuatt Вуатт),  
 *(то есть, после j и w буква ò становится полногласной, после других согласных - это твёрдый знак),*  
 
 к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Miçhaèlé),  
@@ -120,17 +120,16 @@ cч - sch (sçh / ssch),
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
 phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи,  
-cy,cky - всегда ки,  
+cy,cky,ky - всегда ки,  
 gy,ghy - всегда ги,  
 fy,ty,ry,hy,òhy/xhy - фы,ты,ры,хы,хы,  
 cÿ / cyy - кы,  
 gÿ / gyy - гы,  
 
-аэ - aè / aae - после согласной (maèstro / maaestro),  
-э - àe / aae - в начале слова или после гласных когда этимология требует "a" (Àeppl / Aaeppl, Àendý / Aaendyi),  
-э - ae / ae - после согласных когда этимология требует "a" (maer, Thaetcher),  
+э - è / ae - после Аа (aèro / aaero, maèstro / maaestro),  
+э - ae / ae - когда этимология требует Aa (maer, Thaetcher, Aeppl, Aendý / Aendyi),  
 э - è / ae - обычно после согласных (partèr / partaer),  
-э - e - обычно - в т.ч. "аэ" не после согласных (etot, aero),  
+э - e - иначе (etot, erotica),  
 
 ъ - j - перед йотированными гласными - съ[ёеюя] — sj[oeua] (sjezd, zajezd),  
 ъ - ò / qh - в остальных случаях после согласных, кроме j,w (obòizvestité / obqhizvestitj объизвестить),  
@@ -351,7 +350,7 @@ V pjese pro devushcu v zeléonom platjíce vse sadilisé na ladjí I plyli po re
 
 Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
-Maer neboléshogo gorodishcy otcryl tabliçu exelá I vozmutilsá cenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
+Maer neboléshogo gorodishcy otcryl tabliçu exelá I vozmutilsá cenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aèroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
 
 V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas schéotca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeogz colúchij I pohogz na nejo.
 
