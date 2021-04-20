@@ -504,10 +504,11 @@ Pod govor pjanyh mugzichcov.
 Scoljzya - sclizscyj (более распространенный вариант перешел в "И", склезкий тоже был, но редок)  
 Biljbo - eng. Bilbo'  
 
-(в конце - всегда é)
+(в конце - всегда é)  
 igralényje (на стыке словообразования - é)  
 oconchateléno (на стыке словообразования - é)  
 znamenatelénaja (на стыке словообразования - é)  
+veséma - vesé (словообразование на основе слова с é на конце)  
 vasilécy - vasiléoc  
 boléshe - boleje  
 paléto - fr. paletot'  
@@ -516,7 +517,6 @@ neboléshogo - boleje
 daléshe - daleco  
 usadébu - priusadebnyj  
 maléchic - maleç  
-veséma - vesé (словообразование на основе слова с é на конце)  
 nescoléco - niscolechcy  
 pechalénaja, pechalényh - opechalennyj  
 lédom - ledovyj  
