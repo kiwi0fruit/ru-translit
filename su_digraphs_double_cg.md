@@ -70,7 +70,7 @@ cч - sch (sçh / ssch),
 ки - cì / cki - где этимология требует ci (cìno / ckino кино, cìnematograph),  
 ки - cy (recy, reca),  
 ке - cè / cke (ocèan / ockean, cèntavr / ckentavr, v recè / v recke),  
-кы - cÿ / cyy (alenécÿj / alenjcyyj),  
+кы - cky (alenéckyj),  
 кэ - cae / cae,  
 к - c - иначе,  
 *Примеры:* ocèan, cèntavr, cìno кино, cìnematograph, cyber, cysta киста, cìrasa кираса, ascèt аскет, ancèr анкер, scèptic скептик, Cyrill, Cypr, scyf, cyt кит, cynolog.  
@@ -111,20 +111,18 @@ cч - sch (sçh / ssch),
 и - í / ii - после гласных кроме "и", и после й (moí / moii мои, zaíca / zaiica заика, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип),  
 и - í / yi - после ь (platjíce / platjyice),  
 и - y - в исключениях где этимология требует "y" и где нельзя спутать с "ы" (Yggdrasilé Иггдрасиль),  
-и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, но Cyrill),  
+и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
+*(под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc),*  
 
 ы - ì / y - когда этимология требует i (obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj),  
 ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyí / jyyi йыи, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyÿ / tyyy тыы, но platjíce / platjyice),  
 ы - ÿ / yy - в остальных случаях (ÿdgzyd / yydgzyd ыджыд, tyÿ / tyyy ты),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
-phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи,  
-cy,cky,ky - всегда ки,  
-gy,ghy - всегда ги,  
-fy,ty,ry,hy,òhy/xhy - фы,ты,ры,хы,хы,  
-cÿ / cyy - кы,  
-gÿ / gyy - гы,  
+ghy,phy,thy,rhy,çhy(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
+gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,  
+*Примеры:* gyimanziá, gyiroscop, ghypotheza, phyzica, taçhyòny.  
 
 э - è / ae - после Аа (aèro / aaero, maèstro / maaestro),  
 э - ae / ae - когда этимология требует Aa (maer, Thaetcher, Aeppl, Aendý / Aendyi),  
