@@ -29,7 +29,6 @@
 т - t,  
 ф - f,  
 х - h,  
-ц - ç / cz,  
 ч - ch,  
 ш - sh,  
 
@@ -77,11 +76,16 @@ cч - sch (sçh / ssch),
 *Примеры:* ocèan, cèntavr, cìno кино, cìnematograph, cyber, cysta киста, cìrasa кираса, ascèt аскет, ancèr анкер, scèptic скептик, Cyrill, Cypr, scyf, cyt кит, cynolog.  
 
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
-ц - tz - где этимология требует t, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere),  
+ц - tz - где этимология требует t, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere, tzigan),  
 ц - cz / cz - где этимология требует z, но не требует t (Ponczi, Czúriçh / Czyurikh Цюрих),  
 цц - tzz - когда этимология требует t, но не требует "c",  
 цц - czz - когда этимология требует z, но не требует t (piczza),  
-*Примеры:* latiniça, acçent, jaiço, zajaç, otçy, Çiçeron, çyàn / czyian, çedité, otçedité, Çúané / Czyuanj Цюань, Çéos / Czyos Цёс.  
+ци - çy / czy - где этимология требует Y (çyàn циан),  
+ци - ci - иначе (Ciceron),  
+це - çae / czae - где этимология требует AE (Çaezaré),  
+це - ce (Ciceron),  
+ц - ç / cz - иначе (otçy, çypléonoc),  
+*Примеры:* latiniça, accent, jaiço, zajaç, otçy, Ciceron, çyàn / czyian, cedité, otcedité, Çúané / Czyuanj Цюань, Çéos / Czyos Цёс.  
 
 е - e - после согласных (leto),  
 е - é / je - после й, после "и" в окончаниях (sinié / sinije, Bajés / Bajjes),  
@@ -344,7 +348,7 @@ Piony I vasilécy vséo jesche rastut na poláne vozle derevni Péony, schitajus
 
 Pjanyj master po projectu sdelal meçhanichescyj obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyúchité svoí oshibcy.
 
-V pjese pro devushcu v zeléonom platjíçe vse sadilisé na ladjí I plyli po recke. No tut iz lesa vyshel Dgèordgj Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjíçe vse sadilisé na ladjí I plyli po recè. No tut iz lesa vyshel Dgèordgj Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
