@@ -121,7 +121,8 @@ phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy -
 ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те"),  
 ьи - сьи — sjí / sjyi (platjíçe / platjyicze, cresliçe),  
 ьо - сьо — sjó /siio (buljón / buliion),  
-ь - é / j - после согласных (conéci / conjci коньки, léda / ljda льда, даже culétura, paléma),  
+ь - j / j - после согласных где по этимологии не было дополнительного смягчения, или же славянский Ьь в однокоренных словах перешёл в Ии (culjtura, paljma, scoljzcij),  
+ь - é / j - после согласных (conéci / conjci коньки, léda / ljda льда),  
 ь - qh - иначе запрещено (aqh аь становится аъ),  
 
 й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, tonéyork / tonjyork тоньйорк),  
