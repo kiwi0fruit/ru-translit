@@ -111,7 +111,7 @@ cч - sch (sçh / ssch),
 и - í / ii - после гласных кроме "и", и после й (moí / moii мои, zaíca / zaiica заика, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип),  
 и - í / yi - после ь (platjíce / platjyice),  
 и - y - в исключениях где этимология требует "y" и где нельзя спутать с "ы" (Yggdrasilé Иггдрасиль),  
-и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema),  
+и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, gýmanziá, gýroscop),  
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
 *(под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc),*  
 
@@ -122,7 +122,7 @@ cч - sch (sçh / ssch),
 
 ghy,phy,thy,rhy,çhy(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
 gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,  
-*Примеры:* gýmanziá, gýroscop, ghypotheza, phyzica, taçhyòny.  
+*Примеры:* ghypotheza, phyzica, taçhyòny.  
 
 э - è / ae - после Аа (aèro / aaero, maèstro / maaestro),  
 э - ae / ae - когда этимология требует Aa (maer, Thaetcher, Aeppl, Aendý / Aendyi),  
