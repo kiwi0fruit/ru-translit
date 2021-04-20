@@ -80,6 +80,7 @@ phy,thy,rhy,çhy/khy - всегда фи,ти,ри,хи, fy,ty,ry,(ò)hy/(x)hy -
 е - e - после согласных (leto),  
 е - é / je - после й,ь и "и" в окончаниях (sinié / sinije, Bajés / Bajjes, pjésa / pjjesa),  
 е - je - иначе (Jevropa, podjezd),  
+ё - yo / yo - после согласных, где этимология требует именно yo,  
 ё - eó / yo - после согласных (meód / myod),  
 ё - éo / jo - после й,ь и "и" в окончаниях (mumiéo / mumijo, pjéom / pjjom, jéogz / jjogz йёж, mumiéò / mumijeo, pjéòm / pjjeom пьеом, jéògz / jjeogz йеож),  
 ё - jo - после "е" (jejo, nejo),  
