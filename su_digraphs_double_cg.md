@@ -136,7 +136,7 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 ь - j - перед йотированными гласными кроме "ё" - сь[еюя] — sj[éúá] / sjj[eua] (pjésa / pjjesa),  
 ьё - сьё — sjéo / sjjo (pjéom / pjjom),  
 ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те"),  
-ьи - сьи — sjí / sjyi (platjíçe / platjyicze, cresliçe),  
+ьи - сьи — sjí / sjyi (platjíce / platjyicze, creslice),  
 ьо - сьо — sjó /siio (buljón / buliion),  
 ь - j / j - после согласных где по этимологии не было дополнительного смягчения, или же славянский Ьь в однокоренных словах перешёл в Ии (culjtura, paljma, scoljzcyj),  
 ь - é / j - после согласных (conécy / conjcy коньки, léda / ljda льда),  
@@ -356,7 +356,7 @@ Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otò
 
 "Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
-Lúbimçem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumcy. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
+Lúbimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumcy. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
 Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesche I rodilisé v odin dené, 22 sentábrá.
 
