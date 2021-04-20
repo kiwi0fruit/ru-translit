@@ -80,15 +80,15 @@ cч - sch (sçh / ssch),
 
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
 ц - tz - где этимология требует t, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere, tzigan),  
-ц - cz / cz - где этимология требует z, но не требует t (Ponczi, Czúriçh / Czyurikh Цюрих),  
-цц - tzz - когда этимология требует t, но не требует "c",  
-цц - czz - когда этимология требует z, но не требует t (piczza),  
-ци - çy / czy - где этимология требует Y (çyàn циан),  
-ци - ci - иначе (Ciceron),  
-це - çae / czae - где этимология требует AE (Çaezaré),  
-це - ce - иначе (Ciceron),  
-ц - ç / cz - иначе (otçy, çypléonoc),  
-*Примеры:* latiniça, accent, jaiço, zajaç, otçy, Ciceron, çýan / czyian, cedité, otcedité, Çúané / Czyuanj Цюань, Céos / Czyos Цёс.  
+цц - tzz - когда этимология требует t, но не требует Cc,  
+ц - cz - где этимология требует z, но не требует t (Ponczi, Czúriçh / Czyurikh Цюрих),  
+цц - czz - когда этимология требует Cc или z, но не требует t (piczza),  
+ци - cý / cyi - где этимология требует Yy, но не на конце слова (cýan / cyian циан, cýcl),  
+цы - cý / cyi - на конце слова (otcý / otcyi),  
+цы - ci - в словах-исключениях (cipléonoc),  
+ц[иеё] - c[ie], céo / czyo - иначе (cedité, otcedité, accent, Ciceron, Cezaré, Céos / Czyos Цёс),  
+ц[аоу] - c[áóú] / cz[aou] - иначе (latinicá, jaicó),  
+ц - cz - иначе (zajacz, Czúané / Czyuanj Цюань),  
 
 е - e - после согласных (leto),  
 е - é / je - после й, после "и" в окончаниях (sinié / sinije, Bajés / Bajjes),  
@@ -267,7 +267,7 @@ JÊ ЙЭ (JIE), JÏ ЙИ (JII).
 
 А как можно использовать уже существующую клавиатуру в GBoard? Адаптировать её под письмо в стиле US-international. То есть, клавиатура должна иметь выделенные кнопки под апостроф и, возможно, грэйв. А так же она должна мочь при долгом нажатии печатать буквы с диакритикой, используемые в латинице (US-international тоже должна их печатать). Тогда если в словарь пользователя добавить импортом словарь слов в русской латинице с сокращениями ввода типа m'aso => máso, то сценарии печати на swype будут совпадать со сценариями печати в US-international.
 
-В моей текущей латинице я рассматриваю вариант использования акутов для мягкости, а грэйвов - для твёрдости (i,í - и, y,ì - ы, á - я, è - э). Использование Çç для Цц так же весьма заманчиво. Но, стоит отметить, что при долгом нажатии нужны только частые буквы. А вот буквы для ударений и аббревиатур вполне можно печатать через подсказки специальных автозамен из личного словаря 'a' => ǎ (á под ударением), a' => â (a под ударением) - как предложено [тут](https://android.stackexchange.com/questions/224043/gboard-set-custom-unicode-characters-on-longpress-or-add-custom-keyboard-keys-o).
+В моей текущей латинице я рассматриваю вариант использования акутов для мягкости, а грэйвов - для твёрдости (i,í - и, y,ì - ы, á - я, è - э). Использование Çhçh для этимологичного Хх так же весьма заманчиво. Но, стоит отметить, что при долгом нажатии нужны только частые буквы. А вот буквы для ударений и аббревиатур вполне можно печатать через подсказки специальных автозамен из личного словаря 'a' => ǎ (á под ударением), a' => â (a под ударением) - как предложено [тут](https://android.stackexchange.com/questions/224043/gboard-set-custom-unicode-characters-on-longpress-or-add-custom-keyboard-keys-o).
 
 Точно так же как в US-international тоже обязательны только частые буквы, а буквы для ударений и аббревиатур можно использовать из EurKey (для удобного переключения между US-international и EurKey нужно дефолтным языком сделать русский - это позволит удалить дефолтную раскладку US). Приоритет должен быть у EurKey, т.к. он содержит неизменённую оригинальную раскладку, просто добавляет новые возможности через AltGr.
 
@@ -332,7 +332,7 @@ paléto - fr. paletot'
 neboléshogo - boleje  
 daléshe - daleco  
 usadébu - priusadebnyj  
-maléchic - maleç  
+maléchic - malecz  
 nescoléco - niscolechcy  
 pechalénaja, pechalényh - opechalennyj  
 lédom - ledovyj 
@@ -352,11 +352,11 @@ V pjese pro devushcu v zeléonom platjíce vse sadilisé na ladjí I plyli po re
 
 Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
-Maer neboléshogo gorodishcy otcryl tabliçu exelá I vozmutilsá cenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aèroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
+Maer neboléshogo gorodishcy otcryl tablicú exelá I vozmutilsá cenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aèroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
 
 V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas schéotca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeogz colúchij I pohogz na nejo.
 
-Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Çaezaré" (lat. .Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On I nashéol vyhod iz situatzii.
+Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Cezaré" (lat. .Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On I nashéol vyhod iz situatzii.
 
 "Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
@@ -366,9 +366,9 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesche I rodilisé v odin dené, 22 
 
 – Frodo, maléchic moi, – scazal cac-to raz Biljbo, – perebiralsá by ty co mne. Gládishé, I dené rogzdeniá vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadçatju I tridçatju tremá, posle chego hobbit naconeç mogzet schitaté sebá vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadcátju I tridcátju tremá, posle chego hobbit naconecz mogzet schitaté sebá vzroslym.
 
-Proshlo jesche dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitscy.
+Proshlo jesche dvenadcáté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridcátitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitscy.
 
 Imejetsá nescoléco ghypothez proísòhogzdeniá sobacy, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
 
@@ -378,7 +378,7 @@ Alexandr Pushcyn — Zimneje utro
 
 Moroz I solnce; dené chudesnyj!  
 Jesche ty dremleshé, drug prelestnyj —  
-Pora, crasaviça, prosnisé:  
+Pora, crasavicá, prosnisé:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Avrory,  
 Zvezdoju severa javisé!  
