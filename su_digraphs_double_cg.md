@@ -417,15 +417,15 @@ Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otò
 
 "Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
-Lyubimcem Bilébo byl junyj Frodo Baeggins. Cogda Bilébo stucnulo devyanosto devyaté, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom I predlogzil pereselitésya v Zasumcy. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdelenijem posmatrivavshih na usadébu, ruhnuli oconchateléno.
+Lyubimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devyanosto devyaté, on vdrug usynovil sirotu Frodo, sdelal svoim naslednicom I predlogzil pereselitésya v Zasumcy. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdelenijem posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
-Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesche I rodilisé v odin dené, 22 sentyabrya.
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesche I rodilisé v odin dené, 22 sentyabrya.
 
-– Frodo, maléchic moi, – scazal cac-to raz Bilébo, – perebiralsya by ty co mne. Glyadishé, I dené rogzdenija vmeste otmechali by.
+– Frodo, maléchic moi, – scazal cac-to raz Biljbo, – perebiralsya by ty co mne. Glyadishé, I dené rogzdenija vmeste otmechali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadczatju I tridczatju tremya, posle chego hobbit naconecz mogzet schitaté sebya vzroslym.
 
-Proshlo jesche dvenadczaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoi dené rogzdenija, c etomu privycli, no lyubomu bylo jasno, chto nyneshnei osenju gotovitsya nechto neobychnoe. Bilébo ispolnyalosé 111 let – vozrast dlya hobbita veséma pochtennyj, da I chislo lyubopytnoje, nu a Frodo gotovilsya otmetité tridczatitréohletije – togze znamenatelénaja data – sovershennoletije po-hobbitscy.
+Proshlo jesche dvenadczaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoi dené rogzdenija, c etomu privycli, no lyubomu bylo jasno, chto nyneshnei osenju gotovitsya nechto neobychnoe. Biljbo ispolnyalosé 111 let – vozrast dlya hobbita veséma pochtennyj, da I chislo lyubopytnoje, nu a Frodo gotovilsya otmetité tridczatitréohletije – togze znamenatelénaja data – sovershennoletije po-hobbitscy.
 
 Imejetsya nescoléco ghypothez proisòhogzdenija sobacy, naiboleje verojatnymi jejo predcami schitajutsya volc I necotorye vidy shacalov.
 
@@ -461,7 +461,7 @@ Prijatno dumaté u legzancy.
 No znajeshé: ne veleté li v sancy  
 Cobylcu buruju zapreché?  
 
-Scolézya po utrennemu snegu,  
+Scoljzya po utrennemu snegu,  
 Drug milyj, predadimsya begu  
 Netoroplivogo conya  
 I navestim polya pustyje,  
