@@ -310,15 +310,15 @@ Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otò
 
 "Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
 
-Lúbimçem Bilébo byl junyj Frodo Baeggins. Cogda Bilébo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
+Lúbimçem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
-Sluchaju bylo ugodno, chtoby Bilébo s Frodo jesche I rodilisé v odin dené, 22 sentábrá.
+Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesche I rodilisé v odin dené, 22 sentábrá.
 
-– Frodo, maléchic moi, – scazal cac-to raz Bilébo, – perebiralsá by ty co mne. Gládishé, I dené rogzdeniá vmeste otmechali by.
+– Frodo, maléchic moi, – scazal cac-to raz Biljbo, – perebiralsá by ty co mne. Gládishé, I dené rogzdeniá vmeste otmechali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadçatju I tridçatju tremá, posle chego hobbit naconeç mogzet schitaté sebá vzroslym.
 
-Proshlo jesche dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Bilébo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
+Proshlo jesche dvenadçaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridçatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
 
 Imejetsá nescoléco ghypothez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
 
@@ -354,7 +354,7 @@ Prijatno dumaté u legzanci.
 No znajeshé: ne veleté li v sanci  
 Cobylcu buruju zapreché?  
 
-Scolézá po utrennemu snegu,  
+Scoljzá po utrennemu snegu,  
 Drug milyj, predadimsá begu  
 Netoroplivogo coná  
 I navestim polá pustyje,  
@@ -391,6 +391,28 @@ Na pláscu s topanjem I svistom
 Pod govor pjanyh mugzichcov.  
 
 // God napisaniá: 1841
+
+----
+
+Scoljzá - sclizscyj (более распространенный вариант перешел в "И", склезкий тоже был, но редок)  
+Biljbo - eng. Bilbo'  
+
+(в конце - всегда é)  
+igralényje (на стыке словообразования - é)  
+oconchateléno (на стыке словообразования - é)  
+znamenatelénaja (на стыке словообразования - é)  
+veséma - vesé (словообразование на основе слова с é на конце)  
+vasilécy - vasiléoc  
+boléshe - boleje  
+paléto - fr. paletot'  
+mytésá, pereselitésá - myté  
+neboléshogo - boleje  
+daléshe - daleco  
+usadébu - priusadebnyj  
+maléchic - maleç  
+nescoléco - niscolechcy  
+pechalénaja, pechalényh - opechalennyj  
+lédom - ledovyj  
 
 
 ## Пример текста в новой версии
@@ -498,25 +520,3 @@ Na plyascu s topanjem I svistom
 Pod govor pjanyh mugzichcov.  
 
 // God napisanija: 1841
-
-----
-
-Scoljzya - sclizscyj (более распространенный вариант перешел в "И", склезкий тоже был, но редок)  
-Biljbo - eng. Bilbo'  
-
-(в конце - всегда é)  
-igralényje (на стыке словообразования - é)  
-oconchateléno (на стыке словообразования - é)  
-znamenatelénaja (на стыке словообразования - é)  
-veséma - vesé (словообразование на основе слова с é на конце)  
-vasilécy - vasiléoc  
-boléshe - boleje  
-paléto - fr. paletot'  
-mytésya, pereselitésya - myté  
-neboléshogo - boleje  
-daléshe - daleco  
-usadébu - priusadebnyj  
-maléchic - maleç  
-nescoléco - niscolechcy  
-pechalénaja, pechalényh - opechalennyj  
-lédom - ledovyj  
