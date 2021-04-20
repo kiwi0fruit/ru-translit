@@ -33,7 +33,8 @@
 ш - sh,  
 
 
-г - gh - перед зьъ,ы/ì/y,э/è/ae (но не ы/y/y,э/ae/ae) и где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
+г - gh - перед зьъ или где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
+гэ - gae / gae,  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjeordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
 дж - jae, j[èìòàùỳh] / jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jòker, yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
