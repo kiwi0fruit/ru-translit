@@ -74,8 +74,8 @@ cч - sch (sçh / ssch),
 кы - cky (alenéckyj),  
 кэ - cae / cae,  
 к - c - иначе,  
-к[иеяё] - qú[ieao] - когда этимология требует qu (marqúiz, teqúila, banqúir, qúilé, maqúet, piqúet, liqúor, anqúeta),  
-к[оа] - qù[oa] - когда этимология требует qu (qùarantin),  
+к[иеяё] - qú[ieao] / qk[ie],qky[ao] - когда этимология требует qu (marqúiz, teqúila, banqúir, qúilé, maqúet, piqúet, liqúor, anqúeta),  
+к[оа] - qù[oa] / qk[oa] - когда этимология требует qu (qùarantin),  
 *Примеры:* ocèan, cèntavr, cìno кино, cìnematograph, cyber, cysta киста, cìrasa кираса, ascèt аскет, ancèr анкер, scèptic скептик, Cyrill, Cypr, scyf, cyt кит, cynolog.  
 
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
