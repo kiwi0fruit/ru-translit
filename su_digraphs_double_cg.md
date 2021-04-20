@@ -122,7 +122,7 @@ cч - sch (sçh / ssch),
 
 ghy,phy,thy,rhy,çhy(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
 gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,  
-*Примеры:* gyimanziá, gyiroscop, ghypotheza, phyzica, taçhyòny.  
+*Примеры:* gýmanziá, gýroscop, ghypotheza, phyzica, taçhyòny.  
 
 э - è / ae - после Аа (aèro / aaero, maèstro / maaestro),  
 э - ae / ae - когда этимология требует Aa (maer, Thaetcher, Aeppl, Aendý / Aendyi),  
