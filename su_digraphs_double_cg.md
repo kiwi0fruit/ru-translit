@@ -66,7 +66,7 @@ cч - sch (sćh / ssch),
 в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuàtt / Wuuatt Вуатт),  
 *(После Ww,Bb,Jj,CHch - Óó не смягчает, а полностью меняет звучание предыдущей буквы. Как и Óó после Cc),*  
 
-к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Michàelé),  
+к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Majckl, за компанию: Mishelé, Michàelé),  
 к - k - когда этимология требует k (Keniá, kefir, koboljd, koala, karate),  
 кс - x - где этимология требует x, но только не на стыке морфем (taxi, Xeniá),  
 кз - xz - где этимология требует x, но только не на стыке морфем (exzamen),  
@@ -93,7 +93,7 @@ cч - sch (sćh / ssch),
 цы - ci - в словах-исключениях (cipléonoc),  
 цы - cý / cyi - иначе (otcý / otcyi),  
 ц[иеё] - c[ie], céo / czyo - иначе (cedité, otcedité, accent, Ciceron, Cezaré, Céos / Czyos Цёс),  
-ц[аоу] - c[áóú] / cz[aou] - иначе (latinicá, jaicó),  
+ц[аоу] - c[áóú] / cz[aou] - иначе (latinicá, jajcó),  
 ц - cz - иначе (zajacz, Czúané / Czyuanj Цюань),  
 
 е - e - после согласных (leto),  
@@ -383,7 +383,7 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstve
 
 Proshlo jesche dvenadcáté let. V Zasumcah cagzdyj god veselo otmechali dvojnoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridcátitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitscy.
 
-Imejetsá nescoléco ghypothez proisòhogzdeniá sobacy, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
+Imejetsá nescoléco ghypothez proisòhogzdeniá sobacy, naiboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
 
 V sugzdenijah uchéonyh o predcah domashnei sobacy prisutstvujut dve tochcy zreniá. Odni schitajut, chto sobacy - polýphyletichescaja gruppa (proisòhodáschaja ot nescolécyh predcov), drugié pridergzivajutsá mneniá, chto vse sobacy proizoshli ot odnogo predca (monophyletichescaja theoriá).
 
