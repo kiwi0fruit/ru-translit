@@ -42,6 +42,7 @@
 ж - z - после ж/gz (gzugzzit),  
 ж - j - после ж/gj,  
 джж - jjh (hajjh),  
+в - bh - где этимология требует b (sýmbhol, febhralé, Bhyzantiá, Bhabhylon),  
 р - rh - где этимология требует rh (rhythm),  
 т - th - где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
 т - tò / th - перед з (otòzyv / othzyv),  
