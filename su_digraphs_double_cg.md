@@ -38,7 +38,7 @@
 г - gh - перед зьъ или где этимология требует h (ghippopotam, zighzag, Buchghàlter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
 гэ - gae / gae,  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjeordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
-дж - jae, j[èìóàùỳh] / jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант),  
+дж - jae, j[èìóàùỳh] / jh - где этимология требует - но не после д/d (Jaejms, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
 ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
@@ -357,7 +357,7 @@ lédom - ledovyj
 
 ## Пример текста
 
-Piony I vasilécy vséo jesche rastut na poláne vozle derevni Péony, schitajuscheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
+Piony I vasilécy vséo jesche rastut na poláne vozle derevni Péony, schitajuschejsá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
 
 Pjanyj master po projectu sdelal mechànichescyj obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyúchité svoí oshibcy.
 
@@ -367,7 +367,7 @@ Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu prid
 
 Maer neboléshogo gorodishcy otcryl tablicú exelá I vozmutilsá cenoi novogo excavatora. Agz exzema snova stala jego bespocoité. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aèroplana-ecranoléota. Jesli tac pojdéot I daléshe, to búdgètu pridéotsá hudo.
 
-V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas schéotca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeogz colúchij I pohogz na nejo.
+V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Sejchas schéotca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeogz colúchij I pohogz na nejo.
 
 Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Cezaré" (lat. .Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On I nashéol vyhod iz situatzii.
 
