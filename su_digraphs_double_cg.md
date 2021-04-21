@@ -36,7 +36,8 @@
 
 
 г - gh - перед зьъ или где этимология требует h (ghippopotam, zighzag, Buchghàlter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
-гэ - gae / gae,  
+гэ - gae - всегда,  
+гы - gy - всегда,  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjeordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
 дж - jae, j[èìóàùỳh] / jh - где этимология требует - но не после д/d (Jaejms, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
@@ -73,12 +74,11 @@
 кз - ckz - иначе (eckzema),  
 кх - ckh (sickh),  
 кв - qv - когда этимология требует q (aqvarium),  
-ки - cki / cki - где этимология требует cki,  
-ки - cì / cki - где этимология требует ci (cìno / ckino кино, cìnematograph),  
+ки - cì / cui - где этимология требует ci (cìno / cuino кино, cìnematograph),  
 ки - cy (recy, reca),  
 ке - cè / cue (ocèan / ocuean, cèntavr / cuentavr, v recè / v recue),  
 кы - cky (alenéckyj),  
-кэ - cae / cae,  
+кэ - cae - всегда,  
 к - c - иначе,  
 к[иеяё] - qú[ieao] / qk[ie],qky[ao] - когда этимология требует qu (marqúiz, teqúila, banqúir, qúilé, maqúet, piqúet, liqúor, anqúeta),  
 к[оа] - qù[oa] / qk[oa] - когда этимология требует qu (qùarantin),  
@@ -99,17 +99,17 @@
 е - e - после согласных (leto),  
 е - é / je - после й, после "и" в окончаниях (sinié / sinije, Bajés / Bajjes),  
 е - je - иначе (Jevropa, podòjezd / podjiezd, pjesa),  
-ё - yo / yo - после согласных, где этимология требует именно yo,  
+ё - yó / yoo - после согласных, где этимология требует именно yo,  
 ё - éo / yo - после согласных (méod / myod, geograph географ),  
 ё - éo / jeo - после й, после "и" в окончаниях (mumiéo / mumijeo, mumiéò / mumijeeo, jéogz / jjeogz йёж, jéògz / jjeeogz йеож),  
 ё - jo - после "е" (jejo, nejo),  
 ё - jeo - иначе (jeogz, podòjeom / podjieom, pjeom, pjeòm / pjeeom пьеом),  
 ещё — ещё$ / (j)esche$ - исключение для ещё на конце слова (jesche ещё, jeshchíe / jeshchiie ещьэ - звучит как "ще"),  
-ю - yu / yu - после согласных, где этимология требует именно yu,  
+ю - yú / yuu - после согласных, где этимология требует именно yu,  
 ю - ú / yu - после согласных (lúbimyj / lyubimyj),  
 ю - ú / ju - после й, после "и" в окончаниях (Juliú / Juliju),  
 ю - ju - иначе (jula, pju),  
-я - ya / ya - после согласных, где этимология требует именно ya (nya),  
+я - yá / yaa - после согласных, где этимология требует именно ya (nyá / nyaa, nyáa / nyaaa няа),  
 я - á / ya - после согласных (sinája / sinyaja),  
 я - á / ja - после й, после "и" в окончаниях (Mariá / Marija, allilujá / allilujja),  
 я - ja - иначе (ja я, pjan),  
@@ -124,7 +124,7 @@
 и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir, zaica заика),  
 
 ы - ì / ui - когда этимология требует i (obìscaté / obuiscatj, muzìca / muzuica, latìnè / latuinj),  
-ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice),  
+ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice),  
 ы - ỳ / yy - в остальных случаях (ỳdgzyd / yydgzyd ыджыд, aỳ / ayy аы),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
@@ -146,8 +146,8 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те"),  
 ьи - сьи — sjí / sjyi (platjíce / platjyice, creslice),  
 ьо - сьо — sjo (buljon),  
-ь - j / j - после согласных где по этимологии не было дополнительного смягчения, или же славянский Ьь в однокоренных словах перешёл в Ии (culjtura, paljma, scoljzcyj),  
-ь - é / j - после согласных (conécy / conjcy коньки, léda / ljda льда),  
+ь - j / j - после согласных в заимствованиях где по этимологии не было дополнительного смягчения (culjtura, paljma),  
+ь - é / j - после согласных (conécy / conjcy коньки, léda / ljda льда, scolézcyj),  
 ь - qh - иначе запрещено (aqh аь становится аъ),  
 
 й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, superjyippi / superjyippi - альтернативная этимологичная форма, tonjyork тоньйорк),  
@@ -333,26 +333,7 @@ vs. / vs'.
 
 ### Требование обратимости латиниц друг в друга - излишне
 
-Требование обратимости латиниц друг в друга - слишком жесткое (диакритической и АСКИ версий). АСКИ версия не обязана дублировать диакритическую. Она лишь должна дублировать кириллицу. Так что у некоторых слов в АСКИ есть несколько возможных написаний с диакритикой, но лишь одно каноническое. Например, АСКИ daljshe становится daléshe, но АСКИ scoljzya становится scoljzá.
-
-Scoljzá - sclizscyj (более распространенный вариант перешел в "И", склезкий тоже был, но редок)  
-Biljbo - eng. Bilbo'  
-
-(в конце - всегда é)  
-igralényje, oconchateléno, znamenatelénaja, mytésá, pereselitésá (на стыке словообразования - é)  
-veséma - vesé (на стыке словообразования - é)  
-vasilécy - vasiléoc  
-boléshe - boleje  
-paléto - fr. paletot'  
-neboléshogo - boleje  
-daléshe - daleco  
-usadébu - priusadebnyj  
-maléchic - malecz  
-nescoléco - niscolechcy  
-pechalénaja, pechalényh - opechalennyj  
-lédom - ledovyj 
-
-Так же с заимствованиями из япоского, где yo - это ё (например, гё/gyo). Оно таким и остается в диакритической версии, а не становится éo.
+Требование обратимости латиниц друг в друга - слишком жесткое (диакритической и АСКИ версий). АСКИ версия не обязана дублировать диакритическую. Она лишь должна дублировать кириллицу. Так что у некоторых слов в АСКИ есть несколько возможных написаний с диакритикой, но лишь одно каноническое. Например, АСКИ daljshe становится daléshe, но АСКИ culjtura остаётся culjtura.
 
 
 ## Пример текста
@@ -417,7 +398,7 @@ Prijatno dumaté u legzancy.
 No znajeshé: ne veleté li v sancy  
 Cobylcu buruju zapreché?  
 
-Scoljzá po utrennemu snegu,  
+Scolézá po utrennemu snegu,  
 Drug milyj, predadimsá begu  
 Netoroplivogo coná  
 I navestim polá pustyje,  
