@@ -51,7 +51,7 @@
 т - th - где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
 ф - ph - где этимология требует ph (telephon),  
 х - ch[èìóàùỳ] / kh[eioauy] - перед гласными где этимология требует ch или kh (chìmera / khimera, chór),  
-х - ch[\c][èìóàùỳ] / kh[\c][eioauy] - перед согласной+гласной где этимология требует ch или kh (Chrìstos, Lochnèss / Lokhness, **Lochnaess / Lokhnaess**, Loćhnès / Lochnues Лочнэс, buchghàlter, chtónichescyj хтонический, chtèonichescyj хтёнический),  
+х - ch[\c][èìóàùỳ] / kh[\c][eioauy] - перед согласной+гласной где этимология требует ch или kh (Chrìstos, Lochnèss / Lokhness, Loçhnèss / Lokhnuess, Loçhnaess / Lokhnaess, Loćhnès / Lochnues Лочнэс, buchghàlter, chtónichescyj хтонический, chtèonichescyj хтёнический),  
 х - chò / kh - другие случаи где этимология требует ch или kh (Czúrichò / Czyurikh Цюрих),  
 х - òh / xh - после согласных (sòhod / sxhod),  
 х - òch / kh - после "с/s" когда этимология требует ch (rasòchìmera / raskhimera расхимера),  
