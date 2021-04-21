@@ -201,7 +201,7 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 
 Под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc, Wèst / Уэст => Ẁêst / Уэ́ст, Ŵèst / У́эст.
 
-С помощью US-International можно ввести все буквы и твёрдые ударения (кроме ỲỳẀẁ - для этого нужно установить [United Kingdom (Extended) Layout](https://en.wikipedia.org/wiki/US_international_keyboard#United_Kingdom_(Extended)_Layout)). С помощью EurKEY можно ввести оставшиеся мягкие ударения.
+С помощью US-International можно ввести все буквы и твёрдые ударения (кроме ỲỳẀẁ - для этого нужно установить [United Kingdom (Extended) Layout](https://en.wikipedia.org/wiki/US_international_keyboard#United_Kingdom_(Extended)_Layout)). С помощью EurKEY можно ввести оставшиеся мягкие ударения. Сносным вариантом является установить языком системы русский, в русский язык ввода дополнительно добавить раскладку United Kingdom Extended Layout. Вторым языком сделать английский США. В него добавить раскладки US-International и EurKEY. Главные раскладки - русская и US-International, а до оставшихся двух можно добраться при желании. Благо в текущей версии латиницы ỲỳẀẁ не нужны.
 
 
 ### Про диграфы cz и gz
