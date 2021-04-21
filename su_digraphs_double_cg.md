@@ -9,7 +9,7 @@
 
 *После слэша дано написание в ASCII-only версии. Требования этимологии распространяются только на основу слова.*
 
-Новые буквы: áàóòýỳúùéèí ìçčćšśǧ (18 - ÁÀÓÒÝỲÚÙÉÈÍ ÌÇČĆŠŚǦ).
+Новые буквы: áàóòýỳúùéèí ìčćšśǧ (17 - ÁÀÓÒÝỲÚÙÉÈÍ ÌČĆŠŚǦ).
 
 а - a,  
 о - o,  
@@ -33,7 +33,7 @@
 ш - sh,  
 
 
-г - gh - перед зьъ или где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
+г - gh - перед зьъ или где этимология требует h (ghippopotam, zighzag, Buchghàlter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
 гэ - gae / gae,  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjeordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
 дж - jae, j[èìóàùýh] / jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jóker, ỳjýd / yyjhyd ыджыд - альтернативный вариант),  
@@ -48,21 +48,23 @@
 т - th - где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
 т - tò / th - перед з (otòzyv / othzyv),  
 ф - ph - где этимология требует ph (telephon),  
-х - çh / kh - где этимология требует ch или kh (çhimera / khimera, Loçhness),  
+х - ch[èìóàùý] / kh[eioauy] - перед гласными где этимология требует ch или kh (chìmera / khimera),  
+х - ch[\c][èìóàùý] / kh[\c][eioauy] - перед согласной+гласной где этимология требует ch или kh (Chrìstos, Lochnèss / Lokhness),  
+х - chò / kh - другие случаи где этимология требует ch или kh (Czúrichò / Czyurikh Цюрих),  
 х - òh / xh - после согласных (sòhod / sxhod),  
-х - òçh / kh - после "с/s" когда этимология требует ch (rasòçhimera / raskhimera расхимера),  
+х - òch / kh - после "с/s" когда этимология требует ch (rasòchìmera / raskhimera расхимера),  
 ч - c - перед ч (capricchio),  
 щ - sch (shch),  
-cч - sch (sçh / ssch),  
+cч - sch (sćh / ssch),  
 *(вторые варианты нужны только при выходе за словарь известных слов),*  
 шч - shjch (vesnushjchat),  
 шьч - запрещен,  
-ссч - ssçh / sssch,  
+ссч - ssćh / sssch,  
 у - w[èìóàùý] / wu - перед гласными, когда этимология требует w (Wótson / Wuotson Уотсон, Wèst / Wuest Уэст),  
 в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuàtt / Wuuatt Вуатт),  
 *(После Ww,Bb,Jj - Óó,Ýý не просто смягчают, а полностью меняют звучание предыдущей буквы. Как и Óó после Cc),*  
 
-к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Miçhaèlé),  
+к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Michàèlé),  
 к - k - когда этимология требует k (Keniá, kefir, koboljd, koala, karate),  
 кс - x - где этимология требует x, но только не на стыке морфем (taxi, Xeniá),  
 кз - xz - где этимология требует x, но только не на стыке морфем (exzamen),  
@@ -83,11 +85,11 @@ cч - sch (sçh / ssch),
 -ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
 ц - tz - где этимология требует t, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere, tzigan),  
 цц - tzz - когда этимология требует t, но не требует Cc,  
-ц - cz - где этимология требует z, но не требует t (Ponczi, Czúriçh / Czyurikh Цюрих),  
+ц - cz - где этимология требует z, но не требует t (Ponczi, Czúrichò / Czyurikh Цюрих),  
 цц - czz - когда этимология требует Cc или z, но не требует t (piczza),  
 ци - cý / cyi - где этимология требует Yy, но не на конце слова (cýan / cyian циан, cýcl),  
-цы - cý / cyi - на конце слова (otcý / otcyi),  
 цы - ci - в словах-исключениях (cipléonoc),  
+цы - cý / cyi - иначе (otcý / otcyi),  
 ц[иеё] - c[ie], céo / czyo - иначе (cedité, otcedité, accent, Ciceron, Cezaré, Céos / Czyos Цёс),  
 ц[аоу] - c[áóú] / cz[aou] - иначе (latinicá, jaicó),  
 ц - cz - иначе (zajacz, Czúané / Czyuanj Цюань),  
@@ -124,9 +126,9 @@ cч - sch (sçh / ssch),
 ы - ỳ / yy - в остальных случаях (ỳdgzyd / yydgzyd ыджыд, aỳ / ayy аы),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
-ghy,phy,thy,rhy,çhy(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
+ghy,phy,thy,rhy,chý(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
 gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,  
-*Примеры:* ghypotheza, phyzica, taçhyòny.  
+*Примеры:* ghypotheza, phyzica, tachýòny.  
 
 э - è / ae - после Аа (aèro / aaero, maèstro / maaestro),  
 э - ae / ae - когда этимология требует Aa (maer, Thaetcher, Aeppl, Aendý / Aendyi),  
@@ -272,13 +274,13 @@ JÊ ЙЭ (JIE), JÏ ЙИ (JII).
 
 А как можно использовать уже существующую клавиатуру в GBoard? Адаптировать её под письмо в стиле US-international. То есть, клавиатура должна иметь выделенные кнопки под апостроф и, возможно, грэйв. А так же она должна мочь при долгом нажатии печатать буквы с диакритикой, используемые в латинице (US-international тоже должна их печатать). Тогда если в словарь пользователя добавить импортом словарь слов в русской латинице с сокращениями ввода типа m'aso => máso, то сценарии печати на swype будут совпадать со сценариями печати в US-international.
 
-В моей текущей латинице я рассматриваю вариант использования акутов для мягкости, а грэйвов - для твёрдости (i,í - и, y,ì - ы, á - я, è - э). Использование Çhçh для этимологичного Хх так же весьма заманчиво. Но, стоит отметить, что при долгом нажатии нужны только частые буквы. А вот буквы для ударений и аббревиатур вполне можно печатать через подсказки специальных автозамен из личного словаря 'a' => ǎ (á под ударением), a' => â (a под ударением) - как предложено [тут](https://android.stackexchange.com/questions/224043/gboard-set-custom-unicode-characters-on-longpress-or-add-custom-keyboard-keys-o).
+В моей текущей латинице я рассматриваю вариант использования акутов для мягкости, а грэйвов - для твёрдости (i,í - и, y,ì - ы, á - я, è - э). Но, стоит отметить, что при долгом нажатии нужны только частые буквы. А вот буквы для ударений и аббревиатур вполне можно печатать через подсказки специальных автозамен из личного словаря 'a' => ǎ (á под ударением), a' => â (a под ударением) - как предложено [тут](https://android.stackexchange.com/questions/224043/gboard-set-custom-unicode-characters-on-longpress-or-add-custom-keyboard-keys-o).
 
 Точно так же как в US-international тоже обязательны только частые буквы, а буквы для ударений и аббревиатур можно использовать из EurKey (для удобного переключения между US-international и EurKey нужно дефолтным языком сделать русский - это позволит удалить дефолтную раскладку US). Приоритет должен быть у EurKey, т.к. он содержит неизменённую оригинальную раскладку, просто добавляет новые возможности через AltGr.
 
 ![EurKey](./EurKey.png).
 
-Интересными раскладками без Çç в GBoard являются следующие: Валлийский, Бенч, Покот, Хауса, Хилигайнон. Интересные, но без поддержки swype - Южно-боливийский кечуа. С Çç, но без без кнопки для грэйва - Кечуа. А в Пурепеча есть и то, и другое.
+Интересными раскладками в GBoard являются следующие: Валлийский, Бенч, Покот, Хауса, Хилигайнон, Пурепеча, Кечуа. Интересные, но без поддержки swype - Южно-боливийский кечуа.
 
 Так что Кечуа или Пурепеча из GBoard - идеальные кандидаты для переделки в US-international.
 
@@ -354,14 +356,12 @@ lédom - ledovyj
 
 Так же с заимствованиями из япоского, где yo - это ё (например, гё/gyo). Оно таким и остается в диакритической версии, а не становится éo.
 
-Так же с заимствованиями из языков, где Цц это Zz - в них cz не становится ç.
-
 
 ## Пример текста
 
 Piony I vasilécy vséo jesche rastut na poláne vozle derevni Péony, schitajuscheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
 
-Pjanyj master po projectu sdelal meçhanichescyj obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyúchité svoí oshibcy.
+Pjanyj master po projectu sdelal mechànichescyj obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyúchité svoí oshibcy.
 
 V pjese pro devushcu v zeléonom platjíce vse sadilisé na ladjí I plyli po recè. No tut iz lesa vyshel Dgèordgj Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
@@ -373,7 +373,7 @@ V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas 
 
 Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Cezaré" (lat. .Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On I nashéol vyhod iz situatzii.
 
-"Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij meçhanic Vasilij.
+"Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij mechànic Vasilij.
 
 Lúbimcem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumcy. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
