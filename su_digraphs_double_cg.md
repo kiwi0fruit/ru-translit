@@ -38,20 +38,20 @@
 г - gh - перед зьъ или где этимология требует h (ghippopotam, zighzag, Buchghàlter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
 гэ - gae / gae,  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjeordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
-дж - jae, j[èìóàùýh] / jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jóker, ỳjýd / yyjhyd ыджыд - альтернативный вариант),  
+дж - jae, j[èìóàùỳh] / jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
 ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
 ж - j - после ж/gj,  
 джж - jjh (hajjh),  
 в - bh - перед согласными или в конце слова, где этимология требует b (febhralé),  
-в - b[èìóàùýh] / bh - перед гласными где этимология требует b (sýmból / syimbhol, Býzantiá / Bhyzantija, Bàbýlon, djaból),  
+в - b[èìóàùỳh] / bh - перед гласными где этимология требует b (sýmból / syimbhol, Bỳzantiá / Bhyzantija, Bàbỳlon, djaból),  
 р - rh - где этимология требует rh (rhythm),  
 т - th - где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
 т - tò / th - перед з (otòzyv / othzyv),  
 ф - ph - где этимология требует ph (telephon),  
-х - ch[èìóàùý] / kh[eioauy] - перед гласными где этимология требует ch или kh (chìmera / khimera, chór),  
-х - ch[\c][èìóàùý] / kh[\c][eioauy] - перед согласной+гласной где этимология требует ch или kh (Chrìstos, Lochnèss / Lokhness, buchghàlter, chtónichescyj хтонический, chtèonichescyj хтёнический),  
+х - ch[èìóàùỳ] / kh[eioauy] - перед гласными где этимология требует ch или kh (chìmera / khimera, chór),  
+х - ch[\c][èìóàùỳ] / kh[\c][eioauy] - перед согласной+гласной где этимология требует ch или kh (Chrìstos, Lochnèss / Lokhness, buchghàlter, chtónichescyj хтонический, chtèonichescyj хтёнический),  
 х - chò / kh - другие случаи где этимология требует ch или kh (Czúrichò / Czyurikh Цюрих),  
 х - òh / xh - после согласных (sòhod / sxhod),  
 х - òch / kh - после "с/s" когда этимология требует ch (rasòchìmera / raskhimera расхимера),  
@@ -62,9 +62,9 @@ cч - sch (sćh / ssch),
 шч - shjch (vesnushjchat),  
 шьч - запрещен,  
 ссч - ssćh / sssch,  
-у - w[èìóàùý] / wu - перед гласными, когда этимология требует w (Wótson / Wuotson Уотсон, Wèst / Wuest Уэст),  
+у - w[èìóàùỳ] / wu - перед гласными, когда этимология требует w (Wótson / Wuotson Уотсон, Wèst / Wuest Уэст),  
 в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuàtt / Wuuatt Вуатт),  
-*(После Ww,Bb,Jj,CHch - Óó,Ýý не смягчают, а полностью меняют звучание предыдущей буквы. Как и Óó после Cc),*  
+*(После Ww,Bb,Jj,CHch - Óó не смягчает, а полностью меняет звучание предыдущей буквы. Как и Óó после Cc),*  
 
 к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Michàelé),  
 к - k - когда этимология требует k (Keniá, kefir, koboljd, koala, karate),  
@@ -113,7 +113,7 @@ cч - sch (sćh / ssch),
 я - á / ya - после согласных (sinája / sinyaja),  
 я - á / ja - после й, после "и" в окончаниях (Mariá / Marija, allilujá / allilujja),  
 я - ja - иначе (ja я, pjan),  
-*(já,jú,jé,jéo создают дополнительную йотацию, а jí не создаёт дополнительную йотацию, а jó,jý вообще джо,джы).*  
+*(já,jú,jé,jéo,jý создают дополнительную йотацию, а jí не создаёт дополнительную йотацию, а jó вообще джо).*  
 
 и - í / i - в начале слова перед гласной или йотом с заглавной буквы (Íacov / Iacov, Íesus / Iesus - исключение, ion / ion),  
 ии - íy / iy - в начале слова с заглавной буквы перед согласной (Íyda / Iyda),  
@@ -128,9 +128,9 @@ cч - sch (sćh / ssch),
 ы - ỳ / yy - в остальных случаях (ỳdgzyd / yydgzyd ыджыд, aỳ / ayy аы),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
-ghy,phy,thy,rhy,chý(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
+ghy,phy,thy,rhy,chỳ(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
 gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,  
-*Примеры:* ghypotheza, phyzica, tachýòny.  
+*Примеры:* ghypotheza, phyzica, tachỳony.  
 
 э - è / ae - после Аа (aèro / aaero, maèstro / maaestro),  
 э - ae / ae - когда этимология требует Aa (maer, Thaetcher, Aeppl, Aendý / Aendyi),  
