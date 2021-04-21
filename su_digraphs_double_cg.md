@@ -9,7 +9,7 @@
 
 *После слэша дано написание в ASCII-only версии. Требования этимологии распространяются только на основу слова.*
 
-Новые буквы: áàóòýúùéèí ìçčćšśǧ (17 - ÁÀÓÒÝÚÙÉÈÍ ÌÇČĆŠŚǦ).
+Новые буквы: áàóòýỳúùéèí ìçčćšśǧ (18 - ÁÀÓÒÝỲÚÙÉÈÍ ÌÇČĆŠŚǦ).
 
 а - a,  
 о - o,  
@@ -36,7 +36,7 @@
 г - gh - перед зьъ или где этимология требует h (ghippopotam, zighzag, Buçhghalter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
 гэ - gae / gae,  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjeordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
-дж - jae, j[èìòàùỳh] / jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jòker, yyjhyd ыджыд - альтернативный вариант),  
+дж - jae, j[èìóàùýh] / jh - где этимология требует - но не после д/d (Jaeims, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jóker, ỳjýd / yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
 ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
@@ -109,7 +109,7 @@ cч - sch (sçh / ssch),
 я - á / ya - после согласных (sinája / sinyaja),  
 я - á / ja - после й, после "и" в окончаниях (Mariá / Marija, allilujá / allilujja),  
 я - ja - иначе (ja я, pjan),  
-*(já,jú,jé,jéo,jý,jó создают дополнительную йотацию, а jí не создаёт дополнительную йотацию).*  
+*(já,jú,jé,jéo,jý создают дополнительную йотацию, а jí не создаёт дополнительную йотацию, а jó вообще джо).*  
 
 и - í / i - в начале слова перед гласной или йотом с заглавной буквы (Íacov / Iacov, Íesus / Iesus - исключение, ion / ion),  
 ии - íy / iy - в начале слова с заглавной буквы перед согласной (Íyda / Iyda),  
@@ -121,7 +121,7 @@ cч - sch (sçh / ssch),
 
 ы - ì / y - когда этимология требует i (obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj),  
 ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice),  
-ы - yy / yy - в остальных случаях (yydgzyd ыджыд, ayy аы),  
+ы - ỳ / yy - в остальных случаях (ỳdgzyd / yydgzyd ыджыд, aỳ / ayy аы),  
 *(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
 
 ghy,phy,thy,rhy,çhy(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
@@ -197,11 +197,11 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 * Ì ì (Ыы) => Î î ( Ì ì - этимологическое Ыы)
 * Ì ì (Ии) => Î î ( Ì ì - после дж-j-dg)
 * Í í (Ьь) — doesn't need (Í í - Ьь после согласных, но не Jj)
-* Ww (Уу) => Ŵŵ
+* Ww (Уу) => Ŵŵ (Wè => Ẁê)
 
-Под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc, Wèst / Уэст => Ŵêst / Уэ́ст, Ŵèst / У́эст.
+Под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc, Wèst / Уэст => Ẁêst / Уэ́ст, Ŵèst / У́эст.
 
-С помощью US-International можно ввести все буквы и твёрдые ударения. С помощью EurKEY можно ввести оставшиеся мягкие ударения.
+С помощью US-International можно ввести все буквы и твёрдые ударения (кроме ỲỳẀẁ - для этого нужно установить [United Kingdom (Extended) Layout](https://en.wikipedia.org/wiki/US_international_keyboard#United_Kingdom_(Extended)_Layout)). С помощью EurKEY можно ввести оставшиеся мягкие ударения.
 
 
 ### Про диграфы cz и gz
