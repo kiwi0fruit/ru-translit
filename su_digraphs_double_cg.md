@@ -44,7 +44,7 @@
 ж - z - после ж/gz (gzugzzit),  
 ж - j - после ж/gj,  
 джж - jjh (hajjh),  
-в - bw - перед согласными где этимология требует b (febwralé),  
+в - bw - перед согласными или в конце слова, где этимология требует b (febwralé),  
 в - b[èìóàùýh] / bh - перед гласными где этимология требует b (sýmból / syimbhol, Býzantiá / Bhyzantija, Bàbýlon, djaból),  
 р - rh - где этимология требует rh (rhythm),  
 т - th - где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
