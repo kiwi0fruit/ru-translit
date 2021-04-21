@@ -19,7 +19,7 @@
 
 Придумал в качестве развлечения ещё один транслит.
 
-UPD: [**Альтернативная более эстетичная версия (Русская латиница "Англо-латинский OK симулякр")**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_digraphs_double_cg.md)
+UPD: [**Альтернативная более эстетичная версия (Русская латиница "Латинский OK симулякр")**](https://github.com/kiwi0fruit/ru-translit/blob/main/su_digraphs_double_cg.md)
 
 Развлечением было удовлетворить ограничениям:
 
