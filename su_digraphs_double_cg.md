@@ -39,7 +39,7 @@
 гэ - gae - всегда,  
 гы - gy - всегда,  
 дж - dg[èìj] / dgj - где этимология требует (Dgèordgj / Dgjeordgj, Dgìuljetta / Dgjuljetta, Dgìovanni / Dgjovanni, dgìn / dgjin / джин, búdgèt / byudgjet, dgzé / dgzj джь, Dgèòrdgj / Dgjeeordgj / Джеордж, podgzidal, podgon, podgibaté, zagibaté, Sandgerdi / Sandgerdi),  
-дж - jae, j[èìóàùỳh] / jh - где этимология требует - но не после д/d (Jaejms, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант),  
+дж - jae, j[èìóàùỳh] / jh - где этимология требует - но не после д/d (Jaejms, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, Jèrsý, hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант),  
 дж - dj[...h] - где этимология требует (можно считать, что это особенность чтения),  
 ж - gj - где этимология требует - но не после д/d (gjurnal, degjavú дежавю, Gjeorgj Жорж),  
 ж - z - после ж/gz (gzugzzit),  
