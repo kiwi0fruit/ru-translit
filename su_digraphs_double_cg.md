@@ -158,8 +158,8 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 йо - (ò)jo / jio (Seórckòjosen / Syorckjiosen Сёркйосен),  
 йи - jí / jii (rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip),  
 йы - jy (jyí / jyyi йыи),  
-й - i - после гласных в конце слова - кроме ий (moi мой, pojmal поймал, zaica заика, dui дуй, crasnyi),  
-й - j - иначе - в т.ч. ий (allilujá / allilujja, sinij),  
+й - i - после гласных в конце слова - кроме ий,ый,уй (moi мой, pojmal поймал, zaica заика),  
+й - j - иначе - в т.ч. ий,ый,уй (allilujá / allilujja, sinij, crasnyj, duj дуй),  
 
 
 ### Дополнительные примеры
