@@ -117,11 +117,11 @@ cч - sch (sćh / ssch),
 
 и - í / i - в начале слова перед гласной или йотом с заглавной буквы (Íacov / Iacov, Íesus / Iesus - исключение, ion / ion),  
 ии - íy / iy - в начале слова с заглавной буквы перед согласной (Íyda / Iyda),  
-и - í / ii - после гласных кроме "и", и после й (moí / moii мои, zaíca / zaiica заика, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип),  
+и - í / ii - после гласных в конце слова, кроме "и", или просто после й (moí / moii мои, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип),  
 и - í / yi - после ь (platjíce / platjyice),  
 и - y - в исключениях где этимология требует "y" и где нельзя спутать с "ы" (Yggdrasilé Иггдрасиль),  
 и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, gýmanziá, gýroscop),  
-и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir),  
+и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir, zaica заика),  
 
 ы - ì / y - когда этимология требует i (obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj),  
 ы - y / y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice),  
@@ -158,8 +158,8 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 йо - (ò)jo / jio (Seórckòjosen / Syorckjiosen Сёркйосен),  
 йи - jí / jii (rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip),  
 йы - jy (jyí / jyyi йыи),  
-й - i - после гласных - кроме ий,ый (moi мой, poimal поймал, zaíca / zaiica заика, dui дуй),  
-й - j - иначе - в т.ч. ий,ый (allilujá / allilujja, sinij, crasnyj),  
+й - i - после гласных в конце слова - кроме ий (moi мой, pojmal поймал, zaica заика, dui дуй, crasnyi),  
+й - j - иначе - в т.ч. ий (allilujá / allilujja, sinij),  
 
 
 ### Дополнительные примеры
