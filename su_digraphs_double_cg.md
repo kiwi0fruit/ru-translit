@@ -42,7 +42,7 @@
 ж - z - после ж/gz (gzugzzit),  
 ж - j - после ж/gj,  
 джж - jjh (hajjh),  
-в - bh - где этимология требует b (sýmbhol, febhralé, Bhyzantiá, Bhabhylon),  
+в - b[èìóàùýh] / bh - где этимология требует b (sýmból / syimbhol, febhralé, Býzantiá / Byizantija, Bàbýlon),  
 р - rh - где этимология требует rh (rhythm),  
 т - th - где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
 т - tò / th - перед з (otòzyv / othzyv),  
@@ -57,9 +57,9 @@ cч - sch (sçh / ssch),
 шч - shjch (vesnushjchat),  
 шьч - запрещен,  
 ссч - ssçh / sssch,  
-у - w[èìòàùỳ] / wu - перед гласными, когда этимология требует w (Wòtson / Wuotson Уотсон, Wèst / Wuest Уэст),  
+у - w[èìóàùý] / wu - перед гласными, когда этимология требует w (Wótson / Wuotson Уотсон, Wèst / Wuest Уэст),  
 в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, Wuàtt / Wuuatt Вуатт),  
-*(то есть, после j и w буква ò становится полногласной, после других согласных - это твёрдый знак),*  
+*(После Ww и Bb - Óó и Ýý не смягчают, а меняют звучание предыдущей буквы),*  
 
 к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Miçhaèlé),  
 к - k - когда этимология требует k (Keniá, kefir, koboljd, koala, karate),  
