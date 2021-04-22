@@ -93,7 +93,7 @@
 цы - ci - в словах-исключениях (cipléonoc),  
 цы - cý / cyi - иначе (otcý / otcyi),  
 ц[иеё] - c[ie], céo / czyo - иначе (cedité, otcedité, accent, Ciceron, Cezaré, Céos / Czyos Цёс),  
-ц[аоу] - cí[aou] / cy[aou] - иначе (latinicía, jajcío / jajcyo),  
+ц[аоу] - c[áóú] / cy[aou] - иначе (latinicá, jajcó / jajcyo),  
 ц - cz - иначе (zajacz, Czúané / Czyuanj Цюань),  
 
 е - e - после согласных (leto),  
@@ -365,9 +365,9 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesche I rodilisé v odin dené, 22 
 
 – Frodo, maléchic moi, – scazal cac-to raz Biljbo, – perebiralsá by ty co mne. Gládishé, I dené rogzdeniá vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadcíatju I tridcíatju tremá, posle chego hobbit naconecz mogzet schitaté sebá vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadcátju I tridcátju tremá, posle chego hobbit naconecz mogzet schitaté sebá vzroslym.
 
-Proshlo jesche dvenadcíaté let. V Zasumcah cagzdyj god veselo otmechali dvojnoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridcíatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitscy.
+Proshlo jesche dvenadcáté let. V Zasumcah cagzdyj god veselo otmechali dvojnoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridcátitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitscy.
 
 Imejetsá nescoléco ghypothez proisòhogzdeniá sobacy, naiboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
 
@@ -377,7 +377,7 @@ Alexandr Pushcyn — Zimneje utro
 
 Moroz I solnce; dené chudesnyj!  
 Jesche ty dremleshé, drug prelestnyj —  
-Pora, crasavicía, prosnisé:  
+Pora, crasavicá, prosnisé:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Avrory,  
 Zvezdoju severa javisé!  
