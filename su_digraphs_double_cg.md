@@ -42,7 +42,7 @@
 жз - gjz,  
 ж - gj - где этимология требует g/ж или j/ж - но не после d или перед h (gjurnal, degjavú дежавю, Gjeorgj Жорж),  
 дж - dg[èì] / dgj - где этимология требует dg (búdgèt / byudgjet, podgzidal, ogzidal, podgibaté, zagibaté, podgon, Sandgerdi / Сандгерди),  
-дж - g[èì] / gjh - где этимология требует g - но не после d (Gèorgjh / Gjheorgjh Джордж, Gìuljetta / Gjhuljetta, Gìovanni / Gjhovanni, gìn / gjhin / джин, Gèòrgjh / Gjheeorgjh / Джеордж),  
+дж - g[èì] / gjh - где этимология требует g - но не после d (Gèorgjh / Gjhyorgjh Джордж, Gìuljetta / Gjhuljetta, Gìovanni / Gjhovanni, gìn / gjhin / джин, Gèòrgjh / Gjheorgjh / Джеордж),  
 дж - jae, j[èìóàùỳh] / jh - где этимология требует - но не после d,g (Jaejms, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, Jèrsý, hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант),  
 дж - djae, dj[èìóàùỳh] / djh - где этимология требует dj,  
 ж - z - после ж/gz (gzugzzit),  
