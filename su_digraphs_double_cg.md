@@ -64,8 +64,8 @@
 шьч - запрещен,  
 ссч - ssčh / sssch,  
 у - ẁ / wu - перед гласными когда этимология требует w (Ẁotson / Wuotson Уотсон, Ẁest / Wuest Уэст, Wuàtt / Wuuatt Вуатт),  
-у - wu - когда этимология требует w (brawuzer браузер, brawùzer / brawuuzer бравузер, ударение: braŵuzer, brawûzer),  
-в - w - когда этимология требует w (Watson Ватсон, Watt Ватт),  
+у - wu - когда этимология требует w (brawuzer браузер, ударение: braŵuzer),  
+в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, brawùzer / brawuuzer бравузер, ударение: brawûzer),  
 *(После Bb,Jj,CHch - Óó не смягчает, а полностью меняет звучание предыдущей буквы. Как и Óó после Cc),*  
 
 к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Majckl, за компанию: Mishelé, Michàelé),  
