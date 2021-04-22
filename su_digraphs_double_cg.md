@@ -203,10 +203,10 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 * Ì ì (Ии) => Î î ( Ì ì - после дж-j-dg)
 * Í í (Ьь) — doesn't need (Í í - Ьь после согласных, но не Jj)
 * Ww (Уу) => Ŵŵ
-* Wè (Уэ) => Ẁê
+* Wè (Уэ) => Ẁê (Wèst / Уэст => Ẁêst / Уэ́ст, Ŵèst / У́эст)
 * Jà (Джа) => Ĵâ
 
-Под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc, Wèst / Уэст => Ẁêst / Уэ́ст, Ŵèst / У́эст.
+Под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc.
 
 С помощью US-International можно ввести все буквы и твёрдые ударения (кроме ỲỳẀẁ - для этого нужно установить [United Kingdom (Extended) Layout](https://en.wikipedia.org/wiki/US_international_keyboard#United_Kingdom_(Extended)_Layout), и Ĵĵ - для этого нужно установить [Canadian Multilingual Standard (CSA keyboard)](https://en.wikipedia.org/wiki/CSA_keyboard). С помощью EurKEY можно ввести оставшиеся мягкие ударения. Сносным вариантом является установить языком системы русский, в русский язык ввода дополнительно добавить раскладку United Kingdom Extended Layout. Вторым языком сделать английский США. В него добавить раскладки US-International и EurKEY. Главные раскладки - русская и US-International, а до оставшихся двух можно добраться при желании.
 
