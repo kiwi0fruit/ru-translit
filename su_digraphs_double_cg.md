@@ -38,6 +38,7 @@
 г - gh - перед зьъ или где этимология требует h (ghippopotam, zighzag, Buchghàlter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
 гэ - gae - всегда,  
 гы - gy - всегда,  
+ж - gz - всегда перед ьъ,  
 ж - gj - где этимология требует g/ж или j/ж - но не после d или перед h (gjurnal, degjavú дежавю, Gjeorgj Жорж),  
 дж - dg[èì] / dgj - где этимология требует dg (búdgèt / byudgjet, podgzidal, ogzidal, podgibaté, zagibaté, podgon, dgzé / dgzj джь, Sandgerdi / Сандгерди),  
 дж - g[èì] / gjh - где этимология требует g - но не после d (Gèorgjh / Gjheorgjh Джордж, Gìuljetta / Gjhuljetta, Gìovanni / Gjhovanni, gìn / gjhin / джин, Gèòrgjh / Gjheeorgjh / Джеордж),  
