@@ -93,7 +93,7 @@
 цы - ci - в словах-исключениях (cipléonoc),  
 цы - cý / cyi - иначе (otcý / otcyi),  
 ц[иеё] - c[ie], céo / czyo - иначе (cedité, otcedité, accent, Ciceron, Cezaré, Céos / Czyos Цёс),  
-ц[аоу] - cí[aou] / cy[aou] - иначе (latinicía, jajcío),  
+ц[аоу] - cí[aou] / cy[aou] - иначе (latinicía, jajcío / jajcyo),  
 ц - cz - иначе (zajacz, Czúané / Czyuanj Цюань),  
 
 е - e - после согласных (leto),  
