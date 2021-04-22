@@ -63,7 +63,8 @@
 шч - shéch / shjch (vesnushjchat),  
 шьч - запрещен,  
 ссч - ssčh / sssch,  
-у - ẁ / wu - перед гласными, когда этимология требует w (Ẁotson / Wuotson Уотсон, Ẁest / Wuest Уэст, Wuàtt / Wuuatt Вуатт),  
+у - ẁ / wu - перед гласными когда этимология требует w (Ẁotson / Wuotson Уотсон, Ẁest / Wuest Уэст, Wuàtt / Wuuatt Вуатт),  
+у - wu - когда этимология требует w (brawuzer браузер, brawùzer / brawuuzer бравузер, ударение: braŵuzer, brawûzer),  
 в - w - когда этимология требует w (Watson Ватсон, Watt Ватт),  
 *(После Bb,Jj,CHch - Óó не смягчает, а полностью меняет звучание предыдущей буквы. Как и Óó после Cc),*  
 
