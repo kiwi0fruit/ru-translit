@@ -197,18 +197,19 @@ gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,
 * Uu, Ùù (Уу) => Ûû (Ùù - отдельная от диграфов Уу)
 * Úú (Юю) => Ǔǔ
 * Yy (Ыы) => Ŷŷ
-* Ýý (Ии) => YÎyî (Ýý - Ии греческой этимологии)
+* Ýý (Ии) => Y̌y̌ / Yîyî (Ýý - Ии греческой этимологии, Y̌y̌ использует комбинированные символы)
 * I i, Í í (Ии) => Ǐ ǐ ( Í í - Ии, которое анти-Ll)
 * Ì ì (Ыы) => Î î ( Ì ì - этимологическое Ыы)
 * Ì ì (Ии) => Î î ( Ì ì - после дж-j-dg)
 * Í í (Ьь) — doesn't need (Í í - Ьь после согласных, но не Jj)
 * Ww (Уу) => Ŵŵ
-* Wè (Уэ) => Ẁê (Wèst / Уэст => Ẁêst / Уэ́ст, Ŵèst / У́эст)
-* Jà (Джа) => Ĵâ
+* Wè (Уэ) => Ẁê (Ẁẁ)
+* Jà (Джа) => Ĵâ / Jhâ (Ĵĵ)
+* Bà (Ва) => B̂â / Bhâ (B̂b̂ использует комбинированные символы)
 
-Под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc.
+Под ударением: sýstem => syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc, Wèst / Уэст => Ẁêst / Уэ́ст, Ŵèst / У́эст.
 
-С помощью US-International можно ввести все буквы и твёрдые ударения (кроме ỲỳẀẁ - для этого нужно установить [United Kingdom (Extended) Layout](https://en.wikipedia.org/wiki/US_international_keyboard#United_Kingdom_(Extended)_Layout), и Ĵĵ - для этого нужно установить [Canadian Multilingual Standard (CSA keyboard)](https://en.wikipedia.org/wiki/CSA_keyboard). С помощью EurKEY можно ввести оставшиеся мягкие ударения. Сносным вариантом является установить языком системы русский, в русский язык ввода дополнительно добавить раскладку United Kingdom Extended Layout. Вторым языком сделать английский США. В него добавить раскладки US-International и EurKEY. Главные раскладки - русская и US-International, а до оставшихся двух можно добраться при желании.
+С помощью US-International можно ввести все буквы и твёрдые ударения. Кроме ỲỳẀẁ - для этого нужно установить [United Kingdom (Extended) Layout](https://en.wikipedia.org/wiki/US_international_keyboard#United_Kingdom_(Extended)_Layout), Ĵĵ - для этого нужно установить [Canadian Multilingual Standard (CSA keyboard)](https://en.wikipedia.org/wiki/CSA_keyboard) и Y̌y̌B̂b̂ - их можно скопировать или использовать запасной диграф. С помощью EurKEY можно ввести оставшиеся мягкие ударения. Сносным вариантом является установить языком системы русский, в русский язык ввода дополнительно добавить раскладку United Kingdom Extended Layout. Вторым языком сделать английский США. В него добавить раскладки US-International и EurKEY. Главные раскладки - русская и US-International, а до оставшихся двух можно добраться при желании.
 
 
 ### Про диграфы cz и gz
