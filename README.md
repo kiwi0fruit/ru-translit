@@ -310,7 +310,9 @@ SČI СЧИ (SChI), ŚI ЩИ (SchI), SČ СЧ (SCh), ŚU ЩУ (SchU),
 CI ЦИ, ČI ЧИ (ChI), ŠI ШИ (ShI), SHI СХИ, ŚI ЩИ (SchI),  
 JÈ ЙЭ (JEh), JÉ ЙЕ (JJE), JÍ ЙИ (JII), JÀ ЙА (JIA).
 
-ÉGÊ ЕГЭ (JEGE), OBGJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), GJÊK ЖЭК (GJEK), GJKH ЖКХ, NHL НХЛ, KHL КХЛ, ÉKA ЕКА (JEKA), FIÁ ФИЯ (FIJA), CÉRN ЦЕРН (CJERN), OBSÉ ОБСЕ (OBSJE), GIBDD ГИБДД, ChIM ЧИМ.
+ÉGÈ ЕГЭ (JEGEh), OBǦ ОБЖ (OBGj), ĆPU ЦПУ (CPU), ČS ЧС (ChS), SŠA США (SShA), ÈÈG ЭЭГ (EhEhG), ǦÈK ЖЭК (GjEhK), ǦKH ЖКХ (GjKH), NHL НХЛ, KHL КХЛ, ÉKA ЕКА (JEKA), FIÁ ФИЯ (FIJA), CERN ЦЕРН, OBSE ОБСЕ, GIBDD ГИБДД, ČIM ЧИМ (ChIM).
+
+Возможно использование исключений типа Nju York => NY вместо NJ, т.к. Y свободна для смысла йота в аббревиатурах.
 
 
 ### Набор на смартфоне
