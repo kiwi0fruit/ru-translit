@@ -296,21 +296,18 @@ jè (дже) => jẽ / jhě, je (е) => jê, Jà (Джа) => Jã / Jhâ, Bà (В
 
 *Буква Cc называется Це и в аббревиатуры идёт как Ć/C. И обозначает она там начальнй __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются K. Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov. ĆPU.*  
 
-GJI ЖИ, GJZL ЖЗЛ,  
-GZI ГЗИ, TZ ТЗ,  
-SZI СЗИ,  
-ShÏ ШИ (ShI),  
-SHI СХИ,  
-ÉGÊ ЕГЭ (JEGE),  
-GÉ ГЕ (GhJE), GÊ ГЭ (GE), GÏ ГИ (GI), GY ГЫ,  
-GJÉ ЖЕ (GJJE), GJÊ ЖЭ (GJE), GJI ЖИ, GJŸ ЖЫ (GJYY), GzA ГзА,  
+ǦI ЖИ (GjI), ǦZL ЖЗЛ (GjZL), GZI ГЗИ, TZ ТЗ,  
+SZI СЗИ, ŠI ШИ (ShI), SHI СХИ,  
+ÉGÈ ЕГЭ (JEGEh),  
+GE ГЕ, GÈ ГЭ (GEh), GI ГИ, GỲ ГЫ (GYh),  
+ǦE ЖЕ (GjE), ǦÈ ЖЭ (GjEh), ǦI ЖИ (GjI), ǦỲ ЖЫ (GjYh), GzA ГзА,  
 CÏ ЦИ (CI), CZI ЦЗИ, CA ЦА, CZA ЦЗА, CzA ЦзА,  
 
-KÉ КЕ (KJE), KÊ КЭ (KaE), KÏ КИ (KI),  
+KE КЕ, KÈ КЭ (KEh), KI КИ,  
 GH ГХ, GZ ГЗ, KZ КЗ, KHI КХИ, NH НХ, NHI НХИ,  
-SChÏ СЧИ (SChI), SÇI ЩИ (ShchI), SCh СЧ, SÇU ЩУ (ShchU),  
-CÏ ЦИ (CI), ChÏ ЧИ (ChI), ShÏ ШИ (ShI), SHI СХИ, SÇI ЩИ (ShchI),  
-JÊ ЙЭ (JIE), JÏ ЙИ (JII).
+SČI СЧИ (SChI), ŚI ЩИ (SchI), SČ СЧ (SCh), ŚU ЩУ (SchU),  
+CI ЦИ, ČI ЧИ (ChI), ŠI ШИ (ShI), SHI СХИ, ŚI ЩИ (SchI),  
+JÈ ЙЭ (JEh), JÉ ЙЕ (JJE), JII ЙИ, JIA ЙА.
 
 ÉGÊ ЕГЭ (JEGE), OBGJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), GJÊK ЖЭК (GJEK), GJKH ЖКХ, NHL НХЛ, KHL КХЛ, ÉKA ЕКА (JEKA), FIÁ ФИЯ (FIJA), CÉRN ЦЕРН (CJERN), OBSÉ ОБСЕ (OBSJE), GIBDD ГИБДД, ChIM ЧИМ.
 
