@@ -56,8 +56,7 @@
 | в | b[èìóàùỳ] / bh | перед гласными где этимология требует b | sýmból / syimbhol, Bỳzantiá / Bhyzantija, Bàbỳlon, djaból |
 | р | rh | где этимология требует rh | rhythm |
 | т | tò / th | перед з | otòzyv / othzyv |
-| т | th | где этимология требует th | mathematica, theoriá, theologiá, Theodor |
-|     |     |     | *"тъ" с использованием th не бывает* |
+| т | th | где этимология требует th, "тъ" с использованием th не бывает | mathematica, theoriá, theologiá, Theodor, orthogonalényj |
 | ф | th[èìòóàùỳ] / fh | где этимология требует th | Thèodor / Fhyodor Фёдор, orthógraphiá орфография, scythò скиф, scyth - скит |
 | ф | ph | где этимология требует ph | telephon |
 | х | ch[èìòóàùỳ] / kh | где этимология требует ch или kh | chìmera / khimera, chór, Czúrichò / Czyurikh Цюрих |
