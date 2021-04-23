@@ -114,7 +114,7 @@
 | ё | yo / yo | после согласных в заимствованиях, где этимология требует именно yo |     |
 | ё | éo / yo | после согласных | méod / myod, geograph географ |
 | ё | éo / jeo | после й, после "и" в окончаниях | mumiéo / mumijeo, mumiéò / mumijeeo, jéogz / jjeogz йёж, jéògz / jjeeogz йеож |
-| ё | jo | после "е" | jejo, nejo |
+| ё | jo | после "е" | jejo, nejo, neio / нейо |
 | ё | jeo | иначе | jeogz, podòjeom / podjieom, pjeom, pjeòm / pjeeom пьеом |
 | ещё | ещё$ / (j)esche$ | исключение для ещё на конце слова | jesche ещё, jeshchíe / jeshchiie ещьэ - звучит как "ще" |
 | ю | yu / yu | после согласных в заимствованиях, где этимология требует именно yu |     |
