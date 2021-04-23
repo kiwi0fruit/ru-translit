@@ -386,7 +386,7 @@ Piony I vasilécy vséo jesche rastut na poláne vozle derevni Péony, schitajus
 
 Pjanyj master po projectu sdelal mechànichescyj obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyúchité svoí oshibcy.
 
-V pjese pro devushcu v zeléonom platjíce vse sadilisé na ladjí I plyli po recè. No tut iz lesa vyshel Gèorgjh Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjíce vse sadilisé na ladjí I plyli po recè. No tut iz lesa vyshel Gèorgò Maximus, coné v paléto I rvanyh djìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
