@@ -175,7 +175,7 @@
 | й | i | после гласной перед гласной, но не перед "о" | aia айа, eien эйэн |
 | й | j | перед "о" **не** после согласной | jod, major |
 | й | ji | перед нейотированными гласными ауэ - кроме иыо | sòjie / sqhjie сйэ, sòie съиэ |
-| йо | (ò)jo / jio |     | Séorckòjosen / Syorckjiosen Сёркйосен |
+| йо | (ò)jo / jio |     | Séorkòjosen / Syorkjiosen Сёркйосен |
 | йи | jí / jii |     | rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip |
 | йы | jy |     | jyí / jyyi йыи |
 | й | i | после гласных в конце слова - кроме ий,ый,уй | moi мой, pojmal поймал, zaica заика |
