@@ -51,7 +51,7 @@
 | дж | djae, dj[èìòóàùỳh] / djh | где этимология требует dj |     |
 | ж | z | после ж/gz |     | gzugzzit |
 | ж | j | после ж/gj |     |
-| джж | jjh |   | hajjh |
+| джж | jjò / jjh |   | hajjò / hajjh |
 | в | bh | перед согласными или в конце слова, где этимология требует b | febhralé |
 | в | b[èìóàùỳ] / bh | перед гласными где этимология требует b | sýmból / syimbhol, Bỳzantiá / Bhyzantija, Bàbỳlon, djaból |
 | р | rh | где этимология требует rh | rhythm |
