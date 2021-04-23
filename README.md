@@ -37,136 +37,150 @@
 ш - sh,  
 
 
-г - gh - перед зьъ или где этимология требует h (ghippopotam, zighzag, Buchghàlter / Bukhghalter, Alighjeri Алигьери, adgheziá),  
-гэ - gae - всегда,  
-гы - gy - всегда,  
-ж - gz - всегда перед ьъ (dgzé / dgzj джь),  
-жз - gjz,  
-ж - gj - где этимология требует g/ж или j/ж - но не после d или перед h (gjurnal, degjavú дежавю, Gjeorgj Жорж),  
-дж - dg[èìỳ] / dgj - где этимология требует dg (búdgèt / byudgjet, podgzidal, ogzidal, podgibaté, zagibaté, podgon, Sandgerdi / Сандгерди),  
-дж - g[èìỳò] / gjh - где этимология требует g - но не после d (Gèorgò / Gjhyorgjh Джордж, Gìuljetta / Gjhuljetta, Gìovanni / Gjhovanni, gìn / gjhin / джин, Gèòrgò / Gjheorgjh / Джеордж, Energỳ / Energjhy Энерджи),  
-дж - jae, j[èìòóàùỳh] / jh - где этимология требует - но не после d,g (Jaejms, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, Jèrsý, hajjò / hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант),  
-дж - djae, dj[èìòóàùỳh] / djh - где этимология требует dj,  
-ж - z - после ж/gz (gzugzzit),  
-ж - j - после ж/gj,  
-джж - jjh (hajjh),  
-в - bh - перед согласными или в конце слова, где этимология требует b (febhralé),  
-в - b[èìóàùỳ] / bh - перед гласными где этимология требует b (sýmból / syimbhol, Bỳzantiá / Bhyzantija, Bàbỳlon, djaból),  
-р - rh - где этимология требует rh (rhythm),  
-т - tò / th - перед з (otòzyv / othzyv),  
-т - th - где этимология требует th (mathematica, theoriá, theologiá, Theodor),  
-*("тъ" с использованием th не бывает),*  
-ф - th[èìòóàùỳ] / fh - где этимология требует th (Thèodor / Fhyodor Фёдор, orthógraphiá орфография, scythò скиф, scyth - скит),  
-ф - ph - где этимология требует ph (telephon),  
-х - ch[èìòóàùỳ] / kh - где этимология требует ch или kh (chìmera / khimera, chór, Czúrichò / Czyurikh Цюрих),  
-х - ch[\c][èìóàùỳ] / kh[\c][eioauy] - перед согласной+гласной где этимология требует ch или kh (Chrìstos, Lochnèss / Lokhness, Lochònèss / Lokhnuess, Lochònaes / Lokhnaess, Lochénèss / Lochnuess Лочнэс, buchghàlter, chtónichescyj хтонический, chtèonichescyj хтёнический),  
-х - òh / xh - после согласных (sòhod / sxhod),  
-х - òch / kh - после "с/s" когда этимология требует ch (rasòchìmera / raskhimera расхимера),  
-ч - c - перед ч (capricchio),  
-щ - sch (shch),  
-сч - sch (sçh / ssch), ссч - ssçh / sssch,  
-*(вторые варианты нужны только при выходе за словарь известных слов),*  
-шч - shéch / shjch (vesnushéchat),  
-шьч - запрещен,  
-у - ẁ / wu - перед гласными когда этимология требует w (Ẁotson / Wuotson Уотсон, Ẁest / Wuest Уэст, braẁuzer / brawuuzer брауузер, ударение: braŵuzer, braẁûzer),  
-у - wu - когда этимология требует w (brawuzer браузер, ударение: braŵzer),  
-в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, brawùzer / brawwuzer бравузер, ударение: brawûzer, Wùatt / Wwuatt Вуатт),  
-*(После Bb,Jj,CHch - Óó не смягчает, а полностью меняет звучание предыдущей буквы. Как и Óó после Cc),*  
-*(Специальные комбинации, чьё звучание изменяется буквами èìòóàùỳ: b,th,ch,j,g,dj,dg, звучание **b НЕ** меняется буквой ò),*  
+|     |     |     |     |
+| --- | --- | --- | --- |
+| г | gh | перед зьъ или где этимология требует h | ghippopotam, zighzag, Buchghàlter / Bukhghalter, Alighjeri Алигьери, adgheziá |
+| гэ | gae | всегда |     |
+| гы | gy | всегда |     |
+| ж | gz | всегда перед ьъ | dgzé / dgzj джь |
+| жз | gjz |     |     |
+| ж | gj | где этимология требует g/ж или j/ж - но не после d или перед h | gjurnal, degjavú дежавю, Gjeorgj Жорж |
+| дж | dg[èìỳ] / dgj | где этимология требует dg | búdgèt / byudgjet, podgzidal, ogzidal, podgibaté, zagibaté, podgon, Sandgerdi / Сандгерди |
+| дж | g[èìỳò] / gjh | где этимология требует g - но не после d | Gèorgò / Gjhyorgjh Джордж, Gìuljetta / Gjhuljetta, Gìovanni / Gjhovanni, gìn / gjhin / джин, Gèòrgò / Gjheorgjh / Джеордж, Energỳ / Energjhy Энерджи |
+| дж | jae, j[èìòóàùỳh] / jh | где этимология требует - но не после d,g | Jaejms, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, Jèrsý, hajjò / hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант |
+| дж | djae, dj[èìòóàùỳh] / djh | где этимология требует dj |     |
+| ж | z | после ж/gz |     | gzugzzit |
+| ж | j | после ж/gj |     |
+| джж | jjh |   | hajjh |
+| в | bh | перед согласными или в конце слова, где этимология требует b | febhralé |
+| в | b[èìóàùỳ] / bh | перед гласными где этимология требует b | sýmból / syimbhol, Bỳzantiá / Bhyzantija, Bàbỳlon, djaból |
+| р | rh | где этимология требует rh | rhythm |
+| т | tò / th | перед з | otòzyv / othzyv |
+| т | th | где этимология требует th | mathematica, theoriá, theologiá, Theodor |
+|     |     |     | *"тъ" с использованием th не бывает* |
+| ф | th[èìòóàùỳ] / fh | где этимология требует th | Thèodor / Fhyodor Фёдор, orthógraphiá орфография, scythò скиф, scyth - скит |
+| ф | ph | где этимология требует ph | telephon |
+| х | ch[èìòóàùỳ] / kh | где этимология требует ch или kh | chìmera / khimera, chór, Czúrichò / Czyurikh Цюрих |
+| х | ch[\c][èìóàùỳ] / kh[\c][eioauy] | перед согласной+гласной где этимология требует ch или kh | Chrìstos, Lochnèss / Lokhness, Lochònèss / Lokhnuess, Lochònaes / Lokhnaess, Lochénèss / Lochnuess Лочнэс, buchghàlter, chtónichescyj хтонический, chtèonichescyj хтёнический |
+| х | òh / xh | после согласных | sòhod / sxhod |
+| х | òch / kh | после "с/s" когда этимология требует ch | rasòchìmera / raskhimera расхимера |
+| ч | c | перед ч | capricchio |
+| щ | sch (shch) |     |     |
+| сч | sch (sçh / ssch) |     |     |
+| ссч | ssçh / sssch |     |     |
+|     |     |     | вторые варианты нужны только при выходе за словарь известных слов* |
+| шч | shéch / shjch |      | vesnushéchat |
+| шьч | запрещен |     |     |
+| у | ẁ / wu | перед гласными когда этимология требует w | Ẁotson / Wuotson Уотсон, Ẁest / Wuest Уэст, braẁuzer / brawuuzer брауузер, ударение: braŵuzer, braẁûzer |
+| у | wu | когда этимология требует w | brawuzer браузер, ударение: braŵzer |
+| в | w | когда этимология требует w | Watson Ватсон, Watt Ватт, brawùzer / brawwuzer бравузер, ударение: brawûzer, Wùatt / Wwuatt Вуатт |
+|     |     |     | *После Bb,Jj,CHch - Óó не смягчает, а полностью меняет звучание предыдущей буквы. Как и Óó после Cc.* |
+|     |     |     | *Специальные комбинации, чьё звучание изменяется буквами èìòóàùỳ: b,th,ch,j,g,dj,dg, звучание **b НЕ** меняется буквой ò.* |
+|     |     |     |     |
+|     |     |     |     |
+| к | ck | когда этимология требует ck или ch | hockei - исключение, Mackiavelli, Majckl, за компанию: Mishelé, Michàelé |
+| к | k | когда этимология требует k | Keniá, kefir, koboljd, koala, karate |
+| кс | x | где этимология требует x, но только не на стыке морфем | taxi, Xeniá |
+| кз | xz | где этимология требует x, но только не на стыке морфем | exzamen |
+| кз | ckz | иначе | eckzema |
+| кх | ckh |    | sickh |
+| кв | qv | когда этимология требует q | aqvarium |
+| ки | cì / cui | где этимология требует ci | cìno / cuino кино, cìnematograph |
+| ки | cy |     | recy, reca |
+| ке | cè / cue |     | ocèan / ocuean, cèntavr / cuentavr, v recè / v recue |
+| кы | cky |     | alenéckyj |
+| кэ | cae | всегда |       |
+| к | c | иначе |     |
+| к[иеяё] | qú[ieao] / qk[ie],qky[ao] | когда этимология требует qu | marqúiz, teqúila, banqúir, qúilé, maqúet, piqúet, liqúor, anqúeta |
+| к[оа] | qù[oa] / qk[oa] | когда этимология требует qu | qùarantin |
+|     |     | *Примеры:* | ocèan, cèntavr, cìno кино, cìnematograph, cyber, cysta киста, cìrasa кираса, ascèt аскет, ancèr анкер, scèptic скептик, Cyrill, Cypr, scyf, cyt кит, cynolog |
+|     |     |     |     |
+|     |     |     |     |
+| -ция | -tziá / -tzija | где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму | fractziá, militziá, militzai, politziá, instructziá |
+| ц | tz | где этимология требует t, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion | ratzion, tzundere, tzigan |
+| цц | tzz | когда этимология требует t, но не требует Cc |     |
+| ц | cz | где этимология требует z, но не требует t | Ponczi, Czúrichò / Czyurikh Цюрих |
+| цц | czz | когда этимология требует Cc или z, но не требует t | piczza |
+| ци | cý / cyi | где этимология требует Yy, но не на конце слова | cýan / cyian циан, cýcl |
+| цы | ci | в словах-исключениях | cipléonoc |
+| цы | cý / cyi | иначе | otcý / otcyi |
+| ц[иеё] | c[ie], céo / czyo | иначе | cedité, otcedité, accent, Ciceron, Cezaré, Céos / Czyos Цёс |
+| ц[аоу] | c[áóú] / cy[aou] | иначе | latinicá, jajcó / jajcyo |
+| ц | cz | иначе | zajacz, Czúané / Czyuanj Цюань |
+|     |     |     |     |
+|     |     |     |     |
+| е | e | после согласных | leto |
+| е | é / je | после й, после "и" в окончаниях | sinié / sinije, Bajés / Bajjes |
+| е | je | иначе | Jevropa, podòjezd / podjiezd, pjesa |
+| ё | yo / yo | после согласных в заимствованиях, где этимология требует именно yo |     |
+| ё | éo / yo | после согласных | méod / myod, geograph географ |
+| ё | éo / jeo | после й, после "и" в окончаниях | mumiéo / mumijeo, mumiéò / mumijeeo, jéogz / jjeogz йёж, jéògz / jjeeogz йеож |
+| ё | jo | после "е" | jejo, nejo |
+| ё | jeo | иначе | jeogz, podòjeom / podjieom, pjeom, pjeòm / pjeeom пьеом |
+| ещё | ещё$ / (j)esche$ | исключение для ещё на конце слова | jesche ещё, jeshchíe / jeshchiie ещьэ - звучит как "ще" |
+| ю | yu / yu | после согласных в заимствованиях, где этимология требует именно yu |     |
+| ю | ú / yu | после согласных | lúbimyj / lyubimyj |
+| ю | ú / ju | после й, после "и" в окончаниях | Juliú / Juliju |
+| ю | ju | иначе | jula, pju |
+| я | ya / ya | после согласных в заимствованиях, где этимология требует именно ya | nya |
+| я | á / ya | после согласных | sinája / sinyaja |
+| я | á / ja | после й, после "и" в окончаниях | Mariá / Marija, allilujá / allilujja, sijaté - не окончание, pajaté - морфемы не мутируют |
+| я | ja | иначе | ja я, pjan |
+|     |     |     | *já,jú,jé,jéo,jý создают дополнительную йотацию, а jí не создаёт дополнительную йотацию, а jó вообще джо.* |
+|     |     |     |     |
+|     |     |     |     |
+| и | í / i | в начале слова перед гласной или йотом с заглавной буквы | Íacov / Iacov, Íesus / Iesus - исключение, ion / ion |
+| ии | íy / iy | в начале слова с заглавной буквы перед согласной | Íyda / Iyda |
+| и | í / ii | после согласная+у, после гласных в конце слова, кроме "и", или просто после й | moí / moii мои, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип, Luí / Luui |
+| и | í / yi | после ь | platjíce / platjyice |
+| и | y | в исключениях где этимология требует "y" и где нельзя спутать с "ы" | Yggdrasilé Иггдрасиль |
+| и | ý / yi | в исключениях где этимология требует "y" | sýstema / syistema, gýmanziá, gýroscop |
+| и | i | обычно - в т.ч. "ии" в конце слова | bacterii, mir, zaica заика |
+|     |     |     |     |
+|     |     |     |     |
+| ы | ì / ui | когда этимология требует i | obìscaté / obuiscatj, muzìca / muzuica, latìnè / latuinj |
+| ы | y | после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова | ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice |
+| ы | ỳ / yy | в остальных случаях | ỳdgzyd / yydgzyd ыджыд, aỳ / ayy аы |
+|     |     |     | *Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии.* |
+|     |     |     |     |
+|     |     |     |     |
+|     |     | ghy,phy,thy,rhy,chỳ(khy),cy | всегда ги,фи,ти,ри,хи,ки |
+|     |     | gy,fy,ty,ry,hy/òhy(xhy),ky/cky | гы,фы,ты,ры,хы,кы |
+|     |     | *Примеры:* | ghypotheza, phyzica, tachỳony |
+|     |     |     |     |
+|     |     |     |     |
+| э | è / ae | после Аа | aèro / aaero, maèstro / maaestro |
+| э | ae / ae | когда этимология требует Aa | maer, Thaetcher, Aeppl, Aendý / Aendyi |
+| э | è / ue | обычно после согласных | partèr / partuer, puèr / puuer |
+| э | e | иначе | etot, erotica |
+|     |     |     |     |
+|     |     |     |     |
+| ъ | j | перед йотированными гласными - съ[ёеюя] — sòj[oeua] / sji[oeua] | sòjezd / sjiezd, zajezd |
+| ъ | ò / qh | в остальных случаях после согласных, кроме j,w | obòizvestité / obqhizvestitj объизвестить |
+| ъ | qh | иначе | aqh аъ |
+|     |     |     |     |
+|     |     |     |     |
+| ь | j | перед йотированными гласными кроме "ё" - сь[еюя] — sj[eua] | pjesa |
+| ьё | jeo | сьё — sjeo | pjeom |
+| ь | í / ii | перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] | belíetagz бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те" |
+| ьи | jí | сьи — sjí / sjyi | platjíce / platjyice, creslice |
+| ьо | jo | сьо — sjo | buljon |
+| ь | j / j | после согласных в заимствованиях где по этимологии не было дополнительного смягчения | culjtura, paljma |
+| ь | é / j | после согласных | conécy / conjcy коньки, léda / ljda льда, scolézcyj |
+| ь | qh | иначе запрещено | aqh аь становится аъ |
+|     |     |     |     |
+|     |     |     |     |
+| й | y | где этимология требует | yippi, York, superòyippi / superqhyippi, superéyippi / superiiyippi - альтернативная этимологичная форма, tonjyork тоньйорк |
+| й | ji | после согласной перед согласной или в конце слова | sjis сйс, sés / sjs сьс |
+| й | i | после гласной перед гласной, но не перед "о" | aia айа, eien эйэн |
+| й | j | перед "о" **не** после согласной | jod, major |
+| й | ji | перед нейотированными гласными ауэ - кроме иыо | sòjie / sqhjie сйэ, sòie съиэ |
+| йо | (ò)jo / jio |     | Séorckòjosen / Syorckjiosen Сёркйосен |
+| йи | jí / jii |     | rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip |
+| йы | jy |     | jyí / jyyi йыи |
+| й | i | после гласных в конце слова - кроме ий,ый,уй | moi мой, pojmal поймал, zaica заика |
+| й | j | иначе - в т.ч. ий,ый,уй | allilujá / allilujja, sinij, crasnyj, duj дуй |
 
-к - ck - когда этимология требует ck или ch (hockei - исключение, Mackiavelli, Majckl, за компанию: Mishelé, Michàelé),  
-к - k - когда этимология требует k (Keniá, kefir, koboljd, koala, karate),  
-кс - x - где этимология требует x, но только не на стыке морфем (taxi, Xeniá),  
-кз - xz - где этимология требует x, но только не на стыке морфем (exzamen),  
-кз - ckz - иначе (eckzema),  
-кх - ckh (sickh),  
-кв - qv - когда этимология требует q (aqvarium),  
-ки - cì / cui - где этимология требует ci (cìno / cuino кино, cìnematograph),  
-ки - cy (recy, reca),  
-ке - cè / cue (ocèan / ocuean, cèntavr / cuentavr, v recè / v recue),  
-кы - cky (alenéckyj),  
-кэ - cae - всегда,  
-к - c - иначе,  
-к[иеяё] - qú[ieao] / qk[ie],qky[ao] - когда этимология требует qu (marqúiz, teqúila, banqúir, qúilé, maqúet, piqúet, liqúor, anqúeta),  
-к[оа] - qù[oa] / qk[oa] - когда этимология требует qu (qùarantin),  
-*Примеры:* ocèan, cèntavr, cìno кино, cìnematograph, cyber, cysta киста, cìrasa кираса, ascèt аскет, ancèr анкер, scèptic скептик, Cyrill, Cypr, scyf, cyt кит, cynolog.  
-
--ция — -tziá / -tzija - где русское словообразование эквивалентно латинскому "-ia", превращающемуся в "tia". Все русские -ция с этим же смыслом так же надо причесать под эту форму (fractziá, militziá, militzai, politziá, instructziá),  
-ц - tz - где этимология требует t, но не требует "c". Тут много какие латинские суффиксы могут быть: -tiō, -tion (ratzion, tzundere, tzigan),  
-цц - tzz - когда этимология требует t, но не требует Cc,  
-ц - cz - где этимология требует z, но не требует t (Ponczi, Czúrichò / Czyurikh Цюрих),  
-цц - czz - когда этимология требует Cc или z, но не требует t (piczza),  
-ци - cý / cyi - где этимология требует Yy, но не на конце слова (cýan / cyian циан, cýcl),  
-цы - ci - в словах-исключениях (cipléonoc),  
-цы - cý / cyi - иначе (otcý / otcyi),  
-ц[иеё] - c[ie], céo / czyo - иначе (cedité, otcedité, accent, Ciceron, Cezaré, Céos / Czyos Цёс),  
-ц[аоу] - c[áóú] / cy[aou] - иначе (latinicá, jajcó / jajcyo),  
-ц - cz - иначе (zajacz, Czúané / Czyuanj Цюань),  
-
-е - e - после согласных (leto),  
-е - é / je - после й, после "и" в окончаниях (sinié / sinije, Bajés / Bajjes),  
-е - je - иначе (Jevropa, podòjezd / podjiezd, pjesa),  
-ё - yo / yo - после согласных в заимствованиях, где этимология требует именно yo,  
-ё - éo / yo - после согласных (méod / myod, geograph географ),  
-ё - éo / jeo - после й, после "и" в окончаниях (mumiéo / mumijeo, mumiéò / mumijeeo, jéogz / jjeogz йёж, jéògz / jjeeogz йеож),  
-ё - jo - после "е" (jejo, nejo),  
-ё - jeo - иначе (jeogz, podòjeom / podjieom, pjeom, pjeòm / pjeeom пьеом),  
-ещё — ещё$ / (j)esche$ - исключение для ещё на конце слова (jesche ещё, jeshchíe / jeshchiie ещьэ - звучит как "ще"),  
-ю - yu / yu - после согласных в заимствованиях, где этимология требует именно yu,  
-ю - ú / yu - после согласных (lúbimyj / lyubimyj),  
-ю - ú / ju - после й, после "и" в окончаниях (Juliú / Juliju),  
-ю - ju - иначе (jula, pju),  
-я - ya / ya - после согласных в заимствованиях, где этимология требует именно ya (nya),  
-я - á / ya - после согласных (sinája / sinyaja),  
-я - á / ja - после й, после "и" в окончаниях (Mariá / Marija, allilujá / allilujja, sijaté - не окончание, pajaté - морфемы не мутируют),  
-я - ja - иначе (ja я, pjan),  
-*(já,jú,jé,jéo,jý создают дополнительную йотацию, а jí не создаёт дополнительную йотацию, а jó вообще джо).*  
-
-и - í / i - в начале слова перед гласной или йотом с заглавной буквы (Íacov / Iacov, Íesus / Iesus - исключение, ion / ion),  
-ии - íy / iy - в начале слова с заглавной буквы перед согласной (Íyda / Iyda),  
-и - í / ii - после согласная+у, после гласных в конце слова, кроме "и", или просто после й (moí / moii мои, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип, Luí / Luui),  
-и - í / yi - после ь (platjíce / platjyice),  
-и - y - в исключениях где этимология требует "y" и где нельзя спутать с "ы" (Yggdrasilé Иггдрасиль),  
-и - ý / yi - в исключениях где этимология требует "y" (sýstema / syistema, gýmanziá, gýroscop),  
-и - i - обычно - в т.ч. "ии" в конце слова (bacterii, mir, zaica заика),  
-
-ы - ì / ui - когда этимология требует i (obìscaté / obuiscatj, muzìca / muzuica, latìnè / latuinj),  
-ы - y - после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова (ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice),  
-ы - ỳ / yy - в остальных случаях (ỳdgzyd / yydgzyd ыджыд, aỳ / ayy аы),  
-*(Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии)*.  
-
-ghy,phy,thy,rhy,chỳ(khy),cy - всегда ги,фи,ти,ри,хи,ки,  
-gy,fy,ty,ry,hy/òhy(xhy),ky/cky - гы,фы,ты,ры,хы,кы,  
-*Примеры:* ghypotheza, phyzica, tachỳony.  
-
-э - è / ae - после Аа (aèro / aaero, maèstro / maaestro),  
-э - ae / ae - когда этимология требует Aa (maer, Thaetcher, Aeppl, Aendý / Aendyi),  
-э - è / ue - обычно после согласных (partèr / partuer, puèr / puuer),  
-э - e - иначе (etot, erotica),  
-
-ъ - j - перед йотированными гласными - съ[ёеюя] — sòj[oeua] / sji[oeua] (sòjezd / sjiezd, zajezd),  
-ъ - ò / qh - в остальных случаях после согласных, кроме j,w (obòizvestité / obqhizvestitj объизвестить),  
-ъ - qh - иначе (aqh аъ),  
-
-ь - j - перед йотированными гласными кроме "ё" - сь[еюя] — sj[eua] (pjesa),  
-ьё - сьё — sjeo (pjeom),  
-ь - í / ii - перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] (belíetagz бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те"),  
-ьи - сьи — sjí / sjyi (platjíce / platjyice, creslice),  
-ьо - сьо — sjo (buljon),  
-ь - j / j - после согласных в заимствованиях где по этимологии не было дополнительного смягчения (culjtura, paljma),  
-ь - é / j - после согласных (conécy / conjcy коньки, léda / ljda льда, scolézcyj),  
-ь - qh - иначе запрещено (aqh аь становится аъ),  
-
-й - y - где этимология требует (yippi, York, superòyippi / superqhyippi, superéyippi / superiiyippi - альтернативная этимологичная форма, tonjyork тоньйорк),  
-й - ji - после согласной перед согласной или в конце слова (sjis сйс, sés / sjs сьс),  
-й - i - после гласной перед гласной, но не перед "о" (aia айа, eien эйэн),  
-й - j - перед "о" **не** после согласной (jod, major),  
-й - ji - перед нейотированными гласными ауэ - кроме иыо (sòjie / sqhjie сйэ, sòie съиэ),  
-йо - (ò)jo / jio (Séorckòjosen / Syorckjiosen Сёркйосен),  
-йи - jí / jii (rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip),  
-йы - jy (jyí / jyyi йыи),  
-й - i - после гласных в конце слова - кроме ий,ый,уй (moi мой, pojmal поймал, zaica заика),  
-й - j - иначе - в т.ч. ий,ый,уй (allilujá / allilujja, sinij, crasnyj, duj дуй),  
 
 
 ### Дополнительные примеры
