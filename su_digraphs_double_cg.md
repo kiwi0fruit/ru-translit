@@ -1,4 +1,6 @@
-# ru-translit (kiwi0fruit's)
+Это одна из первых версий, сохраненная для истории. Последняя версия переехала [**сюда**](README.md).
+
+----
 
 ### Uniquely reversible Russian to English transliteration/romanization: no extra letters, two versions - with and without non-letters (russkaja latinica)
 
