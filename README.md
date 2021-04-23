@@ -37,6 +37,8 @@
 ш - sh,  
 
 
+Полезно помнить, что ò/ъ и é/ь.
+
 |     |     |     |     |
 | --- | --- | --- | --- |
 | г | gh | перед зьъ или где этимология требует h | ghippopotam, zighzag, Buchghàlter / Bukhghalter, Alighjeri Алигьери, adgheziá |
