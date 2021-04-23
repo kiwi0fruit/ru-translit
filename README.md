@@ -64,11 +64,10 @@
 х - òch / kh - после "с/s" когда этимология требует ch (rasòchìmera / raskhimera расхимера),  
 ч - c - перед ч (capricchio),  
 щ - sch (shch),  
-сч - sch (sčh / ssch),  
+сч - sch (sčh / ssch), ссч - ssčh / sssch,  
 *(вторые варианты нужны только при выходе за словарь известных слов),*  
-шч - shéch / shjch (vesnushjchat),  
+шч - shéch / shjch (vesnushéchat),  
 шьч - запрещен,  
-ссч - ssčh / sssch,  
 у - ẁ / wu - перед гласными когда этимология требует w (Ẁotson / Wuotson Уотсон, Ẁest / Wuest Уэст, braẁuzer / brawuuzer брауузер, ударение: braŵuzer, braẁûzer),  
 у - wu - когда этимология требует w (brawuzer браузер, ударение: braŵzer),  
 в - w - когда этимология требует w (Watson Ватсон, Watt Ватт, brawùzer / brawwuzer бравузер, ударение: brawûzer, Wùatt / Wwuatt Вуатт),  
