@@ -51,7 +51,7 @@
 | ж | gz | всегда перед ьъ | dgzé / dgzj джь |
 | жз | gjz |     |     |
 | ж | gj | где этимология требует g/ж или j/ж - но не после d или перед h | gjurnal, degjavú дежавю, Gjeorgj Жорж |
-| дж | dg[èìỳ] / dgj | где этимология требует dg | búdgèt / byudgjet, podgzidal, ogzidal, podgibaté, zagibaté, podgon, Sandgerdi / Сандгерди |
+| дж | dg[èìỳò] / dgj | где этимология требует dg | búdgèt / byudgjet, poridgò поридж, podgzidal, ogzidal, podgibaté, zagibaté, podgon, Sandgerdi / Сандгерди |
 | дж | g[èìỳò] / gjh | где этимология требует g - но не после d | Gèorgò / Gjhyorgjh Джордж, Gìuljetta / Gjhuljetta, Gìovanni / Gjhovanni, gìn / gjhin / джин, Gèòrgò / Gjheorgjh / Джеордж, Energỳ / Energjhy Энерджи |
 | дж | jae, j[èìòóàùỳh] / jh | где этимология требует - но не после d,g | Jaejms, Jàems / Jhaaems Джаэмс, Jàrmush, jìnsy, Jaeck, Jèrsý, hajjò / hajjh, jóker, ỳjỳd / yyjhyd ыджыд - альтернативный вариант |
 | дж | djae, dj[èìòóàùỳh] / djh | где этимология требует dj |     |
