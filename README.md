@@ -204,15 +204,13 @@
 |     |     |     |     |
 |     |     |     |     |
 | й | y | где этимология требует | yippi, York, superòyippi / superqhyippi, superéyippi / superiiyippi - альтернативная этимологичная форма, tonjyork тоньйорк |
-| й | ji | после согласной перед согласной или в конце слова | sjis сйс, sés / sjs сьс |
-| й | i | после гласной перед гласной, но не перед "о" | aia айа, eien эйэн, aía / aiia аиа |
+| й | ji | после согласной перед согласной или в конце слова; перед нейотированными гласными ауэ - кроме иыо | sjis сйс, sés / sjs сьс, sòjie / sqhjie сйэ, sòie съиэ, ajia айа, ejien эйэн |
 | й | j | перед "о" **не** после согласной | jod, major |
-| й | ji | перед нейотированными гласными ауэ - кроме иыо | sòjie / sqhjie сйэ, sòie съиэ |
 | йо | (ò)jo / jio |     | Séorkòjosen / Syorkjiosen Сёркйосен |
 | йи | jí / jii |     | rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip |
 | йы | jy |     | jyí / jyyi йыи |
-| й | i | после гласных в конце слова - кроме ий,ый,уй | moi мой, pojmal поймал, zaica заика |
-| й | j | иначе - в т.ч. ий,ый,уй | allilujá / allilujja, sinij, crasnyj, duj дуй |
+| й | i | после гласных не перед гласными - кроме ий,ый | moi мой, poimal поймал, dui дуй, zaíca / zaiica заика |
+| й | j | иначе - в т.ч. ий,ый | allilujá / allilujja, sinij, crasnyj |
 
 
 
