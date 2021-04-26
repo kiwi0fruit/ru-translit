@@ -184,7 +184,7 @@
 |     |     |     |     |
 | э | è / ae | после Аа | aèro / aaero, maèstro / maaestro |
 | э | ae / ae | когда этимология требует Aa | maer, Thaetcher, Aeppl, Aendý / Aendyi |
-| э | è / ue | обычно после согласных | partèr / partuer, puèr / puuer |
+| э | è / ae | обычно после согласных | partèr / partaer |
 | э | e | иначе | etot, erotica |
 |     |     |     |     |
 |     |     |     |     |
@@ -436,7 +436,8 @@ vs. / vs'.
 * этимологическая ы/ì/y,
 * этимологические ки/cì/cki,ке/cè/cke vs. этимологические ки/cki/cki,ке/cke/cke,
 * òh/kh vs. этимологические ch/kh,
-* cz/cz vs. ç/cz.
+* cz/cz vs. ç/cz,
+* sae/sae vs. sè/sae.
 
 
 ## Пример текста
