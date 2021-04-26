@@ -96,7 +96,7 @@
 | ф | ph | где этимология требует ph | telephon |
 | х | ch[èìòóàùỳ] / kh | где этимология требует ch или kh | chìmera / khimera, chór, Czúrichò / Czyurikh Цюрих |
 | х | ch[\c][èìóàùỳ] / kh[\c][eioauy] | перед согласной+гласной где этимология требует ch или kh | Chrìstos, Lochnèss / Lokhness, Lochònèss / Lokhnuess, Lochònaes / Lokhnaess, Lochénèss / Lochnuess Лочнэс, buchghàlter, chtónichescyj хтонический, chtèonichescyj хтёнический |
-| х | òh / xh | после согласных | sòhod / sxhod |
+| х | òh / kh | после согласных | sòhod / skhod |
 | х | òch / kh | после "с/s" когда этимология требует ch | rasòchìmera / raskhimera расхимера |
 | ч | c | перед ч | capricchio |
 | щ | sch (shch) |     |     |
@@ -433,7 +433,8 @@ vs. / vs'.
 * ь/j/é после согласных,
 * заимствования с ya,yo,yu после согласных,
 * этимологическая ы/ì/y,
-* этимологические ки/cì/cki vs. ки/cki, ке/cki/cke vs. ке/cke/cke.
+* этимологические ки/cì/cki,ке/cè/cke vs. этимологические ки/cki/cki,ке/cke/cke,
+* òh/kh vs. этимологические ch/kh.
 
 
 ## Пример текста
