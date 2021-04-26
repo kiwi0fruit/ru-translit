@@ -165,14 +165,14 @@
 | и | í / i | в начале слова перед гласной или йотом с заглавной буквы | Íacov / Iacov, Íesus / Iesus - исключение, ion / ion |
 | ии | íy / iy | в начале слова с заглавной буквы перед согласной | Íyda / Iyda |
 | и | í / ii | после гласных (кроме и,ы), или просто после й | moí / moii мои, rajíspolcom / rajiispolcom, superòjíp / superjiip суперйип, Luí / Luii, zaíca / zaiica |
-| и | í / yi | после ь | platjíce / platjyice |
+| и | jí / jy | после ь | platjíce / platjyce |
 | и | y | в исключениях где этимология требует "y" и где нельзя спутать с "ы" | Yggdrasilé Иггдрасиль |
 | и | ý / yi | в исключениях где этимология требует "y" | sýstema / syistema, gýmanziá, gýroscop |
 | и | i | обычно - в т.ч. "ии" в конце слова | bacterii, mir |
 |     |     |     |     |
 |     |     |     |     |
 | ы | ì / y | когда этимология требует i | obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj |
-| ы | y | после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова | ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyice |
+| ы | y | после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова | ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyce |
 | ы | ỳ / yy | в остальных случаях | ỳdgzyd / yydgzyd ыджыд, aỳ / ayy аы |
 |     |     |     | *Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии.* |
 |     |     |     |     |
@@ -196,7 +196,7 @@
 | ь | j | перед йотированными гласными кроме "ё" - сь[еюя] — sj[eua] | pjesa |
 | ьё | jeo | сьё — sjeo | pjeom |
 | ь | í / ii | перед нейотированными гласными кроме "и,о" - сь[ыэуа] — sí[yeua] / sii[yeua] | belíetagj бельэтаж - звучит как "лье",  partíer / partiier партьэр - звучит как "те". Нужно все исключения прочтения писать йотированно - beljetagj |
-| ьи | jí | сьи — sjí / sjyi | platjíce / platjyice, creslice |
+| ьи | jí | сьи — sjí / sjy | platjíce / platjyce, creslice |
 | ьо | jo | сьо — sjo | buljon |
 | ь | j / j | после согласных в заимствованиях где по этимологии не было дополнительного смягчения | culjtura, paljma |
 | ь | é / j | после согласных | conécy / conjcy коньки, léda / ljda льда, scolézcyj |
