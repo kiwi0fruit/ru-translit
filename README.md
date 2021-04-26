@@ -209,7 +209,7 @@
 | йо | (ò)jo / jio |     | Séorkòjosen / Syorkjiosen Сёркйосен |
 | йи | jí / jii |     | rajíspolcom / rajiispolcom, jíp / jiip, superòjíp / superjiip |
 | йы | jy |     | jyí / jyyi йыи |
-| й | i | после гласных не перед гласными - кроме ий,ый | moi мой, poimal поймал, dui дуй, dúim дюйм, Einstein, zaíca / zaiica заика |
+| й | i | после гласных не перед гласными - кроме ий,ый | moi мой, poimal поймал, dui дуй, dúim дюйм, Einshtein, zaíca / zaiica заика |
 | й | j | иначе - в т.ч. ий,ый | allilujá / allilujja, sinij, crasnyj |
 
 
