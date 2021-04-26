@@ -104,13 +104,13 @@
 | ссч | ssçh / sssch |     |     |
 | шч | shéch / shjch |      | vesnushéchat |
 | шьч | запрещен |     |     |
-| в | wh | когда этимология требует wh | Whajtran Вайтран |
+| в | wh | когда этимология требует wh | Whaitran Вайтран |
 | у | w[èìóàỳ] / wu,ww | перед гласными когда этимология требует w - кроме уу | Wótson / Wuotson Уотсон, Wèst / Wuest Уэст, brawùzer / brawwzer браузер, ударение: brawũzer |
 | в | w | когда этимология требует w | Watson Ватсон, Watt Ватт, Wurst, Wuàt / Wuuatt Вуатт |
 |     |     | *Специальные комбинации, чьё звучание изменяется буквами èìòóàùỳ: b,w,th,ch,j,g,dj,dg, звучание **b,w НЕ** меняется буквой Òò.*    | *После b,w,th,ch,j,g,dj,dg - Óó не смягчает, а полностью меняет звучание предыдущей буквы. Как и после Cc.* |
 |     |     |     |     |
 |     |     |     |     |
-| к | ck | когда этимология требует ck или ch | hockei - исключение, Mackiavelli, Majckl, за компанию: Mishelé, Michàelé |
+| к | ck | когда этимология требует ck или ch | hockei - исключение, Mackiavelli, Maickl, за компанию: Mishelé, Michàelé |
 | к | k | когда этимология требует k | Keniá, kefir, koboljd, koala, karate |
 | кс | x | где этимология требует x, но только не на стыке морфем | taxi, Xeniá |
 | кз | xz | где этимология требует x, но только не на стыке морфем | exzamen |
@@ -137,7 +137,7 @@
 | цы | ci | в словах-исключениях | cipléonoc |
 | цы | cý / cyi | иначе | otcý / otcyi |
 | ц[иеё] | c[ie], céo / czyo | иначе | cedité, otcedité, accent, Ciceron, Cezaré, Céos / Czyos Цёс |
-| ц[аоу] | c[áóú] / cy[aou] | иначе | latinicá, jajcó / jajcyo |
+| ц[аоу] | c[áóú] / cy[aou] | иначе | latinicá, jaicó / jaicyo |
 | ц | ç / cz | в транскрипционная система Палладия - где противопоставление твердых-мягких гласных | çá ця, cá ца, Çúané / Czyuanj Цюань |
 | ц | cz | иначе | zajacz |
 |     |     |     |     |
@@ -168,7 +168,7 @@
 | и | í / yi | после ь | platjíce / platjyice |
 | и | y | в исключениях где этимология требует "y" и где нельзя спутать с "ы" | Yggdrasilé Иггдрасиль |
 | и | ý / yi | в исключениях где этимология требует "y" | sýstema / syistema, gýmanziá, gýroscop |
-| и | i | обычно - в т.ч. "ии" в конце слова | bacterii, mir, zaica заика |
+| и | i | обычно - в т.ч. "ии" в конце слова | bacterii, mir |
 |     |     |     |     |
 |     |     |     |     |
 | ы | ì / y | когда этимология требует i | obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj |
@@ -466,7 +466,7 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstve
 
 Proshlo jesche dvenadcáté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridcátitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitscy.
 
-Imejetsá nescoléco ghypothez proísòhogzdeniá sobacy, naiboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
+Imejetsá nescoléco ghypothez proísòhogzdeniá sobacy, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
 
 V sugzdenijah uchéonyh o predcah domashnei sobacy prisutstvujut dve tochcy zreniá. Odni schitajut, chto sobacy - polýphyletichescaja gruppa (proísòhodáschaja ot nescolécyh predcov), drugié pridergzivajutsá mneniá, chto vse sobacy proízoshli ot odnogo predca (monophyletichescaja theoriá).
 
