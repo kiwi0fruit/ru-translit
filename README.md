@@ -95,7 +95,7 @@
 | ф | th[èìòóàùỳ] / fh | где этимология требует th | Thèodor / Fhyodor Фёдор, orthógraphiá орфография, scythò скиф, scyth - скит |
 | ф | ph | где этимология требует ph | telephon |
 | х | ch[èìòóàùỳ] / kh | где этимология требует ch или kh | chìmera / khimera, chór, Czúrichò / Czyurikh Цюрих |
-| х | ch[\c][èìóàùỳ] / kh[\c][eioauy] | перед согласной+гласной где этимология требует ch или kh | Chrìstos, Lochnèss / Lokhness, Lochònèss / Lokhnuess, Lochònaes / Lokhnaess, Lochénèss / Lochnuess Лочнэс, buchghàlter, chtónichescyj хтонический, chtèonichescyj хтёнический |
+| х | ch[\c][èìóàùỳ] / kh[\c][eioauy] | перед согласной+гласной где этимология требует ch или kh | Chrìstos, Lochnèss / Lokhness, Lochònèss / Lokhnaess, Lachònaes / Lokhnaess, Lochénèss / Lochnaess Лочнэс, buchghàlter, chtónichescyj хтонический, chtèonichescyj хтёнический |
 | х | òh / kh | после согласных | sòhod / skhod |
 | х | òch / kh | после "с/s" когда этимология требует ch | rasòchìmera / raskhimera расхимера |
 | ч | c | перед ч | capricchio |
