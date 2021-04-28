@@ -50,8 +50,8 @@
 я - ja, á  
 
 и - i, í (после гласн. кроме иы / после йь / загл. в нач. слова), ì (этимлг. после Кк / после букв с изм. звуч.), y (после Кк / этимлг.), ý (этимлг.), ỳ (этимлг. после букв с изм. звуч.)  
-ы - ỳ, y (когда рядом только согл. звуки), ì (этимлг.)  
-э - e, è (после согл. / иногда после гласн.), ae (этимлг.)  
+ы - ỳ, y (когда рядом только согл. звуки), ì (этимлг.), òi (этимлг. после Бб)  
+э - e, è (после согл. / иногда после гласн.), ae (этимлг. / после Бб)  
 й - j, i (после гласных кроме ыи не перед гласн. или "й"), ji (перед ауэ), y (этимлг.)  
 
 б - b,  
@@ -104,6 +104,8 @@
 | ж | z | после ж/gz |     | gzugzzit |
 | ж | j | после ж/gj |     |
 | джж | jjò / jjh |   | hajjò / hajjh |
+| бэ | bae | всегда | Baecon |
+| бы | bòi / by | где этимология требует i | obòisc |
 | в | bh | перед согласными или в конце слова, где этимология требует b | febhralé |
 | в | b[èìóàùỳ] / bh | перед гласными где этимология требует b | sýmból / syimbhol, Bỳzantiá / Bhyzantija, Bàbỳlon, djaból |
 | р | rh | где этимология требует rh | rhythm |
@@ -188,7 +190,7 @@
 | и | i | обычно - в т.ч. "ии" в конце слова | bacterii, mir |
 |     |     |     |     |
 |     |     |     |     |
-| ы | ì / y | когда этимология требует i | obìscaté / obyscatj, muzìca / muzyca, latìnè / latynj |
+| ы | ì / y | когда этимология требует i | muzìca / muzyca, latìnè / latynj |
 | ы | y | после согласного звука (в т.ч. йота) и одновременно перед: согласным звуком (в т.ч. йотации), или нейотированными гласными аоуиыэ, или в конце слова | ty, crasnyj, crasnyje, vyùchil / vyyuchil, vyíscyvaté / vyyiscyvatj, tyè / tyye тыэ, jyò / jyyo йыо, sòjyí / sjiyyi сйыи, jys йыс, sòjys / sjiys сйыс, tyy тыы - можно удваивать, но platjíce / platjyce |
 | ы | ỳ / yy | в остальных случаях | ỳdgzyd / yydgzyd ыджыд, aỳ / ayy аы |
 |     |     |     | *Тут можно заметить, что Ee после согласных это Ее, а не после согласных - Ээ. А Yy после согласных, хоть и с оговорками, - это Ыы, а иначе - Ии.* |
@@ -293,7 +295,7 @@
 
 Y̌y̌ использует комбинированные символы. Тильда является грубым и доступным для набора визуальным приближением комбинации грависа и крышки / гачека - как в ẰẦỒỀ ằầồề.
 
-Под ударением: sýstem => sy̌stem / syîstem, vyíscyvaté => vyǐscyvaté, obìsc => obîsc,  
+Под ударением: sýstem => sy̌stem / syîstem, vyíscyvaté => vyǐscyvaté, latìné => latîné,  
 Wèst / Уэст => Wẽst / Уэ́ст, Ŵèst / У́эст,  
 jè (дже) => jẽ / jhě, je (е) => jê, Jà (Джа) => Jã / Jhâ, Bà (Ва) => Bã / Bhâ, Chà (Ха) => Chã / Khâ.
 
@@ -461,7 +463,7 @@ Piony I vasilécy vséo jesche rastut na poláne vozle derevni Péony, schitajus
 
 Pjanyj master po projectu sdelal mechànichescyj obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté goncy I vyúchité svoí oshibcy.
 
-V pjese pro devushcu v zeléonom platjíce vse sadilisé na ladjí I plyli po recè. No tut iz lesa vyshel Gèorgò Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obìscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjíce vse sadilisé na ladjí I plyli po recè. No tut iz lesa vyshel Gèorgò Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obòiscyval, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
