@@ -467,7 +467,7 @@ V pjese pro devushcu v zeléonom platjíce vse sadilisé na ladjí I plyli po re
 
 Prepodobnyj Bajés podcynul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
-Maer neboléshogo gorodishcy otcryl tablicú exelá I vozmutilsá cenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aèroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
+Maer neboléshogo gorodishcy otcryl tablicú exelá I vozmutilsá cenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
 
 V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas schéotca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeogz colúchij I pohogz na nejo.
 
