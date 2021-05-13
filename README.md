@@ -461,9 +461,9 @@ vs. / vs'.
 
 Piony I vasiléci vséo jesche rastut na poláne vozle derevni Péony, schitajuscheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
 
-Pjanyj master po projectu sdelal mechànichescij obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
+Pjanyj master po projectu sdelal mechànichescij object s izjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
 
-V pjese pro devushcu v zeléonom platjícze vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Gèorgò Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obòiscival, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjése pro devushcu v zeléonom platjícze vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Gèorgò Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obòiscival, I pricazal vsem mytésá I gotovité buljón. Znachit snova pjéom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
@@ -481,9 +481,9 @@ Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesche I rodilisé v odin dené, 22 
 
 – Frodo, maléchic moi, – scazal cac-to raz Biljbo, – perebiralsá by ty co mne. Gládishé, I dené rogzdeniá vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadczatju I tridczatju tremá, posle chego hobbit naconecz mogzet schitaté sebá vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadczatjú I tridczatjú tremá, posle chego hobbit naconecz mogzet schitaté sebá vzroslym.
 
-Proshlo jesche dvenadczaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenju gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridczatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
+Proshlo jesche dvenadczaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenjú gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridczatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
 
 Imejetsá nescoléco hÿpothez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
 
@@ -498,7 +498,7 @@ Otcroi somcnuty negoi vzory
 Navstrechu severnoi Avrory,  
 Zvezdoju severa javisé!  
 
-Vechor, ty pomnishé, vjuga zlilasé,  
+Vechor, ty pomnishé, vjúga zlilasé,  
 Na mutnom nebe mgla nosilasé;  
 Luna, cac blednoje pátno,  
 Scvozé tuchi mrachnyje gzeltela,  
@@ -528,15 +528,15 @@ I bereg, milyj dlá mená.
 
 Lermontov M.Ju. — Rodina
 
-Lúblú otchiznu ja, no strannoju lúbovju!  
+Lúblú otchiznu ja, no strannoju lúbovjú!  
 Ne pobedit jejo rassudoc moi.  
-Ni slava, cuplennaja crovju,  
+Ni slava, cuplennaja crovjú,  
 Ni polnyj gordogo doveriá pocoi,  
-Ni téomnoi stariny zavetnyje predanja  
-Ne shevelát vo mne otradnogo mechtanja.  
+Ni téomnoi stariny zavetnyje predanjá  
+Ne shevelát vo mne otradnogo mechtanjá.  
 No ja lúblú — za chto, ne znaju sam —  
-Jejo stepei holodnoje molchanje,  
-Jejo lesov bezbregznyh colyhanje,  
+Jejo stepei holodnoje molchanjé,  
+Jejo lesov bezbregznyh colyhanjé,  
 Razlivy rec jejo, podobnyje morám;  
 Proséolochnym putéom lúblú scacaté v telege  
 I, vzorom medlennym pronzaja nochi tené,  
@@ -552,7 +552,7 @@ Izbu, pocrytuju solomoi,
 S reznymi stavnámi ocno;  
 I v prazdnic, vecherom rosistym,  
 Smotreté do polnochi gotov  
-Na pláscu s topanjem I svistom  
-Pod govor pjanyh mugzichcov.  
+Na pláscu s topanjém I svistom  
+Pod govor pjányh mugzichcov.  
 
 // God napisaniá: 1841
