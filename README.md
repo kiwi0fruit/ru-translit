@@ -461,9 +461,9 @@ vs. / vs'.
 
 Piony I vasiléci vséo jesche rastut na poláne vozle derevni Péony, schitajuscheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
 
-Pjanyj master po projectu sdelal mechänichescij obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
+Pjanyj master po projectu sdelal mechànichescij obòject s izòjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
 
-V pjese pro devushcu v zeléonom platjícze vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Gëorgò Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obòiscival, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
+V pjese pro devushcu v zeléonom platjícze vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Gèorgò Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to obòiscival, I pricazal vsem mytésá I gotovité buljon. Znachit snova pjeom do lysyh aqvalangistov.
 
 Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
 
@@ -471,9 +471,9 @@ Maer neboléshogo gorodishci otcryl tabliczu exelá I vozmutilsá czenoi novogo 
 
 V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas schéotca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeogz colúchij I pohogz na nejo.
 
-Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Cäezaré" (lat. .Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On I nashéol vyhod iz situatsii.
+Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Càezaré" (lat. .Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On I nashéol vyhod iz situatsii.
 
-"Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij mechänic Vasilij.
+"Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij mechànic Vasilij.
 
 Lúbimczem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
 
