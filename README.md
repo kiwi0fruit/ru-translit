@@ -1,6 +1,6 @@
-# ru-translit (kiwi0fruit's)
+# ru-translit
 
-# Русская латиница "Латинский симулякр"
+# Русская латиница от kiwi0fruit (Russcaia Latinicia)
 
 Радикально этимологическая латиница с кучей омофонов. Целью было приблизить правила написания к латинским и английским. Но при этом, правила чтения слов едины и не меняются от слова к слову. Для совместимости с кириллицей аббревиатуры строятся фонетически (как в OK - all correct).
 
@@ -8,14 +8,7 @@
 
 Являет собой дуальную ASCII-only и диакритическую версии, совместимые между собой. То есть, например, слово из ASCII версии будет значить тоже самое в диакритической версии. Слова, не представимые в кириллице, не являются частью латиницы.
 
-* Латиница обратимая,
-* Сознательное исключение буквы Kk где возможно,
-* Диакритическая версия подразумевает эргономичный ввод букв с помощью раскладки клавиатуры [US-International](https://en.wikipedia.org/wiki/US_international_keyboard#US-International), а знаки ударения вводятся с помощью [EurKEY](https://en.wikipedia.org/wiki/EurKEY). То есть, это две раскладки для английского языка. Более того, раскладку для ударений можно и не ставить,
-* Минимизация использования буквы Jj в конце слов.
-
 Новые буквы: áàóòýỳúùéèìíç (13 - ÁÀÓÒÝỲÚÙÉÈÌÍÇ). Ударения: âǎôǒêěûǔîŵǐŷy̌ãõẽũỹĩ ÂǍÔǑÊĚÛǓÎŴǏŶY̌ÃÕẼŨỸĨ. То есть, алфавит состоит из 26 букв базовой латиницы, Çç и 5 диакритических знаков (акут, гравис, и три ударения: крышка, гачек, тильда). 5 диакритических знаков могут быть только над гласными. *Важно наличие трёх типов ударений. А что это именно крышка, гачек и тильда не обязательно*.
-
-[Предыдущая версия](su_en.md) для справки о преемственности.
 
 
 * [Краткое описание](#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
@@ -28,11 +21,11 @@
 * [Включения иностранных слов без изменений](#%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%BB%D0%BE%D0%B2-%D0%B1%D0%B5%D0%B7-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9)
 * [Требование обратимости латиниц друг в друга - излишне](#%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86-%D0%B4%D1%80%D1%83%D0%B3-%D0%B2-%D0%B4%D1%80%D1%83%D0%B3%D0%B0---%D0%B8%D0%B7%D0%BB%D0%B8%D1%88%D0%BD%D0%B5)
 * [Пример текста](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0)
+* [Пример текста ASCII-only](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-ASCII-only)
 
 
 ### Краткое описание
 
-**UPD** еще не записаные [исправления латиницы](https://github.com/kiwi0fruit/ru-translit/issues/1).
 
 Смягчение гласных делается акутом (áú), сделать, наоборот твёрдыми - грависом (èì). Буквы Кк и Цц даются с помощью Cc: твердые - Кк, мягкие - Цц. У сочетаний th,ch,j,g,dj,dg можно изменить звучание с помощью букв ò,èìóàùỳ, а у букв b,w - с помощью èìóàùỳ. В альтернативных этимологических вариантах приоритет у латинской этимологии, следом - английской. Если ни та, ни эта этимология, то используется изначальный язык, ближайший к латыни. Например: кинематограф - kinematograph (нем.) - cinématographe (фр.) => cìnematograph.
 
@@ -79,6 +72,22 @@
 кз - ckz, xz (этимлг.)  
 дж: этимл. изм. звуч.: j, g, dj, dg  
 чж: zh (этимлг.)
+
+
+**TODO**:
+
+Придумать пометку слов капсом, которые не аббревиатуры. Проработать слова в смешанном регистре.
+
+сч писать через shch когда у них раздельное чтение: rashchuvstvovalsia [rɐɕˈt͡ɕustvəvət͡sə] - как веснушчатый [vʲɪsˈnuɕːɪtɨj] или [vʲɪsˈnuɕt͡ɕɪtɨj]. Rashchleneniè [rəɕt͡ɕlʲɪˈnʲenʲɪje]. И тут читатель сам определяет, что это [ɕˈt͡ɕ], а не [ɕː] или [ʂt͡ɕ] (Ашчян). А вот sch это всегда [ɕ], [ʂ] или [ɕː].
+
+Немного замечаний о "сч", которые могут быть полезны для обращения латиницы:
+
+* счлен - в остальных случаях перед согласной это всегда щ,
+* щьте, щьтесь, щься - других щь{cons} не бывает,
+* не бывает слов, у которых на конце щте, щтесь, щся,
+* счь вообще не бывает,
+* во всем корпусе текста 500 мб всего одно вхождение (сч|СЧ)\W
+* во всем массиве текста 500 мб не было ни случая сч\W
 
 
 ## Подробное описание
@@ -420,147 +429,242 @@ JÈ ЙЭ (JEh), JÉ ЙЕ (JJE), JÍ ЙИ (JII), JÀ ЙА (JIA).
 
 ### Включения иностранных слов без изменений
 
-*Выбранный выше способ ввода на смартфоне может сделать ввод инородных включений слегка неудобнее, но не думаю, что значительно.*
+У каждого слова в русской латинице для меня есть настощая форма в кириллице. Слова в латинице — лишь альтернативное отображение настоящих слов в кирилице. А настоящие слова в латинице всегда помечены специальными знаками:
 
-От небуквенного символа до кавычки сразу после буквы - иностранное включение.
+Y-'chromosoma => Y-хромосома  
+Y'-chromosoma => Y-хромосома  
+creep'ota => creep'ота  
+'that's => that's  
+'citizens' => citizens'  
+''tis => 'tis  
+'Coca-Cola => Coca-Cola  
+'Coca Cola => Coca Кола  
+Coca-Col'ca => Coca-Col'ка  
+Coca Col'ca => Кока Col'ка  
+d'Artanìan' => д'Артаньян  
+не поддерживается => полу-jeep (ибо нефиг)  
 
-.US-international — от нетипичной точки перед буквой (сразу после пробела - \w или ^) - экранирует вплоть до пробела (\w или $). Заметьте, что ".3" не катит.  
-..this is OK. I eto horosho. — от нетипичных двух точек сразу перед буквой до конца предложения.  
-.. — можно от .. до .. помечать целые абзацы. Но, в отличие от предыдущего варианта, нужны пробельные символы вокруг ".." (\w,^,$). Но можно и просто вот так:  
-.. this is .. horosho.  
+sobaca .cat dog. => собака cat dog.  
 
-Andrew' (одно слово - только буквы)  
-gh'/г', gz'/ж' (так же)  
-'Watson'ovscyj (русское окончание Watson'овский)  
-this' is' horosho. (каждое нужное помечено)  
+. This.  
+Is . chorosho. =>  
+This.  
+Is хорошо.
 
-z-распад / z'-raspad  
-час-x / chas-x'  
-girls' / girls''  
-'ghealach / ''ghealach'  
-он нам 'сильно помог':) / on nam 'siléno pomog':)  
-(как обычные кавычки их все ещё можно использовать)  
-час-x z-распад / chas-x' z'-raspad  
-час-кс ' з'-распад / chas-x ' z'-raspad  
-(перед открывающей кавычкой должен быть небуквенный символ, чтобы она считалась именно открывающей кавычкой)  
-d'Arc / d'Arc'  
-Д'Арк / D'Arc  
-'Watson'овский / ''Watson'ovscyj  
-Watson'овский / 'Watson'ovscyj  
-vs. / vs'.  
+.This.  
+Is . chorosho. =>  
+This.  
+Ис chorosho.
+
+* Апостроф в начале слова делает настоящей латиницей вправо до первого пробельного символа. Имеет приоритет над апострофом в середине или конце.
+* Апостроф в конце слова делает кириллицу латиницей влево до первого пробельного символа. Имеет приоритет над апострофом в середине слова.
+* Апостроф в середине слова (или беспробельной последовательности) делит слово: слева настоящая латиница, справа кириллица латиницей.
+* Точка в начале слова делает настоящей латиницей вправо до конца предложения.
+* Точка, окруженная пробельными символами, делает настоящей латиницей до следующей такой же точки - можно несколько строк так пометить.
 
 
 ### Требование обратимости латиниц друг в друга - излишне
 
-Требование обратимости латиниц друг в друга - слишком жесткое (диакритической и АСКИ версий). АСКИ версия не обязана дублировать диакритическую. Она лишь должна дублировать кириллицу. Так что у некоторых слов в АСКИ есть несколько возможных написаний с диакритикой, но лишь одно каноническое. Например, АСКИ daljshe становится daléshe, но АСКИ culjtura остаётся culjtura.
-
-На данный момент единственные расхождения:
-
-* ь/j/é после согласных,
-* заимствования с ya,yo,yu после согласных,
-* этимологическая ы/ì/y,
-* этимологические ки/cì/cki,ке/cè/cke vs. этимологические ки/cki/cki,ке/cke/cke,
-* òh/kh vs. этимологические ch/kh,
-* cz/cz vs. ç/cz,
-* sae/sae vs. sè/sae.
+Требование обратимости латиниц друг в друга - слишком жесткое (диакритической и ASCII версий). ASCII версия не обязана дублировать диакритическую. Она лишь должна дублировать кириллицу. Так что у некоторых слов в ASCII есть несколько возможных написаний с диакритикой, но лишь одно каноническое. Например, ASCII daliishe становится dalèshe, но ASCII culiitura становится culìtura.
 
 
 ## Пример текста
 
-Piony I vasiléci vséo jesche rastut na poláne vozle derevni Péony, schitajuscheisá bogatoi. V nei rodilsá izvestnyj pianist, perejehavshij v Sietl na rabotu v companii "Moí I tvoí".
+Alexandr Pushkin — Zimneie utro
 
-Pjanyj master po projectu sdelal mechànichescij object s izjanom. Jesli brac ne obnarugzitsá, to belyje bolidy boléshe ne smogut vyígryvaté gonci I vyúchité svoí oshibci.
-
-V pjése pro devushcu v zeléonom platjícze vse sadilisé na ladjí I plyli po rece. No tut iz lesa vyshel Gèorgò Maximus, coné v paléto I rvanyh jìnsah, cotoryj cogo-to oboìscival, I pricazal vsem mytésá I gotovité buljón. Znachit snova pjéom do lysyh aqvalangistov.
-
-Prepodobnyj Bajés podcinul igralényje costi. Vypalo shesté, znachit jemu pridéotsá mazaté jod na ranu.
-
-Maer neboléshogo gorodishci otcryl tabliczu exelá I vozmutilsá czenoi novogo excavatora. Agz exzema snova stala jego bespocoíté. Oh ugz eta pocupca vechnogo dvigatelá v proshlom godu! A tac gze pocupca aeroplana-ecranoléota. Jesli tac poidéot I daléshe, to búdgètu pridéotsá hudo.
-
-V etom vide phraza ot A do Ja nachinajet vygládeté sovsem po-drugomu. Seichas schéotca novaja, no pozgze ona stanet staraja. Chernysh lúbit cogda jego cheshut jeju. Jeogz colúchij I pohogz na nejo.
-
-Sòhod mestnyh gzitelei indijscoi derevni sickhov reshal chto gze delaté s otòhodami companii "Caligula Gai Julij Càezaré" (lat. .Caligula Gaius Iulius Caesar). Odin iz prisutstvujuschih nosil hoholoc na golove. On I nashéol vyhod iz situatsii.
-
-"Cto s mechom c nam pridéot, tot ot mecha I..." - ne smog dogovorité starshij mechànic Vasilij.
-
-Lúbimczem Biljbo byl junyj Frodo Baeggins. Cogda Biljbo stucnulo devánosto deváté, on vdrug usynovil sirotu Frodo, sdelal svoím naslednicom I predlogzil pereselitésá v Zasumci. Tut ugz vse nadegzdy Dericulé-Baegginsov, davno s vogzdeleniém posmatrivavshih na usadébu, ruhnuli oconchateléno.
-
-Sluchaju bylo ugodno, chtoby Biljbo s Frodo jesche I rodilisé v odin dené, 22 sentábrá.
-
-– Frodo, maléchic moi, – scazal cac-to raz Biljbo, – perebiralsá by ty co mne. Gládishé, I dené rogzdeniá vmeste otmechali by.
-
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodéogzé v bezotvetstvennom vozraste megzdu dvadczatjú I tridczatjú tremá, posle chego hobbit naconecz mogzet schitaté sebá vzroslym.
-
-Proshlo jesche dvenadczaté let. V Zasumcah cagzdyj god veselo otmechali dvoinoi dené rogzdeniá, c etomu privycli, no lúbomu bylo jasno, chto nyneshnei osenjú gotovitsá nechto neobychnoe. Biljbo ispolnálosé 111 let – vozrast dlá hobbita veséma pochtennyj, da I chislo lúbopytnoje, nu a Frodo gotovilsá otmetité tridczatitréohletié – togze znamenatelénaja data – sovershennoletié po-hobbitsci.
-
-Imejetsá nescoléco hÿpothez proísòhogzdeniá sobaci, naíboleje verojatnymi jejo predcami schitajutsá volc I necotoryje vidy shacalov.
-
-V sugzdeniáh uchéonyh o predcah domashnei sobaci prisutstvujut dve tochci zreniá. Odni schitajut, chto sobaci - polýphyletichescaja gruppa (proísòhodáschaja ot nescolécih predcov), drugié pridergzivajutsá mneniá, chto vse sobaci proízoshli ot odnogo predca (monophyletichescaja theoriá).
-
-Alexandr Pushcin — Zimneje utro
-
-Moroz I solncze; dené chudesnyj!  
-Jesche ty dremleshé, drug prelestnyj —  
-Pora, crasavicza, prosnisé:  
+Moroz i solnce; dene chudesnyi!  
+Ìesche ty dremleshè, drug prelestnyi —  
+Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
-Navstrechu severnoi Avrory,  
-Zvezdoju severa javisé!  
+Navstrechu severnoi Aurory,  
+Zvezdoiu severa iavise!
 
-Vechor, ty pomnishé, vjúga zlilasé,  
-Na mutnom nebe mgla nosilasé;  
-Luna, cac blednoje pátno,  
-Scvozé tuchi mrachnyje gzeltela,  
-I ty pechalénaja sidela —  
-A nynche… pogládi v ocno:  
+Vecheor, ty pomnishè, vìuga zlilase,  
+Na mutnom nebė mgla nosilase;  
+Luna, cac blednoie piatno,  
+Scvoze tuchi mrachnyie jeltela,  
+I ty pechalènaia sidela —  
+A nynche… pogliadi v ocno:
 
 Pod golubymi nebesami  
 Velicolepnymi covrami,  
-Blestá na solnce, sneg legzit;  
-Prozrachnyj les odin chernejet,  
-I jelé scvozé inei zelenejet,  
-I rechca podo lédom blestit.  
+Blestia na solnce, sneg lejit;  
+Prozrachnyi les odin cherneiet,  
+I ielè scvoze inei zeleneiet,  
+I rechca podo lèdom blestit.
 
-Vsá comnata jantarnym blescom  
-Ozarena. Veséolym trescom  
-Treschit zatoplennaja peché.  
-Prijatno dumaté u legzanci.  
-No znajeshé: ne veleté li v sanci  
-Cobylcu buruju zapreché?  
+Vsia comnata iantarnym blescom  
+Ozarena. Veseolym trescom  
+Treschit zatoplennaia pechè.  
+Priàtno dumate u lejanki.  
+No znaieshè: ne velete li v sanki  
+Cobylcu buruiu zaprechè?
 
-Scolézá po utrennemu snegu,  
-Drug milyj, predadimsá begu  
-Netoroplivogo coná  
-I navestim polá pustyje,  
-Lesa, nedavno stolé gustyje,  
-I bereg, milyj dlá mená.  
+Scolèzia po utrennemu snegu,  
+Drug milyi, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyie,  
+Lesa, nedavno stole gustyie,  
+I bereg, milyi dlia menia
 
-Lermontov M.Ju. — Rodina
+Lermontov M.IU. — Rodina
 
-Lúblú otchiznu ja, no strannoju lúbovjú!  
-Ne pobedit jejo rassudoc moi.  
-Ni slava, cuplennaja crovjú,  
-Ni polnyj gordogo doveriá pocoi,  
-Ni téomnoi stariny zavetnyje predanjá  
-Ne shevelát vo mne otradnogo mechtanjá.  
-No ja lúblú — za chto, ne znaju sam —  
-Jejo stepei holodnoje molchanjé,  
-Jejo lesov bezbregznyh colyhanjé,  
-Razlivy rec jejo, podobnyje morám;  
-Proséolochnym putéom lúblú scacaté v telege  
-I, vzorom medlennym pronzaja nochi tené,  
-Vstrechaté po storonam, vzdyhaja o nochlege,  
-Drogzaschié ogni pechalényh derevené;  
-Lúblú dymoc spaléonnoi gznivy,  
-V stepi nochujuschij oboz  
-I na holme sredé gzéoltoi nivy  
-Chetu belejuschih beréoz.  
+Liubliu otchiznu ia, no strannoiu liubovìu!  
+Ne pobedit ieio rassudoc moi.  
+Ni slava, cuplennaia crovìu,  
+Ni polnyi gordogo doverià pocoi,  
+Ni teomnoi stariny zavetnyie predanìa  
+Ne sheveliat vo mne otradnogo mechtanìa.  
+No ia liubliu — za chto, ne znaiu sam —  
+Ìeio stepei holodnoie molchanìe,  
+Ìeio lesov bezbrejnyh colyhanìe,  
+Razlivy rec ieio, podobnyie moriam;  
+Proseolochnym puteom liubliu scacate v telege  
+I, vzorom medlennym pronzaia nochi tenè,  
+Vstrechate po storonam, vzdyhaia o nochlege,  
+Drojaschiè ogni pechalènyh derevene;  
+Liubliu dymoc spaleonnoi jnivy,  
+V stepi nochuìuschiy oboz  
+I na holme srede jeoltoi nivy  
+Chetu beleìuschih bereoz.  
 S otradoi, mnogim neznacomoi,  
-Ja vigzu polnoje gumno,  
-Izbu, pocrytuju solomoi,  
-S reznymi stavnámi ocno;  
+Ìa viju polnoie gumno,  
+Izbu, pocrytuìu solomoi,  
+S reznymi stavniami ocno;  
 I v prazdnic, vecherom rosistym,  
-Smotreté do polnochi gotov  
-Na pláscu s topanjém I svistom  
-Pod govor pjányh mugzichcov.  
+Smotrete do polnochi gotov  
+Na pliascu s topanìem i svistom  
+Pod govor pìanyh mujichcov.
 
-// God napisaniá: 1841
+// God napisanià: 1841
+
+Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piânist, pereiehavshiy v Siêtl na rabotu v companiŷ "Moî i tvoî sièsty".
+
+Pìanyi master po proiectu sdelal mecḥanicheskiy obìêct s izìânom. Ìesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyûchite svoî oshibki.
+
+V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gẹorġè Maximus, cone v palèto i rvanyh jînsah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia i gotovite bulìon. Znachit snova pìeom do lysyh aqualangistov.
+
+Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
+
+Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj exzema snova stala iego bespocoîte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Âendỳ. Ìesli tac poideot i dalèshe, to biudgêtu prideotsia hudo.
+
+V etom vidė phraṣa ot A do Ìa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ìeoj coliuchiy i pohoj na neio.
+
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiŷ "Caligula Gai Ìuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuìuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciŷ.
+
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥaniс Vasiliy.
+
+Liubimcem Bilìbo byl iunyi Frodo Baeggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoîm naslednicom i predlojil pereselitèsia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelenièm posmatrivavshih na usadèbu, ruhnuli oconchatelèno.
+
+Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
+
+– Frodo, malèchic moi, – scazal cac-to raz Bilìbo, – perebiralsia by ty co mne. Gliadishè, i dene rojdenià vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvennom vozraste mejdu dvaciatìu i tridciatìu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
+
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neôbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitski.
+
+Imeietsia nescolèco hẏpotheṣ proîsḥojdenià sobaki, naîboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
+
+V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuìut dve tochki zrenià. Odni schitaìut, chto sobaki - polỳphỳletichescaia gruppa (proîsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaìutsia mnenià, chto vse sobaki proîzoshli ot odnogo predca (monophỳletichescaia theôrià).
+
+
+## Пример текста ASCII-only
+
+Alexandr Pushkin — Zimneie utro
+
+Moroz i solnce; dene chudesnyi!  
+Yesche ty dremlesh, drug prelestnyi —  
+Pora, crasavicia, prosnise:  
+Otcroi somcnuty negoi vzory  
+Navstrechu severnoi Aurory,  
+Zvezdoiu severa iavise!
+
+Vecheor, ty pomnish, viiyuga zlilase,  
+Na mutnom nebie mgla nosilase;  
+Luna, cac blednoie piatno,  
+Scvoze tuchi mrachnyie jeltela,  
+I ty pechaliinaia sidela —  
+A nynche… pogliadi v ocno:
+
+Pod golubymi nebesami  
+Velicolepnymi covrami,  
+Blestia na solnce, sneg lejit;  
+Prozrachnyi les odin cherneiet,  
+I iele scvoze inei zeleneiet,  
+I rechca podo liidom blestit.  
+
+Vsia comnata yantarnym blescom  
+Ozarena. Veseolym trescom  
+Treschit zatoplennaia pech.  
+Priyatno dumate u lejanki.  
+No znaiesh: ne velete li v sanki  
+Cobylcu buruiu zaprech?
+
+Scolezia po utrennemu snegu,  
+Drug milyi, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyie,  
+Lesa, nedavno stole gustyie,  
+I bereg, milyi dlia menia.
+
+Lermontov M.IU. — Rodina
+
+Liubliu otchiznu ia, no strannoiu liuboviiyu!  
+Ne pobedit ieio rassudoc moi.  
+Ni slava, cuplennaia croviiyu,  
+Ni polnyi gordogo doveriya pocoi,  
+Ni teomnoi stariny zavetnyie predaniiya  
+Ne sheveliat vo mne otradnogo mechtaniiya.  
+No ia liubliu — za chto, ne znaiu sam —  
+Yeio stepei holodnoie molchaniiye,  
+Yeio lesov bezbrejnyh colyhaniiye,  
+Razlivy rec ieio, podobnyie moriam;  
+Proseolochnym puteom liubliu scacate v telege  
+I, vzorom medlennym pronzaia nochi tene,  
+Vstrechate po storonam, vzdyhaia o nochlege,  
+Drojaschiye ogni pechaliinyh derevene;  
+Liubliu dymoc spaleonnoi jnivy,  
+V stepi nochuiuschiy oboz  
+I na holme srede jeoltoi nivy  
+Chetu beleiuschih bereoz.  
+S otradoi, mnogim neznacomoi,  
+Ya viju polnoie gumno,  
+Izbu, pocrytuiu solomoi,  
+S reznymi stavniami ocno;  
+I v prazdnic, vecherom rosistym,  
+Smotrete do polnochi gotov  
+Na pliascu s topaniiyem i svistom  
+Pod govor piiyanyh mujichcov.
+
+// God napisaniya: 1841
+
+Piony i vasiliiki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Siietl na rabotu v companiiy "Moii i tvoii siyesty".
+
+Piiyanyi master po proiectu sdelal mekhanicheskiy obyiiect s izyiianom. Yesli brac ne obnarujitsia, to belyie bolidy boliishe ne smogut vyiigryvate gonki i vyuuchite svoii oshibki.
+
+V piiyesie pro devushcu v zeleonom platiiyicie vse sadilise na ladiiyi i plyli po reke. No tut iz lesa vyshel Djeordj Maximus, cone v paliito i rvanyh djinsah, cotoryi cogo-to obyskival, i pricazal vsem mytesia i gotovite buliiyon. Znachit snova piiyeom do lysyh aqualangistov.
+
+Prepodobnyi Bayes podkinul igraliinyie costi. Vypalo shestii, znachit iemu prideotsia mazate iod na ranu.
+
+Maer neboliishogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj exzema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. Yesli tac poideot i daliishe, to biudjetu prideotsia hudo.
+
+V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Yeoj coliuchiy i pohoj na neio.
+
+Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiiy "Caligula Gai Yuliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciiy.
+
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhaniс Vasiliy.
+
+Liubimcem Biliibo byl iunyi Frodo Baeggins. Cogda Biliibo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselitesia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdeleniyem posmatrivavshih na usadiibu, ruhnuli oconchateliino.
+
+Sluchaiu bylo ugodno, chtoby Biliibo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
+
+– Frodo, malechic moi, – scazal cac-to raz Biliibo, – perebiralsia by ty co mne. Gliadish, i dene rojdeniya vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom vozraste mejdu dvaciatiiyu i tridciatiiyu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
+
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdeniya, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniiyu gotovitsia nechto neoobychnoie. Biliibo ispolnialose 111 let – vozrast dlia hobbita vesiima pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znamenatelenaia data – sovershennoletiye po-hobbitski.
+
+Imeietsia nescoleco gypothez proiiskhojdeniya sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+
+V sujdeniyah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniya. Odni schitaiut, chto sobaki - poliphiletichescaia gruppa (proiiskhodiaschaia ot nescolekih predcov), drugiye priderjivaiutsia mneniya, chto vse sobaki proiizoshli ot odnogo predca (monophiletichescaia thieoriya).
