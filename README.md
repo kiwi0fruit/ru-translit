@@ -108,7 +108,7 @@
 Ėė Ï ï Ȯȯ  
 Èè Ì ì Òò Ỳỳ Àà Ùù  
 Êê Î î Ôô Ŷŷ Ââ Ûû Ŵŵ  
-Éé Í í Óó Ýý Áá Úú Ẃẃ Ḯ ḯ  
+Éé Í í Óó Ýý Áá Úú Ẃẃ  
 Ēē Ī ī Ōō Ȳȳ Āā Ūū  
 Ěě Ǐ ǐ Ǒǒ Ǎǎ Ǔǔ
 
@@ -175,7 +175,7 @@ kè(ckè)-с(k,ck)-ke(càe,cke)-ki(ky,cki)-cky-cù(ckiu,kiu)-câe кь-к-ке-�
 
 g-ge(gàe)-geo(geô)-gėo-gae(gâe)-gi(gy)-ghy-ghè-ghìe г-ге-гео-гё-гэ-ги-гы-гь-гье (уд. gé, gá)  
 gè-gê-gêa(gîa)-gŷ ж-же-жа-жи (уд. gē, gā)  
-ġè-gẹ-gị(gẏ)-gẹa(gịa) дж-дже-джи-джа (уд. ġé)  
+ĝè-gẹ-gị(gẏ)-gẹa(gịa) дж-дже-джи-джа (уд. ĝé)  
 dgè-dgê дж-дже
 
 hy ы (уд. ḫý)  
@@ -187,15 +187,15 @@ hia-hie я-е
 dje дже  
 j-jè-jj-je-ja(jèa)-ji-jiâ-jèi ж-жь-жж-же-жа-жи-жиа-жй (уд. jí-já)
  
-ĝh-ĝhè-ĝe х-хь-хе (уд. ĝé, ĝē)  
-ĵi-ĵa-ĵe-ĵh ха-хи-хе-х (уд. ĵí-ĵá-ĵé)  
+ġh-ġhè-ġe х-хь-хе (уд. ġé, ġē)  
+ɉi-ɉa-ɉe-ɉh ха-хи-хе-х (уд. ɉí-ɉá-ɉé)  
 ì-jì-jà-jė-jò й-йи-я-е-йо (уд. jǐ-jǎ-jě)
 
 ĵ-ĵj-jê-jâ-jî дж-джж-дже-джа-джи (уд. jī-jā)  
-jị-jạ-jẹ дзи-дзя-дзе (уд. ɉǐ-ɉǎ-ɉě)  
-jï-jia цзи-цзя (уд. jḯ-jiá)  
-ĵĵ чч  
-ĵị-ĵạ-ĵẹ чи-чя-че (уд. ĵǐ-ĵǎ-ĵě)
+jị-jạ-jẹ дзи-дзя-дзе (уд. ĵí-ĵá-ĵé)  
+jï-jia цзи-цзя (уд. ĵǐ-jiá)  
+ɉj чч  
+ɉị-ɉạ-ɉẹ чи-чя-че (уд. ɉǐ-ɉǎ-ɉě)
 
 ẓ-ẓe-ẓi(ẓy) ц-це-ци (уд. ẓá)  
 ẓạ-ẓị(ẓẏ)-ẓz цза-цзы-цз (уд. ẓā)  
@@ -667,7 +667,7 @@ Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaìus
 
 Pìanyi master po proiectu sdelal mecḥanicheskiy obìêct s izìânom. Ìesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyûchite svoî oshibki.
 
-V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gẹorġè Maximus, cone v palèto i rvanyh jînsah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia i gotovite bulìon. Znachit snova pìeom do lysyh aqualangistov.
+V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jînsah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia i gotovite bulìon. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
