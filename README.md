@@ -582,7 +582,7 @@ Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi d
 
 Imeietsia nescolèco hẏpotheṣ proîsḥojdenià sobaki, naîboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳletichescaia gruppa (proîsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaìutsia mnenià, chto vse sobaki proîzoshli ot odnogo predca (monophỳletichescaia theôrià).
+V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳletichescaia gruppa (proîsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaìutsia mnenià, chto vse sobaki proîzoshli ot odnogo predca (monophỳletichescaia theorià).
 
 
 ## Пример текста ASCII-only
