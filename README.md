@@ -554,19 +554,19 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piânist, pereiehavshiy v Siêtl na rabotu v companiỳ "Moï i tvoï sièsty".
+Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piânist, pereiehavshiy v Siêtl na rabotu v companiŷ "Moî i tvoî sièsty".
 
-Pìanyi master po proiectu sdelal mecḥanicheskiy obìêct s izìânom. Ìesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyïgryvate gonki i vyûchite svoï oshibki.
+Pìanyi master po proiectu sdelal mecḥanicheskiy obìêct s izìânom. Ìesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyûchite svoî oshibki.
 
 V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gẹorġè Maximus, cone v palèto i rvanyh jînsah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia i gotovite bulìon. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczêma snova stala iego bespocoïte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Âendỳ. Ìesli tac poideot i dalèshe, to biudgêtu prideotsia hudo.
+Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczêma snova stala iego bespocoîte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Âendỳ. Ìesli tac poideot i dalèshe, to biudgêtu prideotsia hudo.
 
 V etom vidė phraṣa ot A do Ìa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ìeoj coliuchiy i pohoj na neio.
 
-Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiỳ "Caligula Gai Ìuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuìuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciỳ.
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiŷ "Caligula Gai Ìuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuìuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciŷ.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥaniс Vasiliy.
 
@@ -580,9 +580,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvenn
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neôbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitski.
 
-Imeietsia nescolèco hẏpotheṣ proïsḥojdenià sobaki, naïboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
+Imeietsia nescolèco hẏpotheṣ proîsḥojdenià sobaki, naîboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳletichescaia gruppa (proïsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaìutsia mnenià, chto vse sobaki proïzoshli ot odnogo predca (monophỳletichescaia theôrià).
+V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳletichescaia gruppa (proîsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaìutsia mnenià, chto vse sobaki proîzoshli ot odnogo predca (monophỳletichescaia theôrià).
 
 
 ## Пример текста ASCII-only
