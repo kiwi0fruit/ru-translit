@@ -36,8 +36,11 @@
 | с большой буквы  | Ìe  | Ye   | Ìeo | Yeo   | Ìa | Ya   | Ìu | Yu   |      |         |       |        |     |      |
 | после согласной  | e/ė | e/ie | eo  |       | ia |      | iu |      | ê/ae | ae/ae   | y/î   | y/y    | i   | i    |
 | в середине слова |     |      |     |       |    |      | ìu | iu   |      |         |       |        |     |      |
-| после ь          | ìe  | iiye | ìeo | iiyeo | ìa | iiya | ìu | iiyu | ìe/ė | iiye/ie | ìyi/ỳ | iiyi/i | ìyi | iiyi |
 | иначе            | ie  |      | ieo |       | ia |      | iu |      | e/ê  | e/ae    | hy    |        | î   | ii   |
+
+| ЬЕ  |      | ЬЁ  |       | ЬЯ |      | ЬЮ |      | ЬЭ   |         | ЬЫ    |        | ЬИ  |      | ЬО |      | ЬА    |         |
+| --  | --   | --  | ----  | -- | ---- | -- | ---- | ---- | ----    | ----- | --     | --- | ---- | -- | ---- | ----- | ----    |
+| ìe  | iiye | ìeo | iiyeo | ìa | iiya | ìu | iiyu | ìe/ė | iiye/ie | ìyi/ỳ | iiyi/i | ìyi | iiyi | ìo | iiyo | ìa/ia | iiya/ia |
 
 |   |   |
 | - | - |
