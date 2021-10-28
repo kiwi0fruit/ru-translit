@@ -31,16 +31,16 @@
 
 Каждый второй столбец - ASCII версия:
 
-| \*               | Е   |      | Ё   |       | Я  |      | Ю  |      | Э    |         | Ы     |        | Йо |      |
-| ---------------- | --  | --   | --  | ----  | -- | ---- | -- | ---- | ---- | ----    | ----- | --     | -- | --   |
-| с большой буквы  | Ìe  | Ye   | Ìeo | Yeo   | Ìa | Ya   | Ìu | Yu   |      |         |       |        | Ìo | Yo   |
-| после согласной  | e/ė | e/ie | eo  |       | ia |      | iu |      | ê/ae | ae/ae   | y/î   | y/y    | ìô | yiio |
-| в середине слова |     |      |     |       |    |      | ìu | iu   |      |         |       |        |    |      |
-| после Й или И    | è   | ye   | èo  | yeo   | à  | ya   | ù  | yu   |      |         |       |        | ò  | yo   |
-| иначе            | ie  |      | ieo |       | ia |      | iu |      | e/ê  | e/ae    | hy    |        | io |      |
+| \*               | Е   |      | Ё   |     | Я  |    | Ю  |    | Э    |      | Ы   |    | Йо |      |
+| ---------------- | --- | ---- | --- | --- | -- | -- | -- | -- | ---- | ---- | --- | -- | -- | ---- |
+| с большой буквы  | İe  | Ye   | İeo | Yeo | İa | Ya | İu | Yu |      |      |     |    | İo | Yo   |
+| после согласной  | e/ė | e/ie | eo  |     | ia |    | iu |    | ê/ae | ae   | y/î | y  | ìô | yiio |
+| в середине слова |     |      |     |     |    |    | ìu | iu |      |      |     |    |    |      |
+| после Й или И    | è   | ye   | èo  | yeo | à  | ya | ù  | yu |      |      |     |    | ò  | yo   |
+| иначе            | ie  |      | ieo |     | ia |    | iu |    | e/ê  | e/ae | hy  |    | io |      |
 
 | \*\*         | ЪЕ   | ЪЁ    | ЪЯ   | ЪЮ   | ЪИ | ЬЕ   | ЬЁ    | ЬЯ   | ЬЮ   | ЬИ   | ЬО   |
-| ------------ | --   | --    | ---- | --   | -- | --   | --    | ---- | --   | ---- | --   |
+| ------------ | ---- | ----- | ---- | ---- | -- | ---- | ----- | ---- | ---- | ---- | ---- |
 |              | ìê   | ìêo   | ìâ   | ìû   | î  | ìe   | ìeo   | ìa   | ìu   | ìyi  | ìo   |
 | ASCII версия | yiie | yiieo | yiia | yiiu | y  | iiye | iiyeo | iiya | iiyu | iiyi | iiyo |
 
@@ -59,7 +59,8 @@
 
 |   |   |
 | - | - |
-| Èè&nbsp;Ì&nbsp;ì&nbsp;Òò | два мягких и твёрдый знаки после согласных (а так же йотация Ì в начале слова с заглавной буквы либо в середине слова как ìu - для визуального разделения) |
+| İ | йотация в начале слова с заглавной буквы |
+| Èè&nbsp;Ì&nbsp;ì&nbsp;Òò | два мягких и твёрдый знаки после согласных (так же в середине слова как ìu - для визуального разделения) |
 | Ėė&nbsp;Ï&nbsp;ï&nbsp;Ȯȯ&nbsp;Ỳỳ&nbsp;Àà&nbsp;Ùù | гласные, смягчающие предыдущую согласную |
 | Èè&nbsp;Òò&nbsp;Àà&nbsp;Ùù | йотированные гласные после Ìì или Ii (а так же Ее в начале слова) |
 | Êê&nbsp;Î&nbsp;î&nbsp;Ôô&nbsp;Ŷŷ&nbsp;Ââ&nbsp;Ûû&nbsp;Ŵŵ | гласные, делающие предыдущую согласную твёрдой или разбивающие диграф с предыдущей гласной (во втором случае звучание гласных Ii,Yy не становится твёрдым) |
@@ -151,7 +152,7 @@
 Ḅḅ Çç Ḍḍ Ĝĝ Ġġ Ḥḥ Ḫḫ  
 Ĵ ĵ Ɉ ɉ Ḳḳ Ḷḷ Ṇṇ Ṭṭ Ṣṣ Ẓẓ Ẕẕ  
 Ẹẹ Ị ị Ọọ Ạạ Ụụ Ẏẏ  
-Ėė Ï ï Ȯȯ  
+Ėė Ï ï Ȯȯ İ  
 Èè Ì ì Òò Ỳỳ Àà Ùù  
 Êê Î î Ôô Ŷŷ Ââ Ûû Ŵŵ  
 Éé Í í Óó Ýý Áá Úú Ẃẃ  
@@ -644,7 +645,7 @@ This.
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudesnyi!  
-Ìesche ty dremleshè, drug prelestnyi —  
+İesche ty dremleshè, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Aurory,  
@@ -687,8 +688,8 @@ Ni polnyi gordogo doverià pocoi,
 Ni teomnoi stariny zavetnyie predanìa  
 Ne sheveliat vo mne otradnogo mechtanìa.  
 No ia liubliu — za chto, ne znaiu sam —  
-Ìeio stepei holodnoie molchanìe,  
-Ìeio lesov bezbrejnyh colyhanìe,  
+İeio stepei holodnoie molchanìe,  
+İeio lesov bezbrejnyh colyhanìe,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v telege  
 I, vzorom medlennym pronzaia nochi tenè,  
@@ -699,7 +700,7 @@ V stepi nochuìuschiy oboz
 I na holme srede jeoltoi nivy  
 Chetu beleìuschih bereoz.  
 S otradoi, mnogim neznacomoi,  
-Ìa viju polnoie gumno,  
+İa viju polnoie gumno,  
 Izbu, pocrytuiu solomoi,  
 S reznymi stavniami ocno;  
 I v prazdnic, vecherom rosistym,  
@@ -711,17 +712,17 @@ Pod govor pìanyh mujichcov.
 
 Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piânist, pereiehavshiy v Siêtl na rabotu v companiŷ "Moî i tvoî sièsty".
 
-Pìanyi master po proiectu sdelal mecḥanicheskiy obìêct s izìânom. Ìesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyûchite svoî oshibki.
+Pìanyi master po proiectu sdelal mecḥanicheskiy obìêct s izìânom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyûchite svoî oshibki.
 
 V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jînsah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia i gotovite bulìon. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczêma snova stala iego bespocoîte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Âendỳ. Ìesli tac poideot i dalèshe, to biudgêtu prideotsia hudo.
+Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczêma snova stala iego bespocoîte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Âendỳ. İesli tac poideot i dalèshe, to biudgêtu prideotsia hudo.
 
-V etom vidė phraṣa ot A do Ìa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ìeoj coliuchiy i pohoj na neio.
+V etom vidė phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
-Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiŷ "Caligula Gai Ìuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuìuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciŷ.
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiŷ "Caligula Gai İuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuìuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciŷ.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥaniс Vasiliy.
 
