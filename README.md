@@ -41,11 +41,11 @@
 
 | \*\*         | ЪЕ   | ЪЁ    | ЪЯ   | ЪЮ   | ЪИ | ЬЕ   | ЬЁ    | ЬЯ   | ЬЮ   | ЬИ   | ЬО   |
 | ------------ | ---- | ----- | ---- | ---- | -- | ---- | ----- | ---- | ---- | ---- | ---- |
-|              | ìê   | ìêo   | ìâ   | ìû   | î  | ìe   | ìeo   | ìa   | ìu   | ìyi  | ìo   |
+|              | ìê   | ìêo   | ìâ   | ìû   | î  | ìe   | ìeo   | ìa   | ìu   | ìi   | ìo   |
 | ASCII версия | yiie | yiieo | yiia | yiiu | y  | iiye | iiyeo | iiya | iiyu | iiyi | iiyo |
 
 |                                                                 | Й                      |     |
-| -- | -- | -- |
+| --------------------------------------------------------------- | ---------------------- | --- |
 | после гласной или в начале слова, звучащие как в таблице __\*__ | как в таблице __\*__   |     |
 | после согласной или Ь, звучащие как в таблице __\*\*__          | как в таблице __\*\*__ |     |
 | после гласной                                                   | i                      |     |
@@ -53,7 +53,7 @@
 | между согласными или после согласной в конце слова              | òì                     | -ii |
 
 |                                                | И   |      |
-| ----------------                               | --- | ---- |
+| ---------------------------------------------- | --- | ---- |
 | после гласной или в начале слова перед гласной | î   | ii   |
 | иначе                                          | i   |      |
 
@@ -72,15 +72,15 @@
 Экспериментальное:
 
 |              | ЪЭ  | ЪЫ   | ЪО  | ЪА  | ЪУ  | ЬЭ          | ЬЫ          | ЬА          | ЬУ          |
-| ------------ | --  | ---- | --  | --- | --- | ----        | ----        | ---         | ----        |
-|              | òhê | òhy  | òhô | òhâ | òhû | ìe/ė/èhê    | ìyi/ỳ/èhy   | ìa/ia/èhâ   | ìu/iu/èhû   | 
+| ------------ | --  | ---- | --- | --- | --- | ----------- | ----------- | ----------- | ----------- |
+|              | òhê | òhy  | òhô | òhâ | òhû | ìe/ė/èhê    | ìi/ỳ/èhy    | ìa/ia/èhâ   | ìu/iu/èhû   | 
 | ASCII версия | -e  | -hy  | -o  | -a  | -u  | iiye/ie/e-e | iiyi/i/e-hy | iiya/ia/e-a | iiyu/iu/e-u |
 
-|   |   |
-| - | - |
-| сч (только [ɕː]) | sch |
+|                      |      |
+| -------------------- | ---- |
+| сч (только [ɕː])     | sch  |
 | сч ([ɕˈt͡ɕ] или [ɕː]) | shch |
-| шч | shch |
+| шч                   | shch |
 
 Одно и то же слово с "шч" (shch) часто альтернативно читается как [ɕˈt͡ɕ] или [ɕː], поэтому писать так же читающиеся "сч" довольно уместно - когда раздельное чтение: rashchuvstvovalsia [rɐɕˈt͡ɕustvəvət͡sə], rashchleneniè [rəɕt͡ɕlʲɪˈnʲenʲɪje]. А вот vesnushchatyi читается либо как [vʲɪsˈnuɕːɪtɨj], либо как [vʲɪsˈnuɕt͡ɕɪtɨj]. И тут читатель сам определяет, что это [ɕˈt͡ɕ], а не [ɕː] или [ʂt͡ɕ] (Ашчян). А вот "sch" это всегда [ɕ], [ʂ] или [ɕː].
 
@@ -714,7 +714,7 @@ Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaìus
 
 Pìanyi master po proiectu sdelal mecḥanicheskiy obìêct s izìânom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyûchite svoî oshibki.
 
-V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jînsah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia i gotovite bulìon. Znachit snova pìeom do lysyh aqualangistov.
+V pìesė pro devushcu v zeleonom platìicê vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jînsah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia i gotovite bulìon. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
