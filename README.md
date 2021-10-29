@@ -487,7 +487,7 @@ crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli,
 нё neo  
 нео neô — neôn nieon, neôbychno neoobychno
 
-сьйя sìà siiyya, сйя sòìà syiiia, сьйс sèìs sii-iis, сйс sòìs s-iis
+сьйя sìà siiyya, сйя sòìà s-yya, сьйс sèìs sii-iis, сйс sòìs s-iis
 
 
 ### Аббревиатуры
