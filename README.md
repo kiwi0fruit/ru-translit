@@ -457,11 +457,37 @@ xia ся
 
 ### Дополнительные примеры
 
-сьйя/sjjja/séjá, сйя/sjija/sjiá, сьйс/sjjis/séjis, сйс/sjis.
+Уточнение мягкости: parter, partėr partier, partêr partaer.
 
-Уточнение мягкости: parter, partíer/partiier, partèr/partuer.
+Франсэ Françae, Франсуа Françoua
+можно было бы: pìeça, pìeçs, pìeçy, но лучше обрусеть: pìesa, pìes, pìesy
+hîstoria
 
-Обратите внимание, что йот+твердая гласная (аоуэ) даёт мягкое звучание гласной (a => æ, o => ɵ, u => ʉ, ɛ => e, так пусть и ɨ => i будет). То есть, фонетика строится в предположении, что йы и йи звучат одинаково.
+zaiace, унц uncè uncii
+İacov Yacov, İuliy Yuliy, iod iod, iôn iion, İèsus Yiesus, İûda IIUda, İâcov IIAcov
+plohiè plohiye, Hèiuston Hiiyuston
+
+crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proîzoshli proiizoshli, latîne latyne, oni moî / moii, on moi, vyîskivate vyiiskivate, aero, maêstro maaestro, Âendỳ Endi, piânino piianino, vyûchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie
+
+ня nia nia — miaso miaso
+ния nià niya — Marià Mariya, siniè siniye
+ниа niâ niia — piânino piianino, Siietl
+нья nìa niiya — dìavol diiyavol, piiyesa
+нъя nìâ nyiia — obìêct obyiiect, podyiiezd
+есть ìestè iestii
+на небе na nebė na nebie
+нии niŷ niiy — liniŷ liniiy
+ний niy niy
+ный nyi nyi, ной noi noi, най nai nai
+наи naî naii
+выи vyî vyii — vyîgryvate vyiigryvate
+выу vyû vyuu — vyûchite vyuuchite
+нио nio nio(niio)
+ньо nìo niiyo
+нё neo
+нео neô — neôn nieon, neôbychno neoobychno
+
+сьйя sìà siiyya, сйя sòìà syiiia, сьйс sèìs sii-iis, сйс sòìs s-iis
 
 
 ### Аббревиатуры
