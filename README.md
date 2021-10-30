@@ -560,22 +560,16 @@ crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli,
 
 *Буква Cc называется Це и в аббревиатуры идёт как C. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются K. Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
-GJÍ ЖИ (GJI), GJZL ЖЗЛ, GZI ГЗИ, TZ ТЗ,  
-SZI СЗИ, ShÝ ШИ (ShI), SHI СХИ,  
-ÉGÈ ЕГЭ (JEGEh),  
-GE ГЕ, GÈ ГЭ (GEh), GI ГИ, GỲ ГЫ (GYh),  
-GJÉ ЖЕ (GJJE), GJÈ ЖЭ (GJEh), GJÍ ЖИ (GJI), GJỲ ЖЫ (GJYh), GzA ГзА,  
-CI ЦИ, ÇZI ЦЗИ (CZI), ÇA ЦА (CA), ÇZA ЦЗА (CZA), ÇzA ЦзА (CzA),  
-
-KE КЕ, KÈ КЭ (KEh), KI КИ,  
-GH ГХ, GZ ГЗ, KZ КЗ, KHI КХИ, NH НХ, NHI НХИ,  
-SChÝ СЧИ (SChI), SchÝ ЩИ (SchI), SCh СЧ, SchU ЩУ,  
-CI ЦИ, ChÝ ЧИ (ChI), ShÝ ШИ (ShI), SHI СХИ,  
-JÈ ЙЭ (JEh), JÉ ЙЕ (JJE), JÍ ЙИ (JII), JÀ ЙА (JIA).
+Shİ ШИ ShI, SHI СХИ, SKHI СКХИ  
+CI ЦИ, CiA ЦА
+KĖ КЕ KIE, KÊ КЭ KE, KI КИ,  
+SChİ СЧИ (SChI), Schİ ЩИ (SchI), SCh СЧ, SchU ЩУ,  
+CI ЦИ, Chİ ЧИ (ChI),  
+ÌÊ ЙЭ (YE), ÌIE ЙЕ (YIE), ÌI ЙИ (YI), ÌA ЙА (YA).
 
 ÉGÈ ЕГЭ (JEGEh), OBGJ ОБЖ, ÇPU ЦПУ (CPU), ChS ЧС, SShA США, ÈÈG ЭЭГ (EhEhG), GJÈK ЖЭК (GJEhK), GJKH ЖКХ, NHL НХЛ, KHL КХЛ, ÉKA ЕКА (JEKA), FIÁ ФИЯ (FIJA), CERN ЦЕРН, OBSE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ.
 
-Возможно использование исключений типа Nìŵ York => NY вместо NÌ, т.к. Y свободна для смысла йота в аббревиатурах.
+Возможно использование исключений типа Nìu York => NY вместо NÌ.
 
 
 ### Набор на смартфоне
