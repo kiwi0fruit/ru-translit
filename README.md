@@ -512,9 +512,10 @@ crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli,
 * **Cc** - це (C., CPU ЦПУ, CìA ЦА, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd**
-* **Ee
-  * **İE** - е (E., İEGÊ ЕГЭ, OBSĖ ОБСЕ)
-  * **ÉÓéó** - ё (Éo.) / **Èè** - э (È., ÉGÈ)
+* **Ee**
+  * **İE** - е (İE., İEGÊ ЕГЭ, OBSĖ ОБСЕ)
+  * **İEO** - ё (İEO.)
+  * **Ê** - э (Ê., İEGÊ ЕГЭ, ÊÊG ЭЭГ)
 * **Ff**
 * **Gg** - гэ (была "же" в математике)
   * **GJ** - же (Gj., OBGJ) 
