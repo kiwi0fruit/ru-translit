@@ -507,7 +507,7 @@ crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli,
 Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
 
 * **Aa** - а
-  * **IA** - я (IA., FİIA ФИЯ FIIA, RIÂ РИА RIiA, RİiA РИиА RIiiA)
+  * **IA** - я (IA., FIIA ФИЯ, RIÂ РИА RIiA, RIiÂ РИиА RIiiA)
 * **Bb** - бэ
 * **Cc** - це (C., CPU ЦПУ, CiA ЦА, CiÂ ЦиА CiiA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
@@ -519,6 +519,7 @@ crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli,
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
+  * **Hy** - ы
 * **Ii** - и
   * **Ì** - и-краткая, йот, ASCII: Y (Ì. Y.)
 * **Jj** - же (была "жи" в математике)
