@@ -513,9 +513,9 @@ crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli,
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
-  * **IE** - е (IE., IEGÊ ЕГЭ IEGAE, OBSĖ ОБСЕ OBSE)
+  * **IE** - е (IE., IEGÊ ЕГЭ IEGE, OBSĖ ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ê** - э, ASCII: E/AE (Ê. E., IEGÊ ЕГЭ IEGAE, ÊÊG ЭЭГ EEG)
+  * **Ê** - э (Ê. E., IEGÊ ЕГЭ IEGE, ÊÊG ЭЭГ EEG)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
