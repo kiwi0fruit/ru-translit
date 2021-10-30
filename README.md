@@ -256,7 +256,7 @@ cẓ ч
 x-xiâ кс-ксиа  
 xia ся
 
-{cons}ou {cons}у
+{cons}òu {cons}у
 
 ----
 
