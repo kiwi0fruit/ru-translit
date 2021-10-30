@@ -671,7 +671,7 @@ I navestim polia pustyie,
 Lesa, nedavno stole gustyie,  
 I bereg, milyi dlia menia
 
-Lermontov M.IU. — Rodina
+Lermontov M.İU. — Rodina
 
 Liubliu otchiznu ia, no strannoiu liubovìu!  
 Ne pobedit ieio rassudoc moi.  
