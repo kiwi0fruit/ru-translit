@@ -366,10 +366,10 @@ crasnyi, miaso, liustra, pìan piiyan, podïezd podyiiezd, iesli, İesli Yesli, 
 
 Shİ ШИ ShI, SHI СХИ, SKHI СКХИ  
 CI ЦИ, CiA ЦА
-KĖ КЕ KIE, KÊ КЭ KE, KI КИ,  
+KÊ КЕ KIE, KĖ КЭ KE, KI КИ,  
 SChİ СЧИ (SChI), Schİ ЩИ (SchI), SCh СЧ, SchU ЩУ,  
 CI ЦИ, Chİ ЧИ (ChI),  
-ÌÊ ЙЭ (YE), ÌIE ЙЕ (YIE), ÌI ЙИ (YI), ÌA ЙА (YA).
+ÌĖ ЙЭ (YE), ÌIE ЙЕ (YIE), ÌI ЙИ (YI), ÌA ЙА (YA).
 
 IEGĖ ЕГЭ (IEGE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ĖĖG ЭЭГ (EEG), JĖK ЖЭК (JEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSÊ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ.
 
