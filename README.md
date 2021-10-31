@@ -113,9 +113,9 @@
 | - | - |
 | İ | йотация в начале слова с заглавной буквы |
 | Èè&nbsp;Ì&nbsp;ì&nbsp;Òò | два мягких и твёрдый знаки после согласных (так же в середине слова как ìu - для визуального разделения) |
-| Ėė&nbsp;Ï&nbsp;ï&nbsp;Ȯȯ&nbsp;Ỳỳ&nbsp;Àà&nbsp;Ùù | гласные, смягчающие предыдущую согласную |
+| Êê&nbsp;Î&nbsp;î&nbsp;Ôô&nbsp;Ỳỳ&nbsp;Àà&nbsp;Ùù | гласные, смягчающие предыдущую согласную |
 | Èè&nbsp;Òò&nbsp;Àà&nbsp;Ùù | йотированные гласные после Ìì или Ii (а так же Е (йэ) в начале слова) |
-| Êê&nbsp;Î&nbsp;î&nbsp;Ôô&nbsp;Ŷŷ&nbsp;Ââ&nbsp;Ûû&nbsp;Ŵŵ | гласные, делающие предыдущую согласную твёрдой или разбивающие диграф с предыдущей гласной (во втором случае звучание гласных Ii,Yy не становится твёрдым) |
+| Ėė&nbsp;Ï&nbsp;ï&nbsp;Öö&nbsp;Ÿÿ&nbsp;Ää&nbsp;Üü&nbsp;Ẅẅ | гласные, делающие предыдущую согласную твёрдой или разбивающие диграф с предыдущей гласной (во втором случае звучание гласных Ii,Yy не становится твёрдым) |
 | Ẹẹ&nbsp;Ị&nbsp;ị&nbsp;Ọọ&nbsp;Ẏẏ&nbsp;Ạạ&nbsp;Ụụ | альтернативное чтение предыдущей согласной (ЕеИиОоИиАаУу) |
 | Éé&nbsp;Í&nbsp;í&nbsp;Óó&nbsp;Ýý&nbsp;Áá&nbsp;Úú&nbsp;Ẃẃ | ударения |
 | Ēē&nbsp;Ī&nbsp;ī&nbsp;Ōō&nbsp;Ȳȳ&nbsp;Āā&nbsp;Ūū | "твёрдые" ударения |
@@ -265,43 +265,43 @@ sẓ ш
 cz кз  
 cẓ ч
 
-x-xiâ кс-ксиа  
+x-xiä кс-ксиа  
 xia ся
 
 
 ## Дополнительные примеры
 
-Уточнение мягкости: parter, partėr partier, partêr partaer.
+Уточнение мягкости: parter, partêr partier, partėr partaer.
 
 Франсэ Françae, Франсуа Françoua  
 можно было бы: pìeça, pìeçs, pìeçy, но лучше обрусеть: pìesa, pìes, pìesy  
 hîstoria
 
 zaiace, унц uncè uncii  
-İacov Yacov, İuliy Yuliy, iod iod, iôn iion, İèsus Yiesus, İûda IIUda, İâcov IIAcov  
+İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus Yiesus, İüda IIUda, İäcov IIAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proîzoshli proiizoshli, latîne latyne, oni moî / moii, on moi, vyîskivate vyiiskivate, aero, maêstro maaestro, Âendỳ Endi, piânino piianino, vyûchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie
+crasnyi, miaso, liustra, pìan piiyan, podïezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proïzoshli proiizoshli, latïne latyne, oni moï / moii, on moi, vyïskivate vyiiskivate, aero, maėstro maaestro, Äendỳ Endi, piänino piianino, vyüchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianê polianie
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
-ниа niâ niia — piânino piianino, Siietl  
-нья nìa niiya — dìavol diiyavol, piiyesa  
-нъя nìâ nyiia — obìêct obyiiect, podyiiezd  
+ниа niä niia — piänino piianino, Siėtl Siietl  
+нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
+нъя nïa nyiia — obïect obyiiect, podïezd podyiiezd  
 есть ìestè iestii  
-на небе na nebė na nebie  
-нии niŷ niiy — liniŷ liniiy  
+на небе na nebê na nebie  
+нии niÿ niiy — liniÿ liniiy  
 ний niy niy  
 ный nyi nyi, ной noi noi, най nai nai  
-наи naî naii  
-выи vyî vyii — vyîgryvate vyiigryvate  
-выу vyû vyuu — vyûchite vyuuchite  
+наи naï naii  
+выи vyï vyii — vyïgryvate vyiigryvate  
+выу vyü vyuu — vyüchite vyuuchite  
 нио nio nio(niio)  
 ньо nìo niiyo  
 нё neo  
-нео neô — neôn nieon, neôbychno neoobychno
+нео neö — neön nieon, neöbychno neoobychno
 
-сьйя sìà siiyya, сйя sòìà s-yya, сьйс sèìs sii-iis, сйс sòìs s-iis
+сьйя sìà siiyya, сйя sïà s-yya, сьйс sèìs sii-iis, сйс sòìs s-iis
 
 
 ## Аббревиатуры
@@ -311,15 +311,15 @@ crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli,
 Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
 
 * **Aa** - а
-  * **IA** - я (IA., FIIA ФИЯ, RIÂ РИА RIiA, RIiÂ РИиА RIiiA)
+  * **IA** - я (IA., FIIA ФИЯ, RIÄ РИА RIiA, RIiÄ РИиА RIiiA)
 * **Bb** - бэ
-* **Cc** - це (C., CPU ЦПУ, CiA ЦА, CiÂ ЦиА CiiA, CI ЦИ)
+* **Cc** - це (C., CPU ЦПУ, CiA ЦА, CiÄ ЦиА CiiA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
-  * **IE** - е (IE., IEGÊ ЕГЭ IEGE, OBSĖ ОБСЕ OBSIE)
+  * **IE** / **Ê** - е (IE., IEGĖ ЕГЭ IEGE, OBSÊ ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ê** - э (Ê. E., IEGÊ ЕГЭ IEGE, ÊÊG ЭЭГ EEG)
+  * **Ė** - э (Ê. E., IEGĖ ЕГЭ IEGE, ĖĖG ЭЭГ EEG)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
@@ -348,9 +348,9 @@ crasnyi, miaso, liustra, pìan piiyan, podìêzd podyiiezd, iesli, İesli Yesli,
 
 | **А**  |     **О**      |  **У**  | **Э**  |  **Ы**  |
 |:------:|:--------------:|:-------:|:------:|:-------:|
-| A / Â  |     O / Ô      |  U / Û  | Ê (E)  |   Hy    |
+| A / Ä  |     O / Ö      |  U / Ü  | Ė (E)  |   Hy    |
 | **Я**  |     **Ё**      |  **Ю**  | **Е**  |  **И**  |
-|   IA   |      IEO       |   IU    |   IE   |  I (Ii) |
+|   IA   |      IEO       |   IU    | IE / Ê |  I (Ii) |
 | **Б**  |     **В**      |  **Г**  | **Д**  |  **Ж**  |
 |   B    |       V        |    G    |   D    |    J    |
 | **З**  |     **Й**      |  **К**  | **Л**  |  **М**  |
@@ -371,7 +371,7 @@ SChİ СЧИ (SChI), Schİ ЩИ (SchI), SCh СЧ, SchU ЩУ,
 CI ЦИ, Chİ ЧИ (ChI),  
 ÌÊ ЙЭ (YE), ÌIE ЙЕ (YIE), ÌI ЙИ (YI), ÌA ЙА (YA).
 
-IEGÊ ЕГЭ (IEGE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), JÊK ЖЭК (JEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSĖ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ.
+IEGĖ ЕГЭ (IEGE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ĖĖG ЭЭГ (EEG), JĖK ЖЭК (JEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSÊ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ.
 
 Возможно использование исключений типа Nìu York => NY вместо NÌ.
 
@@ -432,12 +432,11 @@ This.
 
 Помимо полной версии и ASCII версии можно использовать и СМС версию, которая использует символы, [не уменьшающие длину сообщения](https://en.wikipedia.org/wiki/GSM_03.38#GSM_7-bit_default_alphabet_and_extension_table_of_3GPP_TS_23.038_/_GSM_03.38):
 
-* èùìòà - используются в главной латинице (обратите внимание, что только нижний регистр можно использовать),
-* ÜüÖöÄä - не используются в главной латинице.
+* èùìòàÜüÖöÄä - используются в главной латинице (обратите внимание, что у некоторых только нижний регистр можно использовать).
 
 Main ASCII SMS:
 
-Siêtl Siietl Siietl, piânino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obìêct obyiiect obìect, na nebė nebie nebie.  
+Siėtl Siietl Siietl, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obïect obyiiect obìect, na nebê nebie nebie.  
 iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa.
 
 
@@ -453,7 +452,7 @@ Navstrechu severnoi Aurory,
 Zvezdoiu severa iavise!
 
 Vecheor, ty pomnishè, vìuga zlilase,  
-Na mutnom nebė mgla nosilase;  
+Na mutnom nebê mgla nosilase;  
 Luna, cac blednoie piatno,  
 Scvoze tuchi mrachnyie jeltela,  
 I ty pechalènaia sidela —  
@@ -511,23 +510,23 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piânist, pereiehavshiy v Siêtl na rabotu v companiŷ "Moî i tvoî sièsty".
+Piony i vasilèki vseo iesche rastut na polianê vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siėtl na rabotu v companiÿ "Moï i tvoï sièsty".
 
-Pìanyi master po proiectu sdelal mecḥanicheskiy obìêct s izìânom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyûchite svoî oshibki.
+Pìanyi master po proiectu sdelal mecḥanicheskiy obïect s izïanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyïgryvate gonki i vyüchite svoï oshibki.
 
-V pìesė pro devushcu v zeleonom platìicê vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jînsah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia i gotovite bulìon. Znachit snova pìeom do lysyh aqualangistov.
+V pìesê pro devushcu v zeleonom platìicė vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jėensah, cotoryi cogo-to obïskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jïgu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczêma snova stala iego bespocoîte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Âendỳ. İesli tac poideot i dalèshe, to biudgêtu prideotsia hudo.
+Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczėma snova stala iego bespocoïte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Äendỳ. İesli tac poideot i dalèshe, to biudgėtu prideotsia hudo.
 
-V etom vidė phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
+V etom vidê phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
-Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiŷ "Caligula Gai İuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuìuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciŷ.
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiÿ "Caligula Gai İuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuìuschih nosil hoholoc na golovê. On i nasheol vyhod iz situatciÿ.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥaniс Vasiliy.
 
-Liubimcem Bilìbo byl iunyi Frodo Baeggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoîm naslednicom i predlojil pereselitèsia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelenièm posmatrivavshih na usadèbu, ruhnuli oconchatelèno.
+Liubimcem Bilìbo byl iunyi Frodo Baeggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoïm naslednicom i predlojil pereselitèsia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelenièm posmatrivavshih na usadèbu, ruhnuli oconchatelèno.
 
 Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
@@ -535,11 +534,11 @@ Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 s
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvennom vozraste mejdu dvaciatìu i tridciatìu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neôbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitski.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neöbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitski.
 
-Imeietsia nescolèco hẏpotheṣ proîsḥojdenià sobaki, naîboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
+Imeietsia nescolèco hẏpotheṣ proïsḥojdenià sobaki, naïboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳletichescaia gruppa (proîsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaìutsia mnenià, chto vse sobaki proîzoshli ot odnogo predca (monophỳletichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳletichescaia gruppa (proïsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaìutsia mnenià, chto vse sobaki proïzoshli ot odnogo predca (monophỳletichescaia theorià).
 
 
 ## Пример текста ASCII-only
