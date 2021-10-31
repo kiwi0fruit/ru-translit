@@ -319,7 +319,7 @@ crasnyi, miaso, liustra, pìan piiyan, podïezd podyiiezd, iesli, İesli Yesli, 
 * **Ee** - э (была "е" в математике)
   * **IE** / **Ê** - е (IE., IEGĖ ЕГЭ IEGE, OBSÊ ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ė** - э (Ê. E., IEGĖ ЕГЭ IEGE, ĖĖG ЭЭГ EEG)
+  * **Ė** - э (Ė. E., IEGĖ ЕГЭ IEGE, ĖĖG ЭЭГ EEG)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
