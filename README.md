@@ -436,7 +436,7 @@ This.
 
 Main ASCII SMS:
 
-Siêtl Siietl Siietl, piânino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obìêct obyiiect obìect.
+Siêtl Siietl Siietl, piânino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obìêct obyiiect obìect, na nebė nebie nebie.
 
 
 ## Пример текста
