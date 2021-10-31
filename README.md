@@ -288,7 +288,7 @@ crasnyi, miaso, liustra, pìan piiyan, podïezd podyiiezd, iesli, İesli Yesli, 
 ниа niä niia — piänino piianino, Siėtl Siietl  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
 нъя nïa nyiia — obïect obyiiect, podïezd podyiiezd  
-есть ìestè iestii  
+есть iestè iestii  
 на небе na nebê na nebie  
 нии niÿ niiy — liniÿ liniiy  
 ний niy niy  
