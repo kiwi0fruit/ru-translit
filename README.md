@@ -37,7 +37,7 @@
 
 | Таблица 1    | ъе   | ъё    | ъя   | ъю   | ъи | ье   | ьё    | ья   | ью   | ьи   | ьо   |
 | ------------ | ---- | ----- | ---- | ---- | -- | ---- | ----- | ---- | ---- | ---- | ---- |
-|              | ïe   | ïeo   | ïa   | ïu   | ï  | ìe   | ìeo   | ìa   | ìu   | ìi   | ìo   |
+|              | îe   | îeo   | îa   | îu   | ï  | ìe   | ìeo   | ìa   | ìu   | ìi   | ìo   |
 | ASCII версия | yiie | yiieo | yiia | yiiu | y  | iiye | iiyeo | iiya | iiyu | iiyi | iiyo |
 
 Каждый второй столбец - ASCII версия:
@@ -46,7 +46,7 @@
 | ------------------------------------- | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
 | **основное написание**                | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
 | с большой буквы                       | İe    | Ye    | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
-| после согласной                       | e     |       | eo    |     | ïo    | yiio |       |    |       |    |
+| после согласной                       | e     |       | eo    |     | îo    | yiio |       |    |       |    |
 | после согласной точно "мягкая" и не Ь | ê     | ie    |       |     |       |      |       |    |       |    |
 | в середине слова после гласной        |       |       |       |     |       |      |       |    | ìu    | iu |
 | после Й или И                         | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
@@ -68,7 +68,7 @@
 |                            | и  |    |                                | й       |     |
 | -------------------------- | -- | -- | -------------------------------| ------- | --- |
 | **основное написание**     | i  |    | **основное написание**         | i       |     |
-| после И                    | ÿ  | y  | после И                        | y       |     |
+| после И                    | ỳ  | y  | после И                        | y       |     |
 | после других гласных       | î  | ii | звучащие как в Табл. 1,2       | *T.1,2* |     |
 | перед АОУЭИ                | i  | ii | перед согласной в начале слова | ì       | ii  |
 | исключения после согласной | ỳ  | i  | между согласными               | òì      | -ii |
@@ -84,7 +84,7 @@
 | исключения между согласными    |           |      | ì         | ii   |
 | иначе                          | -         |      | -         |      |    
 
-\* в случае аналога открытого слога (гласная + однобуквенная-согласная + e) e на конце считается мягким знаком è. Для того, чтобы написать аналогичное Е (йэ) нужно использовать ė или ê: cone, o conė. Не распространяется на kè, gè, jè и все модиф. диакритикой согласные (см. след раздел).
+\* в случае аналога открытого слога (гласная + однобуквенная-согласная + e) e на конце считается мягким знаком è. Для того, чтобы написать аналогичное Е (йэ) нужно использовать ė или ê: cone, o conê. Не распространяется на kè, gè, jè и все модиф. диакритикой согласные (см. след раздел).
 
 |                        | к  |    |
 | ---------------------- |:--:| -- |
@@ -285,27 +285,27 @@ zaiace, унц uncè uncii
 İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus Yiesus, İüda IIUda, İäcov IIAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podïezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proïzoshli proiizoshli, latïne latyne, oni moï / moii, on moi, vyïskivate vyiiskivate, aero, maėstro maaestro, Äendỳ Endi, piänino piianino, vyüchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianê polianie
+crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proîzoshli proiizoshli, latïne latyne, oni moî / moii, on moi, vyîskivate vyiiskivate, aero, maėstro maaestro, Äendỳ Endi, piänino piianino, vyüchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianê polianie.
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
 ниа niä niia — piänino piianino, Siėtl Siietl  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
-нъя nïa nyiia — obïect obyiiect, podïezd podyiiezd  
+нъя nîa nyiia — obïect obyiiect, podïezd podyiiezd  
 есть iestè iestii  
 на небе na nebê na nebie  
-нии niÿ niiy — liniÿ liniiy  
+нии niỳ niiy — liniỳ liniiy  
 ний niy niy  
 ный nyi nyi, ной noi noi, най nai nai  
-наи naï naii  
-выи vyï vyii — vyïgryvate vyiigryvate  
+наи naî naii  
+выи vyî vyii — vyîgryvate vyiigryvate  
 выу vyü vyuu — vyüchite vyuuchite  
 нио nio nio(niio)  
 ньо nìo niiyo  
 нё neo  
 нео neö — neön nieon, neöbychno neoobychno
 
-сьйя sìà siiyya, сйя sïà s-yya, сьйс sèìs sii-iis, сйс sòìs s-iis
+сьйя sìà siiyya, сйя sîà s-yya, сьйс sèìs sii-iis, сйс sòìs s-iis
 
 
 ## Аббревиатуры
@@ -440,7 +440,7 @@ This.
 
 Main ASCII SMS:
 
-Siėtl Siietl Siietl, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obïect obyiiect obìect, na nebê nebie nebie.  
+Siėtl Siietl Siietl, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebê nebie nebie.  
 iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa.
 
 
@@ -514,7 +514,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Piony i vasilèki vseo iesche rastut na polianê vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siėtl na rabotu v companiÿ "Moï i tvoï sièsty".
+Piony i vasilèki vseo iesche rastut na polianê vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siėtl na rabotu v companiỳ "Moî i tvoî sièsty".
 
 Pìanyi master po proiectu sdelal mecḥanicheskiy obïect s izïanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyïgryvate gonki i vyüchite svoï oshibki.
 
