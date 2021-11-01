@@ -516,21 +516,21 @@ Pod govor pìanyh mujichcov.
 
 Piony i vasilèki vseo iesche rastut na polianê vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siėtl na rabotu v companiỳ "Moî i tvoî sièsty".
 
-Pìanyi master po proiectu sdelal mecḥanicheskiy obïect s izïanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyïgryvate gonki i vyüchite svoï oshibki.
+Pìanyi master po proiectu sdelal mecḥanicheskiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyüchite svoî oshibki.
 
 V pìesê pro devushcu v zeleonom platìicė vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jėensah, cotoryi cogo-to obïskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jïgu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczėma snova stala iego bespocoïte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Äendỳ. İesli tac poideot i dalèshe, to biudgėtu prideotsia hudo.
+Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczėma snova stala iego bespocoîte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Äendỳ. İesli tac poideot i dalèshe, to biudgėtu prideotsia hudo.
 
 V etom vidê phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
-Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiÿ "Caligula Gai İuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuìuschih nosil hoholoc na golovê. On i nasheol vyhod iz situatciÿ.
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiỳ "Caligula Gai İuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuìuschih nosil hoholoc na golovê. On i nasheol vyhod iz situatciỳ.
 
-"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥaniс Vasiliy.
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
-Liubimcem Bilìbo byl iunyi Frodo Baeggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoïm naslednicom i predlojil pereselitèsia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelenièm posmatrivavshih na usadèbu, ruhnuli oconchatelèno.
+Liubimcem Bilìbo byl iunyi Frodo Baeggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoîm naslednicom i predlojil pereselitèsia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelenièm posmatrivavshih na usadèbu, ruhnuli oconchatelèno.
 
 Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
@@ -540,9 +540,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvenn
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neöbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitski.
 
-Imeietsia nescolèco hẏpotheṣ proïsḥojdenià sobaki, naïboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
+Imeietsia nescolèco hẏpotheṣ proîsḥojdenià sobaki, naîboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳletichescaia gruppa (proïsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaìutsia mnenià, chto vse sobaki proïzoshli ot odnogo predca (monophỳletichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳletichescaia gruppa (proîsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaìutsia mnenià, chto vse sobaki proîzoshli ot odnogo predca (monophỳletichescaia theorià).
 
 
 ## Пример текста ASCII-only
@@ -629,7 +629,7 @@ V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas 
 
 Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiiy "Caligula Gai Yuliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciiy.
 
-"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhaniс Vasiliy.
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
 Liubimcem Biliibo byl iunyi Frodo Baeggins. Cogda Biliibo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselitesia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdeleniyem posmatrivavshih na usadiibu, ruhnuli oconchateliino.
 
