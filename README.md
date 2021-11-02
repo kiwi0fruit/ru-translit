@@ -321,9 +321,9 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
-  * **IE** / **Ê** - е (IE., IEGĖ ЕГЭ IEGaE, OBSÊ ОБСЕ OBSIE)
+  * **IE** / **Ê** - е (IE., IEGĖ ЕГЭ IEGaE/IEG'E, OBSÊ ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ė** - э (Ė. E., IEGĖ ЕГЭ IEGaE, ĖĖG ЭЭГ EEG)
+  * **Ė** - э (Ė. E., IEGĖ ЕГЭ IEGaE/IEG'E, ĖĖG ЭЭГ EEG)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
@@ -362,20 +362,20 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 | **Н**  |     **П**      |  **Р**  | **С**  |  **Т**  |
 |   N    |       P        |    R    |   S    |    T    |
 | **Ф**  |     **Х**      |  **Ц**  | **Ч**  |  **Ш**  |
-|   F    |       H        |  C / Ci |   Ch   |   Sh    |
+|   F    |       H        | C / Cì (Ci) | Ch |   Sh    |
 | **Щ**  |                |         |        |         |
 |  Sch   |                |         |        |         |
 
 *Буква Cc называется Це и в аббревиатуры идёт как C. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются K. Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
-Shİ ШИ ShI, SHI СХИ, SKHI СКХИ  
-CI ЦИ, CiA ЦА
-KÊ КЕ KIE, KĖ КЭ KaE, KI КИ,  
+Shİ ШИ (ShI), SHI СХИ, SKHI СКХИ,  
+CI ЦИ, CìA ЦА (CiA),  
+KÊ КЕ (KIE), KĖ КЭ (KaE/K'E), KI КИ,  
 SChİ СЧИ (SChI), Schİ ЩИ (SchI), SCh СЧ, SchU ЩУ,  
 CI ЦИ, Chİ ЧИ (ChI),  
 YĖ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEGĖ ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ĖĖG ЭЭГ (EEG), JĖK ЖЭК (JaEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSÊ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
+IEGĖ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ĖĖG ЭЭГ (EEG), JĖK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSÊ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
 
 
 ## Набор на смартфоне
