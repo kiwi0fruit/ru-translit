@@ -226,7 +226,7 @@ scḥ сх
 ṣ з  
 ḅ в 
 
-çs-cẹ-ça-cị(cẏ)-çy-çae(çė) с(съ)-се-са-си-сы-сэ (уд. çé, çá, çí, çý, çȳ)  
+çò-cẹ-ça-cị(cẏ)-çy-çae(çė) с(съ)-се-са-си-сы-сэ (уд. çé, çá, çí, çý, çȳ)  
 cè-ce(cae-cė)-cia-ceo-ci(cy)-cìa ц-це-ца-цо(цё)-ци(цы)-цья (уд. cé, ца-ciá, cí, cý, циа-ciā)  
 ch-cê-cîa-cî ч-че-ча-чи (уд. cǐ, cě)  
 kè(ckè)-c(k,ck)-ke(càe,cke)-ki(ky,cki)-cky-cù(ckiu,kiu)-cäe кь-к-ке-ки-кы-кю-кэ
@@ -284,13 +284,17 @@ qụa ка
 На конце основы склоняемых слов лучше qv. В остальных случаях лучше qu. Ну это все перед гласными.  
 Aqva, Aqvy, Aqvu, aquariüm
 
+neùrotism нейротизм, leùtenant лейтенант  
+Èùstaçò Юстас, Èuropa Европа, neurolog невролог, Eureka Эврека  
+Austrià Австрия
+
 
 ## Дополнительные примеры
 
 Уточнение мягкости: parter, partêr partier, partėr partaer.
 
 Франсэ Françae, Франсуа Françoua  
-можно было бы: pìeça, pìeçs, pìeçy, но лучше обрусеть: pìesa, pìes, pìesy  
+можно было бы: pìeça, pìeçò, pìeçy, но лучше обрусеть: pìesa, pìes, pìesy  
 hîstoria
 
 zaiace, унц uncè uncii  
@@ -303,7 +307,7 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 ния nià niya — Marià Mariya, siniè siniye  
 ниа niä niia — piänino piianino, Siėtl Siietl  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
-нъя nîa nyiia — obïect obyiiect, podïezd podyiiezd  
+нъя nîa nyiia — obîect obyiiect, podîezd podyiiezd  
 есть iestè iestii  
 на небе na nebê na nebie  
 нии niỳ niiy — liniỳ liniiy  
