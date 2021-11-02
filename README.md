@@ -352,7 +352,7 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 
 | **А**  |     **О**      |  **У**  | **Э**  |  **Ы**  |
 |:------:|:--------------:|:-------:|:------:|:-------:|
-| A / Ä  |     O / Ö      |  U / Ü  | Ė (E/aE) |  Hy   |
+| A / Ä  |     O / Ö      |  U / Ü  | Ė (E/aE/'E) | Hy |
 | **Я**  |     **Ё**      |  **Ю**  | **Е**  |  **И**  |
 |   IA   |      IEO       |   IU    | IE / Ê |  I (Ii) |
 | **Б**  |     **В**      |  **Г**  | **Д**  |  **Ж**  |
@@ -435,12 +435,11 @@ This.
 Помимо полной версии и ASCII версии можно использовать и СМС версию, которая использует символы, [не уменьшающие длину сообщения](https://en.wikipedia.org/wiki/GSM_03.38#GSM_7-bit_default_alphabet_and_extension_table_of_3GPP_TS_23.038_/_GSM_03.38):
 
 * èùìòàÜüÖöÄä - используются в главной латинице (обратите внимание, что у некоторых только нижний регистр можно использовать).
-* Ææ - не используются в главной латинице.
 
 Main ASCII SMS:
 
 Siėtl Siietl Siietl, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebê nebie nebie.  
-iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa, IEGĖ IEGaE IEGÆ.
+iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa, IEGĖ IEGaE IEG'E, ĖĖG EEG EEG, JĖK JaEK J'EK.
 
 
 ## Пример текста
