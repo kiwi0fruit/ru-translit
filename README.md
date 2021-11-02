@@ -371,7 +371,7 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 SHI ШИ, SḤI СХИ (SkHI), SKHI СКХИ,  
 CI ЦИ, CìA ЦА (CiA),  
 KÊ КЕ (KIE), KĖ КЭ (KaE/K'E), KI КИ,  
-ṢCHI СЧИ (SCHI), SCHI ЩИ, SCh СЧ, SchU ЩУ,  
+SCHI СЧИ, ṢCHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
 CI ЦИ, CHI ЧИ, CḤI ЦХИ (CiHI),  
 YĖ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
