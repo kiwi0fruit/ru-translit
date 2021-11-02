@@ -321,9 +321,9 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
-  * **IE** / **Ê** - е (IE., IEGĖ ЕГЭ IEGE, OBSÊ ОБСЕ OBSIE)
+  * **IE** / **Ê** - е (IE., IEGĖ ЕГЭ IEGaE, OBSÊ ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ė** - э (Ė. E., IEGĖ ЕГЭ IEGE, ĖĖG ЭЭГ EEG)
+  * **Ė** - э (Ė. E., IEGĖ ЕГЭ IEGaE, ĖĖG ЭЭГ EEG)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
@@ -352,13 +352,13 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 
 | **А**  |     **О**      |  **У**  | **Э**  |  **Ы**  |
 |:------:|:--------------:|:-------:|:------:|:-------:|
-| A / Ä  |     O / Ö      |  U / Ü  | Ė (E)  |   Hy    |
+| A / Ä  |     O / Ö      |  U / Ü  | Ė (E/aE) |  Hy   |
 | **Я**  |     **Ё**      |  **Ю**  | **Е**  |  **И**  |
 |   IA   |      IEO       |   IU    | IE / Ê |  I (Ii) |
 | **Б**  |     **В**      |  **Г**  | **Д**  |  **Ж**  |
 |   B    |       V        |    G    |   D    |    J    |
 | **З**  |     **Й**      |  **К**  | **Л**  |  **М**  |
-|   Z    |     Ì / (Y)    |    K    |   L    |    M    |
+|   Z    |       Y        |    K    |   L    |    M    |
 | **Н**  |     **П**      |  **Р**  | **С**  |  **Т**  |
 |   N    |       P        |    R    |   S    |    T    |
 | **Ф**  |     **Х**      |  **Ц**  | **Ч**  |  **Ш**  |
@@ -370,14 +370,12 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 
 Shİ ШИ ShI, SHI СХИ, SKHI СКХИ  
 CI ЦИ, CiA ЦА
-KÊ КЕ KIE, KĖ КЭ KE, KI КИ,  
+KÊ КЕ KIE, KĖ КЭ KaE, KI КИ,  
 SChİ СЧИ (SChI), Schİ ЩИ (SchI), SCh СЧ, SchU ЩУ,  
 CI ЦИ, Chİ ЧИ (ChI),  
-ÌĖ ЙЭ (YE), ÌIE ЙЕ (YIE), ÌI ЙИ (YI), ÌA ЙА (YA).
+YĖ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEGĖ ЕГЭ (IEGE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ĖĖG ЭЭГ (EEG), JĖK ЖЭК (JEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSÊ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ.
-
-Возможно использование исключений типа Nìu York => NY вместо NÌ.
+IEGĖ ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ĖĖG ЭЭГ (EEG), JĖK ЖЭК (JaEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSÊ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
 
 
 ## Набор на смартфоне
