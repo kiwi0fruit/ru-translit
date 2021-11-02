@@ -368,11 +368,11 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 
 *Буква Cc называется Це и в аббревиатуры идёт как C. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются K. Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
-Shİ ШИ (ShI), SHI СХИ, SKHI СКХИ,  
+SHI ШИ, SḤI СХИ (SkHI), SKHI СКХИ,  
 CI ЦИ, CìA ЦА (CiA),  
 KÊ КЕ (KIE), KĖ КЭ (KaE/K'E), KI КИ,  
-SChİ СЧИ (SChI), Schİ ЩИ (SchI), SCh СЧ, SchU ЩУ,  
-CI ЦИ, Chİ ЧИ (ChI),  
+ṢCHI СЧИ (SCHI), SCHI ЩИ, SCh СЧ, SchU ЩУ,  
+CI ЦИ, CHI ЧИ, CḤI ЦХИ (CiHI),  
 YĖ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
 IEGĖ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ĖĖG ЭЭГ (EEG), JĖK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSÊ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
