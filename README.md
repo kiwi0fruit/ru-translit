@@ -294,7 +294,7 @@ Aqva, Aqvy, Aqvu, aquariüm
 hîstoria
 
 zaiace, унц uncè uncii  
-İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus Yiesus, İüda IIUda, İäcov IIAcov  
+İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus IYesus, İüda IUda, İäcov IAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proîzoshli proiizoshli, latïne latyne, oni moî / moii, on moi, vyîskivate vyiiskivate, aero, maėstro maaestro, Äendỳ Endi, piänino piianino, vyüchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianê polianie.
