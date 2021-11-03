@@ -83,7 +83,7 @@
 | исключения между согласными    |           |      | ì         | ii   |
 | иначе                          | -         |      | -         |      |    
 
-\* в случае аналога открытого слога (гласная + однобуквенная-согласная + e) e на конце считается мягким знаком è. Для того, чтобы написать аналогичное Е (йэ) нужно использовать ė или ê: cone, o conê. Не распространяется на kè, gè, jè и все модиф. диакритикой согласные (см. след раздел).
+\* в случае аналога открытого слога (гласная + однобуквенная-согласная + e) e на конце считается мягким знаком è. Для того, чтобы написать аналогичное Е (йэ) нужно использовать ė или ê: cone, o conė. Не распространяется на kè, gè, jè и все модиф. диакритикой согласные (см. след раздел).
 
 |                        | к  |    |
 | ---------------------- |:--:| -- |
@@ -333,15 +333,15 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
 
 * **Aa** - а
-  * **IA** - я (IA., FIIA ФИЯ, RIÄ РИА RIiA, RIiÄ РИиА RIiiA)
+  * **IA** - я (IA., FIIA ФИЯ, RIÂ РИА RIiA, RIiÂ РИиА RIiiA)
 * **Bb** - бэ
-* **Cc** - це (C., CPU ЦПУ, CiA ЦА, CiÄ ЦиА CiiA, CI ЦИ)
+* **Cc** - це (C., CPU ЦПУ, CiA ЦА, CiÂ ЦиА CiiA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
-  * **IE** / **Ê** - е (IE., IEGĖ ЕГЭ IEGaE/IEG'E, OBSÊ ОБСЕ OBSIE)
+  * **IE** / **Ė** - е (IE., IEGÊ ЕГЭ IEGaE/IEG'E, OBSĖ ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ė** - э (Ė. E., IEGĖ ЕГЭ IEGaE/IEG'E, ĖĖG ЭЭГ EEG)
+  * **Ê** - э (Ê. E., IEGĖ ЕГЭ IEGaE/IEG'E, ÊÊG ЭЭГ EEG)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
@@ -370,9 +370,9 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 
 | **А**  |     **О**      |  **У**  | **Э**  |  **Ы**  |
 |:------:|:--------------:|:-------:|:------:|:-------:|
-| A / Ä  |     O / Ö      |  U / Ü  | Ė (E/aE/'E) | Hy |
+| A / Â  |     O / Ô      |  U / Û  | Ê (E/aE/'E) | Hy |
 | **Я**  |     **Ё**      |  **Ю**  | **Е**  |  **И**  |
-|   IA   |      IEO       |   IU    | IE / Ê |  I (Ii) |
+|   IA   |      IEO       |   IU    | IE / Ė |  I (Ii) |
 | **Б**  |     **В**      |  **Г**  | **Д**  |  **Ж**  |
 |   B    |       V        |    G    |   D    |    J    |
 | **З**  |     **Й**      |  **К**  | **Л**  |  **М**  |
@@ -388,12 +388,12 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 
 SHI ШИ, SḤI СХИ (SkHI), SKHI СКХИ,  
 CI ЦИ, CìA ЦА (CiA),  
-KÊ КЕ (KIE), KĖ КЭ (KaE/K'E), KI КИ,  
+KĖ КЕ (KIE), KÊ КЭ (KaE/K'E), KI КИ,  
 SCHI СЧИ, ṢCHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
 CI ЦИ, CHI ЧИ, CḤI ЦХИ (CiHI),  
-YĖ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
+YÊ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEGĖ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ĖĖG ЭЭГ (EEG), JĖK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSÊ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
+IEGÊ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), JÊK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSĖ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
 
 
 ## Набор на смартфоне
@@ -452,12 +452,13 @@ This.
 
 Помимо полной версии и ASCII версии можно использовать и СМС версию, которая использует символы, [не уменьшающие длину сообщения](https://en.wikipedia.org/wiki/GSM_03.38#GSM_7-bit_default_alphabet_and_extension_table_of_3GPP_TS_23.038_/_GSM_03.38):
 
-* èùìòàÜüÖöÄä - используются в главной латинице (обратите внимание, что у некоторых только нижний регистр можно использовать).
+* èùìòà - используются в главной латинице (обратите внимание, что только нижний регистр можно использовать),
+* ÜüÖöÄä - не используется в главной латинице. Но в СМС версии заменяют буквы с крышками.
 
 Main ASCII SMS:
 
-Siėtl Siietl Siietl, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obïect obyiiect obìect, na nebê nebie nebie.  
-iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa, IEGĖ IEGaE IEG'E, ĖĖG EEG EEG, JĖK JaEK J'EK.
+Siêtl Siietl Siietl, piânino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebė nebie nebie.  
+iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.
 
 
 ## Пример текста
