@@ -37,7 +37,7 @@
 
 | Таблица 1    | ъе   | ъё    | ъя   | ъю   | ъи | ье   | ьё    | ья   | ью   | ьи   | ьо   |
 | ------------ | ---- | ----- | ---- | ---- | -- | ---- | ----- | ---- | ---- | ---- | ---- |
-|              | îe   | îeo   | îa   | îu   | ï  | ìe   | ìeo   | ìa   | ìu   | ìi   | ìo   |
+|              | ïe   | ïeo   | ïa   | ïu   | ï  | ìe   | ìeo   | ìa   | ìu   | ìi   | ìo   |
 | ASCII версия | yiie | yiieo | yiia | yiiu | y  | iiye | iiyeo | iiya | iiyu | iiyi | iiyo |
 
 Каждый второй столбец - ASCII версия:
@@ -46,7 +46,7 @@
 | ------------------------------------- | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
 | **основное написание**                | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
 | с большой буквы                       | İe    | Ye    | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
-| после согласной                       | e     |       | eo    |     | îo    | yiio |       |    |       |    |
+| после согласной                       | e     |       | eo    |     | ïo    | yiio |       |    |       |    |
 | после согласной точно "мягкая" и не Ь | ê     | ie    |       |     |       |      |       |    |       |    |
 | в середине слова после гласной        |       |       |       |     |       |      |       |    | ìu    | iu |
 | после Й или И                         | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
@@ -303,13 +303,13 @@ zaiace, унц uncè uncii
 İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus IYesus, İüda IUda, İäcov IAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proîzoshli proiizoshli, latïne latyne, oni moî / moii, on moi, vyîskivate vyiiskivate, aero, maėstro maaestro, Äendỳ Endi, piänino piianino, vyüchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianê polianie.
+crasnyi, miaso, liustra, pìan piiyan, podïezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proîzoshli proiizoshli, latïne latyne, oni moî / moii, on moi, vyîskivate vyiiskivate, aero, maėstro maaestro, Äendỳ Endi, piänino piianino, vyüchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianê polianie.
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
 ниа niä niia — piänino piianino, Siėtl Siietl  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
-нъя nîa nyiia — obîect obyiiect, podîezd podyiiezd  
+нъя nïa nyiia — obïect obyiiect, podïezd podyiiezd  
 есть iestè iestii  
 на небе na nebê na nebie  
 нии niỳ niiy — liniỳ liniiy  
@@ -323,7 +323,7 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 нё neo  
 нео neö — neön nieon, neöbychno neoobychno
 
-сьйя sìà siiyya, сйя sîà s-yya, сьйс sèìs sii-iis, сйс sòìs s-iis
+сьйя sìà siiyya, сйя sïà s-yya, сьйс sèìs sii-iis, сйс sòìs s-iis
 
 
 ## Аббревиатуры
@@ -456,7 +456,7 @@ This.
 
 Main ASCII SMS:
 
-Siėtl Siietl Siietl, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebê nebie nebie.  
+Siėtl Siietl Siietl, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obïect obyiiect obìect, na nebê nebie nebie.  
 iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa, IEGĖ IEGaE IEG'E, ĖĖG EEG EEG, JĖK JaEK J'EK.
 
 
@@ -532,7 +532,7 @@ Pod govor pìanyh mujichcov.
 
 Piony i vasilèki vseo iesche rastut na polianê vozle derevni Peony, schitaìuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siėtl na rabotu v companiỳ "Moî i tvoî sièsty".
 
-Pìanyi master po proiectu sdelal mecḥanicheskiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyüchite svoî oshibki.
+Pìanyi master po proiectu sdelal mecḥanicheskiy obïect s izïanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyîgryvate gonki i vyüchite svoî oshibki.
 
 V pìesê pro devushcu v zeleonom platìicė vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jėensah, cotoryi cogo-to obïskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jïgu. Znachit snova pìeom do lysyh aqualangistov.
 
