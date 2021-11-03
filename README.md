@@ -676,7 +676,7 @@ Navstrechu severnoi Aurory,
 Zvezdoiu severa iavise!
 
 Vecheor, ty pomnishè, vìuga zlilase,  
-Na mutnom nebė mgla nosilase;  
+Na mutnom nebie mgla nosilase;  
 Luna, cac blednoie piatno,  
 Scvoze tuchi mrachnyie jeltela,  
 I ty pechalènaia sidela —  
@@ -734,19 +734,19 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siietl na rabotu v companiiy "Moì i tvoì sièsty".
+Piony i vasilèki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siietl na rabotu v companiiy "Moì i tvoì sièsty".
 
 Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izìanom. Yesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyüchite svoì oshibki.
 
-V pìesė pro devushcu v zeleonom platìicæ vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh djeensah, cotoryi cogo-to obyskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesie pro devushcu v zeleonom platìicæ vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh djeensah, cotoryi cogo-to obyskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
 Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczæma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. İesli tac poideot i dalèshe, to biudjetu prideotsia hudo.
 
-V etom vidė phraza ot A do Ya nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Yeoj coliuchiy i pohoj na neio.
+V etom vidie phraza ot A do Ya nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Yeoj coliuchiy i pohoj na neio.
 
-Skhod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otkhodami companiiy "Caligula Gai İuliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciiy.
+Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiiy "Caligula Gai İuliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciiy.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
