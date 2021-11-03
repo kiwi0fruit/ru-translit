@@ -336,13 +336,13 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 * **Aa** - а
   * **IA** - я (IA., FIIA ФИЯ, RIÂ РИА RIiA, RIiÂ РИиА RIiiA)
 * **Bb** - бэ
-* **Cc** - це (C., CPU ЦПУ, CiA ЦА, CiÂ ЦиА CiiA, CI ЦИ)
+* **Cc** - це (C., CPU ЦПУ, CìA ЦА CiA, CiÂ ЦиА CiiA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
   * **IE** / **Ė** - е (IE., IEGÊ ЕГЭ IEGaE/IEG'E, OBSĖ ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ê** - э (Ê. E., IEGĖ ЕГЭ IEGaE/IEG'E, ÊÊG ЭЭГ EEG)
+  * **Ê** - э (Ê. E., IEGÊ ЕГЭ IEGaE/IEG'E, ÊÊG ЭЭГ EEG)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
