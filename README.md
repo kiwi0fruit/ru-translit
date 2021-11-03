@@ -661,3 +661,105 @@ Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi d
 Imeietsia nescoleco gypothez proiiskhojdeniya sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
 V sujdeniyah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniya. Odni schitaiut, chto sobaki - poliphiletichescaia gruppa (proiiskhodiaschaia ot nescolekih predcov), drugiye priderjivaiutsia mneniya, chto vse sobaki proiizoshli ot odnogo predca (monophiletichescaia thieoriya).
+
+
+## Пример текста СМС
+
+Alexandr Pushkin — Zimneie utro
+
+Moroz i solnce; dene chudesnyi!  
+İesche ty dremleshè, drug prelestnyi —  
+Pora, crasavicia, prosnise:  
+Otcroi somcnuty negoi vzory  
+Navstrechu severnoi Aurory,  
+Zvezdoiu severa iavise!
+
+Vecheor, ty pomnishè, vìuga zlilase,  
+Na mutnom nebė mgla nosilase;  
+Luna, cac blednoie piatno,  
+Scvoze tuchi mrachnyie jeltela,  
+I ty pechalènaia sidela —  
+A nynche… pogliadi v ocno:
+
+Pod golubymi nebesami  
+Velicolepnymi covrami,  
+Blestia na solnce, sneg lejit;  
+Prozrachnyi les odin cherneiet,  
+I ielè scvoze inei zeleneiet,  
+I rechca podo lèdom blestit.
+
+Vsia comnata iantarnym blescom  
+Ozarena. Veseolym trescom  
+Treschit zatoplennaia pechè.  
+Priàtno dumate u lejanki.  
+No znaieshè: ne velete li v sanki  
+Cobylcu buruiu zaprechè?
+
+Scolèzia po utrennemu snegu,  
+Drug milyi, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyie,  
+Lesa, nedavno stole gustyie,  
+I bereg, milyi dlia menia
+
+Lermontov M.IU. — Rodina
+
+Liubliu otchiznu ia, no strannoiu liubovìu!  
+Ne pobedit ieio rassudoc moi.  
+Ni slava, cuplennaia crovìu,  
+Ni polnyi gordogo doverià pocoi,  
+Ni teomnoi stariny zavetnyie predanìa  
+Ne sheveliat vo mne otradnogo mechtanìa.  
+No ia liubliu — za chto, ne znaiu sam —  
+İeio stepei holodnoie molchanìe,  
+İeio lesov bezbrejnyh colyhanìe,  
+Razlivy rec ieio, podobnyie moriam;  
+Proseolochnym puteom liubliu scacate v telege  
+I, vzorom medlennym pronzaia nochi tenè,  
+Vstrechate po storonam, vzdyhaia o nochlege,  
+Drojaschiè ogni pechalènyh derevene;  
+Liubliu dymoc spaleonnoi jnivy,  
+V stepi nochuiuschiy oboz  
+I na holme srede jeoltoi nivy  
+Chetu beleiuschih bereoz.  
+S otradoi, mnogim neznacomoi,  
+İa viju polnoie gumno,  
+Izbu, pocrytuiu solomoi,  
+S reznymi stavniami ocno;  
+I v prazdnic, vecherom rosistym,  
+Smotrete do polnochi gotov  
+Na pliascu s topanìem i svistom  
+Pod govor pìanyh mujichcov.
+
+// God napisanià: 1841
+
+Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piânist, pereiehavshiy v Siêtl na rabotu v companiỳ "Moì i tvoì sièsty".
+
+Pìanyi master po proiectu sdelal mecḥanicheskiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyûchite svoì oshibki.
+
+V pìesė pro devushcu v zeleonom platìicê vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jêensah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
+
+Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
+
+Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczêma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i dalèshe, to biudgêtu prideotsia hudo.
+
+V etom vidė phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
+
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiỳ "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciỳ.
+
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
+
+Liubimcem Bilìbo byl iunyi Frodo Bæggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil pereselitèsia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelenièm posmatrivavshih na usadèbu, ruhnuli oconchatelèno.
+
+Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
+
+– Frodo, malèchic moi, – scazal cac-to raz Bilìbo, – perebiralsia by ty co mne. Gliadishè, i dene rojdenià vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvennom vozraste mejdu dvaciatìu i tridciatìu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
+
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neôbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitski.
+
+Imeietsia nescolèco hẏpotheṣ proìsḥojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
+
+V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳletichescaia gruppa (proìsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaiutsia mnenià, chto vse sobaki proìzoshli ot odnogo predca (monophỳletichescaia theorià).
+
