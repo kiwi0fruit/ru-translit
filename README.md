@@ -195,7 +195,7 @@ pḥ пх
 rh р  
 rḥ рх  
 ṭh ф  
-th-theo(theö)-thèo т-тео-тё  
+th-theo(theô)-thèo т-тео-тё  
 tḥ тх  
 sh ш  
 sḥ сх  
@@ -217,41 +217,41 @@ cḥ-cḥè-cḥy х-хь-хи
 çh к  
 çḥ чх  
 ch ч (уд. ché, chá)  
-çhè-chė-chä ш-ше-ша (уд. chē, chā)  
+çhè-chê-châ ш-ше-ша (уд. chē, chā)  
 chẹ-None те-т(ь) (уд. chě)
 
 sch щ  
 sch-shch сч(только [ɕː])-сч([ɕˈt͡ɕ] или [ɕː])  
-sçhè-schė-schä сш-сше-сша (уд. schē)  
+sçhè-schê-schâ сш-сше-сша (уд. schē)  
 ṣch ш (уд. ṣchá)  
 scḥ сх  
 ṣ з  
 ḅ в 
 
-çò-cẹ-ça-cị(cẏ)-çy-çae(çė) с(съ)-се-са-си-сы-сэ (уд. çé, çá, çí, çý, çȳ)  
-cè-ce(cae-cė)-cia-ceo-ci(cy)-cìa ц-це-ца-цо(цё)-ци(цы)-цья (уд. cé, ца-ciá, cí, cý, циа-ciā)  
-ch-cê-cîa-cî ч-че-ча-чи (уд. cǐ, cě)  
+çò-cẹ-ça-cị(cẏ)-çy-çae(çê) с(съ)-се-са-си-сы-сэ (уд. çé, çá, çí, çý, çȳ)  
+cè-ce(cae-cê)-cia-ceo-ci(cy)-cìa ц-це-ца-цо(цё)-ци(цы)-цья (уд. cé, ца-ciá, cí, cý, циа-ciā)  
+ch-cė-çia-çi ч-че-ча-чи (уд. çǐ, cě)  
 kè(ckè)-c(k,ck)-ke(càe,cke)-ki(ky,cki)-cky-cù(ckiu,kiu)-cäe кь-к-ке-ки-кы-кю-кэ
 
-g-ge(gàe)-geo(geö)-gèo-gae(gäe)-gi(gy)-ghy-gè(ghè)-ghìe г-ге-гео-гё-гэ-ги-гы-гь-гье (уд. gé, gá)  
-ġè-gė-gėa(gïa)-gÿ ж-же-жа-жи (уд. gē, gā)  
+g-ge(gàe)-geo(geô)-gèo-gae(gâe)-gi(gy)-ghy-gè(ghè)-ghìe г-ге-гео-гё-гэ-ги-гы-гь-гье (уд. gé, gá)  
+ġè-gê-gêa(gîa)-gŷ ж-же-жа-жи (уд. gē, gā)  
 ĝè-gẹ-gị(gẏ)-gẹa(gịa) дж-дже-джи-джа (уд. ĝé)  
 dġè-dgė дж-дже
 
 hy ы (уд. hȳ)  
-hė-hä-hî(hỳ) э-а-и (уд. hē,hā,hǐ-hý)  
+hê-hâ-hî(hỳ) э-а-и (уд. hē,hā,hǐ-hý)  
 NO-hẹ-hạ-hịu-hẏ(hị) г-ге-га-гю-ги (уд. ḫé, ḫí, ḫý)  
 ḥè-ḥy-h-he-hi(ḥỳ)-ha-ḥiu хь-хы-х-хе-хи-ха-хю (уд. hé,há,hí,ḥȳ,ḥý)  
 hia-hie я-е
 
 dje дже  
-j-jè-jj-je-ja(jèa)-ji-jiä-jèi ж-жь-жж-же-жа-жи-жиа-жй (уд. jí-já)
+j-jè-jj-je-ja(jèa)-ji-jiâ-jèi ж-жь-жж-же-жа-жи-жиа-жй (уд. jí-já)
  
 ġh-ġhè-ġe х-хь-хе (уд. ġé, ġē)  
-ĵi-ĵa-ĵe-ĵė-ĵh ха-хи-хе-хэ-х (уд. ĵí-ĵá-ĵé-ĵē)  
-ì-jî-jà-jê-jô й-йи-я-е-йо (уд. jǐ-jǎ-jě)
+ĵi-ĵa-ĵe-ĵê-ĵh ха-хи-хе-хэ-х (уд. ĵí-ĵá-ĵé-ĵē)  
+i-jì-jà-jė-jò й-йи-я-е-йо (уд. jǐ-jǎ-jě)
 
-ĵ-ĵj-jė-jä-jï(jėe) дж-джж-дже-джа-джи (уд. jī-jā)  
+ĵ-ĵj-jê-jâ-jî(jêe) дж-джж-дже-джа-джи (уд. jī-jā)  
 jị-jạ-jẹ дзи-дзя-дзе (уд. ɉí-ɉá-ɉé)  
 jì-jia цзи-цзя (уд. ɉǐ-jiá)  
 ĵĵ чч  
@@ -271,59 +271,59 @@ sẓ ш
 cz кз  
 cẓ ч
 
-x-xiä кс-ксиа  
+x-xiâ кс-ксиа  
 xia ся
 
 Lỳo Лио (уд. Lỳó)  
 Lyo Лё (уд. Lyó)  
 Lỳò Льё (уд. Lỳǒ)  
-Lyö Лыо (уд. Lyō)
+Lyô Лыо (уд. Lyō)
 
 qùi-qùe-qùa ки-ке-кя  
 qui-que-qua кви-кве-ква  
-qüi-qüe-qüa куи-куэ-куа  
+quì-quê-quâ куи-куэ-куа  
 qụa ка  
 На конце основы склоняемых слов лучше qv. В остальных случаях лучше qu. Ну это все перед гласными.  
-Aqva, Aqvy, Aqvu, aquariüm
+Aqva, Aqvy, Aqvu, aquariûm
 
 neùrotism нейротизм, leùtenant лейтенант  
-Èùstaçò Юстас, Èuropa Европа, neurolog невролог, Eureka Эврека  
+Èụstaçò Юстас, Èuropa Европа, neurolog невролог, Eureka Эврека  
 Austrià Австрия
 
 
 ## Дополнительные примеры
 
-Уточнение мягкости: parter, partêr partier, partėr partaer.
+Уточнение мягкости: parter, partėr partier, partêr partaer.
 
 Франсэ Françae, Франсуа Françoua  
 можно было бы: pìeça, pìeçò, pìeçy, но лучше обрусеть: pìesa, pìes, pìesy  
 hîstoria
 
 zaiace, унц uncè uncii  
-İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus IYesus, İüda IUda, İäcov IAcov  
+İacov Yacov, İuliy Yuliy, iod iod, iôn iion, İèsus IYesus, İûda IUda, İâcov IAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podïezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proîzoshli proiizoshli, latïne latyne, oni moî / moii, on moi, vyîskivate vyiiskivate, aero, maėstro maaestro, Äendỳ Endi, piänino piianino, vyüchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianê polianie.
+crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maêstro maaestro, Âendỳ Endi, piânino piianino, vyûchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
-ниа niä niia — piänino piianino, Siėtl Siietl  
+ниа niâ niia — piânino piianino, Siêtl Siietl  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
-нъя nïa nyiia — obïect obyiiect, podïezd podyiiezd  
+нъя nîa nyiia — obîect obyiiect, podîezd podyiiezd  
 есть iestè iestii  
-на небе na nebê na nebie  
+на небе na nebė na nebie  
 нии niỳ niiy — liniỳ liniiy  
 ний niy niy  
 ный nyi nyi, ной noi noi, най nai nai  
-наи naî naii  
-выи vyî vyii — vyîgryvate vyiigryvate  
-выу vyü vyuu — vyüchite vyuuchite  
+наи naì naii  
+выи vyì vyii — vyìgryvate vyiigryvate  
+выу vyû vyuu — vyûchite vyuuchite  
 нио nio nio(niio)  
 ньо nìo niiyo  
 нё neo  
-нео neö — neön nieon, neöbychno neoobychno
+нео neô — neôn nieon, neôbychno neoobychno
 
-сьйя sìà siiya, сйя sïà syiia, сьйс sèìs sii-iis, сйс sòìs s-iis
+сьйя sìà siiya, сйя sîà syiia, сьйс sèis sii-iis, сйс sòis s-iis
 
 
 ## Аббревиатуры
