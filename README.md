@@ -61,8 +61,8 @@
 | после Ы                    | ê  | ae | ô  | oo | â  | aa | û  | uu |    |    |
 | после согласной + Е        |    |    | ô  | oo |    |    |    |    |    |    |
 | после OАЭЁЯЕ               |    |    |    |    |    |    | û  | uu |    |    |
-| исключения после согласной | ae |    |    |    |    |    | ou |    | î  | y  |
-| исключения в начале слова  | âe | e  |    |    |    |    |    |    |    |    |
+| исключения после согласной | æ | ae   |    |    |    |    | ou |    | î  | y  |
+| исключения в начале слова  | æ | e  |    |    |    |    |    |    |    |    |
 
 |                            | и  |    |                                | й       |     |
 | -------------------------- | -- | -- | -------------------------------| ------- | --- |
@@ -141,7 +141,7 @@
 
 ### Новые буквы
 
-İ Ėė  
+İ Ėė Ææ  
 Èè Ì ì Òò Ỳỳ Àà Ùù Ẁẁ  
 Êê Î î Ôô Ŷŷ Ââ Ûû Ŵŵ  
 (Ëë Ï ï Öö Ÿÿ Ää Üü Ẅẅ)  
@@ -228,12 +228,12 @@ scḥ сх
 ṣ з  
 ḅ в 
 
-çò-cẹ-ça-cị(cẏ)-çy-çae(çê) с(съ)-се-са-си-сы-сэ (уд. çé, çá, çí, çý, çȳ)  
-cè-ce(cae-cê)-cia-ceo-ci(cy)-cìa ц-це-ца-цо(цё)-ци(цы)-цья (уд. cé, ца-ciá, cí, cý, циа-ciā)  
+çò-cẹ-ça-cị(cẏ)-çy-çæ(ae,çê) с(съ)-се-са-си-сы-сэ (уд. çé, çá, çí, çý, çȳ)  
+cè-ce(cæ-cae-cê)-cia-ceo-ci(cy)-cìa ц-це-ца-цо(цё)-ци(цы)-цья (уд. cé, ца-ciá, cí, cý, циа-ciā)  
 ch-cė-çia-çi ч-че-ча-чи (уд. çǐ, cě)  
 kè(ckè)-c(k,ck)-ke(càe,cke)-ki(ky,cki)-cky-cù(ckiu,kiu)-cäe кь-к-ке-ки-кы-кю-кэ
 
-g-ge(gàe)-geo(geô)-gèo-gae(gâe)-gi(gy)-ghy-gè(ghè)-ghìe г-ге-гео-гё-гэ-ги-гы-гь-гье (уд. gé, gá)  
+g-ge(gàe)-geo(geô)-gèo-gæ(gae-gâe)-gi(gy)-ghy-gè(ghè)-ghìe г-ге-гео-гё-гэ-ги-гы-гь-гье (уд. gé, gá)  
 ġè-gê-gêa(gîa)-gŷ ж-же-жа-жи (уд. gē, gā)  
 ĝè-gẹ-gị(gẏ)-gẹa(gịa) дж-дже-джи-джа (уд. ĝé)  
 dġè-dgė дж-дже
@@ -539,15 +539,15 @@ V pìesė pro devushcu v zeleonom platìicê vse sadilise na ladìi i plyli po r
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Maer nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczêma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Âendỳ. İesli tac poideot i dalèshe, to biudgêtu prideotsia hudo.
+Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczêma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i dalèshe, to biudgêtu prideotsia hudo.
 
 V etom vidė phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
-Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiỳ "Caligula Gai İuliy Caeṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciỳ.
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiỳ "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciỳ.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
-Liubimcem Bilìbo byl iunyi Frodo Baeggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil pereselitèsia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelenièm posmatrivavshih na usadèbu, ruhnuli oconchatelèno.
+Liubimcem Bilìbo byl iunyi Frodo Bæggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil pereselitèsia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelenièm posmatrivavshih na usadèbu, ruhnuli oconchatelèno.
 
 Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
