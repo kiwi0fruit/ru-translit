@@ -740,7 +740,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Piony i vasilèki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siietl na rabotu v companiì "Moì i tvoì sièsty".
+Piony i vasilèki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companiì "Moì i tvoì sièsty".
 
 Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izìanom. Yesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyüchite svoì oshibki.
 
