@@ -48,12 +48,14 @@
 | Таблица 2                             | е     |       | ё     |     | йо    |      | я     |    | ю     |    |
 | ------------------------------------- | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
 | **основное написание**                | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
-| с большой буквы                       | İe    | Ye    | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
+| с большой буквы                       | İe    | Ye *  | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
 | после согласной                       | e     |       | eo    |     | îo    | yiio |       |    |       |    |
 | после согласной точно "мягкая" и не Ь | ė     | ie    |       |     |       |      |       |    |       |    |
 | после Й или И                         | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
 | исключения в начале слова             | È/è   | Ye/ie |       |     |       |      |       |    |       |    |
 | как в Табл. 1                         | *T.1* |       | *T.1* |     | *T.1* |      | *T.1* |    | *T.1* |    |
+
+\* Кроме исключений типа İuliy - Iuliy.
 
 | Таблица 3                  | э  |    | о  |    | а  |    | у  |    | ы  |    |
 | -------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -461,7 +463,8 @@ This.
 Main ASCII SMS:
 
 Siêtl Siietl Siætl, maêstro maaestro maæstro, piânino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebė nebie nebie.  
-iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
+iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
+Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
 siniỳ siniiy siniì.
 
 
@@ -745,11 +748,11 @@ V pìesie pro devushcu v zeleonom platìicie vse sadilise na ladìi i plyli po r
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. İesli tac poideot i dalèshe, to biudjetu prideotsia hudo.
+Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. Yesli tac poideot i dalèshe, to biudjetu prideotsia hudo.
 
 V etom vidie phraza ot A do Ya nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Yeoj coliuchiy i pohoj na neio.
 
-Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiì "Caligula Gai İuliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciì.
+Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiì "Caligula Gai Iuliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciì.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
