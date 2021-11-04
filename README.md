@@ -460,8 +460,9 @@ This.
 
 Main ASCII SMS:
 
-Siêtl Siietl Siietl, piânino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebė nebie nebie.  
-iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.
+Siêtl Siietl Siætl, maêstro maaestro maæstro, piânino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebė nebie nebie.  
+iego iego iego, İego Yego Yego, Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
+siniỳ siniiy siniì.
 
 
 ## Пример текста
