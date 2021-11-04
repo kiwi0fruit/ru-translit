@@ -651,7 +651,7 @@ Maer neboliishogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo e
 
 V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Yeoj coliuchiy i pohoj na neio.
 
-Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiiy "Caligula Gai Yuliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciiy.
+Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiiy "Caligula Gai Iuliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciiy.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
