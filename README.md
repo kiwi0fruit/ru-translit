@@ -771,3 +771,26 @@ Imeietsia nescolèco gypothez proìskhojdenià sobaki, naìboleie veroiatnymi ie
 
 V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - poliphiletichescaia gruppa (proìsḥodiaschaia ot nescolèkih predcov), drugiè priderjivaiutsia mnenià, chto vse sobaki proìzoshli ot odnogo predca (monophiletichescaia theorià).
 
+
+## Поддержка шрифтами
+
+Понять какие шрифты поддерживают письмо на этой латинице можно с помощью такого тестового фрагмента, который содержит всю диакритику, кроме используемой только в ударениях:
+
+> İ Ėė Ææ  
+> Èè Ì ì Òò Ỳỳ Àà Ùù  
+> Êê Î î Ôô Ŷŷ Ââ Ûû Ŵŵ  
+> Ï ï Öö Ää Üü  
+> Ḅḅ Çç Ḍḍ Ĝĝ Ġġ Ḥḥ  
+> Ĵ ĵ Ḳḳ Ḷḷ Ṇṇ Ṭṭ Ṣṣ Ẓẓ  
+> Ẹẹ Ị ị Ọọ Ẏẏ Ạạ Ụụ
+> 
+> Vecheor, ty pomnishè, vìuga zlilase, Na mutnom nebė mgla nosilase; Luna, cac blednoie piatno, Scvoze tuchi mrachnyie jeltela, I ty pechalènaia sidela — A nynche… pogliadi v ocno: Ḅaḅylon
+
+Следует обратить внимание, что все точки стоят на правильных местах. А так же оценить общую эстетику шрифта по фрагменту стиха. Прошли отбор:
+
+* _Serif_: STIX Two Text, Source Serif Pro, Merriweather, Crimson Text, Crimson Pro, EB Garamond, Cormorant Garamond, Cormorant SC, Gentium Basic, Gentium Book Basic, Yrsa, Alegreya, IBM Plex Serif, Noto Serif, Roboto Slab, Cardo, Tinos, Taviraj, Gelasio, Judson, Podkova, Castoro, Hepta Slab, Bodoni Moda, Gowun Batang, Rasa, Andada Pro, Bona Nova, Manuale, Besley, Brygada 1918, Piazzolla
+* _Sans-Serif_: Roboto, Open Sans, Noto Sans, Source Sans Pro, Fira Sans, Merriweather Sans, Montserrat, Inter, Nunito, Nunito Sans, IBM Plex Sans, Arimo, Mulish, Varela Round, Kanit, Signika, Encode Sans, Encode Sans SC, Archivo, Recursive, Gothic A1, Faustina, Saira, Lexend, Lexend Deca, Bai Jamjuree, Andika, Andika New Basic, Niramit, Amiko, K2D,  Livvic, KoHo, Varta, Trispace
+* _Monospace_: Roboto Mono, Cousine, Inconsolata, Source Code Pro, IBM Plex Mono
+* _Handwriting_: Great Vibes, Mali, Itim, Charm, Yomogi, Sedgwick Ave, Sedgwick Ave Display, Dekko
+* _Display_: Arima Madurai, Gluten, Yeseva One, Chonburi, Calistoga, Bellota, Bellota Text, Goldman, Srisakdi, Viaoda Libre
+
