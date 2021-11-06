@@ -641,7 +641,7 @@ Pod govor piiyanyh mujichcov.
 
 // God napisaniya: 1841
 
-Piony i vasiliiki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Siietl na rabotu v companiiy "Moii i tvoii siyesty".
+Piony i vasiliiki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Siietl na rabotu v companiii "Moii i tvoii siyesty".
 
 Piiyanyi master po proiectu sdelal mekhanicheskiy obyiiect s izyiianom. Yesli brac ne obnarujitsia, to belyie bolidy boliishe ne smogut vyiigryvate gonki i vyuuchite svoii oshibki.
 
@@ -653,7 +653,7 @@ Maer neboliishogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo e
 
 V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Yeoj coliuchiy i pohoj na neio.
 
-Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiiy "Caligula Gai Iuliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciiy.
+Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiii "Caligula Gai Iuliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciii.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
