@@ -41,7 +41,7 @@
 
 | Таблица 1    | ъе   | ъё    | ъя   | ъю   | ъи | ье   | ьё    | ья   | ью   | ьи   | ьо   |
 | ------------ | ---- | ----- | ---- | ---- | -- | ---- | ----- | ---- | ---- | ---- | ---- |
-|              | îe   | îeo   | îa   | îu   | î  | ìe   | ìeo   | ìa   | ìu   | ìi   | ìo   |
+|              | îe   | îeo   | îa   | îu   | î  | ìe   | ìeo   | ìa   | ìu   | ìyi  | ìo   |
 | ASCII версия | yiie | yiieo | yiia | yiiu | y  | iiye | iiyeo | iiya | iiyu | iiyi | iiyo |
 
 Каждый второй столбец - ASCII версия:
@@ -76,8 +76,8 @@
 | после И                    | ỳ  | y  | после И                        | y       |     |
 | после других гласных       | ì  | ii | звучащие как в Табл. 1,2       | *T.1,2* |     |
 | перед АОУЭИ                | i  | ii | перед согласной в начале слова | y       |     |
-| исключения                 | ỳ  | i  | между согласными               | òi      | -y  |
-| другие исключения          | ee | ee | после согласной в конце слова  | òi      | -y  |
+| исключения                 | ỳ  | i  | между согласными (в т.ч. в конце) | òi   | -y  |
+| другие исключения          | ee | ee | йи после гласной               | iyi     |     |
 |                            |    |    | исключения после ЭЕАЯ          | ù       | i   |
 
 |                                | ъ         |      | ь         |      |
@@ -107,7 +107,7 @@
 
 | Таблица 4    | ЪЭ  | ЪЫ   | ЪО  | ЪА  | ЪУ  | ЬЭ          | ЬЫ          | ЬА          | ЬУ          |
 | ------------ | --  | ---- | --- | --- | --- | ----------- | ----------- | ----------- | ----------- |
-|              | òhê | òhy  | òhô | òhâ | òhû | ìe/ê/èhê \* | ìi/ỳ/èhy    | ìa/ia/èhâ   | ìu/iu/èhû   | 
+|              | òhê | òhy  | òhô | òhâ | òhû | ìe/ê/èhê \* | ìyi/ỳ/èhy   | ìa/ia/èhâ   | ìu/iu/èhû   | 
 | ASCII версия | -e  | -hy  | -o  | -a  | -u  | iiye/ie/e-e | iiyi/i/e-hy | iiya/ia/e-a | iiyu/iu/e-u |
 
 \* три варианта, ибо вариантов чтения сьэ тоже три: как сье/се/сь-э.
@@ -120,7 +120,7 @@
 | İ | йотация в начале слова с заглавной буквы |
 | Èè&nbsp;Ì&nbsp;ì&nbsp;Òò | два мягких и твёрдый знаки после согласных |
 | Ėė&nbsp;Ỳỳ&nbsp;Àà&nbsp;Ùù&nbsp;Ẁẁ | гласные, смягчающие предыдущую согласную |
-| Èè&nbsp;Ì&nbsp;ì&nbsp;Òò&nbsp;Àà&nbsp;Ùù&nbsp;Ỳỳ | йотированные гласные после Ìì или Ii (а так же Е-Йэ в начале слова; Y-И после I-И; I-И после гласных) |
+| Èè&nbsp;Ì&nbsp;ì&nbsp;Òò&nbsp;Àà&nbsp;Ùù&nbsp;Ỳỳ | йотированные гласные после i (а так же Е-Йэ в начале слова; Y-И после I-И; I-И после гласных) |
 | Êê&nbsp;Î&nbsp;î&nbsp;Ôô&nbsp;Ŷŷ&nbsp;Ââ&nbsp;Ûû&nbsp;Ŵŵ | гласные, делающие предыдущую согласную твёрдой или разбивающие диграф с предыдущей гласной (во втором случае звучание гласных Ii,Yy не становится твёрдым) |
 | Ï&nbsp;ï&nbsp;Öö&nbsp;Ää&nbsp;Üü | гласные, разбивающие диграф с предыдущей гласной, а так же сокр.: jii/jï |
 | Ẹẹ&nbsp;Ị&nbsp;ị&nbsp;Ọọ&nbsp;Ẏẏ&nbsp;Ạạ&nbsp;Ụụ&nbsp;Ẉẉ | альтернативное чтение предыдущей согласной (ЕеИиОоИиАаУу) |
@@ -544,7 +544,7 @@ Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaiusc
 
 Pìanyi master po proiectu sdelal mecḥanicheskiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyûchite svoì oshibki.
 
-V pìesė pro devushcu v zeleonom platìicê vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jêensah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jêensah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
@@ -746,7 +746,7 @@ Piony i vasilèki vseo iesche rastut na polianie vozle derevni Peony, schitaiusc
 
 Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izìanom. Yesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyüchite svoì oshibki.
 
-V pìesie pro devushcu v zeleonom platìicie vse sadilise na ladìi i plyli po reke. No tut iz lesa vyshel 'George Maximus, cone v palèto i rvanyh djeensah, cotoryi cogo-to obyskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesie pro devushcu v zeleonom platìyicie vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel 'George Maximus, cone v palèto i rvanyh djeensah, cotoryi cogo-to obyskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
