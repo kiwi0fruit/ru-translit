@@ -304,7 +304,7 @@ Austrià Австрия
 
 Франсэ Françae, Франсуа Françoua  
 можно было бы: pìeça, pìeçò, pìeçy, но лучше обрусеть: pìesa, pìes, pìesy  
-hîstoria
+hîstoria, raiyispolcom
 
 zaiace, унц uncè uncii  
 İacov Yacov, İuliy Yuliy, iod iod, iôn iion, İèsus IYesus, İûda IUda, İâcov IAcov  
