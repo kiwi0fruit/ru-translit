@@ -463,7 +463,7 @@ This.
 
 Main ASCII SMS:
 
-Siêtl Siietl Siætl, maêstro maaestro maæstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebė nebie nebie.  
+Siêtl Siietl Siætl, maêstro maaestro maæstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
 sinìì siniii sinìì.
@@ -743,7 +743,7 @@ Pod govor pìanyh mujichcov.
 
 Piony i vasilèki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì i tvoì sièsty".
 
-Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izìanom. Yesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyüchite svoì oshibki.
+Pìanyi master po proiectu sdelal mekhanicheskiy obòiect s izòianom. Yesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyüchite svoì oshibki.
 
 V pìesie pro devushcu v zeleonom platìyicie vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel 'George Maximus, cone v palèto i rvanyh djeensah, cotoryi cogo-to obyskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
