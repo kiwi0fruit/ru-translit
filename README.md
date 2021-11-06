@@ -63,22 +63,22 @@
 | **основное написание**     | e  |    | o  |    | a  |    | u  |    | hy |    |
 | после согласной            | ê  | ae |    |    |    |    |    |    | y  |    |
 | после согласной + А        | ê  | ae |    |    |    |    |    |    |    |    |
-| после И                    | ê  | e  | o  |    | â  | a  | û  | u  |    |    |
-| после Ы                    | ê  | ae | ô  | oo | â  | aa | û  | uu |    |    |
-| после согласной + Е        |    |    | ô  | oo |    |    |    |    |    |    |
-| после OАЭЁЯЕ               |    |    |    |    |    |    | û  | uu |    |    |
-| исключения после согласной | æ | ae   |    |    |    |    | ou |    | î  | y  |
-| исключения в начале слова  | æ | e  |    |    |    |    |    |    |    |    |
+| после И                    | ê  | e  | o  |    | ä  | a  | ü  | u  |    |    |
+| после Ы                    | ê  | ae | ö  | oo | ä  | aa | ü  | uu |    |    |
+| после согласной + Е        |    |    | ö  | oo |    |    |    |    |    |    |
+| после OАЭЁЯЕ               |    |    |    |    |    |    | ü  | uu |    |    |
+| исключения после согласной | æ  | ae |    |    |    |    | ou |    | î  | y  |
+| исключения в начале слова  | æ  | e  |    |    |    |    |    |    |    |    |
 
-|                            | и  |    |                                | й       |     |
-| -------------------------- | -- | -- | -------------------------------| ------- | --- |
-| **основное написание**     | i  |    | **основное написание**         | i       |     |
-| после И                    | ì  | i  | после И                        | y       |     |
-| после других гласных или перед И | ì | ii | звучащие как в Табл. 1,2  | *T.1,2* |     |
-| перед АОУЭ                 | i  | ii | перед согласной в начале слова | y       |     |
-| исключения                 | ỳ  | i  | между согласными (в т.ч. в конце) | òi   | -y  |
-| другие исключения          | ee | ee | йи после гласной               | iyi     |     |
-|                            |    |    | исключения после ЭЕАЯ          | ù       | i   |
+|                                  | и  |    |                                   | й       |     |
+| -------------------------------- | -- | -- | --------------------------------- | ------- | --- |
+| **основное написание**           | i  |    | **основное написание**            | i       |     |
+| после И                          | ì  | i  | после И                           | y       |     |
+| после других гласных или перед И | ì  | ii | звучащие как в Табл. 1,2          | *T.1,2* |     |
+| перед АОУЭ                       | i  | ii | перед согласной в начале слова    | y       |     |
+| исключения                       | ỳ  | i  | между согласными (в т.ч. в конце) | òi      | -y  |
+| другие исключения                | ee | ee | йи после гласной                  | iyi     |     |
+|                                  |    |    | исключения после ЭЕАЯ             | ù       | i   |
 
 |                                | ъ         |      | ь         |      |
 | ------------------------------ | --------- | ---- | --------- | ---- |
@@ -91,17 +91,17 @@
 
 \* в случае аналога открытого слога (гласная + однобуквенная-согласная + e) e на конце считается мягким знаком è. Для того, чтобы написать аналогичное Е (йэ) нужно использовать ė или ê: cone, o conė. Не распространяется на kè, gè, jè и все модиф. диакритикой согласные (см. след раздел).
 
-|                        | к  |    |
-| ---------------------- |:--:| -- |
-| **основное написание** | c  |    |
-| перед ЕЁИ              | k  |    |
+|                        | к        |        |
+| ---------------------- |:--------:| ------ |
+| **основное написание** | c        |        |
+| перед ЕЁИ              | k        |        |
 |                        | **ц**    |        |
 | **основное написание** | cè/ce \* | cii/ce |
 | перед ЕЁЭИЫ            | c        |        |
 | перед ОАУ              | ci       |        |
-|                        | **в** |    |
-| **основное написание** | v     |    |
-| исключения после ЭЕАЯ  | u     |    |
+|                        | **в**    |        |
+| **основное написание** | v        |        |
+| исключения после ЭЕАЯ  | u        |        |
 
 \* в случае аналога открытого слога (гласная + c + e) e на конце считается мягким знаком è. Для того, чтобы написать аналогичное ЦЕ нужно использовать ê: zaiace, o palicê. 
 
@@ -202,7 +202,7 @@ pḥ пх
 rh р  
 rḥ рх  
 ṭh ф  
-th-theo(theô)-thèo т-тео-тё  
+th-theo(theö)-thèo т-тео-тё  
 tḥ тх  
 sh ш  
 sḥ сх  
@@ -240,7 +240,7 @@ cè-ce(cæ-cae-cê)-cia-ceo-ci(cy)-cìa ц-це-ца-цо(цё)-ци(цы)-ць�
 ch-cė-çia-çi ч-че-ча-чи (уд. çǐ, cě)  
 kè(ckè)-c(k,ck)-ke(càe,cke)-ki(ky,cki)-cky-cù(ckiu,kiu)-câe кь-к-ке-ки-кы-кю-кэ
 
-g-ge(gàe)-geo(geô)-gèo-gæ(gae-gâe)-gi(gy)-ghy-gè(ghè)-ghìe г-ге-гео-гё-гэ-ги-гы-гь-гье (уд. gé, gá)  
+g-ge(gàe)-geo(geö)-gèo-gæ(gae-gâe)-gi(gy)-ghy-gè(ghè)-ghìe г-ге-гео-гё-гэ-ги-гы-гь-гье (уд. gé, gá)  
 ġè-gê-gêa(gîa)-gŷ ж-же-жа-жи (уд. gē, gā)  
 ĝè-gẹ-gị(gẏ)-gẹa(gịa) дж-дже-джи-джа (уд. ĝé)  
 dġè-dgė дж-дже
@@ -252,7 +252,7 @@ NO-hẹ-hạ-hịu-hẏ(hị) г-ге-га-гю-ги (уд. ḫé, ḫí, ḫý)
 hia-hie я-е
 
 dje дже  
-j-jè-jj-je-ja(jèa)-ji-jiâ-jèi ж-жь-жж-же-жа-жи-жиа-жй (уд. jí-já)
+j-jè-jj-je-ja(jèa)-ji-jiä-jèi ж-жь-жж-же-жа-жи-жиа-жй (уд. jí-já)
  
 ġh-ġhè-ġe х-хь-хе (уд. ġé, ġē)  
 ĵi-ĵa-ĵe-ĵê-ĵh ха-хи-хе-хэ-х (уд. ĵí-ĵá-ĵé-ĵē)  
@@ -278,20 +278,20 @@ sẓ ш
 cz кз  
 cẓ ч
 
-x-xiâ кс-ксиа  
+x-xiä кс-ксиа  
 xia ся
 
 Lỳo Лио (уд. Lỳó)  
 Lyo Лё (уд. Lyó)  
 Lỳò Льё (уд. Lỳǒ)  
-Lyô Лыо (уд. Lyō)
+Lyö Лыо (уд. Lyō)
 
 qùi-qùe-qùa ки-ке-кя  
 qui-que-qua кви-кве-ква  
-quì-quê-quâ куи-куэ-куа  
+quì-quê-quä куи-куэ-куа  
 qụa ка  
 На конце основы склоняемых слов лучше qv. В остальных случаях лучше qu. Ну это все перед гласными.  
-Aqva, Aqvy, Aqvu, aquariûm
+Aqva, Aqvy, Aqvu, aquariüm
 
 neùrotism нейротизм, leùtenant лейтенант  
 Èụstaçò Юстас, Èuropa Европа, neurolog невролог, Eureka Эврека  
@@ -307,14 +307,14 @@ Austrià Австрия
 hîstoria, raiyispolcom
 
 zaiace, унц uncè uncii  
-İacov Yacov, İuliy Yuliy, iod iod, iôn iion, İèsus IYesus, İûda IUda, İâcov IAcov  
+İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus IYesus, İüda IUda, İäcov IAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maêstro maaestro, Ændỳ Endi, piânino piianino, vyûchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
+crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maêstro maaestro, Ændỳ Endi, piänino piianino, vyûchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
-ниа niâ niia — piânino piianino, Siêtl Siietl  
+ниа niä niia — piänino piianino, Siêtl Siietl  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
 нъя nîa nyiia — obîect obyiiect, podîezd podyiiezd  
 есть iestè iestii  
@@ -324,11 +324,11 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 ный nyi nyi, ной noi noi, най nai nai  
 наи naì naii  
 выи vyì vyii — vyìgryvate vyiigryvate  
-выу vyû vyuu — vyûchite vyuuchite  
+выу vyü vyuu — vyüchite vyuuchite  
 нио nio nio(niio)  
 ньо nìo niiyo  
 нё neo  
-нео neô — neôn nieon, neôbychno neoobychno
+нео neö — neön nieon, neöbychno neoobychno
 
 сьйя sìà siiya, сйя sîà syiia, сьйс sèis sii-iis, сйс sòis s-iis
 
@@ -340,9 +340,9 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
 
 * **Aa** - а
-  * **IA** - я (IA., FIIA ФИЯ, RIÂ РИА RIiA, RIiÂ РИиА RIiiA)
+  * **IA** - я (IA., FIIA ФИЯ, RIÄ РИА RIiA, RIiÄ РИиА RIiiA)
 * **Bb** - бэ
-* **Cc** - це (C., CPU ЦПУ, CìA ЦА CiA, CiÂ ЦиА CiiA, CI ЦИ)
+* **Cc** - це (C., CPU ЦПУ, CìA ЦА CiA, CiÄ ЦиА CiiA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
@@ -375,21 +375,21 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 
 В скобках указаны ASCII-only обозначения.
 
-| **А**  |     **О**      |  **У**  | **Э**  |  **Ы**  |
-|:------:|:--------------:|:-------:|:------:|:-------:|
-| A / Â  |     O / Ô      |  U / Û  | Ê (E/aE/'E) | Hy |
-| **Я**  |     **Ё**      |  **Ю**  | **Е**  |  **И**  |
-|   IA   |      IEO       |   IU    | IE / Ė |  I (Ii) |
-| **Б**  |     **В**      |  **Г**  | **Д**  |  **Ж**  |
-|   B    |       V        |    G    |   D    |    J    |
-| **З**  |     **Й**      |  **К**  | **Л**  |  **М**  |
-|   Z    |       Y        |    K    |   L    |    M    |
-| **Н**  |     **П**      |  **Р**  | **С**  |  **Т**  |
-|   N    |       P        |    R    |   S    |    T    |
-| **Ф**  |     **Х**      |  **Ц**  | **Ч**  |  **Ш**  |
-|   F    |       H        | C / Cì (Ci) | Ch |   Sh    |
-| **Щ**  |                |         |        |         |
-|  Sch   |                |         |        |         |
+| **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
+|:------:|:--------------:|:-----------:|:-----------:|:-------:|
+| A / Ä  |     O / Ö      |  U / Ü      | Ê (E/aE/'E) |   Hy    |
+| **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
+|   IA   |      IEO       |   IU        | IE / Ė      |  I (Ii) |
+| **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
+|   B    |       V        |    G        |   D         |    J    |
+| **З**  |     **Й**      |  **К**      | **Л**       |  **М**  |
+|   Z    |       Y        |    K        |   L         |    M    |
+| **Н**  |     **П**      |  **Р**      | **С**       |  **Т**  |
+|   N    |       P        |    R        |   S         |    T    |
+| **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
+|   F    |       H        | C / Cì (Ci) |   Ch        |   Sh    |
+| **Щ**  |                |             |             |         |
+|  Sch   |                |             |             |         |
 
 *Буква Cc называется Це и в аббревиатуры идёт как C. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются K. Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
@@ -459,12 +459,11 @@ This.
 
 Помимо полной версии и ASCII версии можно использовать и СМС версию, которая использует символы, [не уменьшающие длину сообщения](https://en.wikipedia.org/wiki/GSM_03.38#GSM_7-bit_default_alphabet_and_extension_table_of_3GPP_TS_23.038_/_GSM_03.38):
 
-* èùìòà,Ææ - используются в главной латинице (обратите внимание, что у большинства только нижний регистр можно использовать),
-* ÜüÖöÄä - не используется в главной латинице. Но в СМС версии разбивают диграфы с гласными.
+* èùìòà,ÆæÜüÖöÄä - используются в главной латинице (обратите внимание, что у большинства только нижний регистр можно использовать).
 
 Main ASCII SMS:
 
-Siêtl Siietl Siætl, maêstro maaestro maæstro, piânino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebė nebie nebie.  
+Siêtl Siietl Siætl, maêstro maaestro maæstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obìect, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
 sinìì siniii sinìì.
@@ -540,9 +539,9 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piânist, pereiehavshiy v Siêtl na rabotu v companìì "Moì i tvoì sièsty".
+Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siêtl na rabotu v companìì "Moì i tvoì sièsty".
 
-Pìanyi master po proiectu sdelal mecḥanicheskiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyûchite svoì oshibki.
+Pìanyi master po proiectu sdelal mecḥanicheskiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyüchite svoì oshibki.
 
 V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jêensah, cotoryi cogo-to obîskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
 
@@ -564,7 +563,7 @@ Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 s
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neôbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitski.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neöbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitski.
 
 Imeietsia nescolèco hẏpotheṣ proìsḥojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
 
