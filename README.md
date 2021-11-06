@@ -73,9 +73,9 @@
 |                                  | и  |    |                                   | й       |     |
 | -------------------------------- | -- | -- | --------------------------------- | ------- | --- |
 | **основное написание**           | i  |    | **основное написание**            | i       |     |
-| после И                          | ì  | i  | после И                           | y       |     |
-| после других гласных или перед И | ì  | ii | звучащие как в Табл. 1,2          | *T.1,2* |     |
-| перед АОУЭ                       | i  | ii | перед согласной в начале слова    | y       |     |
+| после И                          | ÿ  | ii  | после И                           | y       |     |
+| после других гласных | ì  | ii | звучащие как в Табл. 1,2          | *T.1,2* |     |
+| перед АОУЭИ                      | i  | ii | перед согласной в начале слова    | y       |     |
 | исключения                       | ỳ  | i  | между согласными (в т.ч. в конце) | òi      | -y  |
 | другие исключения                | ee | ee | йи после гласной                  | iyi     |     |
 |                                  |    |    | исключения после ЭЕАЯ             | ù       | i   |
@@ -319,7 +319,7 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 нъя nîa nyiia — obîect obyiiect, podîezd podyiiezd  
 есть iestè iestii  
 на небе na nebė na nebie  
-нии nìì niii — linìì liniii  
+нии niÿ niii — liniÿ liniii  
 ний niy niy  
 ный nyi nyi, ной noi noi, най nai nai  
 наи naì naii  
@@ -466,7 +466,7 @@ Main ASCII SMS:
 Siêtl Siietl Siætl, maêstro maaestro maæstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
-sinìì siniii sinìì.
+siniÿ siniii sinìì.
 
 
 ## Пример текста
@@ -539,7 +539,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siêtl na rabotu v companìì "Moì i tvoì sièsty".
+Piony i vasilèki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siêtl na rabotu v companiÿ "Moì i tvoì sièsty".
 
 Pìanyi master po proiectu sdelal mecḥanicheskiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyüchite svoì oshibki.
 
@@ -551,7 +551,7 @@ Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo e
 
 V etom vidė phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
-Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companìì "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatcìì.
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companiÿ "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatciÿ.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
