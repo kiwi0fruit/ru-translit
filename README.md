@@ -462,10 +462,11 @@ This.
 Помимо полной версии и ASCII версии можно использовать и СМС версию, которая использует символы, [не уменьшающие длину сообщения](https://en.wikipedia.org/wiki/GSM_03.38#GSM_7-bit_default_alphabet_and_extension_table_of_3GPP_TS_23.038_/_GSM_03.38):
 
 * èùìòà,ÆæÜüÖöÄä - используются в главной латинице (обратите внимание, что у большинства только нижний регистр можно использовать).
+* Åå - используются только в СМС версии.
 
 Main ASCII SMS:
 
-Siêtl Siietl Siætl, maêstro maaestro maæstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
+Siêtl Siietl Siætl, maêstro maaestro måestro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
 siniÿ siniii sinìì.
