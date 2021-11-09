@@ -328,7 +328,7 @@ cïao, capriccïö
 ный nyi nyi, ной noi noi, най nai nai  
 наи naì naii  
 выи vyì vyii — vyìgryvate vyiigryvate  
-выу vyù vyuu — vyüchite vyuuchite  
+выу vyù vyuu — vyùchite vyuuchite  
 нио nio nio(niio)  
 ньо nìo niiyo  
 нё neo  
