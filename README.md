@@ -62,23 +62,23 @@
 | -------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | **основное написание**     | e  |    | o  |    | a  |    | u  |    | hy |    |
 | после согласной            | ê  | ae |    |    |    |    |    |    | y  |    |
-| после согласной + А        | ê  | ae |    |    |    |    |    |    |    |    |
+| после согласной + А        | è  | ae |    |    |    |    |    |    |    |    |
 | после И                    | ê  | e  | o  |    | ä  | a  | ü  | u  |    |    |
-| после Ы                    | ê  | ae | ö  | oo | ä  | aa | ü  | uu |    |    |
-| после согласной + Е        |    |    | ö  | oo |    |    |    |    |    |    |
-| после ОАЭЁЯЕ               |    |    |    |    |    |    | ü  | uu |    |    |
+| после Ы                    | ê  | ae | ò  | oo | à  | aa | ù  | uu |    |    |
+| после согласной + Е        |    |    | ò  | oo |    |    |    |    |    |    |
+| после ОАЭЁЯЕ               |    |    |    |    |    |    | ù  | uu |    |    |
 | исключения после согласной | æ  | ae |    |    |    |    | ou |    | î  | y  |
 | исключения в начале слова  | æ  | e  |    |    |    |    |    |    |    |    |
 
-|                                  | и  |    |                                   | й       |     |
-| -------------------------------- | -- | -- | --------------------------------- | ------- | --- |
-| **основное написание**           | i  |    | **основное написание**            | i       |     |
-| после И                          | ÿ  | ii  | после И                           | y       |     |
-| после других гласных | ì  | ii | звучащие как в Табл. 1,2          | *T.1,2* |     |
-| перед АОУЭИ                      | i  | ii | перед согласной в начале слова    | y       |     |
-| исключения                       | ỳ  | i  | между согласными (в т.ч. в конце) | òi      | -y  |
-| другие исключения                | ee | ee | йи после гласной                  | iyi     |     |
-|                                  |    |    | исключения после ЭЕАЯ             | ù       | i   |
+|                        | и  |    |                                   | й       |    |
+| ---------------------- | -- | -- | --------------------------------- | ------- | -- |
+| **основное написание** | i  |    | **основное написание**            | i       |    |
+| после И                | ÿ  | ii | после И                           | y       |    |
+| после других гласных   | ì  | ii | звучащие как в Табл. 1,2          | *T.1,2* |    |
+| перед АОУЭИ            | i  | ii | перед согласной в начале слова    | y       |    |
+| исключения             | ỳ  | i  | между согласными (в т.ч. в конце) | òi      | -y |
+| другие исключения      | ee | ee | йи после гласной                  | iyi     |    |
+|                        |    |    | исключения после ЭЕАЯ             | y       |    |
 
 |                                | ъ         |      | ь         |      |
 | ------------------------------ | --------- | ---- | --------- | ---- |
@@ -119,8 +119,7 @@
 |   |   |
 | - | - |
 | İ | йотация в начале слова с заглавной буквы |
-| Èè&nbsp;Ì&nbsp;ì&nbsp;Òò | два мягких и твёрдый знаки после согласных |
-| Èè&nbsp;Ì&nbsp;ì&nbsp;Òò&nbsp;Àà&nbsp;Ùù&nbsp;Ỳỳ | и или йотированные гласные после i (а так же Е,Йэ в начале слова; Y-И после I-И; I-И после гласных) |
+| Èè&nbsp;Ì&nbsp;ì&nbsp;Òò&nbsp;Àà&nbsp;Ùù&nbsp;Ỳỳ | альтернативное чтение, в т.ч. разбивающее диграф с предыдущей гласной |
 | Êê&nbsp;Î&nbsp;î&nbsp;Ôô&nbsp;Ŷŷ&nbsp;Ââ&nbsp;Ûû&nbsp;Ŵŵ | гласные, делающие предыдущую согласную твёрдой или разбивающие диграф с предыдущей гласной (во втором случае звучание гласных Ii,Yy не становится твёрдым) |
 | Ėė&nbsp;Ï&nbsp;ï&nbsp;Öö&nbsp;Ää&nbsp;Üü&nbsp;Ÿÿ | гласные, смягчающие предыдущую согласную или разбивающие диграф с предыдущей гласной (во втором случае звучание не становится йотированным) |
 | Ẹẹ&nbsp;Ị&nbsp;ị&nbsp;Ọọ&nbsp;Ẏẏ&nbsp;Ạạ&nbsp;Ụụ&nbsp;Ẉẉ | альтернативное чтение предыдущей согласной (ЕеИиОоИиАаУу) |
@@ -281,21 +280,21 @@ cẓ ч
 x-xiä кс-ксиа  
 xia ся
 
-Lỳo Лио (уд. Lỳó)  
+Lỳò Лио (уд. Lỳō)  
 Lyo Лё (уд. Lyó)  
-Lỳò Льё (уд. Lỳǒ)  
-Lyö Лыо (уд. Lyō)
+Lỳo Льё (уд. Lỳǒ)  
+Lyò Лыо (уд. Lyō)
 
-qüi-qüe-qüa ки-ке-кя  
+qùa ка  
+qùi-qùe-qüa ки-ке-кя  
 qui-que-qua кви-кве-ква  
-quì-quê-quä куи-куэ-куа  
-qụa ка  
+quì-què-quà куи-куэ-куа  
 На конце основы склоняемых слов лучше qv. В остальных случаях лучше qu. Ну это все перед гласными.  
 Aqva, Aqvy, Aqvu, aquariüm
 
 gva-gvi гва-гви
 
-neùrotism нейротизм, leùtenant лейтенант  
+neyrotism нейротизм, leytenant лейтенант  
 Èụstaçò Юстас, Èuropa Европа, neurolog невролог, Eureka Эврека  
 Austrià Австрия
 
@@ -312,7 +311,7 @@ zaiace, унц uncè uncii
 İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus IYesus, İüda IUda, İäcov IAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maêstro maaestro, Ændỳ Endi, piänino piianino, vyûchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
+crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyûchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
@@ -326,11 +325,11 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 ный nyi nyi, ной noi noi, най nai nai  
 наи naì naii  
 выи vyì vyii — vyìgryvate vyiigryvate  
-выу vyü vyuu — vyüchite vyuuchite  
+выу vyù vyuu — vyüchite vyuuchite  
 нио nio nio(niio)  
 ньо nìo niiyo  
 нё neo  
-нео neö — neön nieon, neöbychno neoobychno
+нео neò — neòn nieon, neòbychno neoobychno
 
 сьйя sìà siiya, сйя sîà syiia, сьйс sèys sii-ys, сйс sòys s-ys
 
@@ -462,11 +461,10 @@ This.
 Помимо полной версии и ASCII версии можно использовать и СМС версию, которая использует символы, [не уменьшающие длину сообщения](https://en.wikipedia.org/wiki/GSM_03.38#GSM_7-bit_default_alphabet_and_extension_table_of_3GPP_TS_23.038_/_GSM_03.38):
 
 * èùìòà,ÆæÜüÖöÄä - используются в главной латинице (обратите внимание, что у большинства только нижний регистр можно использовать).
-* Åå - используются только в СМС версии.
 
 Main ASCII SMS:
 
-Siêtl Siietl Siætl, maêstro maaestro måestro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
+Siêtl Siietl Siætl, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
 siniÿ siniii sinìì.
@@ -566,7 +564,7 @@ Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 s
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neöbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitscki.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitscki.
 
 Imeietsia nescolèco hẏpotheṣ proìsḥojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
 
@@ -768,7 +766,7 @@ Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 s
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neöbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitscki.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitscki.
 
 Imeietsia nescolèco gypothez proìskhojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
 
