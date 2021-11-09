@@ -305,7 +305,7 @@ Austrià Австрия
 
 Франсэ Françae, Франсуа Françoua  
 можно было бы: pìeça, pìeçò, pìeçy, но лучше обрусеть: pìesa, pìes, pìesy  
-hïstoria, hïèrarcḥ, raiyispolcom
+hìstoria, hìèrarcḥ, raiyispolcom
 
 zaiace, унц uncè uncii  
 İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus IYesus, İüda IUda, İäcov IAcov  
@@ -313,7 +313,7 @@ plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
-polỳèṭhir полиэфир poliiefir poliæfir, Ṭheodor Fheodor, Siætl Сиэтл, dièta диета, diëlectric diielectric diælectric  
+polỳèṭhir полиэфир poliiefir poliæfir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diëlectric diielectric diælectric  
 cïao, capriccïö
 
 ня nia nia — miaso miaso  
