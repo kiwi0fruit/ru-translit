@@ -313,6 +313,8 @@ plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyûchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
+polỳèṭhir полиэфир poliaefir poliæfir, Siætl Сиэтл, dièta диета, diêlectric diaelectric diælectric
+
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
 ниа niä niia — piänino piianino, Siêtl Siietl  
@@ -464,7 +466,7 @@ This.
 
 Main ASCII SMS:
 
-Siêtl Siietl Siætl, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
+Siætl Siietl Siætl, diêlectric diielectric diælectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
 siniÿ siniii sinìì.
