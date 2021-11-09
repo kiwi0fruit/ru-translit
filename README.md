@@ -201,7 +201,7 @@ pḥ пх
 rh р  
 rḥ рх  
 ṭh ф  
-th-theo(theö)-thèo т-тео-тё  
+th-theo(theò)-thèo т-тео-тё  
 tḥ тх  
 sh ш  
 sḥ сх  
