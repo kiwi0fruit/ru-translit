@@ -294,7 +294,7 @@ Aqva, Aqvy, Aqvu, aquariüm
 
 gva-gvi гва-гви
 
-neyrotism нейротизм, leytenant лейтенант  
+neyrotism нейротизм, lieytenant лейтенант  
 Èụstaçò Юстас, Èuropa Европа, neurolog невролог, Eureka Эврека  
 Austrià Австрия
 
