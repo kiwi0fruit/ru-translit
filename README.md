@@ -313,7 +313,7 @@ plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
-polỳèṭhir полиэфир poliaefir poliæfir, Siætl Сиэтл, dièta диета, diêlectric diaelectric diælectric  
+polỳæṭhir полиэфир poliaefir poliæfir, Siætl Сиэтл, dièta диета, diêlectric diaelectric diælectric  
 cïao, capriccïö
 
 ня nia nia — miaso miaso  
