@@ -277,7 +277,7 @@ cz кз
 cẓ ч
 
 x-xiä кс-ксиа  
-xia ся
+xia ся  
 xị-xụ хи-ху (уд. ẋí, ẋú)
 
 Lỳò Лио (уд. Lỳō)  
@@ -314,7 +314,8 @@ plohiè plohiye, Hèiuston Hiiyuston
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
 polỳèṭhir полиэфир poliiefir poliæfir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diëlectric diielectric diælectric  
-cïao, capriccïö
+cïao, capriccïö  
+Mexịco, Mexica, xụi
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
