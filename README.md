@@ -399,7 +399,7 @@ cïao, capriccïö
 SHI ШИ, SḤI СХИ (SkHI), SKHI СКХИ,  
 CI ЦИ, CìA ЦА (CiA),  
 KĖ КЕ (KIE), KÊ КЭ (KaE/K'E), KI КИ,  
-SCHI СЧИ, ṢCHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
+SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
 CI ЦИ, CHI ЧИ, CḤI ЦХИ (CiHI),  
 YÊ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
