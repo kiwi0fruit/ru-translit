@@ -152,8 +152,8 @@
 Ėė Ëë Ï ï Öö Ÿÿ Ää Üü  
 Éé Í í Óó Ýý Áá Úú Ẃẃ Ǽǽ
 
-Ḅḅ Çç Ḍḍ Ĝĝ Ġġ Ḥḥ Ḫḫ  
-Ĵ ĵ Ɉ ɉ Ḳḳ Ḷḷ Ṇṇ Ṭṭ Ṣṣ Ẓẓ Ẑẑ  
+Ḅḅ Çç Ḍḍ Ĝĝ Ġġ Ḥḥ Ḫḫ Ĵ ĵ Ɉ ɉ  
+Ḳḳ Ḷḷ Ṇṇ Ṭṭ Ṣṣ Ẋẋ Ẓẓ Ẑẑ  
 Ẹẹ Ị ị Ọọ Ẏẏ Ạạ Ụụ  
 Ēē Ī ī Ōō Ȳȳ Āā Ūū  
 Ěě Ǐ ǐ Ǒǒ Ǎǎ Ǔǔ
@@ -278,6 +278,7 @@ cẓ ч
 
 x-xiä кс-ксиа  
 xia ся
+xị-xụ хи-ху (уд. ẋí, ẋú)
 
 Lỳò Лио (уд. Lỳō)  
 Lyo Лё (уд. Lyó)  
@@ -469,7 +470,7 @@ Main ASCII SMS:
 Siætl Siietl Siætl, diëlectric diielectric diælectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èuropa IEuropa IEuropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
-siniÿ siniii sinìì.
+companiÿ companiii companìì.
 
 
 ## Пример текста
