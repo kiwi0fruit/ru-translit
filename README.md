@@ -236,9 +236,9 @@ scḥ сх
 cṣ-cẹ-cṣa-cị(cẏ)-cṣy-cṣæ(cṣae,cṣê) с(съ)-се-са-си-сы-сэ (уд. ĉé, cṣá, ĉí, ĉý, cṣȳ)  
 cè-ce(cæ-cae-cê)-cia-cio(ceo)-ci(cy)-cìa-ciä ц-це-ца-цо(цё)-ци(цы)-цья-циа (уд. cé, ца-ciá, cí, cý, циа-ciā)  
 ch-cė-cïa-cï ч-че-ча-чи (уд. cǐ, cě)  
-kè(ckè)-c(k,ck)-ke(cäe,cke)-ki(ky,cki)-cky-cü(ckiu,kiu)-câe кь-к-ке-ки-кы-кю-кэ
+kè(ckè)-c(k,ck)-ke(cäe,cke,kæ,kae)-ki(ky,cki)-cky-cü(ckiu,kiu)-ckæ(ckae) кь-к-ке-ки-кы-кю-кэ
 
-g-ge(gæ)-geo(geò)-gèo-ghæ(ghae)-gi(gy)-ghy-gè-gìe-gîa(ghîa) г-ге-гео-гё-гэ-ги-гы-гь-гье-гъя (уд. gé, gá)  
+g-ge(gæ,gae)-geo(geò)-gèo-ghæ(ghae)-gi(gy)-ghy-gè-gìe-gîa(ghîa) г-ге-гео-гё-гэ-ги-гы-гь-гье-гъя (уд. gé, gá)  
 ġè-gê-gêa(ġịa)-gŷ ж-же-жа-жи (уд. gē, gā)  
 ĝè-gẹ-gị(gẏ)-gẹa(gịa) дж-дже-джи-джа (уд. ĝé)  
 dġè-dgê дж-дже
