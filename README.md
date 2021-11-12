@@ -317,7 +317,8 @@ crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, 
 
 polỳèṭhir полиэфир poliiefir poliæfir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diëlectric diielectric diælectric  
 cïao, capriccïö  
-Mexịco, Mexica, xụi
+Mexịco, Mexica, xụi  
+Ckembriy, Kitekæt, kitỳ-kæt, gey, gælèsckiy
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
