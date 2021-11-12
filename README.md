@@ -63,7 +63,7 @@
 | **основное написание**     | e  |    | o  |    | a  |    | u  |    | hy |    |
 | после согласной            | ê  | ae |    |    |    |    |    |    | y  |    |
 | после согласной + А        | è  | ae |    |    |    |    |    |    |    |    |
-| после И                    | ë  | e  | o  |    | ä  | a  | ü  | u  |    |    |
+| после И                    | ê  | e  | o  |    | ä  | a  | ü  | u  |    |    |
 | после Ы                    | è  | ae | ò  | oo | à  | aa | ù  | uu |    |    |
 | после согласной + Е        |    |    | ò  | oo |    |    |    |    |    |    |
 | исключения после согласной | æ  | ae |    |    |    |    | òu | u  | î  | y  |
@@ -120,7 +120,7 @@
 | İ | йотация в начале слова с заглавной буквы |
 | Èè&nbsp;Ì&nbsp;ì&nbsp;Òò&nbsp;Àà&nbsp;Ùù&nbsp;Ỳỳ | альтернативное чтение, в т.ч. разбивающее диграф с предыдущей гласной |
 | Êê&nbsp;Î&nbsp;î&nbsp;Ôô&nbsp;Ŷŷ&nbsp;Ââ&nbsp;Ûû&nbsp;Ŵŵ | гласные, делающие предыдущую согласную твёрдой или разбивающие диграф с предыдущей гласной (во втором случае звучание не становится твёрдым) |
-| Ėė&nbsp;Ëë&nbsp;Ï&nbsp;ï&nbsp;Öö&nbsp;Ää&nbsp;Üü&nbsp;Ÿÿ | гласные, смягчающие предыдущую согласную или разбивающие диграф с предыдущей гласной (во втором случае звучание не становится йотированным) |
+| Ėė&nbsp;Ï&nbsp;ï&nbsp;Öö&nbsp;Ää&nbsp;Üü&nbsp;Ÿÿ | гласные, смягчающие предыдущую согласную или разбивающие диграф с предыдущей гласной (во втором случае звучание не становится йотированным) |
 | Ẹẹ&nbsp;Ị&nbsp;ị&nbsp;Ọọ&nbsp;Ẏẏ&nbsp;Ạạ&nbsp;Ụụ&nbsp;Ẉẉ | альтернативное чтение предыдущей согласной (ЕеИиОоИиАаУу) |
 | Éé&nbsp;Í&nbsp;í&nbsp;Óó&nbsp;Ýý&nbsp;Áá&nbsp;Úú&nbsp;Ẃẃ | ударения |
 | Ēē&nbsp;Ī&nbsp;ī&nbsp;Ōō&nbsp;Ȳȳ&nbsp;Āā&nbsp;Ūū | "твёрдые" ударения |
@@ -149,7 +149,7 @@
 İ Ææ  
 Èè Ì ì Òò Ỳỳ Àà Ùù Ẁẁ  
 Êê Î î Ôô Ŷŷ Ââ Ûû Ŵŵ  
-Ėė Ëë Ï ï Öö Ÿÿ Ää Üü  
+Ėė Ï ï Öö Ÿÿ Ää Üü  
 Éé Í í Óó Ýý Áá Úú Ẃẃ Ǽǽ
 
 Ḅḅ Ĉĉ Çç Ḍḍ Ĝĝ Ġġ Ḥḥ Ḫḫ Ĵ ĵ Ɉ ɉ  
@@ -315,14 +315,14 @@ plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
-polỳèṭhir полиэфир poliiefir poliæfir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diëlectric diielectric diælectric  
+polỳèṭhir полиэфир poliiefir poliæfir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diêlectric diielectric diælectric  
 cïao, capriccïö  
 Mexịco, Mexica, xụi  
 Ckembriy, Kitekæt, kitỳ-kæt, gey, gælèsckiy
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
-ниа niä niia — piänino piianino, diëlectric diielectric  
+ниа niä niia — piänino piianino, diêlectric diielectric  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
 нъя nîa nyiia — obîect obyiiect, podîezd podyiiezd  
 есть iestè iestii  
@@ -471,7 +471,7 @@ This.
 
 Main ASCII SMS:
 
-Siætl Siietl Siætl, diëlectric diielectric diælectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
+Siætl Siietl Siætl, diêlectric diielectric diælectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, obîect obyiiect obòiect, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èùropa IEvropa IEùropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
 companiÿ companiii companìì.
@@ -547,7 +547,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Piony i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companiÿ "Moì-tvoì sièsty-diëlectricki".
+Piony i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companiÿ "Moì-tvoì sièsty-diêlectricki".
 
 Pìanyi master po proiectu sdelal mecḥanichesckiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
