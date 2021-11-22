@@ -547,7 +547,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Peöny i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companiÿ "Moì-tvoì sièsty-diêlectricki".
+Peòny i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companiÿ "Moì-tvoì sièsty-diêlectricki".
 
 Pìanyi master po proiectu sdelal mecḥanichesckiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
@@ -749,7 +749,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Peöny i vasilècki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diælectricki".
+Peòny i vasilècki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diælectricki".
 
 Pìanyi master po proiectu sdelal mekhanichesckiy obòiect s izòianom. Yesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
