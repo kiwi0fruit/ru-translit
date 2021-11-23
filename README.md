@@ -41,7 +41,7 @@
 
 | Таблица 1    | ъе   | ъё    | ъя   | ъю   | ъи | ье   | ьё    | ья   | ью   | ьи   | ьо   |
 | ------------ | ---- | ----- | ---- | ---- | -- | ---- | ----- | ---- | ---- | ---- | ---- |
-|              | òie  | òieo  | òia  | òiu  | î  | ìe   | ìeo   | ìa   | ìu   | ỳi   | ìo   |
+|              | òie  | òieo  | òia  | òiu  | î  | ìe   | ìeo   | ìa   | ìu   | ìyi  | ìo   |
 | ASCII версия | yiie | yiieo | yiia | yiiu | y  | iiye | iiyeo | iiya | iiyu | iiyi | iiyo |
 
 Каждый второй столбец - ASCII версия:
@@ -107,7 +107,7 @@
 
 | Таблица 4    | ЪЭ  | ЪЫ   | ЪО  | ЪА  | ЪУ  | ЬЭ          | ЬЫ          | ЬА          | ЬУ          |
 | ------------ | --  | ---- | --- | --- | --- | ----------- | ----------- | ----------- | ----------- |
-|              | òhê | òhy  | òhô | òhâ | òhû | ìe/ê/èhê \* | ỳi/ỳ/èhy    | ìa/ia/èhâ   | ìu/iu/èhû   | 
+|              | òhê | òhy  | òhô | òhâ | òhû | ìe/ê/èhê \* | ìyi/ỳ/èhy   | ìa/ia/èhâ   | ìu/iu/èhû   | 
 | ASCII версия | -e  | -hy  | -o  | -a  | -u  | iiye/ie/e-e | iiyi/i/e-hy | iiya/ia/e-a | iiyu/iu/e-u |
 
 \* три варианта, ибо вариантов чтения сьэ тоже три: как сье/се/сь-э.
@@ -315,7 +315,7 @@ plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
-polỳèṭhir полиэфир poliiefir poliæfir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diêlectric diielectric diælectric  
+polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diêlectric diielectric diielectric  
 cïao, capriccïö  
 Mexịco, Mexica, xụi  
 Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
@@ -552,7 +552,7 @@ Peòny i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiu
 
 Pìanyi master po proiectu sdelal mecḥanichesckiy obìect s izòianom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
-V pìesė pro devushcu v zeleonom platỳicê vse sadilise na ladỳi i plyli po recke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jêensah, cotoryi cogo-to obîsckival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po recke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jêensah, cotoryi cogo-to obîsckival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
