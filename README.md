@@ -64,6 +64,7 @@
 | **основное написание**     | e  |    | o  |    | a  |    | u  |    | hy |    |
 | после согласной            | ê  | ae |    |    |    |    |    |    | y  |    |
 | после согласной + А        | è  | ae |    |    |    |    |    |    |    |    |
+| после И в конце слова      | ë  | e  |    |    |    |    |    |    |    |    |
 | после И                    | e  |    | o  |    | ä  | a  | ü  | u  |    |    |
 | после Ы                    | è  | ae | ò  | oo | à  | aa | ù  | uu |    |    |
 | после согласной + Е        |    |    | ò  | oo |    |    |    |    |    |    |
@@ -75,7 +76,7 @@
 | **основное написание** | i  |    | **основное написание**            | i       |    |
 | после гласных          | ì  | ii | после И                           | y       |    |
 | перед И                | ì  | i  | звучащие как в Табл. 1,2          | *T.1,2* |    |
-| перед Э в конце слова  | ï  | ii | перед согласной в начале слова    | y       |    |
+| перед Э в конце слова  | i  | ii | перед согласной в начале слова    | y       |    |
 | перед АОУ              | i  | ii | между согласными (в т.ч. в конце) | òi      | -y |
 | исключения             | ỳ  | i  | йи после гласной                  | iyi     |    |
 | другие исключения      | ee |    | исключения (в т.ч. после ЭЕАЯ)    | y       |    |
@@ -317,7 +318,7 @@ plohiè plohiye, Hèiuston Hiiyuston
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
 polỳèṭhir полиэфир poliefir poliefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, dielectric  
-plïe плиэ  
+plië плиэ  
 cïao, capriccïö, Boccaccïo  
 Mexịco, Mexica, xụi  
 Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
