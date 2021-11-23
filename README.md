@@ -791,7 +791,7 @@ V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 > İ Ėė Ææ  
 > Èè Ì ì Òò Ỳỳ Àà Ùù  
 > Êê Î î Ôô Ŷŷ Ââ Ûû Ŵŵ  
-> Ï ï Öö Ää Üü  
+> Ï ï Ëë Öö Ää Üü  
 > Ḅḅ Ḍḍ Ĝĝ Ġġ Ḥḥ  
 > Ĵ ĵ Ḳḳ Ḷḷ Ṇṇ Ṭṭ Ṣṣ Ẓẓ  
 > Ẹẹ Ị ị Ọọ Ẏẏ Ạạ Ụụ
