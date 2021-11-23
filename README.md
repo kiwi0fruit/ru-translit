@@ -33,15 +33,15 @@
 | - | - | - | - | - | ------ | ------ | - | - | --- | --- | ---- | - | - | - | - | - |
 | a | b | v | g | d | ie/e/ė | ieo/eo | j | z | i/ì | i/y | c/ck | l | m | n | o | p |
 
-| р | с | т | у | ф | х | ц       | ч  | ш  | щ   | ъ   | ы      | ь     | э     | ю  | я  |
-| - | - | - | - | - | - | ------- | -- | -- | --- | --- | ------ | ----- | ----- | -- | -- |
-| r | s | t | u | f | h | c/cè/ci | ch | sh | sch | ò/î | hy/y/î | è/ì/e | e/ê/æ | iu | ia |
+| р | с | т | у | ф | х | ц       | ч  | ш  | щ   | ъ  | ы      | ь     | э     | ю  | я  |
+| - | - | - | - | - | - | ------- | -- | -- | --- | -- | ------ | ----- | ----- | -- | -- |
+| r | s | t | u | f | h | c/cè/ci | ch | sh | sch | ò  | hy/y/î | è/ì/e | e/ê/æ | iu | ia |
 
 Все написания:
 
 | Таблица 1    | ъе   | ъё    | ъя   | ъю   | ъи | ье   | ьё    | ья   | ью   | ьи   | ьо   |
 | ------------ | ---- | ----- | ---- | ---- | -- | ---- | ----- | ---- | ---- | ---- | ---- |
-|              | îe   | îeo   | îa   | îu   | î  | ìe   | ìeo   | ìa   | ìu   | ỳi   | ìo   |
+|              | òie  | òieo  | òia  | òiu  | î  | ìe   | ìeo   | ìa   | ìu   | ỳi   | ìo   |
 | ASCII версия | yiie | yiieo | yiia | yiiu | y  | iiye | iiyeo | iiya | iiyu | iiyi | iiyo |
 
 Каждый второй столбец - ASCII версия:
@@ -50,7 +50,7 @@
 | ------------------------------------- | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
 | **основное написание**                | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
 | с большой буквы                       | İe    | Ye *  | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
-| после согласной                       | e     |       | eo    |     | îo    | yiio |       |    |       |    |
+| после согласной                       | e     |       | eo    |     | òio   | yiio |       |    |       |    |
 | после согласной точно "мягкая" и не Ь | ė     | ie    |       |     |       |      |       |    |       |    |
 | после Й или И                         | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
 | исключения в начале слова             | È/è   | Ye/ie |       |     |       |      |       |    |       |    |
@@ -324,7 +324,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 ния nià niya — Marià Mariya, siniè siniye  
 ниа niä niia — piänino piianino, diêlectric diielectric  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
-нъя nîa nyiia — obîect obyiiect, podîezd podyiiezd  
+нъя nòia nyiia — obH ect obyiiect (искл.), podòiezd podyiiezd  
 есть iestè iestii  
 на небе na nebė na nebie  
 нии nìì niii — linìì liniii  
@@ -338,7 +338,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 нё neo  
 нео neò — neòn nieon, neòbychno neoobychno
 
-сьйя sìà siiya, сйя sîà syiia, сьйс sèys sii-ys, сйс sòys s-ys
+сьйя sìà siiya, сйя sòià syiia, сьйс sèys sii-ys, сйс sòys s-ys
 
 
 ## Аббревиатуры
@@ -395,17 +395,17 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 | **Н**  |     **П**      |  **Р**      | **С**       |  **Т**  |
 |   N    |       P        |    R        |   S         |    T    |
 | **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
-|   F    |       H        | C / Cì (Ci) |   Ch        |   Sh    |
+|   F    |   H / Ḥ ('H)   | C / Cì (Ci) |   Ch        |   Sh    |
 | **Щ**  |                |             |             |         |
 |  Sch   |                |             |             |         |
 
 *Буква Cc называется Це и в аббревиатуры идёт как C. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются K. Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
-SHI ШИ, SḤI СХИ (SkHI), SKHI СКХИ,  
+SHI ШИ, SḤI СХИ (SkHI/S'HI), SKHI СКХИ,  
 CI ЦИ, CìA ЦА (CiA),  
 KĖ КЕ (KIE), KÊ КЭ (KaE/K'E), KI КИ,  
 SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
-CI ЦИ, CHI ЧИ, CḤI ЦХИ (CiHI),  
+CI ЦИ, CHI ЧИ, CḤI ЦХИ (CiHI/C'HI),  
 YÊ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
 IEGÊ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), JÊK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSĖ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
@@ -471,11 +471,11 @@ This.
 
 Main ASCII SMS:
 
-Siætl Siietl Siætl, diêlectric diielectric diælectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
+Siætl Siietl Siætl, diêlectric diielectric diielectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èùropa IEvropa IEùropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
 companìì companiii companìì.  
-obîect obyiiect obòiect, otḥodami otkhodami otòhodami.
+obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.
 
 
 ## Пример текста
