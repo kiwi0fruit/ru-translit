@@ -41,7 +41,7 @@
 
 | Таблица 1    | ъе   | ъё    | ъя   | ъю   | ъи | ье   | ьё    | ья   | ью   | ьи   | ьо   |
 | ------------ | ---- | ----- | ---- | ---- | -- | ---- | ----- | ---- | ---- | ---- | ---- |
-|              | îe   | îeo   | îa   | îu   | î  | ìe   | ìeo   | ìa   | ìu   | ìyi  | ìo   |
+|              | îe   | îeo   | îa   | îu   | î  | ìe   | ìeo   | ìa   | ìu   | ỳi   | ìo   |
 | ASCII версия | yiie | yiieo | yiia | yiiu | y  | iiye | iiyeo | iiya | iiyu | iiyi | iiyo |
 
 Каждый второй столбец - ASCII версия:
@@ -107,7 +107,7 @@
 
 | Таблица 4    | ЪЭ  | ЪЫ   | ЪО  | ЪА  | ЪУ  | ЬЭ          | ЬЫ          | ЬА          | ЬУ          |
 | ------------ | --  | ---- | --- | --- | --- | ----------- | ----------- | ----------- | ----------- |
-|              | òhê | òhy  | òhô | òhâ | òhû | ìe/ê/èhê \* | ìyi/ỳ/èhy   | ìa/ia/èhâ   | ìu/iu/èhû   | 
+|              | òhê | òhy  | òhô | òhâ | òhû | ìe/ê/èhê \* | ỳi/ỳ/èhy    | ìa/ia/èhâ   | ìu/iu/èhû   | 
 | ASCII версия | -e  | -hy  | -o  | -a  | -u  | iiye/ie/e-e | iiyi/i/e-hy | iiya/ia/e-a | iiyu/iu/e-u |
 
 \* три варианта, ибо вариантов чтения сьэ тоже три: как сье/се/сь-э.
@@ -551,7 +551,7 @@ Peòny i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiu
 
 Pìanyi master po proiectu sdelal mecḥanichesckiy obîect s izîanom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
-V pìesė pro devushcu v zeleonom platìyicê vse sadilise na ladìyi i plyli po recke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jêensah, cotoryi cogo-to obîsckival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesė pro devushcu v zeleonom platỳicê vse sadilise na ladỳi i plyli po recke. No tut iz lesa vyshel Gẹorĝè Maximus, cone v palèto i rvanyh jêensah, cotoryi cogo-to obîsckival, i pricazal vsem mytèsia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
