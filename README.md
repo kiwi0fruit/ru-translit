@@ -64,7 +64,7 @@
 | **основное написание**     | e  |    | o  |    | a  |    | u  |    | hy |    |
 | после согласной            | ê  | ae |    |    |    |    |    |    | y  |    |
 | после согласной + А        | è  | ae |    |    |    |    |    |    |    |    |
-| после И в конце слова      | ë  | e  |    |    |    |    |    |    |    |    |
+| после И в конце слова      | ê  | e  |    |    |    |    |    |    |    |    |
 | после И                    | e  |    | o  |    | ä  | a  | ü  | u  |    |    |
 | после Ы                    | è  | ae | ò  | oo | à  | aa | ù  | uu |    |    |
 | после согласной + Е        |    |    | ò  | oo |    |    |    |    |    |    |
@@ -122,7 +122,7 @@
 | İ | йотация в начале слова с заглавной буквы |
 | Èè&nbsp;Ì&nbsp;ì&nbsp;Òò&nbsp;Àà&nbsp;Ùù&nbsp;Ỳỳ | альтернативное чтение, в т.ч. разбивающее диграф с предыдущей гласной |
 | Êê&nbsp;Î&nbsp;î&nbsp;Ôô&nbsp;Ŷŷ&nbsp;Ââ&nbsp;Ûû&nbsp;Ŵŵ | гласные, делающие предыдущую согласную твёрдой или разбивающие диграф с предыдущей гласной (во втором случае звучание не становится твёрдым) |
-| Ėė&nbsp;Ëë&nbsp;Ï&nbsp;ï&nbsp;Öö&nbsp;Ää&nbsp;Üü&nbsp;Ÿÿ | гласные, смягчающие предыдущую согласную или разбивающие диграф с предыдущей гласной (во втором случае звучание не становится йотированным) |
+| Ėė&nbsp;Ï&nbsp;ï&nbsp;Öö&nbsp;Ää&nbsp;Üü&nbsp;Ÿÿ | гласные, смягчающие предыдущую согласную или разбивающие диграф с предыдущей гласной (во втором случае звучание не становится йотированным) |
 | Ẹẹ&nbsp;Ị&nbsp;ị&nbsp;Ọọ&nbsp;Ẏẏ&nbsp;Ạạ&nbsp;Ụụ&nbsp;Ẉẉ | альтернативное чтение предыдущей согласной (ЕеИиОоИиАаУу) |
 | Éé&nbsp;Í&nbsp;í&nbsp;Óó&nbsp;Ýý&nbsp;Áá&nbsp;Úú&nbsp;Ẃẃ | ударения |
 | Ēē&nbsp;Ī&nbsp;ī&nbsp;Ōō&nbsp;Ȳȳ&nbsp;Āā&nbsp;Ūū | "твёрдые" ударения |
@@ -151,7 +151,7 @@
 İ Ææ  
 Èè Ì ì Òò Ỳỳ Àà Ùù Ẁẁ  
 Êê Î î Ôô Ŷŷ Ââ Ûû Ŵŵ  
-Ėė Ëë Ï ï Öö Ÿÿ Ää Üü  
+Ėė Ï ï Öö Ÿÿ Ää Üü  
 Éé Í í Óó Ýý Áá Úú Ẃẃ Ǽǽ
 
 Ḅḅ Ĉĉ Ḍḍ Ĝĝ Ġġ Ḥḥ Ḫḫ Ĵ ĵ Ɉ ɉ  
@@ -318,7 +318,7 @@ plohiè plohiye, Hèiuston Hiiyuston
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
 polỳèṭhir полиэфир poliefir poliefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, dielectric  
-plië плиэ  
+pliê pliie pliie плиэ  
 cïao, capriccïö, Boccaccïo  
 Mexịco, Mexica, xụi  
 Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
@@ -791,7 +791,7 @@ V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 > İ Ėė Ææ  
 > Èè Ì ì Òò Ỳỳ Àà Ùù  
 > Êê Î î Ôô Ŷŷ Ââ Ûû Ŵŵ  
-> Ï ï Ëë Öö Ää Üü  
+> Ï ï Öö Ää Üü  
 > Ḅḅ Ḍḍ Ĝĝ Ġġ Ḥḥ  
 > Ĵ ĵ Ḳḳ Ḷḷ Ṇṇ Ṭṭ Ṣṣ Ẓẓ  
 > Ẹẹ Ị ị Ọọ Ẏẏ Ạạ Ụụ
