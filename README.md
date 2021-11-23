@@ -46,15 +46,16 @@
 
 Каждый второй столбец - ASCII версия:
 
-| Таблица 2                             | е     |       | ё     |     | йо    |      | я     |    | ю     |    |
-| ------------------------------------- | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
-| **основное написание**                | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
-| с большой буквы                       | İe    | Ye *  | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
-| после согласной                       | e     |       | eo    |     | òio   | yiio |       |    |       |    |
-| после согласной точно "мягкая" и не Ь | ė     | ie    |       |     |       |      |       |    |       |    |
-| после Й или И                         | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
-| исключения в начале слова             | È/è   | Ye/ie |       |     |       |      |       |    |       |    |
-| как в Табл. 1                         | *T.1* |       | *T.1* |     | *T.1* |      | *T.1* |    | *T.1* |    |
+| Таблица 2                                    | е     |       | ё     |     | йо    |      | я     |    | ю     |    |
+| -------------------------------------------- | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
+| **основное написание**                       | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
+| с большой буквы                              | İe    | Ye *  | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
+| после согласной                              | e     |       | eo    |     | òio   | yiio |       |    |       |    |
+| после согласной точно "мягкая" в конце слова | ė     | ie    |       |     |       |      |       |    |       |    |
+| после согласной точно "мягкая" иначе         | ė     | e     |       |     |       |      |       |    |       |    |
+| после Й или И                                | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
+| исключения в начале слова                    | È/è   | Ye/ie |       |     |       |      |       |    |       |    |
+| как в Табл. 1                                | *T.1* |       | *T.1* |     | *T.1* |      | *T.1* |    | *T.1* |    |
 
 \* Кроме исключений типа İuliy - Iuliy.
 
@@ -63,7 +64,7 @@
 | **основное написание**     | e  |    | o  |    | a  |    | u  |    | hy |    |
 | после согласной            | ê  | ae |    |    |    |    |    |    | y  |    |
 | после согласной + А        | è  | ae |    |    |    |    |    |    |    |    |
-| после И                    | ê  | e  | o  |    | ä  | a  | ü  | u  |    |    |
+| после И                    | e  |    | o  |    | ä  | a  | ü  | u  |    |    |
 | после Ы                    | è  | ae | ò  | oo | à  | aa | ù  | uu |    |    |
 | после согласной + Е        |    |    | ò  | oo |    |    |    |    |    |    |
 | исключения после согласной | æ  | ae |    |    |    |    | òu | u  | î  | y  |
@@ -74,10 +75,10 @@
 | **основное написание** | i  |    | **основное написание**            | i       |    |
 | после гласных          | ì  | ii | после И                           | y       |    |
 | перед И                | ì  | i  | звучащие как в Табл. 1,2          | *T.1,2* |    |
-| перед АОУЭ             | i  | ii | перед согласной в начале слова    | y       |    |
-| исключения             | ỳ  | i  | между согласными (в т.ч. в конце) | òi      | -y |
-| другие исключения      | ee |    | йи после гласной                  | iyi     |    |
-|                        |    |    | исключения (в т.ч. после ЭЕАЯ)    | y       |    |
+| перед Э в конце слова  | ï  | ii | перед согласной в начале слова    | y       |    |
+| перед АОУ              | i  | ii | между согласными (в т.ч. в конце) | òi      | -y |
+| исключения             | ỳ  | i  | йи после гласной                  | iyi     |    |
+| другие исключения      | ee |    | исключения (в т.ч. после ЭЕАЯ)    | y       |    |
 
 |                                | ъ         |      | ь         |      |
 | ------------------------------ | --------- | ---- | --------- | ---- |
@@ -296,14 +297,14 @@ Aqva, Aqvy, Aqvu, aquariüm
 
 gva-gvi гва-гви
 
-neyrotism нейротизм, lieytenant лейтенант  
+neyrotism нейротизм, leytenant лейтенант  
 Èụstacṣ Юстас, Èùropa Европа, neùrolog невролог, Eùreka Эврека  
 Aùstrià Австрия
 
 
 ## Дополнительные примеры
 
-Уточнение мягкости: parter, partėr partier, partêr partaer.
+Уточнение мягкости: parter, partėr parter, partêr partaer/parter.
 
 Франсэ Francṣæ, Франсуа Francṣòua  
 можно было бы: pìecṣa, pìecṣ, pìecṣy, но лучше обрусеть: pìesa, pìes, pìesy  
@@ -315,14 +316,15 @@ plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podîezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
-polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diêlectric diielectric diielectric  
-cïao, capriccïö  
+polỳèṭhir полиэфир poliefir poliefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, dielectric  
+plïe плиэ  
+cïao, capriccïö, Boccaccïo  
 Mexịco, Mexica, xụi  
 Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
-ниа niä niia — piänino piianino, diêlectric diielectric  
+ниа niä niia — piänino piianino, dielectric  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
 нъя nòia nyiia — obH ect obyiiect (искл.), podòiezd podyiiezd  
 есть iestè iestii  
@@ -336,7 +338,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 нио nio nio(niio)  
 ньо nìo niiyo  
 нё neo  
-нео neò — neòn nieon, neòbychno neoobychno
+нео neò — neòn neoon, neòbychno neoobychno
 
 сьйя sìà siiya, сйя sòià syiia, сьйс sèys sii-ys, сйс sòys s-ys
 
@@ -471,7 +473,7 @@ This.
 
 Main ASCII SMS:
 
-Siætl Siietl Siætl, diêlectric diielectric diielectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
+Siætl Sietl Siætl, dielectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 Èùropa IEvropa IEùropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
 companìì companiii companìì.  
@@ -548,7 +550,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Peòny i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diêlectricki".
+Peòny i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-dielectricki".
 
 Pìanyi master po proiectu sdelal mecḥanichesckiy obìect s izòianom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
@@ -649,7 +651,7 @@ Pod govor piiyanyh mujichcov.
 
 // God napisaniya: 1841
 
-Pieony i vasiliicki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Siietl na rabotu v companiii "Moii-tvoii siyesty-diielectricki".
+Pieony i vasiliicki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Sietl na rabotu v companiii "Moii-tvoii siyesty-dielectricki".
 
 Piiyanyi master po proiectu sdelal mekhanichesckiy obyiiect s izyiianom. Yesli brac ne obnarujitsia, to belyie bolidy boliishe ne smogut vyiigryvate goncki i vyuuchite svoii oshibcki.
 
@@ -750,7 +752,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Peòny i vasilècki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diælectricki".
+Peòny i vasilècki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-dielectricki".
 
 Pìanyi master po proiectu sdelal mekhanichesckiy obiect s izòianom. Yesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
