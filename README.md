@@ -560,7 +560,7 @@ Mær nebolèshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo 
 
 V etom vidė phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
-Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companìì "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatcìì.
+Sòhod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otòhodami companìì "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovė. On i nasheol vyhod iz situatcìì.
 
 "Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
@@ -574,9 +574,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvenn
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, c etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitscki.
 
-Imeietsia nescolèco hẏpotheṣ proìsḥojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
+Imeietsia nescolèco hẏpotheṣ proìsòhojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳletichescaia gruppa (proìsḥodiaschaia ot nescolèckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳletichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳletichescaia gruppa (proìsòhodiaschaia ot nescolèckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳletichescaia theorià).
 
 
 ## Пример текста ASCII-only
@@ -778,7 +778,7 @@ Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi d
 
 Imeietsia nescolèco gypothez proìsòhojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaìutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - poliphiletichescaia gruppa (proìsḥodiaschaia ot nescolèckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophiletichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - poliphiletichescaia gruppa (proìsòhodiaschaia ot nescolèckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophiletichescaia theorià).
 
 
 ## Поддержка шрифтами
