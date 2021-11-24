@@ -355,7 +355,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 * **Aa** - а
   * **IA** - я (IA., FIIA ФИЯ, RIÄ РИА RIiA, RIiÄ РИиА RIiiA)
 * **Bb** - бэ
-* **Cc** - це (C., CPU ЦПУ, CìA ЦА CiA, CiÄ ЦиА CiiA, CI ЦИ)
+* **Cc** - це (C., CìPU ЦПУ CPU, CìA ЦА CiA, CiÄ ЦиА CiiA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
@@ -413,7 +413,7 @@ SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,
 CI ЦИ, CHI ЧИ, CḤI ЦХИ (CiHI/C'HI),  
 YÊ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEGÊ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), JÊK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSĖ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
+IEGÊ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CìPU ЦПУ CPU, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), JÊK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSĖ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
 
 
 ## Набор на смартфоне
