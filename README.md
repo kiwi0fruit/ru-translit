@@ -410,7 +410,7 @@ SHI ШИ, SḤI СХИ (SkHI/S'HI), SKHI СКХИ,
 CI ЦИ, CìA ЦА (CiA),  
 KĖ КЕ (KIE), KÊ КЭ (KaE/K'E), KI КИ,  
 SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
-CI ЦИ, CHI ЧИ, CḤI ЦХИ (CiHI/C'HI),  
+CI ЦИ, CHI ЧИ, CìHI ЦХИ (CiHI/C'HI),  
 YÊ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
 IEGÊ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CìPU ЦПУ CPU, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), JÊK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSĖ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
