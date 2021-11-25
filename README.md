@@ -59,6 +59,7 @@
 | после согласной                              | e     |       | eo    |     | òio   | yiio |       |    |       |    |
 | после согласной точно "мягкая" в конце слова | ė     | ie    |       |     |       |      |       |    |       |    |
 | после согласной точно "мягкая" иначе         | ė     | e     |       |     |       |      |       |    |       |    |
+| после согласной перед О                      | e     | ie    |       |     |       |      |       |    |       |    |
 | после Й или И                                | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
 | исключения в начале слова                    | IE/ie | Ye/ie |       |     |       |      |       |    |       |    |
 | как в Табл. 1                                | *T.1* |       | *T.1* |     | *T.1* |      | *T.1* |    | *T.1* |    |
@@ -73,7 +74,7 @@
 | после И в конце слова      | ë  | e  |    |    |    |    |    |    |    |    |
 | после И                    | e  |    | o  |    | ä  | a  | ü  | u  |    |    |
 | после Ы                    | è  | ae | ò  | oo | à  | aa | ù  | uu |    |    |
-| после согласной + Е        |    |    | ò  | oo |    |    |    |    |    |    |
+| после согласной + Е        |    |    | ò  | o  |    |    |    |    |    |    |
 | исключения после согласной | æ  | ae |    |    |    |    | òu | u  | î  | y  |
 | исключения не после согл.  | æ  | e  |    |    |    |    |    |    |    |    |
 
@@ -345,7 +346,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 нио nio nio(niio)  
 ньо nìo niiyo  
 нё neo  
-нео neò — neòn neoon, neòbychno neoobychno
+нео neò — neòn nieon, neòbychno nieobychno
 
 сьйя sìà siiya, сйя sòià syiia, сьйс sèys sii-ys, сйс sòys s-ys
 
@@ -682,7 +683,7 @@ Sluchaiu bylo ugodno, chtoby Biliibo s Frodo iesche i rodilise v odin dene, 22 s
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom vozraste mejdu dvadciatiiyu i tridciatiiyu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdeniya, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniiyu gotovitsia nechto neoobychnoie. Biliibo ispolnialose 111 let – vozrast dlia hobbita vesiima pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znamenatelenaia data – sovershennoletiye po-hobbitscki.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdeniya, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniiyu gotovitsia nechto nieobychnoie. Biliibo ispolnialose 111 let – vozrast dlia hobbita vesiima pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znamenatelenaia data – sovershennoletiye po-hobbitscki.
 
 Imeietsia nescoleco gypothez proiiskhojdeniya sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
