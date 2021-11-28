@@ -303,6 +303,10 @@ quì-què-quà куи-куэ-куа
 На конце основы склоняемых слов лучше qv. В остальных случаях лучше qu. Ну это все перед гласными.  
 Aqva, Aqvy, Aqvu, aquariüm
 
+qî ци, qîa ца  
+qì ч, qi чи, qia ча  
+antiqìnyi
+
 gva-gvi гва-гви
 
 neyrotism нейротизм, leytenant лейтенант  
