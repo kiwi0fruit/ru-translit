@@ -256,7 +256,7 @@ g-ge-geo(geò)-gèo-gæ(gae)-gi(gỳ)-gy-gè-gìe г-ге-гео-гё-гэ-ги-
 dġè-dgê дж-дже
 
 hy ы (уд. hȳ)  
-hẹ-hạ-hì(hỳ)-hị(hẏ)-hîa э-а-и-ы-ыа (уд. hē,hā,hǐ-hý)  
+hẹ-hạ-hì(hỳ)-hị(hẏ)-hịa э-а-и-ы-ыа (уд. hē,hā,hǐ-hý)  
 NO-hê-hâ-hîu-hŷ(hî) г-ге-га-гю-ги (уд. ḫé, ḫí, ḫý)  
 hè-ḥy(ḥị)-h-he-hi(ḥỳ)-ha-hiu-ḥìa-ḥòia хь-хы-х-хе-хи-ха-хю-хья-хъя (уд. hé,há,hí,ḥȳ,ḥý)  
 hìa-hìe я-е
@@ -324,15 +324,15 @@ Aùstrià Австрия
 hìstorià, hìèrarcḥ, raiyispolcom
 
 zaiace, унц uncè uncii  
-İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus IYesus, İüda IUda, İäcov IAcov  
+İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus IYesus, İüda IIUda, İäcov IIAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latîne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
+crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
 polỳèṭhir полиэфир poliefir poliefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, dielectric  
 plië pliie pliie плиэ  
 cïao, capriccïö, Boccaccïo  
-Mexịco, Mexica, xụi  
+Mexîco, Mexica, xûi  
 Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 ня nia nia — miaso miaso  
@@ -371,7 +371,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 * **Ee** - э (была "е" в математике)
   * **IE** / **Ė** - е (IE., IEGÊ ЕГЭ IEGaE/IEG'E, OBSĖ ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ê** - э (Ê. E., IEGÊ ЕГЭ IEGaE/IEG'E, ÊÊG ЭЭГ EEG)
+  * **Ẹ** - э (Ê. E., IEGẸ ЕГЭ IEGaE/IEG'E, ẸẸG ЭЭГ EEG)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
@@ -400,7 +400,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
-| A / Ä  |     O / Ö      |  U / Ü      | Ê (E/aE/'E) |   Hy    |
+| A / Ä  |     O / Ö      |  U / Ü      | Ẹ (E/aE/'E) |   Hy    |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
 |   IA   |      IEO       |   IU        | IE / Ė      |  I (Ii) |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
@@ -418,12 +418,12 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 SHI ШИ, SḤI СХИ (SkHI/S'HI), SKHI СКХИ,  
 CI ЦИ, CìA ЦА (CiA),  
-KĖ КЕ (KIE), KÊ КЭ (KaE/K'E), KI КИ,  
+KĖ КЕ (KIE), KẸ КЭ (KaE/K'E), KI КИ,  
 SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
 CI ЦИ, CHI ЧИ, CìHI ЦХИ (CiHI/C'HI),  
-YÊ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
+YẸ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEGÊ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CìPU ЦПУ CPU, ChS ЧС, SShA США, ÊÊG ЭЭГ (EEG), JÊK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSĖ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
+IEGẸ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CìPU ЦПУ CPU, ChS ЧС, SShA США, ẸẸG ЭЭГ (EEG), JẸK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSĖ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
 
 
 ## Набор на смартфоне
@@ -488,7 +488,7 @@ Main ASCII SMS:
 
 Siætl Sietl Siætl, dielectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
-Èùropa IEvropa IEùropa, IEGÊ IEGaE IEG'E, ÊÊG EEG EEG, JÊK JaEK J'EK.  
+IEùropa IEvropa IEùropa, IEGẸ IEGaE IEG'E, ẸẸG EEG EEG, JẸK JaEK J'EK.  
 companìì companiii companìì.  
 obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.
 
