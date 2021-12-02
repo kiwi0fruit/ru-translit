@@ -52,17 +52,16 @@
 
 Каждый второй столбец - ASCII версия:
 
-| Таблица 2                                    | е     |       | ё     |     | йо    |      | я     |    | ю     |    |
-| -------------------------------------------- | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
-| **основное написание**                       | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
-| с большой буквы                              | İe    | Ye *  | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
-| после согласной                              | e     |       | eo    |     | òio   | yiio |       |    |       |    |
-| после согласной точно "мягкая" в конце слова | ė     | ie    |       |     |       |      |       |    |       |    |
-| после согласной точно "мягкая" иначе         | ė     | e     |       |     |       |      |       |    |       |    |
-| после согласной перед О                      | e     | ie    |       |     |       |      |       |    |       |    |
-| после Й или И                                | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
-| исключения в начале слова                    | IE/ie | Ye/ie |       |     |       |      |       |    |       |    |
-| как в Табл. 1                                | *T.1* |       | *T.1* |     | *T.1* |      | *T.1* |    | *T.1* |    |
+| Таблица 2                      | е     |       | ё     |     | йо    |      | я     |    | ю     |    |
+| ------------------------------ | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
+| **основное написание**         | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
+| с большой буквы                | İe    | Ye *  | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
+| после согласной                | e     |       | eo    |     | òio   | yiio |       |    |       |    |
+| после согласной точно "мягкая" | ė     | ie    |       |     |       |      |       |    |       |    |
+| после согласной перед О        | e     | ie    |       |     |       |      |       |    |       |    |
+| после Й или И                  | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
+| исключения в начале слова      | IE/ie | Ye/ie |       |     |       |      |       |    |       |    |
+| как в Табл. 1                  | *T.1* |       | *T.1* |     | *T.1* |      | *T.1* |    | *T.1* |    |
 
 \* Кроме исключений типа İuliy - Iuliy.
 
@@ -71,8 +70,7 @@
 | **основное написание**     | e  |    | o  |    | a  |    | u  |    | hy |    |
 | после согласной            | ẹ  | ae |    |    |    |    |    |    | y  |    |
 | после согласной + А        | è  | ae |    |    |    |    |    |    |    |    |
-| после И в конце слова      | ë  | e  |    |    |    |    |    |    |    |    |
-| после И                    | e  |    | o  |    | ä  | a  | ü  | u  |    |    |
+| после И                    | ë  | e  | o  |    | ä  | a  | ü  | u  |    |    |
 | после Ы                    | è  | ae | ò  | oo | à  | aa | ù  | uu |    |    |
 | после согласной + Е        |    |    | ò  | o  |    |    |    |    |    |    |
 | исключения после согласной | æ  | ae |    |    |    |    | òu | u  | î  | y  |
@@ -83,10 +81,10 @@
 | **основное написание** | i  |    | **основное написание**            | i       |    |
 | после гласных          | ì  | ii | после И                           | y       |    |
 | перед И                | ì  | i  | звучащие как в Табл. 1,2          | *T.1,2* |    |
-| перед Э в конце слова  | i  | ii | перед согласной в начале слова    | y       |    |
-| перед АОУ              | i  | ii | между согласными (в т.ч. в конце) | òy      | -y |
-| исключения             | ỳ  | i  | йи после гласной                  | iyi     |    |
-| другие исключения      | ee |    | исключения (в т.ч. после ЭЕАЯ)    | y       |    |
+| перед АОУЭ             | i  | ii | перед согласной в начале слова    | y       |    |
+| исключения             | ỳ  | i  | между согласными (в т.ч. в конце) | òy      | -y |
+| другие исключения      | ee |    | йи после гласной                  | iyi     |    |
+|                        |    |    | исключения (в т.ч. после ЭЕАЯ)    | y       |    |
 
 |                                | ъ         |      | ь         |      |
 | ------------------------------ | --------- | ---- | --------- | ---- |
@@ -329,7 +327,7 @@ plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
-polỳèṭhir полиэфир poliefir poliefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, dielectric  
+polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diëlectric diielectric  
 plië pliie pliie плиэ  
 cïao, capriccïö, Boccaccïo  
 Mexîco, Mexica, xûi  
@@ -337,7 +335,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
-ниа niä niia — piänino piianino, dielectric  
+ниа niä niia — piänino piianino, diëlectric diielectric  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
 нъя nòia nyiia — obH ect obyiiect (искл.), podòiezd podyiiezd  
 есть iestè iestii  
@@ -486,7 +484,7 @@ This.
 
 Main ASCII SMS:
 
-Siætl Sietl Siætl, dielectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
+Siætl Siietl Siætl, diëlectric diielectric diielectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 IEùropa IEvropa IEùropa, IEGẸ IEGaE IEG'E, ẸẸG EEG EEG, JẸK JaEK J'EK.  
 companìì companiii companìì.  
@@ -563,7 +561,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Peòny i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-dielectricki".
+Peòny i vasilècki vseo iesche rastut na polianė vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diëlectricki".
 
 Pìanyi master po proiectu sdelal mecḥanichesckiy obìect s izòianom. İesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
@@ -664,7 +662,7 @@ Pod govor piiyanyh mujichcov.
 
 // God napisaniya: 1841
 
-Pieony i vasiliicki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Sietl na rabotu v companiii "Moii-tvoii siyesty-dielectricki".
+Pieony i vasiliicki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Sietl na rabotu v companiii "Moii-tvoii siyesty-diielectricki".
 
 Piiyanyi master po proiectu sdelal mekhanichesckiy obyiiect s izyiianom. Yesli brac ne obnarujitsia, to belyie bolidy boliishe ne smogut vyiigryvate goncki i vyuuchite svoii oshibcki.
 
@@ -765,7 +763,7 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Peòny i vasilècki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-dielectricki".
+Peòny i vasilècki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diielectricki".
 
 Pìanyi master po proiectu sdelal mekhanichesckiy obìect s izòianom. Yesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
