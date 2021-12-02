@@ -369,9 +369,9 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
-  * **IE** / **Ė** - е (IE., IEGÊ ЕГЭ IEGaE/IEG'E, OBSĖ ОБСЕ OBSIE)
+  * **IE** - е (IE., IEGẸ ЕГЭ IEGaE/IEG'E, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ẹ** - э (Ê. E., IEGẸ ЕГЭ IEGaE/IEG'E, ẸẸG ЭЭГ EEG)
+  * **Ẹ** - э (Ẹ. E., IEGẸ ЕГЭ IEGaE/IEG'E, ẸẸG ЭЭГ EEG)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
@@ -402,7 +402,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
 | A / Ä  |     O / Ö      |  U / Ü      | Ẹ (E/aE/'E) |   Hy    |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
-|   IA   |      IEO       |   IU        | IE / Ė      |  I (Ii) |
+|   IA   |      IEO       |   IU        |   IE        |  I (Ii) |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
 |   B    |       V        |    G        |   D         |    J    |
 | **З**  |     **Й**      |  **К**      | **Л**       |  **М**  |
@@ -418,12 +418,12 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 SHI ШИ, SḤI СХИ (SkHI/S'HI), SKHI СКХИ,  
 CI ЦИ, CìA ЦА (CiA),  
-KĖ КЕ (KIE), KẸ КЭ (KaE/K'E), KI КИ,  
+KIE КЕ, KẸ КЭ (KaE/K'E), KI КИ,  
 SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
 CI ЦИ, CHI ЧИ, CìHI ЦХИ (CiHI/C'HI),  
 YẸ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEGẸ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CìPU ЦПУ CPU, ChS ЧС, SShA США, ẸẸG ЭЭГ (EEG), JẸK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSĖ ОБСЕ (OBSIE), GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
+IEGẸ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CìPU ЦПУ CPU, ChS ЧС, SShA США, ẸẸG ЭЭГ (EEG), JẸK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
 
 
 ## Набор на смартфоне
