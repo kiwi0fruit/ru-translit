@@ -369,7 +369,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 * **Ee** - э (была "е" в математике)
   * **IE** - е (IE., IEGẸ ЕГЭ IEGaE/IEG'E, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ẹ** - э (Ẹ. E., IEGẸ ЕГЭ IEGaE/IEG'E, ẸẸG ЭЭГ EEG)
+  * **Ẹ** - э (Ẹ. E., IEGẸ ЕГЭ IEGaE/IEG'E, ẸẸG ЭЭГ EEG, RIẸ РИЭ RIiE/RI'E)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - ха (H., KHL КХЛ, была "аш" в математике)
