@@ -309,7 +309,7 @@ antiqìnyi
 
 gva-gvi гва-гви
 
-neyrotism нейротизм, leytenant лейтенант  
+neyrotism нейротизм, lieytenant лейтенант  
 IEụstacṣ Юстас, IEùropa Европа, neùrolog невролог, Eùreka Эврека  
 Aùstrià Австрия
 
