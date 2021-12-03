@@ -415,7 +415,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 | **Щ**  |                |             |             |         |
 |  Sch   |                |             |             |         |
 
-*Буква Cc называется Це и в аббревиатуры идёт как Cì. (C.). И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются K. Carina Petrova => K.Petrova. Ciceron Romanov => Cì.Romanov.* Так же: Eduard => Ẹ. (E.).  
+*Буква Cc называется Це и в аббревиатуры идёт как C / Cì. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.* Так же: Eduard => Ẹ. (E.).  
 
 SHI ШИ, SḤI СХИ (SkHI/S'HI), SKHI СКХИ,  
 CI ЦИ, CìA ЦА (CiA),  
