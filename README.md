@@ -323,7 +323,7 @@ Aùstrià Австрия
 hìstorià, hìèrarcḥ, raiyispolcom
 
 zaiace, унц uncè uncii  
-İacov Yacov, İuliy Yuliy, iod iod, iön iion, İèsus IYesus, İüda IIUda, İäcov IIAcov  
+İacov Iacov, İuliy Iuliy, İesli Yesli, iod iod, iön iion, İèsus IYesus, İüda IIUda, İäcov IIAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
