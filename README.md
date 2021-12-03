@@ -364,7 +364,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 * **Aa** - а
   * **IA** - я (IA., FIIA ФИЯ, RIÄ РИА RIiA, RIiÄ РИиА RIiiA)
 * **Bb** - бэ
-* **Cc** - це (Cì. C., CìPU ЦПУ CPU, CìA ЦА CiA, CiÄ ЦиА CiiA, CI ЦИ)
+* **Cc** - це (перед гласными - Cì. C.; CPU ЦПУ, CìA ЦА CiA, CiÄ ЦиА CiiA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
 * **Dd** - дэ
 * **Ee** - э (была "е" в математике)
@@ -410,7 +410,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 | **Н**  |     **П**      |  **Р**      | **С**       |  **Т**  |
 |   N    |       P        |    R        |   S         |    T    |
 | **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
-|   F    |   H / Ḥ ('H)   | Cì (C / Ci) |   Ch        |   Sh    |
+|   F    |   H / Ḥ ('H)   | C (Cì / Ci) |   Ch        |   Sh    |
 | **Щ**  |                |             |             |         |
 |  Sch   |                |             |             |         |
 
