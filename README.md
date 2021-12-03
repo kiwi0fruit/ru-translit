@@ -369,9 +369,10 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
   * отдельно предлог "к" пишется ck
 * **Dd** - дэ
 * **Ee** - е-йе (была "е" в математике)
-  * **IE** - е (IE., IEGẸ ЕГЭ IEGaE/IEG'E, OBSIE ОБСЕ OBSIE)
+  * **IE** - е (IE., IEGẸ ЕГЭ IEGEh, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ẹ** - э (Ẹ. aE., IEGẸ ЕГЭ IEGaE/IEG'E, ẸẸG ЭЭГ aEaEG 'E'EG (аббревиатуру должно быть нельзя перепутать с включением иностранного слова; просто 'E нельзя поэтому), RIẸ РИЭ RIiE/RI'E)
+  * **Ẹ** - э (Ẹ. Eh., IEGẸ ЕГЭ IEGEh, ẸẸG ЭЭГ EhEhG, RIẸ РИЭ RIEh)
+  * стандартно используются только IE и Ẹ/Eh. Просто E используется только в исключениях. Отдельно "эх" пишется eḥ / ekh.
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
   * **Ġ**, **Gẹ** - же
@@ -400,7 +401,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
-| A / Ä  |     O / Ö      |  U / Ü      |  Ẹ (aE/'E)  |   Hy    |
+| A / Ä  |     O / Ö      |  U / Ü      | Ẹ (Eh)      |   Hy    |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
 |   IA   |      IEO       |   IU        |   IE        |  I (Ii) |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
@@ -410,20 +411,20 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 | **Н**  |     **П**      |  **Р**      | **С**       |  **Т**  |
 |   N    |       P        |    R        |   S         |    T    |
 | **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
-|   F    |   H / Ḥ ('H)   | C (Cì / Ci) |   Ch        |   Sh    |
+|   F    |   H / Ḥ (kH)   | C (Cì / Ci) |   Ch        |   Sh    |
 | **Щ**  |                |             |             |         |
 |  Sch   |                |             |             |         |
 
-*Буква Cc называется Це и в аббревиатуры идёт как C / Cì. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.* Так же: Eduard => Ẹ. (E.).  
+*Буква Cc называется Це и в аббревиатуры идёт как C / Cì. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
-SHI ШИ, SḤI СХИ (SkHI/S'HI), SKHI СКХИ,  
+SHI ШИ, SḤI СХИ (SkHI), SKHI СКХИ,  
 CI ЦИ, CìA ЦА (CiA),  
-KIE КЕ, KẸ КЭ (KaE/K'E), KI КИ,  
+KIE КЕ, KẸ КЭ (KEh), KI КИ,  
 SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
-CI ЦИ, CHI ЧИ, CìHI ЦХИ (CiHI/C'HI), CIE ЦЕ, CẸ ЦЭ (CaE/C'E),  
-YẸ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
+CI ЦИ, CHI ЧИ, CìHI ЦХИ (CiHI), CIE ЦЕ, CẸ ЦЭ (CEh),  
+YẸ ЙЭ (YEh), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEGẸ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ẸẸG ЭЭГ (aEeEG/'E'EG), JẸK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
+IEGẸ ЕГЭ (IEGEh), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ẸẸG ЭЭГ (EhEhG), JẸK ЖЭК (JEhK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
 
 
 ## Набор на смартфоне
@@ -488,7 +489,7 @@ Main ASCII SMS:
 
 Siætl Siietl Siætl, diëlectric diielectric diielectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
-IEùropa IEvropa IEùropa, IEGẸ IEGaE IEG'E, ẸẸG EEG EEG, JẸK JaEK J'EK.  
+IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EEG EhEhG, JẸK JEhK.  
 companìì companiii companìì.  
 obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.
 
