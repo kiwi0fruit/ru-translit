@@ -368,11 +368,10 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
   * **Ch** - че (Ch., ChS ЧС)
   * отдельно предлог "к" пишется ck
 * **Dd** - дэ
-* **Ee** - э (была "е" в математике)
+* **Ee** - е-йе (была "е" в математике)
   * **IE** - е (IE., IEGẸ ЕГЭ IEGaE/IEG'E, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ẹ** - э (Ẹ. E., IEGẸ ЕГЭ IEGaE/IEG'E, ẸẸG ЭЭГ EEG, RIẸ РИЭ RIiE/RI'E)
-  * **Ė** - е (ė-zahvat e-захват)
+  * **Ẹ** - э (Ẹ. aE., IEGẸ ЕГЭ IEGaE/IEG'E, ẸẸG ЭЭГ aEaEG 'E'EG (аббревиатуру должно быть нельзя перепутать с включением иностранного слова; просто 'E нельзя поэтому), RIẸ РИЭ RIiE/RI'E)
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
   * **Ġ**, **Gẹ** - же
@@ -401,7 +400,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
-| A / Ä  |     O / Ö      |  U / Ü      | Ẹ (E/aE/'E) |   Hy    |
+| A / Ä  |     O / Ö      |  U / Ü      |  Ẹ (aE/'E)  |   Hy    |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
 |   IA   |      IEO       |   IU        |   IE        |  I (Ii) |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
@@ -424,7 +423,7 @@ SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,
 CI ЦИ, CHI ЧИ, CìHI ЦХИ (CiHI/C'HI), CIE ЦЕ, CẸ ЦЭ (CaE/C'E),  
 YẸ ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEGẸ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ẸẸG ЭЭГ (EEG), JẸK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
+IEGẸ ЕГЭ (IEGaE/IEG'E), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ẸẸG ЭЭГ (aEeEG/'E'EG), JẸK ЖЭК (JaEK/J'EK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Nìu York => NY.
 
 
 ## Набор на смартфоне
