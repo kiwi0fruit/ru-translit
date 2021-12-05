@@ -301,7 +301,7 @@ qùi-qùe-qüa ки-ке-кя
 qui-que-qua кви-кве-ква  
 quì-què-quà куи-куэ-куа  
 На конце основы склоняемых слов лучше qv. В остальных случаях лучше qu. Ну это все перед гласными.  
-Aqva, Aqvy, Aqvu, aquariüm
+Aqva, Aqvy, Aqvu, aquariụm
 
 qị ци, qịa ца  
 qì ч, qi чи, qia ча  
@@ -323,10 +323,10 @@ Aùstrià Австрия
 hìstorià, hìèrarcḥ, raiyispolcom
 
 zaiace, унц uncè uncii  
-İacov Iacov, İuliy Iuliy, İesli Yesli, iod iod, iön iion, İèsus IYesus, İüda IIUda, İäcov IIAcov  
+İacov Iacov, İuliy Iuliy, İesli Yesli, iod iod, iọn iion, İèsus IYesus, İụda IIUda, İạcov IIAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
+crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piạnino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
 polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diẹlectric diielectric  
 pliẹ pliie pliie плиэ  
