@@ -70,7 +70,7 @@
 | **основное написание**     | e  |    | o  |    | a  |    | u  |    | hy |    |
 | после согласной            | ẹ  | ae |    |    |    |    |    |    | y  |    |
 | после согласной + А        | è  | ae |    |    |    |    |    |    |    |    |
-| после И                    | ë  | e  | o  |    | ä  | a  | ü  | u  |    |    |
+| после И                    | ẹ  | e  | o  |    | ạ  | a  | ụ  | u  |    |    |
 | после Ы                    | è  | ae | ò  | oo | à  | aa | ù  | uu |    |    |
 | после согласной + Е        |    |    | ò  | o  |    |    |    |    |    |    |
 | исключения после согласной | æ  | ae |    |    |    |    | òu | u  | î  | y  |
@@ -242,13 +242,13 @@ scḥ сх
 ḅ в 
 
 cṣ-cê-cṣa-cî(cŷ)-cṣy-cṣæ(cṣae,cṣẹ) с-се-са-си-сы-сэ (уд. ĉé, cṣá, ĉí, ĉý, cṣȳ)  
-cè-ce(cæ-cae-cẹ)-cia(cịa)-ceo-ci(cy)-cìa-ciä-cio ц-це-ца-цо(цё)-ци(цы)-цья-циа-цио (уд. cé, ца-ciá, cí, cý, циа-ciā)  
+cè-ce(cæ-cae-cẹ)-cia(cịa)-ceo-ci(cy)-cìa-ciạ-cio ц-це-ца-цо(цё)-ци(цы)-цья-циа-цио (уд. cé, ца-ciá, cí, cý, циа-ciā)  
 ch-cė-cïa-cï ч-че-ча-чи (уд. cǐ, cě)  
 ck к  
 kè-c(k)-ke-ki(kỳ)-ky-cü(kiu)-kæ(kae) кь-к-ке-ки-кы-кю-кэ
 
 g-ge-geo(geò)-gèo-gæ(gae)-gi(gỳ)-gy-gè-gìe г-ге-гео-гё-гэ-ги-гы-гь-гье (уд. gé, gá)  
-ġè-gẹ-gẹa(gịa)-gị(gẏ)-ġìa-gịä ж-же-жа-жи-жья-жиа (уд. gē, gā)    
+ġè-gẹ-gẹa(gịa)-gị(gẏ)-ġìa-gịạ ж-же-жа-жи-жья-жиа (уд. gē, gā)    
 ĝè-gê-gî(gŷ)-gêa(gîa) дж-дже-джи-джа (уд. ĝé)  
 dġè-dgẹ дж-дже
 
@@ -259,7 +259,7 @@ hè-ḥy(ḥị)-h-he-hi(ḥỳ)-ha-hiu-ḥìa-ḥòia хь-хы-х-хе-хи-х
 hìa-hìe я-е
 
 dje дже  
-j-jè-jj-je-ja(jèa)-ji-jiä-jië-jèy ж-жь-жж-же-жа-жи-жиа-жиэ-жй (уд. jí-já)
+j-jè-jj-je-ja(jèa)-ji-jiạ-jiẹ-jèy ж-жь-жж-же-жа-жи-жиа-жиэ-жй (уд. jí-já)
 
 ġh-ġhè-ġe х-хь-хе (уд. ġé, ġē)  
 jî-jâ-jê-jḫẹ-jḫ ха-хи-хе-хэ-х (уд. ɉí-ɉá-ɉé-jḫē)  
@@ -287,8 +287,8 @@ sẓ ш
 cz кз  
 cẓ ч
 
-x-xiä-xìa кс-ксиа-ксья (уд. xiā)  
-xï-xïa-xïä си-ся-сиа (уд. xǐ,xïá,xǐa/xïá)  
+x-xiạ-xìa кс-ксиа-ксья (уд. xiā)  
+xï-xïa-xïạ си-ся-сиа (уд. xǐ,xïá,xǐa/xïá)  
 xî-xû хи-ху (уд. ẋí, ẋú)
 
 Lỳò Лио (уд. Lỳō)  
@@ -328,15 +328,15 @@ plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìsckivate vyiisckivate, aero, maèstro maaestro, Ændỳ Endi, piänino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, culìtura culiitura, rugatèsa rugatesia, polianė polianie.
 
-polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diëlectric diielectric  
-plië pliie pliie плиэ  
-cïao, capriccïö, Boccaccïo  
+polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diẹlectric diielectric  
+pliẹ pliie pliie плиэ  
+cïao, capriccïọ, Boccaccïo  
 Mexîco, Mexica, xûi  
 Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
-ниа niä niia — piänino piianino, diëlectric diielectric  
+ниа niạ niia — piạnino piianino, diẹlectric diielectric  
 нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
 нъя nòia nyiia — obH ect obyiiect (искл.), podòiezd podyiiezd  
 есть iestè iestii  
@@ -362,9 +362,9 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
 
 * **Aa** - а
-  * **IA** - я (IA., FIIA ФИЯ, RIÄ РИА RIiA, RIiÄ РИиА RIiiA)
+  * **IA** - я (IA., FIIA ФИЯ, RIẠ РИА RIiA RIÄ, RIiẠ РИиА RIiiA RIiÄ)
 * **Bb** - бэ
-* **Cc** - це (перед гласными - Cì. C.; CPU ЦПУ, CìA ЦА CiA, CiÄ ЦиА CiiA, CI ЦИ)
+* **Cc** - це (перед гласными - Cì. C.; CPU ЦПУ, CìA ЦА CiA, CiẠ ЦиА CiiA CiÄ, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
   * отдельно предлог "к" пишется ck
 * **Dd** - дэ
@@ -401,7 +401,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
-| A / Ä  |     O / Ö      |  U / Ü      | Ẹ (Eh)      |   Hy    |
+| A / Ạ (Ä) |  O / Ọ (Ö)  |  U / Ụ (Ü)  | Ẹ (Eh)      |   Hy    |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
 |   IA   |      IEO       |   IU        |   IE        |  I (Ii) |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
@@ -483,11 +483,12 @@ This.
 
 Помимо полной версии и ASCII версии можно использовать и СМС версию, которая использует символы, [не уменьшающие длину сообщения](https://en.wikipedia.org/wiki/GSM_03.38#GSM_7-bit_default_alphabet_and_extension_table_of_3GPP_TS_23.038_/_GSM_03.38):
 
-* èùìòà,ÆæÜüÖöÄä - используются в главной латинице (обратите внимание, что у большинства только нижний регистр можно использовать).
+* èùìòà,Ææ - используются в главной латинице (обратите внимание, что у большинства только нижний регистр можно использовать).
+* ÜüÖöÄä - используются вместо ỤụỌọẠạ после гласных.
 
 Main ASCII SMS:
 
-Siætl Siietl Siætl, diëlectric diielectric diielectric, maèstro maaestro maèstro, piänino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
+Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro maèstro, piạnino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EEG EhEhG, JẸK JEhK.  
 companìì companiii companìì.  
