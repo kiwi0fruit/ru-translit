@@ -362,9 +362,9 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
 
 * **Aa** - а
-  * **IA** - я (IA., FIIA ФИЯ, RIẠ РИА RIiA RIÄ, RIiẠ РИиА RIiiA RIiÄ)
+  * **IA** - я (IA., FIIA ФИЯ, RIẠ РИА RIiA RI'A, RIiẠ РИиА RIiiA RIi'A)
 * **Bb** - бэ
-* **Cc** - це (перед гласными - Cì. C.; CPU ЦПУ, CìA ЦА CiA, CiẠ ЦиА CiiA CiÄ, CI ЦИ)
+* **Cc** - це (перед гласными - Cì. C.; CPU ЦПУ, CìA ЦА CiA, CiẠ ЦиА CiiA Ci'A, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
   * отдельно предлог "к" пишется ck
 * **Dd** - дэ
@@ -401,9 +401,9 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
-| A / Ạ (Ä) |  O / Ọ (Ö)  |  U / Ụ (Ü)  | Ẹ (Eh)      |   Hy    |
+| A / Ạ ('A) | O / Ọ ('O) |  U / Ụ ('U) | Ẹ (Eh)      |   Hy    |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
-|   IA   |      IEO       |   IU        |   IE        |  I (Ii) |
+|   IA   |      IEO       |   IU        |   IE        | I (Ii / I') |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
 |   B    |       V        |    G        |   D         |    J    |
 | **З**  |     **Й**      |  **К**      | **Л**       |  **М**  |
@@ -492,7 +492,8 @@ Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro ma
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
 IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
 companìì companiii companìì.  
-obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.
+obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.  
+ФИЯ FIIA, РИА RIẠ RIiA RI'A.
 
 
 ## Пример текста
