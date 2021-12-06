@@ -371,7 +371,7 @@ Ckembriy, Kitekæt, kitỳ-ckæt, gey, gælèsckiy
 * **Ee** - е-йе (так стандартно в математике)
   * **IE** - е (IE., IEGẸ ЕГЭ IEGEh, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Ẹ, Eh** - э (Ẹ. Eh., IEGẸ ЕГЭ IEGEh, ẸẸG ЭЭГ EhEhG, RIẸ РИЭ RIEh)
+  * **Ẹ, Eh** - э (Ẹ. Eh., IEGẸ ЕГЭ IEGEh, ẸẸG ЭЭГ EhEhG, RIẸ РИЭ RIiEh RI'Eh)
   * стандартно используются только IE и Ẹ/Eh. Просто E используется только в исключениях. Отдельно "эх" пишется eḥ / ekh.
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
@@ -490,7 +490,7 @@ Main ASCII SMS:
 
 Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro maèstro, piạnino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
-IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGÆ, ẸẸG EhEhG ÆÆG, JẸK JEhK JÆK.  
+IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
 companìì companiii companìì.  
 obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.  
 ФИЯ FIIA, РИА RIẠ RIiA RIÄ.
