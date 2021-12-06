@@ -490,7 +490,7 @@ Main ASCII SMS:
 
 Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro maèstro, piạnino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
 iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
-IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EEG EhEhG, JẸK JEhK.  
+IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
 companìì companiii companìì.  
 obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.
 
