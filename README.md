@@ -574,7 +574,7 @@ V pìesė pro devushcu v zeleonom platìyicẹ vse sadilise na ladìyi i plyli p
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Mær nebolèshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i dalèshe, to biudgẹtu prideotsia hudo.
+Mær nebolèshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eczẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i dalèshe, to biudgẹtu prideotsia hudo.
 
 V etom vidė phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
