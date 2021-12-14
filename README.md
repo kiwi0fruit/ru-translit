@@ -506,7 +506,7 @@ Moroz i solnce; dene chudesnyi!
 İesche ty dremleshè, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
-Navstrechu severnoi Aurory,  
+Navstrechu severnoi Aùrory,  
 Zvezdoiu severa iavise!
 
 Vecheor, ty pomnishè, vìuga zlilase,  
@@ -607,7 +607,7 @@ Moroz i solnce; dene chudesnyi!
 Yesche ty dremlesh, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
-Navstrechu severnoi Aurory,  
+Navstrechu severnoi Avrory,  
 Zvezdoiu severa iavise!
 
 Vecheor, ty pomnish, viiyuga zlilase,  
@@ -708,7 +708,7 @@ Moroz i solnce; dene chudesnyi!
 Yesche ty dremleshè, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
-Navstrechu severnoi Aurory,  
+Navstrechu severnoi Aùrory,  
 Zvezdoiu severa iavise!
 
 Vecheor, ty pomnishè, vìuga zlilase,  
