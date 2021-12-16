@@ -55,15 +55,15 @@
 | Таблица 2                      | е     |       | ё     |     | йо    |      | я     |    | ю     |    |
 | ------------------------------ | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
 | **основное написание**         | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
-| с большой буквы                | İe    | iE \* | İeo   | iEo | İo    | iO   | İa    | iA | İu    | iU |
+| с большой буквы                | İe    | IE \* | İeo   | IEo | İo    | IO   | İa    | IA | İu    | IU |
 | после согласной                | e     |       | eo    |     | òio   | yiio |       |    |       |    |
 | после согласной точно "мягкая" | ė     | ie    |       |     |       |      |       |    |       |    |
 | после согласной перед О        | e     | ie    |       |     |       |      |       |    |       |    |
 | после Й или И                  | è     | ye    | èo    | yeo | ò     | yo   | à     | ya | ù     | yu |
-| исключения в начале слова      | iE/ie | Ye/ie |       |     |       |      |       |    |       |    |
+| исключения в начале слова      | IE/ie | Ye/ie |       |     |       |      |       |    |       |    |
 | как в Табл. 1                  | *T.1* |       | *T.1* |     | *T.1* |      | *T.1* |    | *T.1* |    |
 
-\* в т.ч. İuliy - iUliy.
+\* в т.ч. İuliy - IUliy.
 
 | Таблица 3                  | э  |    | о  |    | а  |    | у  |    | ы  |    |
 | -------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -312,7 +312,7 @@ antiqìnyi
 gva-gvi гва-гви
 
 neyrotism нейротизм, lieytenant лейтенант  
-iEụstacṣ Юстас, iEùropa Европа, neùrolog невролог, Eùreka Эврека  
+IEụstacṣ Юстас, IEùropa Европа, neùrolog невролог, Eùreka Эврека  
 Aùstrià Австрия
 
 
@@ -325,10 +325,10 @@ Aùstrià Австрия
 hìstorià, hìèrarcḥ, raiyispolcom
 
 zaiace, унц uncè uncii  
-İacov iAcov, İuliy iUliy, İesli iEsli, iod iod, iọn iion, İèsus IYesus, İụda iiUda, İạcov iiAcov  
+İacov IAcov, İuliy IUliy, İesli IEsli, iod iod, iọn iion, İèsus IYesus, İụda IIUda, İạcov IIAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli iEsli, İuliy iUliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maèstro maaestro, Ændỳ Endi, piạnino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, cuḷtura culiitura culìtura, rugatèsa rugatesia, polianė polianie.
+crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli IEsli, İuliy IUliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maèstro maaestro, Ændỳ Endi, piạnino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, cuḷtura culiitura culìtura, rugatèsa rugatesia, polianė polianie.
 
 polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diẹlectric diielectric  
 pliẹ pliie pliie плиэ  
@@ -491,8 +491,8 @@ This.
 Main ASCII SMS:
 
 Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro maèstro, piạnino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
-iego iego iego, İego iEgo iEgo, İuliy iUliy iUliy.  
-iEùropa iEvropa iEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
+iego iego iego, İego IEgo IEgo, İuliy IUliy IUliy.  
+iEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
 companìì companiii companìì.  
 obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.  
 ФИЯ FIIA, РИА RIẠ RIiA RIÄ.
@@ -604,7 +604,7 @@ V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreni�
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudesnyi!  
-iEsche ty dremlesh, drug prelestnyi —  
+IEsche ty dremlesh, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Avrory,  
@@ -647,8 +647,8 @@ Ni polnyi gordogo doveriya pocoi,
 Ni teomnoi stariny zavetnyie predaniiya  
 Ne sheveliat vo mne otradnogo mechtaniiya.  
 No ia liubliu — za chto, ne znaiu sam —  
-iEio stepei holodnoie molchaniiye,  
-iEio lesov bezbrejnyh colyhaniiye,  
+IEio stepei holodnoie molchaniiye,  
+IEio lesov bezbrejnyh colyhaniiye,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v telege  
 I, vzorom medlennym pronzaia nochi tene,  
@@ -659,7 +659,7 @@ V stepi nochuiuschiy oboz
 I na holme srede jeoltoi nivy  
 Chetu beleiuschih bereoz.  
 S otradoi, mnogim neznacomoi,  
-iA viju polnoie gumno,  
+IA viju polnoie gumno,  
 Izbu, pocrytuiu solomoi,  
 S reznymi stavniami ocno;  
 I v prazdnic, vecherom rosistym,  
@@ -671,17 +671,17 @@ Pod govor piiyanyh mujichcov.
 
 Pieony i vasiliiki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Sietl na rabotu v companiii "Moii-tvoii siyesty-diielectriki".
 
-Piiyanyi master po proiectu sdelal mekhanicheskiy obyiiect s izyiianom. iEsli brac ne obnarujitsia, to belyie bolidy boliishe ne smogut vyiigryvate gonki i vyuuchite svoii oshibki.
+Piiyanyi master po proiectu sdelal mekhanicheskiy obyiiect s izyiianom. IEsli brac ne obnarujitsia, to belyie bolidy boliishe ne smogut vyiigryvate gonki i vyuuchite svoii oshibki.
 
 V piiyesie pro devushcu v zeleonom platiiyicie vse sadilise na ladiiyi i plyli po reke. No tut iz lesa vyshel Djeordj Maximus, cone v paliito i rvanyh djinsah, cotoryi cogo-to obyskival, i pricazal vsem mytesia i gotovite buliiyon. Znachit snova piiyeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igraliinyie costi. Vypalo shestii, znachit iemu prideotsia mazate iod na ranu.
 
-Maer neboliishogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczaema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. iEsli tac poideot i daliishe, to biudjetu prideotsia hudo.
+Maer neboliishogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczaema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. IEsli tac poideot i daliishe, to biudjetu prideotsia hudo.
 
-V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. iEoj coliuchiy i pohoj na neio.
+V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
-Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiii "Caligula Gai iUliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciii.
+Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiii "Caligula Gai IUliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
@@ -705,7 +705,7 @@ V sujdeniyah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniy
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudesnyi!  
-iEsche ty dremleshè, drug prelestnyi —  
+IEsche ty dremleshè, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Aùrory,  
@@ -748,8 +748,8 @@ Ni polnyi gordogo doverià pocoi,
 Ni teomnoi stariny zavetnyie predanìa  
 Ne sheveliat vo mne otradnogo mechtanìa.  
 No ia liubliu — za chto, ne znaiu sam —  
-iEio stepei holodnoie molchanìe,  
-iEio lesov bezbrejnyh colyhanìe,  
+IEio stepei holodnoie molchanìe,  
+IEio lesov bezbrejnyh colyhanìe,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v telege  
 I, vzorom medlennym pronzaia nochi tenè,  
@@ -760,7 +760,7 @@ V stepi nochuiuschiy oboz
 I na holme srede jeoltoi nivy  
 Chetu beleiuschih bereoz.  
 S otradoi, mnogim neznacomoi,  
-iA viju polnoie gumno,  
+IA viju polnoie gumno,  
 Izbu, pocrytuiu solomoi,  
 S reznymi stavniami ocno;  
 I v prazdnic, vecherom rosistym,  
@@ -772,17 +772,17 @@ Pod govor pìanyh mujichcov.
 
 Peòny i vasilèki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diielectriki".
 
-Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izòianom. iEsli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
+Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izòianom. IEsli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
 
 V pìesie pro devushcu v zeleonom platìyicie vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel 'George Maximus, cone v palèto i rvanyh djeensah, cotoryi cogo-to obyskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. iEsli tac poideot i dalèshe, to biudjetu prideotsia hudo.
+Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i dalèshe, to biudjetu prideotsia hudo.
 
-V etom vidie phraza ot A do iA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. iEoj coliuchiy i pohoj na neio.
+V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
-Sòhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otòhodami companìì "Caligula Gai iUliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatcìì.
+Sòhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otòhodami companìì "Caligula Gai IUliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatcìì.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
