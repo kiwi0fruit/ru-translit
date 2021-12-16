@@ -695,7 +695,7 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdeniya, k etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniiyu gotovitsia nechto nieobychnoie. Biliibo ispolnialose 111 let – vozrast dlia hobbita vesiima pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znamenatelenaia data – sovershennoletiye po-hobbitski.
 
-Imeietsia nescoleco gypothez proiiskhojdeniya sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescoleco gipothez proiiskhojdeniya sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
 V sujdeniyah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniya. Odni schitaiut, chto sobaki - poliphiletichescaia gruppa (proiiskhodiaschaia ot nescolekih predcov), drugiye priderjivaiutsia mneniya, chto vse sobaki proiizoshli ot odnogo predca (monophiletichescaia thieoriya).
 
