@@ -705,7 +705,7 @@ V sujdeniyah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniy
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudesnyi!  
-Yesche ty dremleshè, drug prelestnyi —  
+Iesche ty dremleshè, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Aùrory,  
@@ -748,8 +748,8 @@ Ni polnyi gordogo doverià pocoi,
 Ni teomnoi stariny zavetnyie predanìa  
 Ne sheveliat vo mne otradnogo mechtanìa.  
 No ia liubliu — za chto, ne znaiu sam —  
-Yeio stepei holodnoie molchanìe,  
-Yeio lesov bezbrejnyh colyhanìe,  
+Ieio stepei holodnoie molchanìe,  
+Ieio lesov bezbrejnyh colyhanìe,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v telege  
 I, vzorom medlennym pronzaia nochi tenè,  
@@ -760,7 +760,7 @@ V stepi nochuiuschiy oboz
 I na holme srede jeoltoi nivy  
 Chetu beleiuschih bereoz.  
 S otradoi, mnogim neznacomoi,  
-Ya viju polnoie gumno,  
+Ia viju polnoie gumno,  
 Izbu, pocrytuiu solomoi,  
 S reznymi stavniami ocno;  
 I v prazdnic, vecherom rosistym,  
@@ -772,15 +772,15 @@ Pod govor pìanyh mujichcov.
 
 Peòny i vasilèki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diielectriki".
 
-Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izòianom. Yesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
+Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izòianom. Iesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
 
 V pìesie pro devushcu v zeleonom platìyicie vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel 'George Maximus, cone v palèto i rvanyh djeensah, cotoryi cogo-to obyskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. Yesli tac poideot i dalèshe, to biudjetu prideotsia hudo.
+Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. Iesli tac poideot i dalèshe, to biudjetu prideotsia hudo.
 
-V etom vidie phraza ot A do Ya nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Yeoj coliuchiy i pohoj na neio.
+V etom vidie phraza ot A do Ia nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ieoj coliuchiy i pohoj na neio.
 
 Sòhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otòhodami companìì "Caligula Gai Iuliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatcìì.
 
