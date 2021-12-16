@@ -491,8 +491,8 @@ This.
 Main ASCII SMS:
 
 Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro maèstro, piạnino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
-iego iego iego, İego Iego Iego, İuliy Iuliy Iuliy.  
-IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
+iego iego iego, İego iEgo iEgo, İuliy iUliy iUliy.  
+iEùropa iEvropa iEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
 companìì companiii companìì.  
 obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.  
 ФИЯ FIIA, РИА RIẠ RIiA RIÄ.
@@ -604,7 +604,7 @@ V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreni�
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudesnyi!  
-Iesche ty dremlesh, drug prelestnyi —  
+iEsche ty dremlesh, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Avrory,  
@@ -647,8 +647,8 @@ Ni polnyi gordogo doveriya pocoi,
 Ni teomnoi stariny zavetnyie predaniiya  
 Ne sheveliat vo mne otradnogo mechtaniiya.  
 No ia liubliu — za chto, ne znaiu sam —  
-Ieio stepei holodnoie molchaniiye,  
-Ieio lesov bezbrejnyh colyhaniiye,  
+iEio stepei holodnoie molchaniiye,  
+iEio lesov bezbrejnyh colyhaniiye,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v telege  
 I, vzorom medlennym pronzaia nochi tene,  
@@ -659,7 +659,7 @@ V stepi nochuiuschiy oboz
 I na holme srede jeoltoi nivy  
 Chetu beleiuschih bereoz.  
 S otradoi, mnogim neznacomoi,  
-Ia viju polnoie gumno,  
+iA viju polnoie gumno,  
 Izbu, pocrytuiu solomoi,  
 S reznymi stavniami ocno;  
 I v prazdnic, vecherom rosistym,  
@@ -671,17 +671,17 @@ Pod govor piiyanyh mujichcov.
 
 Pieony i vasiliiki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Sietl na rabotu v companiii "Moii-tvoii siyesty-diielectriki".
 
-Piiyanyi master po proiectu sdelal mekhanicheskiy obyiiect s izyiianom. Iesli brac ne obnarujitsia, to belyie bolidy boliishe ne smogut vyiigryvate gonki i vyuuchite svoii oshibki.
+Piiyanyi master po proiectu sdelal mekhanicheskiy obyiiect s izyiianom. iEsli brac ne obnarujitsia, to belyie bolidy boliishe ne smogut vyiigryvate gonki i vyuuchite svoii oshibki.
 
 V piiyesie pro devushcu v zeleonom platiiyicie vse sadilise na ladiiyi i plyli po reke. No tut iz lesa vyshel Djeordj Maximus, cone v paliito i rvanyh djinsah, cotoryi cogo-to obyskival, i pricazal vsem mytesia i gotovite buliiyon. Znachit snova piiyeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igraliinyie costi. Vypalo shestii, znachit iemu prideotsia mazate iod na ranu.
 
-Maer neboliishogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczaema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. Iesli tac poideot i daliishe, to biudjetu prideotsia hudo.
+Maer neboliishogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczaema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. iEsli tac poideot i daliishe, to biudjetu prideotsia hudo.
 
-V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ieoj coliuchiy i pohoj na neio.
+V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. iEoj coliuchiy i pohoj na neio.
 
-Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiii "Caligula Gai Iuliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciii.
+Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companiii "Caligula Gai iUliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatciii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
@@ -705,7 +705,7 @@ V sujdeniyah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniy
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudesnyi!  
-Iesche ty dremleshè, drug prelestnyi —  
+iEsche ty dremleshè, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Aùrory,  
@@ -748,8 +748,8 @@ Ni polnyi gordogo doverià pocoi,
 Ni teomnoi stariny zavetnyie predanìa  
 Ne sheveliat vo mne otradnogo mechtanìa.  
 No ia liubliu — za chto, ne znaiu sam —  
-Ieio stepei holodnoie molchanìe,  
-Ieio lesov bezbrejnyh colyhanìe,  
+iEio stepei holodnoie molchanìe,  
+iEio lesov bezbrejnyh colyhanìe,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v telege  
 I, vzorom medlennym pronzaia nochi tenè,  
@@ -760,7 +760,7 @@ V stepi nochuiuschiy oboz
 I na holme srede jeoltoi nivy  
 Chetu beleiuschih bereoz.  
 S otradoi, mnogim neznacomoi,  
-Ia viju polnoie gumno,  
+iA viju polnoie gumno,  
 Izbu, pocrytuiu solomoi,  
 S reznymi stavniami ocno;  
 I v prazdnic, vecherom rosistym,  
@@ -772,17 +772,17 @@ Pod govor pìanyh mujichcov.
 
 Peòny i vasilèki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diielectriki".
 
-Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izòianom. Iesli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
+Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izòianom. iEsli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
 
 V pìesie pro devushcu v zeleonom platìyicie vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel 'George Maximus, cone v palèto i rvanyh djeensah, cotoryi cogo-to obyskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
 
-Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. Iesli tac poideot i dalèshe, to biudjetu prideotsia hudo.
+Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. iEsli tac poideot i dalèshe, to biudjetu prideotsia hudo.
 
-V etom vidie phraza ot A do Ia nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ieoj coliuchiy i pohoj na neio.
+V etom vidie phraza ot A do iA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. iEoj coliuchiy i pohoj na neio.
 
-Sòhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otòhodami companìì "Caligula Gai Iuliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatcìì.
+Sòhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otòhodami companìì "Caligula Gai iUliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatcìì.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
