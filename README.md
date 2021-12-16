@@ -55,7 +55,7 @@
 | Таблица 2                      | е     |       | ё     |     | йо    |      | я     |    | ю     |    |
 | ------------------------------ | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
 | **основное написание**         | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
-| с большой буквы                | İe    | Ye *  | İeo   | Yeo | İo    | Yo   | İa    | Ya | İu    | Yu |
+| с большой буквы                | İe    | Ye *  | İeo   | Ieo | İo    | Io   | İa    | Ia | İu    | Iu |
 | после согласной                | e     |       | eo    |     | òio   | yiio |       |    |       |    |
 | после согласной точно "мягкая" | ė     | ie    |       |     |       |      |       |    |       |    |
 | после согласной перед О        | e     | ie    |       |     |       |      |       |    |       |    |
@@ -325,7 +325,7 @@ Aùstrià Австрия
 hìstorià, hìèrarcḥ, raiyispolcom
 
 zaiace, унц uncè uncii  
-İacov Iacov, İuliy Iuliy, İesli Yesli, iod iod, iọn iion, İèsus IYesus, İụda IIUda, İạcov IIAcov  
+İacov Iacov, İuliy Iuliy, İesli Iesli, iod iod, iọn iion, İèsus IYesus, İụda IIUda, İạcov IIAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maèstro maaestro, Ændỳ Endi, piạnino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, cuḷtura culiitura culìtura, rugatèsa rugatesia, polianė polianie.
@@ -491,7 +491,7 @@ This.
 Main ASCII SMS:
 
 Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro maèstro, piạnino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
-iego iego iego, İego Yego Yego, İuliy Iuliy Iuliy.  
+iego iego iego, İego Iego Iego, İuliy Iuliy Iuliy.  
 IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
 companìì companiii companìì.  
 obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.  
