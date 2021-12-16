@@ -55,7 +55,7 @@
 | Таблица 2                      | е     |       | ё     |     | йо    |      | я     |    | ю     |    |
 | ------------------------------ | ----- | ----- | ----- | --- | ----- | ---- | ----- | -- | ----- | -- |
 | **основное написание**         | ie    |       | ieo   |     | io    |      | ia    |    | iu    |    |
-| с большой буквы                | İe    | Ye *  | İeo   | Ieo | İo    | Io   | İa    | Ia | İu    | Iu |
+| с большой буквы                | İe    | iE \* | İeo   | iEo | İo    | iO   | İa    | iA | İu    | iU |
 | после согласной                | e     |       | eo    |     | òio   | yiio |       |    |       |    |
 | после согласной точно "мягкая" | ė     | ie    |       |     |       |      |       |    |       |    |
 | после согласной перед О        | e     | ie    |       |     |       |      |       |    |       |    |
@@ -63,7 +63,7 @@
 | исключения в начале слова      | IE/ie | Ye/ie |       |     |       |      |       |    |       |    |
 | как в Табл. 1                  | *T.1* |       | *T.1* |     | *T.1* |      | *T.1* |    | *T.1* |    |
 
-\* Кроме исключений типа İuliy - Iuliy.
+\* в т.ч. İuliy - iUliy.
 
 | Таблица 3                  | э  |    | о  |    | а  |    | у  |    | ы  |    |
 | -------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -312,7 +312,7 @@ antiqìnyi
 gva-gvi гва-гви
 
 neyrotism нейротизм, lieytenant лейтенант  
-IEụstacṣ Юстас, IEùropa Европа, neùrolog невролог, Eùreka Эврека  
+iEụstacṣ Юстас, iEùropa Европа, neùrolog невролог, Eùreka Эврека  
 Aùstrià Австрия
 
 
@@ -325,7 +325,7 @@ Aùstrià Австрия
 hìstorià, hìèrarcḥ, raiyispolcom
 
 zaiace, унц uncè uncii  
-İacov Iacov, İuliy Iuliy, İesli Iesli, iod iod, iọn iion, İèsus IYesus, İụda IIUda, İạcov IIAcov  
+İacov iAcov, İuliy iUliy, İesli iEsli, iod iod, iọn iion, İèsus IYesus, İụda iiUda, İạcov iiAcov  
 plohiè plohiye, Hèiuston Hiiyuston
 
 crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli Yesli, İuliy Yuliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maèstro maaestro, Ændỳ Endi, piạnino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, cuḷtura culiitura culìtura, rugatèsa rugatesia, polianė polianie.
