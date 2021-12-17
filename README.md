@@ -611,7 +611,7 @@ Otcroi somcnuty negoi vzory
 Navstrechu severnoi Avrory,  
 Zvezdoiu sewera iavise!
 
-Vecheor, ty pomnish, veiiuga zlilase,  
+Vecheor, ty pomnish, viiiuga zlilase,  
 Na mutnom nebbe mgla nosilase;  
 Luna, cac blednoie piatno,  
 Scvoze tuchi mrachnyie jeltela,  
@@ -641,15 +641,15 @@ I bereg, milyi dlia menia.
 
 Lermontov M.IU. — Rodina
 
-Liubliu otchiznu ia, no strannoiu liuboveiiu!  
+Liubliu otchiznu ia, no strannoiu liuboviiiu!  
 Ne pobbedit ieio rassudoc moi.  
-Ni slava, cuplennaia croveiiu,  
+Ni slava, cuplennaia croviiiu,  
 Ni polnyi gordogo doweriya pocoi,  
-Ni teomnoi stariny zavetnyie predaneiia  
-Ne sheweliat vo mne otradnogo mechtaneiia.  
+Ni teomnoi stariny zavetnyie predaniiia  
+Ne sheweliat vo mne otradnogo mechtaniiia.  
 No ia liubliu — za chto, ne znaiu sam —  
-IEio stepei holodnoie molchaneiie,  
-IEio lesov bezbrejnyh colyhaneiie,  
+IEio stepei holodnoie molchaniiie,  
+IEio lesov bezbrejnyh colyhaniiie,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v tellege  
 I, vzorom medlennym pronzaia nochi tene,  
@@ -665,16 +665,16 @@ Izbu, pocrytuiu solomoi,
 S reznymi stavniami ocno;  
 I v prazdnic, vecherom rosistym,  
 Smotrete do polnochi gotov  
-Na pliascu s topaneiiem i svistom  
-Pod govor peiianyh mujichcov.
+Na pliascu s topaniiiem i svistom  
+Pod govor piiianyh mujichcov.
 
 // God napisaniya: 1841
 
 Pieony i vasileki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Sietl na rabotu v companii "Moii-tvoii siyesty-diielectriki".
 
-Peiianyi master po proiectu sdelal mekhanicheskiy obyiiect s izyiianom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyiigryvate gonki i vyuuchite svoii oshibki.
+Piiianyi master po proiectu sdelal mekhanicheskiy obyiiect s izyiianom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyiigryvate gonki i vyuuchite svoii oshibki.
 
-V peiiesse pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po reke. No tut iz lesa vyshel Djeordj Maximus, cone v paleto i rvanyh djinsah, cotoryi cogo-to obyskival, i pricazal vsem mytesia i gotovite buleiion. Znachit snova peiieom do lysyh aqualangistov.
+V piiiesse pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po reke. No tut iz lesa vyshel Djeordj Maximus, cone v paleto i rvanyh djinsah, cotoryi cogo-to obyskival, i pricazal vsem mytesia i gotovite buliiion. Znachit snova piiieom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestie, znachit iemu prideotsia mazate iod na ranu.
 
@@ -692,9 +692,9 @@ Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilise v odin dene, 22 se
 
 – Frodo, malechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadish, i dene rojdeniya vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom vozraste mejdu dvadciateiiu i tridciateiiu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom vozraste mejdu dvadciatiiiu i tridciatiiiu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdeniya, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osseneiiu gotovitsia nechto nieobychnoie. Billbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znamenatelenaia data – sovershennoletiye po-hobbitski.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdeniya, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osseniiiu gotovitsia nechto nieobychnoie. Billbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znamenatelenaia data – sovershennoletiye po-hobbitski.
 
 Imeietsia nescoleco gipothez proiiskhojdeniya sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
