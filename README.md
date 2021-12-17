@@ -504,7 +504,7 @@ obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami ot
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudèsnyi!  
-İesche ty dremleshì, drug prelestnyi —  
+İesche ty dremleshì, drug prelèstnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu sevèrnoi Aùrory,  
@@ -514,14 +514,14 @@ Vecheor, ty pomnishì, vìuga zlilase,
 Na mutnom nebè mgla nosilase;  
 Luna, cac blednoie piatno,  
 Scvoze tuchi mrachnyie jeltela,  
-I ty pechalènaia sidela —  
+I ty pechalenaia sidèla —  
 A nynche… pogliadi v ocno:
 
 Pod golubymi nebèsami  
-Velicolepnymi covrami,  
+Velicolèpnymi covrami,  
 Blestia na solnce, sneg lejit;  
 Prozrachnyi les odin cherneiet,  
-I ielì scvoze inei zelènèiet,  
+I ielì scvoze inei zelèneiet,  
 I rechca podo lìdom blestit.
 
 Vsia comnata iantarnym blescom  
