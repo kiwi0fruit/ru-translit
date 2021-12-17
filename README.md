@@ -553,7 +553,7 @@ Razlivy rec ieio, podobnyie moriam;
 Proseolochnym puteom liubliu scacate v telège  
 I, vzorom medlennym pronzaia nochi tenì,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
-Drojaschiè ogni pechalenyh derèvène;  
+Drojaschiè ogni pechalenyh derevène;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochuiuschiy oboz  
 I na holme srede jeoltoi nivy  
@@ -585,7 +585,7 @@ Sòhod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otòho
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
-Liubimcem Biḷbo byl iunyi Frodo Bæggins. Cogda Biḷbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil perèsèlitesia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchatèleno.
+Liubimcem Biḷbo byl iunyi Frodo Bæggins. Cogda Biḷbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil peresèlitesia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchatèleno.
 
 Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
@@ -654,7 +654,7 @@ Razlivy rec ieio, podobnyie moriam;
 Proseolochnym puteom liubliu scacate v tellege  
 I, vzorom medlennym pronzaia nochi tene,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
-Drojaschiye ogni pechalenyh derrewene;  
+Drojaschiye ogni pechalenyh derewene;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochuiuschiy oboz  
 I na holme srede jeoltoi nivy  
@@ -686,7 +686,7 @@ Skhod mestnyh jittelei indiyscoi derevni sikkhov reshal chto je delate s otkhoda
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
-Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil perresselitesia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelleniyem posmatrivavshih na usadebu, ruhnuli oconchatteleno.
+Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil peresselitesia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelleniyem posmatrivavshih na usadebu, ruhnuli oconchatteleno.
 
 Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
