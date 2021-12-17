@@ -536,7 +536,7 @@ Drug milyi, predadimsia begu
 Netoroplivogo conia  
 I navèstim polia pustyie,  
 Lesa, nedavno stole gustyie,  
-I bereg, milyi dlia menia
+I berèg, milyi dlia menia
 
 Lermontov M.IU. — Rodina
 
@@ -579,13 +579,13 @@ Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestì, znachit iemu prideo
 
 Mær neboleshogo gorodishki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eczẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to biudgẹtu prideotsia hudo.
 
-V etom vidė phraṣa ot A do İa nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanèt staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
+V etom vidè phraṣa ot A do İa nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanèt staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
 Sòhod mestnyh jitelei indiyscoi derèvni sikḥov reshal chto je delate s otòhodami companii "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
-Liubimcem Biḷbo byl iunyi Frodo Bæggins. Cogda Biḷbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil peresèlitesia v Zasumki. Tut uj vse nadèjdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchateleno.
+Liubimcem Biḷbo byl iunyi Frodo Bæggins. Cogda Biḷbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil perèsèlitesia v Zasumki. Tut uj vse nadèjdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchatèleno.
 
 Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
@@ -593,7 +593,7 @@ Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 s
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconècì mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nynèshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelenaia data – sovershennoletiè po-hobbitski.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nynèshnei osènìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlenaia data – sovershennolètiè po-hobbitski.
 
 Imeietsia nescoleco hŷpotheṣ proìsòhojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
