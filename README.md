@@ -531,7 +531,7 @@ Priàtno dumate u lejanki.
 No znaieshì: ne velète li v sanki  
 Cobylcu buruiu zaprechì?
 
-Scolezia po utrennemu snegu,  
+Scolezia po utrennèmu snegu,  
 Drug milyi, predadimsia begu  
 Netoroplivogo conia  
 I navestim polia pustyie,  
@@ -609,30 +609,30 @@ IEsche ty dremlesh, drug prelestnyi —
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Avrory,  
-Zvezdoiu severa iavise!
+Zvezdoiu sewera iavise!
 
 Vecheor, ty pomnish, viiyuga zlilase,  
-Na mutnom nebie mgla nosilase;  
+Na mutnom nebbe mgla nosilase;  
 Luna, cac blednoie piatno,  
 Scvoze tuchi mrachnyie jeltela,  
-I ty pechaliinaia sidela —  
+I ty pechalenaia siddela —  
 A nynche… pogliadi v ocno:
 
-Pod golubymi nebesami  
+Pod golubymi nebbesami  
 Velicolepnymi covrami,  
 Blestia na solnce, sneg lejit;  
 Prozrachnyi les odin cherneiet,  
-I iele scvoze inei zeleneiet,  
-I rechca podo liidom blestit.  
+I iele scvoze inei zelleneiet,  
+I rechca podo lldom blestit.  
 
 Vsia comnata iantarnym blescom  
-Ozarena. Veseolym trescom  
+Ozarrena. Veseolym trescom  
 Treschit zatoplennaia pech.  
 Priyatno dumate u lejanki.  
-No znaiesh: ne velete li v sanki  
+No znaiesh: ne vellete li v sanki  
 Cobylcu buruiu zaprech?
 
-Scolezia po utrennemu snegu,  
+Scolezia po utrennnemu snegu,  
 Drug milyi, predadimsia begu  
 Netoroplivogo conia  
 I navestim polia pustyie,  
@@ -642,19 +642,19 @@ I bereg, milyi dlia menia.
 Lermontov M.IU. — Rodina
 
 Liubliu otchiznu ia, no strannoiu liuboviiyu!  
-Ne pobedit ieio rassudoc moi.  
+Ne pobbedit ieio rassudoc moi.  
 Ni slava, cuplennaia croviiyu,  
-Ni polnyi gordogo doveriya pocoi,  
+Ni polnyi gordogo doweriya pocoi,  
 Ni teomnoi stariny zavetnyie predaniiya  
-Ne sheveliat vo mne otradnogo mechtaniiya.  
+Ne sheweliat vo mne otradnogo mechtaniiya.  
 No ia liubliu — za chto, ne znaiu sam —  
 IEio stepei holodnoie molchaniiye,  
 IEio lesov bezbrejnyh colyhaniiye,  
 Razlivy rec ieio, podobnyie moriam;  
-Proseolochnym puteom liubliu scacate v telege  
+Proseolochnym puteom liubliu scacate v tellege  
 I, vzorom medlennym pronzaia nochi tene,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
-Drojaschiye ogni pechaliinyh derevene;  
+Drojaschiye ogni pechalenyh derrewene;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochuiuschiy oboz  
 I na holme srede jeoltoi nivy  
