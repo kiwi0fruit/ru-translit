@@ -47,8 +47,8 @@
 
 | Таблица 1    | ъе   | ъё    | ъя   | ъю   | ъи | ье | ьё  | ья | ью | ьи  | ьо |
 | ------------ | ---- | ----- | ---- | ---- | -- | -- | --- | -- | -- | --- | -- |
-|              | ịe   | ịeo   | ịa   | ịu   | ị  | ìe | ìeo | ìa | ìu | iyi | ìo |
-| ASCII версия | yiie | yiieo | yiia | yiiu | y  | ye | yeo | ya | yu |     | yo |
+|              | ịe   | ịeo   | ịa   | ịu   | ị  | ìe | ìeo | ìa | ìu | ìyi | ìo |
+| ASCII версия | yiie | yiieo | yiia | yiiu | y  | ye | yeo | ya | yu | iyi | yo |
 
 Каждый второй столбец - ASCII версия:
 
@@ -577,7 +577,7 @@ Peòny i vasileki vseo iesche rastut na polianè vozle derevni Peony, schitaiusc
 
 Pìanyi master po proiectu sdelal mecḥanicheskiy obịect s izịanom. İesli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
 
-V pìesè pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po reke. No tut iz lesa vyshel Gêorĝė Maximus, cone v paleto i rvanyh jẹensah, cotoryi cogo-to obịskival, i pricazal vsem mytesia, gotovite bulìon i tancevate jịgu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gêorĝė Maximus, cone v paleto i rvanyh jẹensah, cotoryi cogo-to obịskival, i pricazal vsem mytesia, gotovite bulìon i tancevate jịgu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
 
@@ -779,7 +779,7 @@ Peòny i vasileki vseo iesche rastut na polianè vozle derevni Peony, schitaiusc
 
 Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izyìanom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
 
-V pìesè pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po reke. No tut iz lesa vyshel Djeorj Maximus, cone v paleto i rvanyh djèensah, cotoryi cogo-to obyskival, i pricazal vsem mytesia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Djeorj Maximus, cone v paleto i rvanyh djèensah, cotoryi cogo-to obyskival, i pricazal vsem mytesia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestì, znachit iemu prideotsia mazate iod na ranu.
 
