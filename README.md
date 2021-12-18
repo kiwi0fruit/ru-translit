@@ -203,7 +203,7 @@
 о ноле o nolè o nolle  
 промилле promillè promillle  
 аллегро allègro alllegro  
-севера sevèra sewera (не последний слог)  
+севера sevèra sewera  
 севвера sevvèra sewvera  
 сидела sidèla siddela  
 переселиться peresèlitesia peresselitesia
