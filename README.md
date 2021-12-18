@@ -96,18 +96,21 @@
 
 \* в случае аналога открытого слога (гласная + однобуквенная-согласная + e) e считается мягким знаком ė. Для того, чтобы написать аналогичное Е (йэ) нужно использовать è или ẹ: cone, o conè. Не распространяется на k,g,h,j,c и все модиф. диакритикой согласные (см. след раздел).
 
-|                        | к        |        |
-| ---------------------- |:--------:| ------ |
-| **основное написание** | c        |        |
-| перед ЕЁИ              | k        |        |
-| исключения перед ЕЁИ   | k        |        |
-|                        | **ц**    |        |
-| **основное написание** | cè/ce \* | cii/ce |
-| перед ЕЁЭИЫ            | c        |        |
-| перед ОАУ              | ci       |        |
-|                        | **в**    |        |
-| **основное написание** | v        |        |
-| исключения после ЭЕАЯ  | ù        | v      |
+|                        | к       |    |
+| ---------------------- |:-------:| -- |
+| **основное написание** | c       |    |
+| перед ЕЁИ              | k       |    |
+| исключения перед ЕЁИ   | ck      |    |
+|                        | **ц**   |    |
+| **основное написание** | cė      | cz |
+| перед ЕЁЭИЫ            | c       |    |
+| перед ОАУ              | ci      |    |
+|                        | **в**   |    |
+| **основное написание** | v       |    |
+| исключения после ЭЕАЯ  | ù       | v  |
+|                        | **кз**  |    |
+| **основное написание** | kz      |    |
+| исключения             | ckz, xz |    |
 
 \* в случае аналога открытого слога (гласная + c + e) e на конце считается мягким знаком è. Для того, чтобы написать аналогичное ЦЕ нужно использовать ẹ: zaiace, o palicẹ / palicie (после ц "ie" не значит мягкую гласную). 
 
@@ -577,7 +580,7 @@ V pìesè pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po re
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
 
-Mær neboleshogo gorodishki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eczẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to bùdgẹtu prideotsia hudo.
+Mær neboleshogo gorodishki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to bùdgẹtu prideotsia hudo.
 
 V etom vidè phraṣa ot A do İa nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
@@ -678,7 +681,7 @@ V pyesse pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po rek
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestie, znachit iemu prideotsia mazate iod na ranu.
 
-Maer neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigattelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. IEsli tac poideot i daleshe, to biudjetu prideotsia hudo.
+Maer neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigattelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. IEsli tac poideot i daleshe, to biudjetu prideotsia hudo.
 
 V etom vidde phraza ot A do IA nachinaiet vygliaddete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
@@ -779,7 +782,7 @@ V pìesè pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po re
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestì, znachit iemu prideotsia mazate iod na ranu.
 
-Mær neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i daleshe, to bùdjetu prideotsia hudo.
+Mær neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i daleshe, to bùdjetu prideotsia hudo.
 
 V etom vidè phraza ot A do IA nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
