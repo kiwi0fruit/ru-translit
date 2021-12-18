@@ -695,7 +695,7 @@ Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilise v odin dene, 22 se
 
 – Frodo, malechic moi, – scazal cac-to raz Billbo, – perrebiralsia by ty co mne. Gliadish, i dene rojdeniya vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom vozraste mejdu dvadciatyu i tridciatyu tremia, posle chego hobbit naconecie mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom vozraste mejdu dvadciatyu i tridciatyu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesselo otmechali dvoinoi dene rojdeniya, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenyu gotovitsia nechto nieobychnoie. Billbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znammenattelenaia data – sovershennolletiye po-hobbitski.
 
