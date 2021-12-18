@@ -491,10 +491,10 @@ This.
 
 Main ASCII SMS:
 
-Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro maèstro, piạnino piianino piänino, Marià Mariya Marià, pìanyi piiyanyi pìanyi, na nebė nebie nebie.  
+Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro maèstro, piạnino piianino piänino, Marià Mariya Marià, pìanyi pyanyi pìanyi, na nebè nebbe nebbe.  
 iego iego iego, İego IEgo IEgo, İuliy IUliy IUliy.  
 iEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
-companìì companiii companìì.  
+companii.  
 obịect obyiiect obìect, podịezd podyiiezd podyìezd, otḥodami otkhodami otkhodami.  
 ФИЯ FIIA, РИА RIẠ RIiA RIÄ. 
 
