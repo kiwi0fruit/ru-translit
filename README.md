@@ -495,8 +495,10 @@ Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro ma
 iego iego iego, İego IEgo IEgo, İuliy IUliy IUliy.  
 iEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
 companìì companiii companìì.  
-obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami otòhodami.  
-ФИЯ FIIA, РИА RIẠ RIiA RIÄ.
+obịect obyiiect obìect, podịezd podyiiezd podyìezd, otḥodami otkhodami otkhodami.  
+ФИЯ FIIA, РИА RIẠ RIiA RIÄ. 
+
+изъян izịan izyiian izyìan
 
 
 ## Пример текста
@@ -571,7 +573,7 @@ Pod govor pìanyh mujichcov.
 
 Peòny i vasileki vseo iesche rastut na polianè vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piạnist, pereiehavshiy v Siætl na rabotu v companii "Moì-tvoì sièsty-diẹlectriki".
 
-Pìanyi master po proiectu sdelal mecḥanicheskiy obìect s izòianom. İesli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
+Pìanyi master po proiectu sdelal mecḥanicheskiy obịect s izịanom. İesli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
 
 V pìesè pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po reke. No tut iz lesa vyshel Gêorĝė Maximus, cone v paleto i rvanyh jẹensah, cotoryi cogo-to obịskival, i pricazal vsem mytesia, gotovite bulìon i tancevate jịgu. Znachit snova pìeom do lysyh aqualangistov.
 
@@ -581,7 +583,7 @@ Mær neboleshogo gorodishki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo 
 
 V etom vidè phraṣa ot A do İa nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
-Sòhod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otòhodami companii "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companii "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
@@ -595,9 +597,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvenn
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlenaia data – sovershennolètiè po-hobbitski.
 
-Imeietsia nescoleco hŷpotheṣ proìsòhojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescoleco hŷpotheṣ proìsḥojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳlètichescaia gruppa (proìsòhodiaschaia ot nescolekih predcov), drugiè priderjivaiutsia mnenià, chto vse sobaki proìzoshli ot odnogo predca (monophỳlètichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescolekih predcov), drugiè priderjivaiutsia mnenià, chto vse sobaki proìzoshli ot odnogo predca (monophỳlètichescaia theorià).
 
 
 ## Пример текста ASCII-only
@@ -773,7 +775,7 @@ Pod govor pìanyh mujichcov.
 
 Peòny i vasileki vseo iesche rastut na polianè vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piạnist, pereiehavshiy v Siætl na rabotu v companii "Moì-tvoì sièsty-diielectriki".
 
-Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izòianom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
+Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izyìanom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
 
 V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Djeorj Maximus, cone v paleto i rvanyh djèensah, cotoryi cogo-to obyskival, i pricazal vsem mytesia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
@@ -783,7 +785,7 @@ Mær neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo ex
 
 V etom vidè phraza ot A do IA nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
-Sòhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otòhodami companii "Caligula Gai IUliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
+Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companii "Caligula Gai IUliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
@@ -797,9 +799,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvenn
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Billbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlenaia data – sovershennolètiè po-hobbitski.
 
-Imeietsia nescoleco ghipothez proìsòhojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescoleco ghipothez proìskhojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - poliphilètichescaia gruppa (proìsòhodiaschaia ot nescolekih predcov), drugiè priderjivaiutsia mnenià, chto vse sobaki proìzoshli ot odnogo predca (monophilètichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - poliphilètichescaia gruppa (proìskhodiaschaia ot nescolekih predcov), drugiè priderjivaiutsia mnenià, chto vse sobaki proìzoshli ot odnogo predca (monophilètichescaia theorià).
 
 
 ## Поддержка шрифтами
