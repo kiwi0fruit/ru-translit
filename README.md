@@ -504,13 +504,13 @@ obìect obyiiect obìect, podòiezd podyiiezd podòiezd, otòhodami otkhodami ot
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudesnyi!  
-İesche ty dremleshì, drug prelestnyi —  
+İesche ty dremleshė, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Aùrory,  
 Zvezdoiu sevèra iavise!
 
-Vecheor, ty pomnishì, vìuga zlilase,  
+Vecheor, ty pomnishė, vìuga zlilase,  
 Na mutnom nebè mgla nosilase;  
 Luna, cac blednoie piatno,  
 Scvoze tuchi mrachnyie jeltela,  
@@ -521,15 +521,15 @@ Pod golubymi nebèsami
 Velicolepnymi covrami,  
 Blestia na solnce, sneg lejit;  
 Prozrachnyi les odin cherneiet,  
-I ielì scvoze inei zelèneiet,  
-I rechca podo lìdom blestit.
+I ielė scvoze inei zelèneiet,  
+I rechca podo lėdom blestit.
 
 Vsia comnata iantarnym blescom  
 Ozarèna. Veseolym trescom  
-Treschit zatoplennaia pechì.  
+Treschit zatoplennaia pechė.  
 Priàtno dumate u lejanki.  
-No znaieshì: ne velète li v sanki  
-Cobylcu buruiu zaprechì?
+No znaieshė: ne velète li v sanki  
+Cobylcu buruiu zaprechė?
 
 Scolezia po utrennèmu snegu,  
 Drug milyi, predadimsia begu  
@@ -551,7 +551,7 @@ No ia liubliu — za chto, ne znaiu sam —
 İeio lesov bezbrejnyh colyhanìe,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v telège  
-I, vzorom medlennym pronzaia nochi tenì,  
+I, vzorom medlennym pronzaia nochi tenė,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
 Drojaschiè ogni pechalenyh derevène;  
 Liubliu dymoc spaleonnoi jnivy,  
@@ -573,9 +573,9 @@ Peòny i vasileki vseo iesche rastut na polianè vozle derevni Peony, schitaiusc
 
 Pìanyi master po proiectu sdelal mecḥanicheskiy obìect s izòianom. İesli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
 
-V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Gêorĝie Maximus, cone v paleto i rvanyh jẹensah, cotoryi cogo-to obịskival, i pricazal vsem mytesia, gotovite bulìon i tancevate jịgu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesè pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po reke. No tut iz lesa vyshel Gêorĝė Maximus, cone v paleto i rvanyh jẹensah, cotoryi cogo-to obịskival, i pricazal vsem mytesia, gotovite bulìon i tancevate jịgu. Znachit snova pìeom do lysyh aqualangistov.
 
-Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestì, znachit iemu prideotsia mazate iod na ranu.
+Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
 
 Mær neboleshogo gorodishki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eczẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to bùdgẹtu prideotsia hudo.
 
@@ -589,9 +589,9 @@ Liubimcem Biḷbo byl iunyi Frodo Bæggins. Cogda Biḷbo stucnulo devianosto de
 
 Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
-– Frodo, malechic moi, – scazal cac-to raz Biḷbo, – perèbiralsia by ty co mne. Gliadishì, i dene rojdenià vmeste otmechali by.
+– Frodo, malechic moi, – scazal cac-to raz Biḷbo, – perèbiralsia by ty co mne. Gliadishė, i dene rojdenià vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecì mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecė mojet schitate sebia vzroslym.
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlenaia data – sovershennolètiè po-hobbitski.
 
