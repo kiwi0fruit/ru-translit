@@ -696,7 +696,7 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesselo otmechali dvoinoi dene rojdeniya, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenyu gotovitsia nechto nieobychnoie. Billbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znammenattelenaia data – sovershennolletiye po-hobbitski.
 
-Imeietsia nescoleco gipothez proiiskhojdeniya sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescoleco ghipothez proiiskhojdeniya sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
 V sujdeniyah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniya. Odni schitaiut, chto sobaki - poliphilletichescaia gruppa (proiiskhodiaschaia ot nescolekih predcov), drugiye priderjivaiutsia mneniya, chto vse sobaki proiizoshli ot odnogo predca (monophilletichescaia thieoriya).
 
@@ -706,34 +706,34 @@ V sujdeniyah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniy
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudesnyi!  
-IEsche ty dremleshè, drug prelestnyi —  
+IEsche ty dremleshì, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Aùrory,  
-Zvezdoiu severa iavise!
+Zvezdoiu sevèra iavise!
 
-Vecheor, ty pomnishè, vìuga zlilase,  
-Na mutnom nebie mgla nosilase;  
+Vecheor, ty pomnishì, vìuga zlilase,  
+Na mutnom nebè mgla nosilase;  
 Luna, cac blednoie piatno,  
 Scvoze tuchi mrachnyie jeltela,  
-I ty pechalènaia sidela —  
+I ty pechalenaia sidèla —  
 A nynche… pogliadi v ocno:
 
-Pod golubymi nebesami  
+Pod golubymi nebèsami  
 Velicolepnymi covrami,  
 Blestia na solnce, sneg lejit;  
 Prozrachnyi les odin cherneiet,  
-I ielè scvoze inei zeleneiet,  
-I rechca podo lèdom blestit.
+I ielì scvoze inei zelèneiet,  
+I rechca podo lìdom blestit.
 
 Vsia comnata iantarnym blescom  
-Ozarena. Veseolym trescom  
-Treschit zatoplennaia pechè.  
+Ozarèna. Veseolym trescom  
+Treschit zatoplennaia pechì.  
 Priàtno dumate u lejanki.  
-No znaieshè: ne velete li v sanki  
-Cobylcu buruiu zaprechè?
+No znaieshì: ne velète li v sanki  
+Cobylcu buruiu zaprechì?
 
-Scolèzia po utrennemu snegu,  
+Scolezia po utrennèmu snegu,  
 Drug milyi, predadimsia begu  
 Netoroplivogo conia  
 I navestim polia pustyie,  
@@ -743,19 +743,19 @@ I bereg, milyi dlia menia
 Lermontov M.IU. — Rodina
 
 Liubliu otchiznu ia, no strannoiu liubovìu!  
-Ne pobedit ieio rassudoc moi.  
+Ne pobèdit ieio rassudoc moi.  
 Ni slava, cuplennaia crovìu,  
-Ni polnyi gordogo doverià pocoi,  
+Ni polnyi gordogo dovèrià pocoi,  
 Ni teomnoi stariny zavetnyie predanìa  
-Ne sheveliat vo mne otradnogo mechtanìa.  
+Ne shevèliat vo mne otradnogo mechtanìa.  
 No ia liubliu — za chto, ne znaiu sam —  
 IEio stepei holodnoie molchanìe,  
 IEio lesov bezbrejnyh colyhanìe,  
 Razlivy rec ieio, podobnyie moriam;  
-Proseolochnym puteom liubliu scacate v telege  
-I, vzorom medlennym pronzaia nochi tenè,  
+Proseolochnym puteom liubliu scacate v telège  
+I, vzorom medlennym pronzaia nochi tenì,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
-Drojaschiè ogni pechalènyh derevene;  
+Drojaschiè ogni pechalenyh derevène;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochuiuschiy oboz  
 I na holme srede jeoltoi nivy  
@@ -771,35 +771,35 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Peòny i vasilèki vseo iesche rastut na polianie vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piänist, pereiehavshiy v Siætl na rabotu v companìì "Moì-tvoì sièsty-diielectriki".
+Peòny i vasileki vseo iesche rastut na polianè vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piạnist, pereiehavshiy v Siætl na rabotu v companii "Moì-tvoì sièsty-diielectriki".
 
-Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izòianom. IEsli brac ne obnarujitsia, to belyie bolidy bolèshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
+Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izòianom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
 
-V pìesie pro devushcu v zeleonom platìyicie vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel 'George Maximus, cone v palèto i rvanyh djeensah, cotoryi cogo-to obyskival, i pricazal vsem mytèsia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po reke. No tut iz lesa vyshel Djeorj Maximus, cone v paleto i rvanyh djèensah, cotoryi cogo-to obyskival, i pricazal vsem mytesia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
-Prepodobnyi Bayes podkinul igralènyie costi. Vypalo shestè, znachit iemu prideotsia mazate iod na ranu.
+Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestì, znachit iemu prideotsia mazate iod na ranu.
 
-Mær nebolèshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i dalèshe, to bùdjetu prideotsia hudo.
+Mær neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eczema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i daleshe, to bùdjetu prideotsia hudo.
 
-V etom vidie phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
+V etom vidè phraza ot A do IA nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
-Sòhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otòhodami companìì "Caligula Gai IUliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovie. On i nasheol vyhod iz situatcìì.
+Sòhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otòhodami companii "Caligula Gai IUliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
-Liubimcem Bilìbo byl iunyi Frodo Bæggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil pereselitèsia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelenièm posmatrivavshih na usadèbu, ruhnuli oconchatelèno.
+Liubimcem Billbo byl iunyi Frodo Bæggins. Cogda Billbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil peresèlitesia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchatèleno.
 
-Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
+Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
-– Frodo, malèchic moi, – scazal cac-to raz Bilìbo, – perebiralsia by ty co mne. Gliadishè, i dene rojdenià vmeste otmechali by.
+– Frodo, malechic moi, – scazal cac-to raz Billbo, – perèbiralsia by ty co mne. Gliadishì, i dene rojdenià vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojè v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconece mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecì mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god veselo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesèma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamenatelènaia data – sovershennoletiè po-hobbitski.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Billbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlenaia data – sovershennolètiè po-hobbitski.
 
-Imeietsia nescolèco gypothez proìsòhojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescoleco ghipothez proìsòhojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - poliphiletichescaia gruppa (proìsòhodiaschaia ot nescolèkih predcov), drugiè priderjivaiutsia mnenià, chto vse sobaki proìzoshli ot odnogo predca (monophiletichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - poliphilètichescaia gruppa (proìsòhodiaschaia ot nescolekih predcov), drugiè priderjivaiutsia mnenià, chto vse sobaki proìzoshli ot odnogo predca (monophilètichescaia theorià).
 
 
 ## Поддержка шрифтами
