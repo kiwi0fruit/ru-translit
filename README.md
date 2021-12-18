@@ -323,39 +323,39 @@ Aùstrià Австрия
 сийи siỳ siiyi  
 Франсэ Francṣæ, Франсуа Francṣòua  
 можно было бы: pìecṣa, pìecṣ, pìecṣy, но лучше обрусеть: pìesa, pìes, pìesy  
-hìstorià, hìèrarcḥ, raiyispolcom
+hịstorià, hịèrarcḥ, raiyispolcom
 
-zaiace, унц uncè uncii  
+zaiacė zaiacz, унц uncė uncz  
 İacov IAcov, İuliy IUliy, İesli IEsli, iod iod, iọn iion, İèsus IYesus, İụda IIUda, İạcov IIAcov  
-plohiè plohiye, Hèiuston Hiiyuston
+plohiè plohiye, Hėiuston Hyuston
 
-crasnyi, miaso, liustra, pìan piiyan, podòiezd podyiiezd, iesli, İesli IEsli, İuliy IUliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maèstro maaestro, Ændỳ Endi, piạnino piianino, vyùchite vyuuchite, drojè / droj, broshè brosh, Naste, usadèba usadiiba, cuḷtura culiitura culìtura, rugatèsa rugatesia, polianė polianie.
+crasnyi, miaso, liustra, pìan pyan, podịezd podyiiezd, iesli, İesli IEsli, İuliy IUliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maèstro maaestro, Ændỳ Endi, piạnino piianino, vyùchite vyuuchite, drojė / droj, broshė brosh, Naste, usadeba usadeba, cuḷtura culltura culìtura, rugatesia rugatesia, polianè polianne.
 
 polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diẹlectric diielectric  
 pliẹ pliie pliie плиэ  
 cïao, capriccïọ, Boccaccïo  
 Mexîco, Mexica, xûi  
-Kembriy, Kitekæt, kitỳ-kæt, gey, gælèskiy
+Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėskiy gaellskiy gælìskiy
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
 ниа niạ niia — piạnino piianino, diẹlectric diielectric  
-нья nìa niiya — dìavol diiyavol, pìesa piiyesa  
-нъя nòia nyiia — obH ect obyiiect (искл.), podòiezd podyiiezd  
-есть iestè iestii  
-на небе na nebė na nebie  
-нии nìì niii — linìì liniii  
+нья nìa nya — dìavol dyavol, pìesa pyesa  
+нъя nịa nyiia — obịect obyiiect obìect  (искл.), podịezd podyiiezd  
+есть iestė iestie  
+на небе na nebè na nebbe  
+нии nii — linii  
 ний niy niy  
 ный nyi nyi, ной noi noi, най nai nai  
 наи naì naii  
 выи vyì vyii — vyìgryvate vyiigryvate  
 выу vyù vyuu — vyùchite vyuuchite  
 нио nio nio(niio)  
-ньо nìo niiyo  
+ньо nìo nyo  
 нё neo  
 нео neò — neòn nieon, neòbychno nieobychno
 
-сьйя sìà siiya, сйя sòià syiia, сьйс sèys sii-ys, сйс sòys s-ys
+сьйя sìà sya, сйя sịà syiia, сьйс sėys sie-ys, сйс sȯys s-ys
 
 
 ## Аббревиатуры
