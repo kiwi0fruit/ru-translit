@@ -322,6 +322,7 @@ Aùstrià Австрия
 
 Уточнение мягкости: parter, partėr parter, partêr partaer/parter.
 
+сийи siỳ siiyi  
 Франсэ Francṣæ, Франсуа Francṣòua  
 можно было бы: pìecṣa, pìecṣ, pìecṣy, но лучше обрусеть: pìesa, pìes, pìesy  
 hìstorià, hìèrarcḥ, raiyispolcom
