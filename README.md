@@ -103,7 +103,7 @@
 | перед ЕЁИ              | k       |    |
 | исключения перед ЕЁИ   | ck      |    |
 |                        | **ц**   |    |
-| **основное написание** | cė      | cz |
+| **основное написание** | cz      |    |
 | перед ЕЁЭИЫ            | c       |    |
 | перед ОАУ              | ci      |    |
 |                        | **в**   |    |
@@ -141,7 +141,6 @@
 2) на конце слов заменять -ciṣm (цизм) на -cism, старый -cism заменять на -cissm
 заменять -iṣm$, -iṣma$, -iṣmy$,... (все падежи всех чисел) на -ism$,...
 старые -ism$ заменять -issm$
-3) cтоит делать различение мужского и женского рода на конце слов в случае аналога открытого слога: tenè, cone.
 4) -ция по дефолту пишется -tcià, но в исключениях, когда корень оканчивается на C, пишется просто -cià (Grecià, actcià, iotatcià).
 
 |                     |      |
@@ -572,7 +571,7 @@ Pod golubymi nebèsami
 Velicolepnymi covrami,  
 Blestia na solnce, sneg lejit;  
 Prozrachnyi les odin cherneiet,  
-I ielė scvoze inei zelèneiet,  
+I iele scvoze inei zelèneiet,  
 I rechca podo lėdom blestit.
 
 Vsia comnata iantarnym blescom  
@@ -602,7 +601,7 @@ No ia liubliu — za chto, ne znaiu sam —
 İeio lesov bezbrejnyh colyhanìe,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v telège  
-I, vzorom medlennym pronzaia nochi tenė,  
+I, vzorom medlennym pronzaia nochi tene,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
 Drojaschiè ogni pechalenyh derevène;  
 Liubliu dymoc spaleonnoi jnivy,  
@@ -642,7 +641,7 @@ Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 s
 
 – Frodo, malechic moi, – scazal cac-to raz Biḷbo, – perèbiralsia by ty co mne. Gliadishė, i dene rojdenià vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecė mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlenaia data – sovershennolètiè po-hobbitski.
 
@@ -774,7 +773,7 @@ Pod golubymi nebèsami
 Velicolepnymi covrami,  
 Blestia na solnce, sneg lejit;  
 Prozrachnyi les odin cherneiet,  
-I ielì scvoze inei zelèneiet,  
+I iele scvoze inei zelèneiet,  
 I rechca podo lìdom blestit.
 
 Vsia comnata iantarnym blescom  
@@ -804,7 +803,7 @@ IEio stepei holodnoie molchanìe,
 IEio lesov bezbrejnyh colyhanìe,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochnym puteom liubliu scacate v telège  
-I, vzorom medlennym pronzaia nochi tenì,  
+I, vzorom medlennym pronzaia nochi tene,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
 Drojaschiè ogni pechalenyh derevène;  
 Liubliu dymoc spaleonnoi jnivy,  
@@ -844,7 +843,7 @@ Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 s
 
 – Frodo, malechic moi, – scazal cac-to raz Bilìbo, – perèbiralsia by ty co mne. Gliadishì, i dene rojdenià vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecì mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlenaia data – sovershennolètiè po-hobbitski.
 
