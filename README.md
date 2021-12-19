@@ -189,7 +189,15 @@
 
 е(йэ) это e/è, ь это ė(ie) — кроме между согласной и нейотированной гласной.
 
-"E" различаются положением в слове, аналогичным открытому слогу английского (не распространяется на шипящие и кгцх. А так же, когда следующий звук — йот или последний в слове согласный, или следуют два согласных звука. Пусть будет подглядывание в будущее — писать так сложнее, но попробую):
+"E" различаются положением в слове, аналогичным открытому слогу английского (не распространяется на шипящие и кгцх. А так же, когда следующий звук — йот или последний в слове согласный, или следуют два согласных звука. Пусть будет подглядывание в будущее — писать так сложнее, но попробую).
+
+Так же, когда несколько подряд открытых слогов с "E", то только последний из подходящих под критерий выше, считается мягким знаком.
+
+модель modele  
+будьте budetè budette  
+устелете ustelètè ustellette  
+деревень derevene  
+перьвень perevène perewene  
 
 перегной peregnoi  
 перенёс perèneos perreneos  
@@ -205,7 +213,7 @@
 севера sevèra sewera  
 севвера sevvèra sewvera  
 сидела sidèla siddela  
-переселиться peresèlitesia peresselitesia
+переселиться perèsèlitesia perresselitesia
 
 Отдельное правило для ль в исключениях и когда неприменимо правило открытого слога:
 
@@ -578,7 +586,7 @@ Vsia comnata iantarnym blescom
 Ozarèna. Veseolym trescom  
 Treschit zatoplennaia pechė.  
 Priàtno dumate u lejanki.  
-No znaieshė: ne velète li v sanki  
+No znaieshė: ne velete li v sanki  
 Cobylcu buruiu zaprechė?
 
 Scolezia po utrennèmu snegu,  
@@ -603,7 +611,7 @@ Razlivy rec ieio, podobnyie moriam;
 Proseolochnym puteom liubliu scacate v telège  
 I, vzorom medlennym pronzaia nochi tene,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
-Drojaschiè ogni pechalenyh derevène;  
+Drojaschiè ogni pechalenyh derevene;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochuiuschiy oboz  
 I na holme srede jeoltoi nivy  
@@ -629,13 +637,13 @@ Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestė, znachit iemu prideo
 
 Mær neboleshogo gorodishki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to bùdgẹtu prideotsia hudo.
 
-V etom vidè phraṣa ot A do İa nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
+V etom vidè phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
 Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companii "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
-Liubimcem Biḷbo byl iunyi Frodo Bæggins. Cogda Biḷbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil peresèlitesia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchatèleno.
+Liubimcem Biḷbo byl iunyi Frodo Bæggins. Cogda Biḷbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil perèsèlitesia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchateleno.
 
 Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
@@ -643,7 +651,7 @@ Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 s
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlenaia data – sovershennolètiè po-hobbitski.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatelenaia data – sovershennolètiè po-hobbitski.
 
 Imeietsia nescoleco hŷpotheṣ proìsḥojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
@@ -679,7 +687,7 @@ Vsia comnata iantarnym blescom
 Ozarrena. Veseolym trescom  
 Treschit zatoplennaia pech.  
 Priyatno dumate u lejanki.  
-No znaiesh: ne vellete li v sanki  
+No znaiesh: ne velete li v sanki  
 Cobylcu buruiu zaprech?
 
 Scolezia po utrennnemu snegu,  
@@ -704,7 +712,7 @@ Razlivy rec ieio, podobnyie moriam;
 Proseolochnym puteom liubliu scacate v tellege  
 I, vzorom medlennym pronzaia nochi tene,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
-Drojaschiye ogni pechalenyh derewene;  
+Drojaschiye ogni pechalenyh derevene;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochuiuschiy oboz  
 I na holme srede jeoltoi nivy  
@@ -730,13 +738,13 @@ Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestie, znachit iemu prideo
 
 Maer neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigattelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. IEsli tac poideot i daleshe, to biudjetu prideotsia hudo.
 
-V etom vidde phraza ot A do IA nachinaiet vygliaddete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
+V etom vidde phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
 Skhod mestnyh jittelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companii "Caligula Gai IUliy Caezare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovve. On i nasheol vyhod iz situatcii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
-Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil peresselitesia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelleniyem posmatrivavshih na usadebu, ruhnuli oconchatteleno.
+Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil perresselitesia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelleniyem posmatrivavshih na usadebu, ruhnuli oconchateleno.
 
 Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
@@ -744,7 +752,7 @@ Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilise v odin dene, 22 se
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom vozraste mejdu dvadciatyu i tridciatyu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesselo otmechali dvoinoi dene rojdeniya, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenyu gotovitsia nechto nieobychnoie. Billbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znammenattelenaia data – sovershennolletiye po-hobbitski.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesselo otmechali dvoinoi dene rojdeniya, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenyu gotovitsia nechto nieobychnoie. Billbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znammenatelenaia data – sovershennolletiye po-hobbitski.
 
 Imeietsia nescoleco ghipothez proiiskhojdeniya sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
@@ -780,7 +788,7 @@ Vsia comnata iantarnym blescom
 Ozarèna. Veseolym trescom  
 Treschit zatoplennaia pechì.  
 Priàtno dumate u lejanki.  
-No znaieshì: ne velète li v sanki  
+No znaieshì: ne velete li v sanki  
 Cobylcu buruiu zaprechì?
 
 Scolezia po utrennèmu snegu,  
@@ -805,7 +813,7 @@ Razlivy rec ieio, podobnyie moriam;
 Proseolochnym puteom liubliu scacate v telège  
 I, vzorom medlennym pronzaia nochi tene,  
 Vstrechate po storonam, vzdyhaia o nochlege,  
-Drojaschiè ogni pechalenyh derevène;  
+Drojaschiè ogni pechalenyh derevene;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochuiuschiy oboz  
 I na holme srede jeoltoi nivy  
@@ -831,13 +839,13 @@ Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestì, znachit iemu prideo
 
 Mær neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i daleshe, to bùdjetu prideotsia hudo.
 
-V etom vidè phraza ot A do IA nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
+V etom vidè phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
 Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodami companii "Caligula Gai IUliy Cæzare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
-Liubimcem Bilìbo byl iunyi Frodo Bæggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil peresèlitesia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchatèleno.
+Liubimcem Bilìbo byl iunyi Frodo Bæggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil perèsèlitesia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchateleno.
 
 Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
@@ -845,7 +853,7 @@ Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 s
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
 
-Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlenaia data – sovershennolètiè po-hobbitski.
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatelenaia data – sovershennolètiè po-hobbitski.
 
 Imeietsia nescoleco ghipothez proìskhojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
