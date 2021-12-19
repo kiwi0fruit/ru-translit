@@ -198,6 +198,7 @@
 устелете ustelètè ustellette  
 деревень derevene  
 перьвень perevène perewene  
+элемент elèment ellement
 
 перегной peregnoi  
 перенёс perèneos perreneos  
