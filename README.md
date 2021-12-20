@@ -573,7 +573,108 @@ obịect obyiiect obìect, podịezd podyiiezd podyìezd, otḥodami otkhodami o
 
 ## Пример текста
 
-// Используются упрощенные правила аналога открытого слога.
+### Используются сложные-лаконичные правила аналога открытого слога
+
+Alexandr Pushkin — Zimneie utro
+
+Moroz i solnce; dene chudesnyi!  
+İesche ty dremleshė, drug prelestnyi —  
+Pora, crasavicia, prosnise:  
+Otcroi somcnuty negoi vzory  
+Navstrechu severnoi Aùrory,  
+Zvezdoiu sevèra iavise!
+
+Vecheor, ty pomnishė, vìuga zlilase,  
+Na mutnom nebè mgla nosilase;  
+Luna, cac blednoie piatno,  
+Scvoze tuchi mrachnyie jeltela,  
+I ty pechalenaia sidèla —  
+A nynche… pogliadi v ocno:
+
+Pod golubymi nebèsami  
+Velicolepnymi covrami,  
+Blestia na solnce, sneg lejit;  
+Prozrachnyi les odin cherneiet,  
+I iele scvoze inei zelèneiet,  
+I rechca podo lėdom blestit.
+
+Vsia comnata iantarnym blescom  
+Ozarèna. Veseolym trescom  
+Treschit zatoplennaia pechė.  
+Priàtno dumate u lejancki.  
+No znaieshė: ne velete li v sancki  
+Cobylcu buruiu zaprechė?
+
+Scolezia po utrennèmu snegu,  
+Drug milyi, predadimsia begu  
+Netoroplivogo conia  
+I navestim polia pustyie,  
+Lesa, nedavno stole gustyie,  
+I bereg, milyi dlia menia
+
+Lermontov M.IU. — Rodina
+
+Liubliu otchiznu ia, no strannoiu liubovìu!  
+Ne pobèdit ieio rassudoc moi.  
+Ni slava, cuplennaia crovìu,  
+Ni polnyi gordogo dovèrià pocoi,  
+Ni teomnoi stariny zavetnyie predanìa  
+Ne shevèliat vo mne otradnogo mechtanìa.  
+No ia liubliu — za chto, ne znaiu sam —  
+İeio stepei holodnoie molchanìe,  
+İeio lesov bezbrejnyh colyhanìe,  
+Razlivy rec ieio, podobnyie moriam;  
+Proseolochnym puteom liubliu scacate v telège  
+I, vzorom medlennym pronzaia nochi tene,  
+Vstrechate po storonam, vzdyhaia o nochlege,  
+Drojaschiè ogni pechalenyh derevene;  
+Liubliu dymoc spaleonnoi jnivy,  
+V stepi nochuiuschiy oboz  
+I na holme srede jeoltoi nivy  
+Chetu beleiuschih bereoz.  
+S otradoi, mnogim neznacomoi,  
+İa viju polnoie gumno,  
+Izbu, pocrytuiu solomoi,  
+S reznymi stavniami ocno;  
+I v prazdnic, vecherom rosistym,  
+Smotrete do polnochi gotov  
+Na pliascu s topanìem i svistom  
+Pod govor pìanyh mujichcov.
+
+// God napisanià: 1841
+
+Peòny i vasilecki vseo iesche rastut na polianè vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piạnist, pereiehavshiy v Siætl na rabotu v companii "Moì-tvoì sièsty-diẹlectricki".
+
+Pìanyi master po proiectu sdelal mecḥanichesckiy obịect s izịanom. İesli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
+
+V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po recke. No tut iz lesa vyshel Gêorĝė Maximus, cone v paleto i rvanyh jẹensah, cotoryi cogo-to obịskival, i pricazal vsem mytesia, gotovite bulìon i tancevate jịgu. Znachit snova pìeom do lysyh aqualangistov.
+
+Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
+
+Mær neboleshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to bùdgẹtu prideotsia hudo.
+
+V etom vidè phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
+
+Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companii "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
+
+"Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
+
+Liubimcem Biḷbo byl iunyi Frodo Bæggins. Cogda Biḷbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil perèsèlitesia v Zasumcki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchateleno.
+
+Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
+
+– Frodo, malechic moi, – scazal cac-to raz Biḷbo, – perèbiralsia by ty co mne. Gliadishė, i dene rojdenià vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecė mojet schitate sebia vzroslym.
+
+Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatelenaia data – sovershennolètiè po-hobbitski.
+
+Imeietsia nescoleco hŷpotheṣ proìsḥojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescoleckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theorià).
+
+
+### Используются упрощенные правила аналога открытого слога
 
 Alexandr Pushkin — Zimneie utro
 
