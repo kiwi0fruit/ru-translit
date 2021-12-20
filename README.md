@@ -657,7 +657,7 @@ Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi 
 
 Imeietsia nescoleco hŷpotheṣ proìsḥojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescolekih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescoleckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theorià).
 
 
 ## Пример текста ASCII-only
@@ -688,8 +688,8 @@ I rechca podo lldom blestit.
 Vsia comnata iantarnym blescom  
 Ozarrena. Veseolym trescom  
 Treschit zatoplennaia pech.  
-Priyatno dumate u lejanki.  
-No znaiesh: ne velete li v sanki  
+Priyatno dumate u lejancki.  
+No znaiesh: ne velete li v sancki  
 Cobylcu buruiu zaprech?
 
 Scolezia po utrennnemu snegu,  
@@ -730,15 +730,15 @@ Pod govor pyanyh mujichcov.
 
 // God napisaniya: 1841
 
-Pieony i vasileki vseo iesche rastut na polianne vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Siietl na rabotu v companii "Moii-tvoii siyesty-diielectriki".
+Pieony i vasilecki vseo iesche rastut na polianne vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshiy v Siietl na rabotu v companii "Moii-tvoii siyesty-diielectricki".
 
-Pyanyi master po proiectu sdelal mekhanicheskiy obyiiect s izyiianom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyiigryvate gonki i vyuuchite svoii oshibki.
+Pyanyi master po proiectu sdelal mekhanichesckiy obyiiect s izyiianom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyiigryvate goncki i vyuuchite svoii oshibcki.
 
 V pyesse pro devushcu v zeleonom platiyice vse sadilise na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordj Maximus, cone v paleto i rvanyh djinsah, cotoryi cogo-to obyskival, i pricazal vsem mytesia i gotovite bulyon. Znachit snova pyeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestie, znachit iemu prideotsia mazate iod na ranu.
 
-Maer neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigattelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. IEsli tac poideot i daleshe, to biudjetu prideotsia hudo.
+Maer neboleshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoiite. Oh uj eta pocupca vechnogo dvigattelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. IEsli tac poideot i daleshe, to biudjetu prideotsia hudo.
 
 V etom vidde phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
@@ -746,7 +746,7 @@ Skhod mestnyh jittelei indiyscoi derevni sikkhov reshal chto je delate s otkhoda
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
-Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil perresselitesia v Zasumki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelleniyem posmatrivavshih na usadebu, ruhnuli oconchateleno.
+Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil perresselitesia v Zasumcki. Tut uj vse nadejdy Dericule-Baegginsov, davno s vojdelleniyem posmatrivavshih na usadebu, ruhnuli oconchateleno.
 
 Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
@@ -756,9 +756,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesselo otmechali dvoinoi dene rojdeniya, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenyu gotovitsia nechto nieobychnoie. Billbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiye – toje znammenatelenaia data – sovershennolletiye po-hobbitski.
 
-Imeietsia nescoleco ghipothez proiiskhojdeniya sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescoleco ghipothez proiiskhojdeniya sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniyah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniya. Odni schitaiut, chto sobaki - poliphilletichescaia gruppa (proiiskhodiaschaia ot nescolekih predcov), drugiye priderjivaiutsia mneniya, chto vse sobaki proiizoshli ot odnogo predca (monophilletichescaia thieoriya).
+V sujdeniyah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zreniya. Odni schitaiut, chto sobacki - poliphilletichescaia gruppa (proiiskhodiaschaia ot nescoleckih predcov), drugiye priderjivaiutsia mneniya, chto vse sobacki proiizoshli ot odnogo predca (monophilletichescaia thieoriya).
 
 
 ## Пример текста СМС
@@ -789,8 +789,8 @@ I rechca podo lìdom blestit.
 Vsia comnata iantarnym blescom  
 Ozarèna. Veseolym trescom  
 Treschit zatoplennaia pechì.  
-Priàtno dumate u lejanki.  
-No znaieshì: ne velete li v sanki  
+Priàtno dumate u lejancki.  
+No znaieshì: ne velete li v sancki  
 Cobylcu buruiu zaprechì?
 
 Scolezia po utrennèmu snegu,  
@@ -831,15 +831,15 @@ Pod govor pìanyh mujichcov.
 
 // God napisanià: 1841
 
-Peòny i vasileki vseo iesche rastut na polianè vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piạnist, pereiehavshiy v Siætl na rabotu v companii "Moì-tvoì sièsty-diielectriki".
+Peòny i vasilecki vseo iesche rastut na polianè vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piạnist, pereiehavshiy v Siætl na rabotu v companii "Moì-tvoì sièsty-diielectricki".
 
-Pìanyi master po proiectu sdelal mekhanicheskiy obìect s izyìanom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate gonki i vyùchite svoì oshibki.
+Pìanyi master po proiectu sdelal mekhanichesckiy obìect s izyìanom. IEsli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
 V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po recke. No tut iz lesa vyshel Djeorj Maximus, cone v paleto i rvanyh djèensah, cotoryi cogo-to obyskival, i pricazal vsem mytesia, gotovite bulìon i tancevate djigu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestì, znachit iemu prideotsia mazate iod na ranu.
 
-Mær neboleshogo gorodishki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i daleshe, to bùdjetu prideotsia hudo.
+Mær neboleshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i daleshe, to bùdjetu prideotsia hudo.
 
 V etom vidè phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
@@ -847,7 +847,7 @@ Skhod mestnyh jitelei indiyscoi derevni sikkhov reshal chto je delate s otkhodam
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mekhanic Vasiliy.
 
-Liubimcem Bilìbo byl iunyi Frodo Bæggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil perèsèlitesia v Zasumki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchateleno.
+Liubimcem Bilìbo byl iunyi Frodo Bæggins. Cogda Bilìbo stucnulo devianosto deviate, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlojil perèsèlitesia v Zasumcki. Tut uj vse nadejdy Dericule-Bægginsov, davno s vojdelènièm posmatrivavshih na usadebu, ruhnuli oconchateleno.
 
 Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 sentiabria.
 
@@ -857,9 +857,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvenn
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatelenaia data – sovershennolètiè po-hobbitski.
 
-Imeietsia nescoleco ghipothez proìskhojdenià sobaki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescoleco ghipothez proìskhojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenià. Odni schitaiut, chto sobaki - poliphilètichescaia gruppa (proìskhodiaschaia ot nescolekih predcov), drugiè priderjivaiutsia mnenià, chto vse sobaki proìzoshli ot odnogo predca (monophilètichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - poliphilètichescaia gruppa (proìskhodiaschaia ot nescoleckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophilètichescaia theorià).
 
 
 ## Поддержка шрифтами
