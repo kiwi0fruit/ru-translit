@@ -103,7 +103,7 @@
 | перед ЕЁИ в окончаниях | ck      |    |
 | перед ЕЁИ иначе        | k       |    |
 |                        | **ц**   |    |
-| **основное написание** | cz      |    |
+| **основное написание** | cė      | cz |
 | перед ЕЁЭИЫ            | c       |    |
 | перед ОАУ              | ci      |    |
 |                        | **в**   |    |
@@ -343,7 +343,7 @@ rzh рж
 rẓ ж  
 sz сз  
 sẓ ш  
-cz кз  
+cz ц (единственный диграф с Z)  
 cẓ ч
 
 x-xiạ-xìa кс-ксиа-ксья (уд. xiā)  
@@ -651,7 +651,7 @@ Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 s
 
 – Frodo, malechic moi, – scazal cac-to raz Biḷbo, – perèbiralsia by ty co mne. Gliadishė, i dene rojdenià vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecė mojet schitate sebia vzroslym.
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatelenaia data – sovershennolètiè po-hobbitski.
 
@@ -853,7 +853,7 @@ Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 s
 
 – Frodo, malechic moi, – scazal cac-to raz Bilìbo, – perèbiralsia by ty co mne. Gliadishì, i dene rojdenià vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecì mojet schitate sebia vzroslym.
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatelenaia data – sovershennolètiè po-hobbitski.
 
