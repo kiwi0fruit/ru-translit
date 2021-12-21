@@ -216,17 +216,17 @@
 промилле promillè promillle  
 аллегро allègro alllegro  
 севера sevèra sewera  
-севвера sevvèra sewvera  
+севвера sevvera  
 сидела sidèla siddela  
 переселиться perèsèlitesia perresselitesia
 
-Отдельное правило для ль в исключениях и когда неприменимо правило открытого слога:
+Отдельное правило для ль в исключениях и когда неприменимо правило открытого слога (не работает в конце слова):
 
 культура cuḷtura culltura  
 льда lėda llda  
-аксолотль axolotlė axolotll  
+аксолотль axolotlė axolotlie  
 Камиллка Camiḷlca Camilllca  
-кристалл crỳstaḷl cristalll
+кристалл crỳstall cristall
 
 А вот как писать мягкий знак когда не аналог открытого слога (а так же в исключениях):
 
