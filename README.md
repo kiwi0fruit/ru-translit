@@ -281,7 +281,7 @@ th-theo(theò)-thèo т-тео-тё
 tḥ тх  
 sh ш  
 sḥ сх  
-ṣh с(ь)  
+shâ  ся  
 jh жх  
 ĵh джх  
 wh в  
