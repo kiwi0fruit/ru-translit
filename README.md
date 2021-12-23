@@ -167,7 +167,7 @@
 
 <img src="./diac.png" alt="dicritics" width="200px">
 
-æİȯėġĝĉĵḫḥḅḍṭṣẓḳḷṇẹịọẏạụ ÆȮĖĠĜĈĴḪḤḄḌṬṢẒḲḶṆẸỊỌẎẠỤ
+æİȯėċġĝĉĵḫḥḅḍṭṣẓḳḷṇẹịọẏạụ ÆȮĖĊĠĜĈĴḪḤḄḌṬṢẒḲḶṆẸỊỌẎẠỤ
 
 
 ## TODO
@@ -394,7 +394,8 @@ Aùstrià Австрия
 сийи siỳ siiyi  
 Франсэ Francṣæ, Франсуа Francṣòua  
 можно было бы: pìecṣa, pìecṣ, pìecṣy, но лучше обрусеть: pìesa, pìes, pìesy  
-hịstorià, hịèrarcḥ, raiyispolcom
+hịstorià, hịèrarcḥ, raiyispolcom  
+fuċhsià фуксия
 
 zaiacė zaiacz, унц uncė uncz  
 İacov IAcov, İuliy IUliy, İesli IEsli, iod iod, iọn iion, İèsus IYesus, İụda IIUda, İạcov IIAcov  
