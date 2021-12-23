@@ -568,7 +568,8 @@ companii.
 obịect obyiiect obìect, podịezd podyiiezd podyìezd, otḥodami otkhodami otkhodami.  
 ФИЯ FIIA, РИА RIẠ RIiA RIÄ. 
 
-изъян izịan izyiian izyìan
+изъян izịan izyiian izyìan  
+ieoj, lojė loj loj, zaiacė zaiacz zaiacz (после шипящих и Ц в СМС не надо писать мягкий знак)
 
 
 ## Пример текста
@@ -883,13 +884,13 @@ V sujdeniyah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; dene chudesnyi!  
-IEsche ty dremleshì, drug prelestnyi —  
+IEsche ty dremlesh, drug prelestnyi —  
 Pora, crasavicia, prosnise:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Aùrory,  
 Zvezdoiu sevèra iavise!
 
-Vecheor, ty pomnishì, vìuga zlilase,  
+Vecheor, ty pomnish, vìuga zlilase,  
 Na mutnom nebè mgla nosilase;  
 Luna, cac blednoie piatno,  
 Scvoze tuchi mrachnyie jeltela,  
@@ -905,10 +906,10 @@ I rechca podo lìdom blestit.
 
 Vsia comnata iantarnym blescom  
 Ozarèna. Veseolym trescom  
-Treschit zatoplennaia pechì.  
+Treschit zatoplennaia pech.  
 Priàtno dumate u lejancki.  
-No znaieshì: ne velete li v sancki  
-Cobylcu buruiu zaprechì?
+No znaiesh: ne velete li v sancki  
+Cobylcu buruiu zaprech?
 
 Scolezia po utrennèmu snegu,  
 Drug milyi, predadimsia begu  
@@ -970,7 +971,7 @@ Sluchaiu bylo ugodno, chtoby Bilìbo s Frodo iesche i rodilise v odin dene, 22 s
 
 – Frodo, malechic moi, – scazal cac-to raz Bilìbo, – perèbiralsia by ty co mne. Gliadishì, i dene rojdenià vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojì v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecì mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeoj v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Bilìbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatelenaia data – sovershennolètiè po-hobbitski.
 
