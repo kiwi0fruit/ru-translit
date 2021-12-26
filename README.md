@@ -2,7 +2,7 @@
 
 # Русская латиница от kiwi0fruit (Russcaia Latinicia)
 
-<img src="./russcaia.png" alt="dicritics" width="200px">
+<img src="./russcaia-black.png" alt="dicritics" width="200px">
 
 Латница, в которой CA читается как КА - как у культурных европейцев (https://vk.com/wall-14213047_336). Группа ВКонтакте: https://vk.com/club14213047
 
