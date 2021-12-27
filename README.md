@@ -280,7 +280,7 @@ pḥ пх
 rh р  
 rḥ рх  
 ṭh ф  
-th-theo(theò)-thèo т-тео-тё  
+th т    
 tḥ тх  
 sh ш  
 sḥ сх  
@@ -323,8 +323,8 @@ ck к
 k к  
 kė(kì-ckė-ckì)-c-ke(cke)-ki(kỳ-cki-ckỳ)-ky(cky)-cù(kiu-kù)-cò(keo-kò)-kæ(kae-ckæ-ckae) кь-к-ке-ки-кы-кю-кё-кэ
 
-g-ge-geo(geò)-gèo-gæ(gae)-gi(gỳ)-gy-gè-gìe-gịa г-ге-гео-гё-гэ-ги-гы-гь-гье-гъя (уд. gé, gá)  
-ġė-gȇ-gȇa(gȋa)-gȋ(ġŷ)-ġìa-gȋạ ж-же-жа-жи-жья-жиа (уд. gē, gā)    
+g-ge-geò(gieo)-geo-gæ(gae)-gi(gỳ)-gy-gè-gìe-gịa г-ге-гео-гё-гэ-ги-гы-гь-гье-гъя (уд. gé, gá)  
+ġė-ġe-ġėa-ġi(ġỳ)-ġìa-ġiạ ж-же-жа-жи-жья-жиа (уд. gē, gā)    
 ĝė-gê-gî(gŷ)-gîa(gêa) дж-дже-джи-джа (уд. ĝé)  
 dġė-dgê дж-дже
 
@@ -678,7 +678,7 @@ Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi 
 
 Imeietsia nescoleco hŷpotheṣ proìsḥojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescoleckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescoleckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theòrià).
 
 
 ### Используются упрощенные правила аналога открытого слога
@@ -779,7 +779,7 @@ Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi 
 
 Imeietsia nescolėco hŷpotheṣ proìsḥojdenià sobacki, naìbolèie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescolėckih predcov), drugiè pridèrjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescolėckih predcov), drugiè pridèrjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theòrià).
 
 
 ## Пример текста ASCII-only
@@ -983,7 +983,7 @@ Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi 
 
 Imeietsia nescoleco ghipothez proìskhojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - poliphilètichescaia gruppa (proìskhodiaschaia ot nescoleckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophilètichescaia theorià).
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - poliphilètichescaia gruppa (proìskhodiaschaia ot nescoleckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophilètichescaia theòrià).
 
 
 ## Поддержка шрифтами
