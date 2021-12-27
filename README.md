@@ -567,7 +567,7 @@ Main ASCII SMS:
 
 Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro maèstro, piạnino piianino piänino, Marià Mariya Marià, pìanyi pyanyi pìanyi, na nebè nebbe nebbe.  
 iego iego iego, İego IEgo IEgo, İuliy IUliy IUliy.  
-iEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
+IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
 companii.  
 obịect obyiiect obìect, podịezd podyiiezd podyìezd, otḥodami otkhodami otkhodami.  
 ФИЯ FIIA, РИА RIẠ RIiA RIÄ. 
@@ -656,7 +656,7 @@ V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po 
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
 
-Mær neboleshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to bùdgẹtu prideotsia hudo.
+Mær neboleshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to biudgẹtu prideotsia hudo.
 
 V etom vidè phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
@@ -757,7 +757,7 @@ V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po 
 
 Prepodobnyi Bayes podkinul igralėnyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
 
-Mær nebolėshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i dalėshe, to bùdgẹtu prideotsia hudo.
+Mær nebolėshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i dalėshe, to biudgẹtu prideotsia hudo.
 
 V etom vidè phraṣa ot A do İa nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanèt staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
@@ -961,7 +961,7 @@ V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po 
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestì, znachit iemu prideotsia mazate iod na ranu.
 
-Mær neboleshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i daleshe, to bùdjetu prideotsia hudo.
+Mær neboleshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj eckzema snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændi. IEsli tac poideot i daleshe, to biudjetu prideotsia hudo.
 
 V etom vidè phraza ot A do IA nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. IEoj coliuchiy i pohoj na neio.
 
