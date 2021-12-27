@@ -44,7 +44,7 @@
 
 | р | с | т | у | ф | х | ц       | ч  | ш  | щ   | ъ         | ы      | ь           | э     | ю  | я  |
 | - | - | - | - | - | - | ------- | -- | -- | --- | --------- | ------ | ----------- | ----- | -- | -- |
-| r | s | t | u | f | h | c/cė/ci | ch | sh | sch | None(ị)/ȯ | hy/y/ị | e/None(ì)/ė | e/ẹ/æ | iu | ia |
+| r | s | t | u | f | h | c/cz/ci | ch | sh | sch | None(ị)/ȯ | hy/y/ị | e/None(ì)/ė | e/ẹ/æ | iu | ia |
 
 Все написания:
 
@@ -105,7 +105,7 @@
 | перед ЕЁИ в окончаниях | ck      |    |
 | перед ЕЁИ иначе        | k       |    |
 |                        | **ц**   |    |
-| **основное написание** | cė      | cz |
+| **основное написание** | cz      |    |
 | перед ЕЁЭИЫ            | c       |    |
 | перед ОАУ              | ci      |    |
 |                        | **в**   |    |
@@ -239,8 +239,8 @@
 
 Шипящие и кгцх:
 
-заяц zaiacė zaiacz zaiacì  
-цвет cėvet czvet cìvet  
+заяц zaiacz  
+цвет czvet  
 платьице platìyice platiyice  
 на ноге na noge  
 кь kė/kì kie  
@@ -253,7 +253,7 @@
 Написание можно упростить для главной юникод версии: Всегда ставить è, после сочетания "гласная + однобуквенная-согласная" когда требуется Е (йэ). А мягкий знак всегда писать как ė (кроме, разве что, когда в конце слова). Тут достаточно знания ранее написанной части слова.
 
 Горький Gorėckiy  
-Горецкий Gorècėckiy
+Горецкий Gorèczckiy
 
 
 ## Подробное описание
@@ -315,7 +315,7 @@ scḥ сх
 ḅ в 
 
 cṣ-cê-cṣa-cî(cŷ)-cṣy-cṣæ(cṣae,cṣẹ) с-се-са-си-сы-сэ (уд. ĉé, cṣá, ĉí, ĉý, cṣȳ)  
-cė(cz)-ce(cæ-cae-cẹ)-cia-ceo-ci(cy)-cìa(cịa)-ciạ-cio ц-це-ца-цо(цё)-ци(цы)-цья-циа-цио (уд. cé, ца-ciá, cí, cý, циа-ciā)  
+cz-cė-ce(cæ-cae-cẹ)-cia-cïa-ceo-cèo-ci(cy)-cìa(cịa)-ciạ-cio ц-ць-це-ца-ця-цо-цё-ци(цы)-цья-циа-цио (уд. cé, ца-ciá, cí, cý, циа-ciā)  
 ch-cè-cïa-cï ч-че-ча-чи (уд. cǐ, cě)  
 ck к  
 k к  
@@ -670,7 +670,7 @@ Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 s
 
 – Frodo, malechic moi, – scazal cac-to raz Biḷbo, – perèbiralsia by ty co mne. Gliadishė, i dene rojdenià vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecė mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconecz mojet schitate sebia vzroslym.
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatelenaia data – sovershennolètiè po-hobbitski.
 
@@ -771,7 +771,7 @@ Sluchaiu bylo ugodno, chtoby Biḷbo s Frodo iesche i rodilise v odin dene, 22 s
 
 – Frodo, malėchic moi, – scazal cac-to raz Biḷbo, – perèbiralsia by ty co mne. Gliadishė, i dene rojdenià vmeste otmechali by.
 
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconècė mojet schitate sebia vzroslym.
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvennom vozraste mejdu dvadciatìu i tridciatìu tremia, posle chego hobbit naconècz mojet schitate sebia vzroslym.
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nynèshnei osènìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesėma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlėnaia data – sovèrshennolètiè po-hobbitski.
 
