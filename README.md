@@ -397,22 +397,22 @@ Aùstrià Австрия
 Уточнение мягкости: parter, partėr parter, partêr partaer/parter.
 
 сийи siỳ siiyi  
-Франсэ Francṣæ, Франсуа Francṣòua  
+Франсэ Francṣæ, Франсуа Francṣȯua  
 можно было бы: pìecṣa, pìecṣ, pìecṣy, но лучше обрусеть: pìesa, pìes, pìesy  
 hịstorià, hịèrarcḥ, raiyispolcom  
 fuċhsià фуксия
 
-zaiacė zaiacz, унц uncė uncz  
+zaiacz, унц uncz  
 İacov IAcov, İuliy IUliy, İesli IEsli, iod iod, iọn iion, İèsus IYesus, İụda IIUda, İạcov IIAcov  
-plohiè plohiye, Hėiuston Hyuston
+plohiè plohiye, Hìuston Hyuston
 
 crasnyi, miaso, liustra, pìan pyan, podịezd podyiiezd, iesli, İesli IEsli, İuliy IUliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maèstro maaestro, Ændỳ Endi, piạnino piianino, vyùchite vyuuchite, drojė / droj, broshė brosh, Naste, usadeba usadeba, cuḷtura culltura culìtura, rugatesia rugatesia, polianè polianne.
 
 polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diẹlectric diielectric  
 pliẹ pliie pliie плиэ  
-cïao, capriccïọ, Boccaccïo  
+ċiao, capriċċiọ, Boccaċċio  
 Mexîco, Mexica, xûi  
-Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėskiy gaellskiy gælìskiy
+Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėsckiy gaellsckiy gælìsckiy
 
 ня nia nia — miaso miaso  
 ния nià niya — Marià Mariya, siniè siniye  
