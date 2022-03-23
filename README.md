@@ -320,7 +320,7 @@ scḥ сх
 ṣ з  
 ḅ в 
 
-ç с  
+ç с (буква сифранс)  
 cz-cė-ce(cæ-cae-cẹ)-cia-cïa-ceo-cėo(cèo)-ci(cy)-cìa(cịa)-ciạ-cio ц-ць-це-ца-ця-цо-цё-ци(цы)-цья-циа-цио (уд. cé, ца-ciá, cí, cý, циа-ciā)  
 ć-ćia ч-ча  
 ck к  
@@ -397,10 +397,10 @@ Aùstrià Австрия
 
 ## Дополнительные примеры
 
-Уточнение мягкости: parter, partėr parter, partêr partaer/parter.
+Уточнение мягкости: parter, partèr parter, partẹr partaer/parter.
 
 сийи siỳ siiyi  
-Франсэ Françæ, Франсуа Françua  
+Франсэ Françæ, Франсуа Françua, çidr сидр, maçhina машина  
 можно было бы: pìeça, pìeç, pìeçy, но лучше обрусеть: pìesa, pìes, pìesy  
 hịstorià, hịèrarcḥ, raiyispolcom  
 fucksià фуксия
@@ -411,9 +411,9 @@ plohiè plohiye, Hìuston Hyuston
 
 crasnyi, miaso, liustra, pìan pyan, podịezd podyiiezd, iesli, İesli IEsli, İuliy IUliy, paial, sineie, poimal, proìzoshli proiizoshli, latịne latyne, oni moì / moii, on moi, vyìskivate vyiiskivate, aero, maèstro maaestro, Ændỳ Endi, piạnino piianino, vyùchite vyuuchite, drojė / droj, broshė brosh, Naste, usadeba usadeba, cuḷtura culltura culìtura, rugatesia rugatesia, polianè polianne.
 
-polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diẹlectric diielectric  
+polỳẹṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diẹlectric diielectric  
 pliẹ pliie pliie плиэ  
-ćiao, capriććiọ, Boccaććio  
+ćiao, capriććiọ, Boccaććio, Da Vinći  
 Mexîco, Mexica, xûi  
 Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėsckiy gaellsckiy gælìsckiy
 
