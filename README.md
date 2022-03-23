@@ -294,13 +294,14 @@ zh ж
 ẓh чж  
 zḥ зх
 
-cḥ х  
-ċh к  
-ċḥ кх  
-čḥ(chh) чх  
 ch ч  
-ċhė-chê-châ ш-ше-ша (уд. chē, chā)  
-čh т(ь)
+cḥ х  
+ck к  
+ckh кх  
+chh чх  
+ch ч  
+çh ш  
+ćh т(ь)
 
 Итого: все сочетания "согласная с диакритикой" + h являются диграфами с особым смыслом. Так же все сочетания согласная + ḥ (кроме вариантов cḥ) читаются отдельно, где ḥ это ха. Классические диграфы тоже есть: ch, gh, kh, ph, rh, th, sh, wh, zh.
 
@@ -313,15 +314,15 @@ cḳ кк
 
 sch щ  
 sch-shch сч(только [ɕː])-сч([ɕˈt͡ɕ] или [ɕː])  
-sċhė-schê-schâ сш-сше-сша (уд. schē)  
+sçh сш  
 ṣch ш (уд. ṣchá)  
 scḥ сх  
 ṣ з  
 ḅ в 
 
-cṣ-cê-cṣa-cî(cŷ)-cṣy-cṣæ(cṣae,cṣẹ) с-се-са-си-сы-сэ (уд. ĉé, cṣá, ĉí, ĉý, cṣȳ)  
+ç с  
 cz-cė-ce(cæ-cae-cẹ)-cia-cïa-ceo-cėo(cèo)-ci(cy)-cìa(cịa)-ciạ-cio ц-ць-це-ца-ця-цо-цё-ци(цы)-цья-циа-цио (уд. cé, ца-ciá, cí, cý, циа-ciā)  
-ch-ċe-ċia-ċi ч-че-ча-чи  
+ć-ćia ч-ча  
 ck к  
 k к  
 kė(kì-ckė-ckì)-c-ke(cke)-ki(kỳ-cki-ckỳ)-ky(cky)-cù(kiu-kù)-cò(keo-kò)-kæ(kae-ckæ-ckae) кь-к-ке-ки-кы-кю-кё-кэ
@@ -390,7 +391,7 @@ gva-gvi гва-гви
 ẁ у
 
 neyrotism нейротизм, lieytenant лейтенант  
-IEụstacṣ Юстас, IEùropa Европа, neùrolog невролог, Eùreka Эврека  
+IEụstaç Юстас, IEùropa Европа, neùrolog невролог, Eùreka Эврека  
 Aùstrià Австрия
 
 
@@ -399,10 +400,10 @@ Aùstrià Австрия
 Уточнение мягкости: parter, partėr parter, partêr partaer/parter.
 
 сийи siỳ siiyi  
-Франсэ Francṣæ, Франсуа Francṣȯua  
-можно было бы: pìecṣa, pìecṣ, pìecṣy, но лучше обрусеть: pìesa, pìes, pìesy  
+Франсэ Françæ, Франсуа Françua  
+можно было бы: pìeça, pìeç, pìeçy, но лучше обрусеть: pìesa, pìes, pìesy  
 hịstorià, hịèrarcḥ, raiyispolcom  
-fuċhsià фуксия
+fucksià фуксия
 
 zaiacz, унц uncz  
 İacov IAcov, İuliy IUliy, İesli IEsli, iod iod, iọn iion, İèsus IYesus, İụda IIUda, İạcov IIAcov  
@@ -412,7 +413,7 @@ crasnyi, miaso, liustra, pìan pyan, podịezd podyiiezd, iesli, İesli IEsli, �
 
 polỳèṭhir полиэфир poliiefir poliiefir, Ṭheodor Feodor, Siætl Сиэтл, dièta диета, diẹlectric diielectric  
 pliẹ pliie pliie плиэ  
-ċiao, capriċċiọ, Boccaċċio  
+ćiao, capriććiọ, Boccaććio  
 Mexîco, Mexica, xûi  
 Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėsckiy gaellsckiy gælìsckiy
 
