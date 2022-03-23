@@ -260,6 +260,8 @@
 
 Из-за этимологической и орфографической сложности освоение латиницы возможно только с помощью умного ввода, при котором происходит замена неправильно написанных слов. Например, благодаря принципу единственности прочтения, правильно и неправильно написанные слова имеют один и тот же прообраз в кириллице.
 
+UPD: пожалуй, по умолчанию ха после согласных нужно писать через kh (типа лх-lkh), а через ḥписать только в адаптированных заимствованиях (типа лх-lḥ). Это, кстати, переиначит значения следующего раздела.
+
 **Адаптация заимствований производится с помощью следующих обозначений:**
 
 ḅḥ вх  
@@ -572,7 +574,7 @@ Siætl Siietl Siætl, diẹlectric diielectric diielectric, maèstro maaestro ma
 iego iego iego, İego IEgo IEgo, İuliy IUliy IUliy.  
 IEùropa IEvropa IEùropa, IEGẸ IEGEh IEGEh, ẸẸG EhEhG EhEhG, JẸK JEhK JEhK.  
 companii.  
-obịect obyiiect obìect, podịezd podyiiezd podyìezd, otḥodami otkhodami otkhodami.  
+obịect obyiiect obìect, podịezd podyiiezd podyìezd, otkhodami otkhodami otkhodami.  
 ФИЯ FIIA, РИА RIẠ RIiA RIÄ. 
 
 изъян izịan izyiian izyìan  
@@ -663,7 +665,7 @@ Mær neboleshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo
 
 V etom vidè phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
-Sḥod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otḥodami companii "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
+Skhod mestnyh jitelei indiyscoi derevni sikḥov reshal chto je delate s otkhodami companii "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
@@ -677,9 +679,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvenn
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nyneshnei osenìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatelenaia data – sovershennolètiè po-hobbitski.
 
-Imeietsia nescoleco hŷpotheṣ proìsḥojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescoleco hŷpotheṣ proìskhojdenià sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescoleckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theòrià).
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìskhodiaschaia ot nescoleckih predcov), drugiè priderjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theòrià).
 
 
 ### Используются упрощенные правила аналога открытого слога
@@ -764,7 +766,7 @@ Mær nebolėshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novog
 
 V etom vidè phraṣa ot A do İa nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanèt staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
-Sḥod mestnyh jitelèi indiyscoi derèvni sikḥov reshal chto je delate s otḥodami companii "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
+Skhod mestnyh jitelèi indiyscoi derèvni sikḥov reshal chto je delate s otkhodami companii "Caligula Gai İuliy Cæṣare" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golovè. On i nasheol vyhod iz situatcii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovorite starshiy mecḥanic Vasiliy.
 
@@ -778,9 +780,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojė v bezotvetstvenn
 
 Proshlo iesche dvenadciate let. V Zasumcah cajdyi god vesèlo otmechali dvoinoi dene rojdenià, k etomu privycli, no liubomu bylo iasno, chto nynèshnei osènìu gotovitsia nechto neòbychnoie. Biḷbo ispolnialose 111 let – vozrast dlia hobbita vesėma pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetite tridciatitreohletiè – toje znamènatèlėnaia data – sovèrshennolètiè po-hobbitski.
 
-Imeietsia nescolėco hŷpotheṣ proìsḥojdenià sobacki, naìbolèie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescolėco hŷpotheṣ proìskhojdenià sobacki, naìbolèie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìsḥodiaschaia ot nescolėckih predcov), drugiè pridèrjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theòrià).
+V sujdeniàh ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenià. Odni schitaiut, chto sobacki - polỳphỳlètichescaia gruppa (proìskhodiaschaia ot nescolėckih predcov), drugiè pridèrjivaiutsia mnenià, chto vse sobacki proìzoshli ot odnogo predca (monophỳlètichescaia theòrià).
 
 
 ## Пример текста ASCII-only
