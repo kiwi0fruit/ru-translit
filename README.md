@@ -662,7 +662,7 @@ V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po 
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
 
-Mær neboleshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to biudgẹtu prideotsia hudo.
+Mær neboleshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i daleshe, to biudġetu prideotsia hudo.
 
 V etom vidè phraṣa ot A do İa nachinaiet vygliadete sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
@@ -763,7 +763,7 @@ V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po 
 
 Prepodobnyi Bayes podkinul igralėnyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
 
-Mær nebolėshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i dalėshe, to biudgẹtu prideotsia hudo.
+Mær nebolėshogo gorodishcki otcryl tabliciu exẹlia i vozmutilsia cenoi novogo excavatora. Aj eckzẹma snova stala iego bespocoìte. Oh uj eta pocupca vechnogo dvigatèlia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Ændỳ. İesli tac poideot i dalėshe, to biudġetu prideotsia hudo.
 
 V etom vidè phraṣa ot A do İa nachinaiet vygliadète sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanèt staraia. Chernysh liubit cogda iego cheshut ieiu. İeoj coliuchiy i pohoj na neio.
 
