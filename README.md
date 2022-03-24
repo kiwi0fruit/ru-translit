@@ -658,7 +658,7 @@ Peòny i vasilecki vseo iesche rastut na polianè vozle derevni Peony, schitaius
 
 Pìanyi master po proiectu sdelal mecḥanichesckiy obịect s izịanom. İesli brac ne obnarujitsia, to belyie bolidy boleshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
-V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po recke. No tut iz lesa vyshel Gêorĝė Maximus, cone v paleto i rvanyh jẹensah, cotoryi cogo-to obịskival, i pricazal vsem mytesia, gotovite bulìon i tancevate jịgu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po recke. No tut iz lesa vyshel Gêorĝė Maximus, cone v paleto i rvanyh jêensah, cotoryi cogo-to obịskival, i pricazal vsem mytesia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralenyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
 
@@ -759,7 +759,7 @@ Peòny i vasilcki vseo iesche rastut na polianè vozle derèvni Peony, schitaius
 
 Pìanyi master po proiectu sdelal mecḥanichesckiy obịect s izịanom. İesli brac ne obnarujitsia, to belyie bolidy bolėshe ne smogut vyìgryvate goncki i vyùchite svoì oshibcki.
 
-V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po recke. No tut iz lesa vyshel Gêorĝė Maximus, cone v palėto i rvanyh jẹensah, cotoryi cogo-to obịskival, i pricazal vsem mytėsia, gotovite bulìon i tancevate jịgu. Znachit snova pìeom do lysyh aqualangistov.
+V pìesè pro devushcu v zeleonom platìyice vse sadilise na ladìyi i plyli po recke. No tut iz lesa vyshel Gêorĝė Maximus, cone v palėto i rvanyh jêensah, cotoryi cogo-to obịskival, i pricazal vsem mytėsia, gotovite bulìon i tancevate jîgu. Znachit snova pìeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igralėnyie costi. Vypalo shestė, znachit iemu prideotsia mazate iod na ranu.
 
