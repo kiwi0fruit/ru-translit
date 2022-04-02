@@ -83,11 +83,18 @@ ci ци (glavnoie napisaniie)
 cy цы/ци  
 cae це/цэ
 
-К перед ЕЁИ в окончаниях — ck  
-К перед ЕЁИ иначе — k
+К pered ЕЁИ v oconchaniiah — ck
+К pered ЕЁИ inache — k
 
-кз основное написание — kz  
-кз в исключениях — ckz, xz
+кз osnovnoie napisaniie — kz
+кз v iscleucheniiah — ckz, xz
+
+Otdellenoie pravilo dlya "ль" v iscleucheniiah (ll pered soglasnymi):
+
+культура culltura (vmesto culletura)  
+Камиллка Camilllca (da, vot tacoi vot hack)  
+троллька trollleca  
+кристалл criystall (ne pered soglasnoi je)
 
 ----
 
