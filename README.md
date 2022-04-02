@@ -1,8 +1,206 @@
 # ru-translit
 
-# Русская латиница от kiwi0fruit (Russcaia Latinicia)
-
 <img src="./russcaia-black.png" alt="dicritics" width="200px">
+
+# Новая, не до конца описанная Русская латиница от kiwi0fruit (Russcaia Latinicza)
+
+Латница, в которой CA читается как КА - как у культурных европейцев (https://vk.com/wall-14213047_336). Группа ВКонтакте: https://vk.com/club14213047
+
+Смысл любой русской латиницы я вижу только в использовании на указателях, латинизации имён, на выпендрёжных вывесках. Редкое использование в URL, никах, именах файлов или коментах. Ну вместо ужасного англотранслита или ужасных славянских латиниц. А вот латинизацию России я считаю плохой идеей и не приветствую.
+
+Novaia versiia latinicy. Teperre polnostiyu 'ASCII! Chastte sootvetstvii iz novogo opisaniia:
+
+а б в г д  
+a b v g d
+
+е - - - - - ё - - - ж з - и  
+ie/e - ieo/eo - j z - i/ii/iy
+
+й - к - - - - л м н  
+i - c/k/ck - l m n
+
+о п р с т  
+o p r s t
+
+у ф - х - - - - - ц - - ч  
+u f - - h/kh - c/cz - ch
+
+ш - щ - - ы - - - - э - - - ю - - я  
+sh sch - hy/y - e/ae - iu/eu ia/ya
+
+ъ - - - - - - - - - - - ь  
+yi (podyiiezd) - iy (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi + e)
+
+----
+
+V nachale slov ia,iu,io,ie pishutsya cac IA,IU,IO,IE.
+
+----
+
+Iscleucheniia iz pravil posle soglasnyh pocazany (!):
+
+vyii выи  
+vyi вый  
+vye выэ  
+vyo выо  
+vyu выу  
+vya вя (!) glavnoie napisaniie  
+vyaa вяа  
+vy'a выа
+
+veii веи  
+vei вей  
+vee ви (!)  
+veo вё  
+veu вю  
+vea вя (ne glavnoie napisaniie)
+
+viee веэ  
+vieo вео  
+vieu веу  
+viea веа
+
+vi ви  
+viy ви (!) ne glavnoie napisaniie  
+vie ве (!)  
+vio вио  
+viu виу  
+via виа
+
+vii вий  
+viii вии
+
+czya ця  
+czeu цю  
+czeo цё  
+cza ца  
+cya циа (!)  
+czu цу (glavnoie napisaniie)  
+ceu цу  
+czo цо (glavnoie napisaniie)  
+ceo цо  
+ci ци (glavnoie napisaniie)  
+cy цы/ци  
+cae це/цэ
+
+К перед ЕЁИ в окончаниях — ck  
+К перед ЕЁИ иначе — k
+
+кз основное написание — kz  
+кз в исключениях — ckz, xz
+
+----
+
+Мария Mariia, синий sinii, кусты акации custy acaciii, Яков IAcov, мой moi, мои moii, мая maia, айа aiia, аиа aii-a, аллилуйя alliluiia, paranoiia, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
+
+Speciallenyie pravila dlya adaptatciii (experimentalleno):
+
+siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy, цзя tjia, maiya майя, циан cyan, photo, Thieodor Теодор, Feodor Федор.
+
+Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiii latinicy (smotrite nije v starom opasaniii).
+
+----
+
+Alexandr Pushkin — Zimneie utro
+
+Moroz i solnce; denne chudesnyi!  
+IEsche ty dremleshhe, drug prelestnyi —  
+Pora, crasavicza, prosnisse:  
+Otcroi somcnuty negoi vzory  
+Navstrechu severnoi Avrory,  
+Zvezdoiu severa iavisse!
+
+Vecheor, ty pomnishhe, viyuga zlilasse,  
+Na mutnom nebe mgla nosilasse;  
+Luna, cac blednoie pyatno,  
+Scvozze tuchi mrachnyie jeltela,  
+I ty pechallenaia sidela —  
+A nynche… poglyadi v ocno:
+
+Pod golubymi nebesami  
+Velicolepnymi covrami,  
+Blestya na solnce, sneg lejit;  
+Prozrachnyi les odin cherneiet,  
+I ielle scvozze inei zeleneiet,  
+I rechca podo lledom blestit.
+
+Vsya comnata iantarnym blescom  
+Ozarena. Veseolym trescom  
+Treschit zatoplennaia pechhe.  
+Priiatno dumatte u lejancki.  
+No znaieshhe: ne velette li v sancki  
+Cobylcu buruiu zaprechhe?
+
+Scollezya po utrennnemu snegu,  
+Drug milyi, predadimsya begu  
+Netoroplivogo conya  
+I navestim polya pustyie,  
+Lesa, nedavno stolle gustyie,  
+I bereg, milyi dlya menya.  
+
+Lermontov M.IU. — Rodina
+
+Leubleu otchiznu ia, no strannoiu leuboviyu!  
+Ne pobedit ieio rassudoc moi.  
+Ni slava, cuplennaia croviyu,  
+Ni polnyi gordogo doveriia pocoi,  
+Ni teomnoi stariny zavetnyie predaniya  
+Ne shevelyat vo mne otradnogo mechtaniya.  
+No ia leubleu — za chto, ne znaiu sam —  
+IEio stepei holodnoie molchaniye,  
+IEio lesov bezbrejnyh colyhaniye,  
+Razlivy rec ieio, podobnyie moryam;  
+Proseolochnym puteom leubleu scacatte v telege  
+I, vzorom medlennym pronzaia nochi tenne,  
+Vstrechatte po storonam, vzdyhaia o nochlege,  
+Drojaschiie ogni pechallenyh derevenne;  
+Leubleu dymoc spaleonnoi jnivy,  
+V stepi nochuiuschii oboz  
+I na holme sredde jeoltoi nivy  
+Chetu beleiuschih bereoz.  
+S otradoi, mnogim neznacomoi,  
+IA viju polnoie gumno,  
+Izbu, pocrytuiu solomoi,  
+S reznymi stavnyami ocno;  
+I v prazdnic, vecherom rosistym,  
+Smotrette do polnochi gotov  
+Na plyascu s topaniyem i svistom  
+Pod govor piyanyh mujichcov.
+
+// God napisaniia: 1841
+
+Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companiii "Moii-tvoii siiesty-diaelectricki".
+
+Piyanyi master po proiectu sdelal mekhanichesckii obyiiect s izyiianom. IEsli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyuchitte svoii oshibcki.
+
+V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obysckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
+
+Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
+
+Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj eckzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. IEsli tac poideot i dalleshe, to beudjetu prideotsya hudo.
+
+V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh leubit cogda iego cheshut ieiu. IEoj coleuchiy i pohoj na neio.
+
+Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiii "Caligula Gai IUlii Caezarre" (lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciii.
+
+"Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshii mekhanic Vasilii.
+
+Leubimcem Billebo byl iunyi Frodo Baeggins. Cogda Billebo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
+
+Sluchaiu bylo ugodno, chtoby Billebo s Frodo iesche i rodilisse v odin denne, 22 sentyabrya.
+
+– Frodo, mallechic moi, – scazal cac-to raz Billebo, – perebiralsya by ty co mne. Glyadishhe, i denne rojdeniia vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste mejdu dvadczatiyu i tridczatiyu tremya, posle chego hobbit naconecz mojet schitatte sebya vzroslym.
+
+Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdeniia, k etomu privycli, no leubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billebo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo leubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
+
+Imeietsya nescoleco ghipothez proiiskhojdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
+
+V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zreniia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugiie priderjivaiutsya mneniia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoriia).
+
+
+# Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
 
 Латница, в которой CA читается как КА - как у культурных европейцев (https://vk.com/wall-14213047_336). Группа ВКонтакте: https://vk.com/club14213047
 
