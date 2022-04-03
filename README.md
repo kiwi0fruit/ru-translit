@@ -732,8 +732,8 @@ IEGẸ ЕГЭ (IEGEh), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, ẸẸG Э
 
 У каждого слова в русской латинице для меня есть настощая форма в кириллице. Слова в латинице — лишь альтернативное отображение настоящих слов в кирилице. А настоящие слова в латинице всегда помечены специальными знаками:
 
-Y-'cḥromosoma => Y-хромосома  
-Y'-cḥromosoma => Y-хромосома  
+Y-'khromosoma => Y-хромосома  
+Y'-khromosoma => Y-хромосома  
 creep'ota => creep'ота  
 'that's => that's  
 'citizens' => citizens'  
@@ -742,7 +742,7 @@ creep'ota => creep'ота
 'Coca Cola => Coca Кола  
 Coca-Col'ca => Coca-Col'ка  
 Coca Col'ca => Кока Col'ка  
-d'Artanìan' => д'Артаньян  
+d'Artaniyan' => д'Артаньян  
 не поддерживается => полу-jeep (ибо нефиг)  
 
 sobaca .cat dog. => собака cat dog.  
