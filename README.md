@@ -33,7 +33,7 @@ yi (podyiiezd) - iy (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi 
 
 ----
 
-V nachale slov ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
+S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
 Cstati, mojno oslabitè eto pravilo:  
 Delatè tackìe zameny tolèco tam, gde iestè risc pereputatè:  
 Da: IEgo. Iulìa. IUg.  
