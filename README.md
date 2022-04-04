@@ -33,6 +33,10 @@ yi (podyiiezd) - iy (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi 
 
 ----
 
+UPD: Experimentallenaia diacritichescaia versiia russcoi latinicy: https://vk.com/wall-14213047_559
+
+----
+
 S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
 Cstati, mojno oslabitte eto pravilo:  
 Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:  
