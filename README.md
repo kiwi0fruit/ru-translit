@@ -49,12 +49,17 @@ Iscleucheniia iz pravil posle soglasnyh pocazany (!):
 
 vyii выи  
 vyi вый  
-vye выэ  
-vyo выо  
-vyu выу  
+vyae выэ  
+vyoo выо  
+vyuu выу  
+vyaa выа
+
 vya вя (!) glavnoie napisaniie  
-vyaa вяа  
-vy-a выа
+vya-a вяа  
+vyu вю (ne glavnoie napisaniie)  
+vyu-u вюу (ne glavnoie napisaniie)  
+vyo вё (ne glavnoie napisaniie)  
+vyo-o вёо (ne glavnoie napisaniie)
 
 veii веи  
 vei вей  
@@ -186,7 +191,7 @@ Pod govor piyanyh mujichcov.
 
 Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companiii "Moii-tvoii siiesty-diaelectricki".
 
-Piyanyi master po proiectu sdelal mekhanichesckii obyiiect s izyiianom. IEsli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyuchitte svoii oshibcki.
+Piyanyi master po proiectu sdelal mekhanichesckii obyiiect s izyiianom. IEsli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyuuchitte svoii oshibcki.
 
 V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obysckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
