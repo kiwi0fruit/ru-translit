@@ -54,7 +54,7 @@ vyo выо
 vyu выу  
 vya вя (!) glavnoie napisaniie  
 vyaa вяа  
-vy'a выа
+vy-a выа
 
 veii веи  
 vei вей  
