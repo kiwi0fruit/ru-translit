@@ -106,11 +106,11 @@ Otdellenoie pravilo dlya "ль" v iscleucheniiah (ll pered soglasnymi):
 
 ----
 
-Мария Mariia, синий sinii, кусты акации custy acaciii, Яков IAcov, мой moi, мои moii, мая maia, айа aiia, аиа aii-a, аллилуйя alliluiia, paranoiia, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
+Мария Mariia, синий sinii, кусты акации custy acaciii, Яков IAcov, мой moi, мои moii, мая maia, айа aiia, аиа aii-a, аллилуйя alliluiia, paranoiia, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
 
 Speciallenyie pravila dlya adaptatciii (experimentalleno):
 
-siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy, цзя tjia, maiya майя, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo.
+siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy, цзя tjia, maiya майя, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki.
 
 Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiii latinicy (smotrite nije v starom opasaniii).
 
