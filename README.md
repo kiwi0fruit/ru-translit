@@ -110,7 +110,7 @@ Otdellenoie pravilo dlya "ль" v iscleucheniiah (ll pered soglasnymi):
 
 Speciallenyie pravila dlya adaptatciii (experimentalleno):
 
-siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy, цзя tjia, maiya майя, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki.
+siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy, цзя tjia, maiya майя, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki, терийяки terii-yaki.
 
 Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiii latinicy (smotrite nije v starom opasaniii).
 
