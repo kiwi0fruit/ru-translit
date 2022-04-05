@@ -26,7 +26,7 @@ o p r s t
 u f - - h/kh - c/cz - ch
 
 ш - щ - - ы - - - - э - - - ю - - я  
-sh sch - hy/y - e/ae - iu/eu ia/ya
+sh sch - hy/y - e/ae - iu/yu ia/ya
 
 ъ - - - - - - - - - - - ь  
 yi (podyiiezd) - iy (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi + e)
@@ -58,24 +58,20 @@ vyoo выо
 vyuu выу  
 vyaa выа
 
-vya вя (!) glavnoie napisaniie  
+vya вя  
 vya-a вяа  
-vyu вю (ne glavnoie napisaniie)  
-vyu-u вюу (ne glavnoie napisaniie)  
+vyu вю   
+vyu-u вюу  
 vyo вё (ne glavnoie napisaniie)  
 vyo-o вёо (ne glavnoie napisaniie)
 
 veii веи  
 vei вей  
 vee ви (!)  
-veo вё  
-veu вю  
-vea вя (ne glavnoie napisaniie)
+veo вё (!)  
 
 viee веэ  
 vieo вео  
-vieu веу  
-viea веа
 
 vi ви  
 viy ви (!) ne glavnoie napisaniie  
