@@ -85,13 +85,13 @@ viii вии
 
 czya ця  
 czyu цю  
-czeo цё  
+ceo цё  
 cza ца  
 cya циа (!)  
 czu цу (glavnoie napisaniie)  
 cyu циу (!)  
 czo цо (glavnoie napisaniie)  
-ceo цо  
+cyo цио (!)  
 ci ци (glavnoie napisaniie)  
 cy цы/ци  
 cae це/цэ
