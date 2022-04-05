@@ -43,13 +43,13 @@ Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:
 Da: IEgo. Iuliia. IUg.  
 Net: Iego. IUliia. Iug.
 
-Osobuiu actuallenostte priobretaiet razdel [Vcleucheniia isostrannyh slov bez izmenenii](#%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%BB%D0%BE%D0%B2-%D0%B1%D0%B5%D0%B7-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9).
+Osobuiu actuallenostte priobretaiet razdel [Vclyucheniia isostrannyh slov bez izmenenii](#%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%BB%D0%BE%D0%B2-%D0%B1%D0%B5%D0%B7-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9).
 
 Razdel pro [abbreviatury](#%D0%B0%D0%B1%D0%B1%D1%80%D0%B5%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D1%8B) toje byl obnovleon.
 
 ----
 
-Iscleucheniia iz pravil posle soglasnyh pocazany (!):
+Isclyucheniia iz pravil posle soglasnyh pocazany (!):
 
 vyii выи  
 vyi вый  
@@ -84,12 +84,12 @@ vii вий
 viii вии
 
 czya ця  
-czeu цю  
+czyu цю  
 czeo цё  
 cza ца  
 cya циа (!)  
 czu цу (glavnoie napisaniie)  
-ceu цу  
+cyu циу (!)
 czo цо (glavnoie napisaniie)  
 ceo цо  
 ci ци (glavnoie napisaniie)  
@@ -100,9 +100,9 @@ cae це/цэ
 К pered ЕЁИ inache — k
 
 кз osnovnoie napisaniie — kz
-кз v iscleucheniiah — ckz, xz
+кз v isclyucheniiah — ckz, xz
 
-Otdellenoie pravilo dlya "ль" v iscleucheniiah (ll pered soglasnymi):
+Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
 
 культура culltura (vmesto culletura)  
 Камиллка Camilllca (da, vot tacoi vot hack)  
@@ -160,21 +160,21 @@ I bereg, milyi dlya menya.
 
 Lermontov M.IU. — Rodina
 
-Leubleu otchiznu ia, no strannoiu leuboviyu!  
+Lyublyu otchiznu ia, no strannoiu lyuboviyu!  
 Ne pobedit ieio rassudoc moi.  
 Ni slava, cuplennaia croviyu,  
 Ni polnyi gordogo doveriia pocoi,  
 Ni teomnoi stariny zavetnyie predaniya  
 Ne shevelyat vo mne otradnogo mechtaniya.  
-No ia leubleu — za chto, ne znaiu sam —  
+No ia lyublyu — za chto, ne znaiu sam —  
 IEio stepei holodnoie molchaniye,  
 IEio lesov bezbrejnyh colyhaniye,  
 Razlivy rec ieio, podobnyie moryam;  
-Proseolochnym puteom leubleu scacatte v telege  
+Proseolochnym puteom lyublyu scacatte v telege  
 I, vzorom medlennym pronzaia nochi tenne,  
 Vstrechatte po storonam, vzdyhaia o nochlege,  
 Drojaschiie ogni pechallenyh derevenne;  
-Leubleu dymoc spaleonnoi jnivy,  
+Lyublyu dymoc spaleonnoi jnivy,  
 V stepi nochuiuschii oboz  
 I na holme sredde jeoltoi nivy  
 Chetu beleiuschih bereoz.  
@@ -197,15 +197,15 @@ V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po re
 
 Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
 
-Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj eckzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. IEsli tac poideot i dalleshe, to beudjetu prideotsya hudo.
+Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj eckzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. IEsli tac poideot i dalleshe, to byudjetu prideotsya hudo.
 
-V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh leubit cogda iego cheshut ieiu. IEoj coleuchiy i pohoj na neio.
+V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. IEoj colyuchiy i pohoj na neio.
 
 Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiii "Caligula Gai Iulii Caezarre" (.lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciii.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshii mekhanic Vasilii.
 
-Leubimcem Billebo byl iunyi Frodo Baeggins. Cogda Billebo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
+Lyubimcem Billebo byl iunyi Frodo Baeggins. Cogda Billebo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
 
 Sluchaiu bylo ugodno, chtoby Billebo s Frodo iesche i rodilisse v odin denne, 22 sentyabrya.
 
@@ -213,7 +213,7 @@ Sluchaiu bylo ugodno, chtoby Billebo s Frodo iesche i rodilisse v odin denne, 22
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste mejdu dvadczatiyu i tridczatiyu tremya, posle chego hobbit naconecz mojet schitatte sebya vzroslym.
 
-Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdeniia, k etomu privycli, no leubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billebo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo leubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
+Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdeniia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billebo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
 
 Imeietsya nescoleco ghiypothez proiiskhojdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
 
