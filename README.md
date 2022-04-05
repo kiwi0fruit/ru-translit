@@ -89,7 +89,7 @@ czeo цё
 cza ца  
 cya циа (!)  
 czu цу (glavnoie napisaniie)  
-cyu циу (!)
+cyu циу (!)  
 czo цо (glavnoie napisaniie)  
 ceo цо  
 ci ци (glavnoie napisaniie)  
