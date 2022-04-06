@@ -665,17 +665,17 @@ Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėsckiy gaellsckiy gælìsckiy
 Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
 
 * **Aa** - а
-  * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIiA, РИиА RIi'A RIiiA)
+  * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIhA, РИхА RI'hA RIkhA)
 * **Bb** - бэ
 * **Cc** - це (перед гласными - C.; CPU ЦПУ, ЦА C'A CzA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
   * отдельно предлог "к" пишется k
 * **Dd** - дэ
 * **Ee** - э (была Е (йэ) в математике)
-  * **IE** - е (IE., ЕГЭ IEG'E IEGEh, OBSIE ОБСЕ OBSIE)
+  * **IE** - е (IE., ЕГЭ IEG'E IEGaE, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Eh** - э (E., Eh., ЕГЭ IEG'E IEGEh, ЭЭГ EEG, РИЭ RI'E RIiE)
-  * стандартно для Е (ЙЭ) используется только IE, а для Э после согласных - только 'E/Eh. Отдельно "эх" пишется ekh.
+  * **Eh** - э (E., ЕГЭ IEG'E IEGaE, ЭЭГ EEG, РИЭ RI'E RIaE)
+  * стандартно для Е (ЙЭ) используется только IE, а для Э после согласных - только 'E/aE.
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - хаш, в аббр. - ха (default), аш (в математике и исключениях) (H., KHL КХЛ, PH ПэАш)
@@ -703,9 +703,9 @@ Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėsckiy gaellsckiy gælìsckiy
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
-| A / 'A (iA) | O / 'O (iO) | U / 'U (iU) | E / 'E (Eh) |  Hy   |
+| A / 'A (hA) | O / 'O (hO) | U / 'U (hU) | E / 'E (aE) |  Hy   |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
-|   IA   |      IEO       |   IU        |   IE        | I / I' (Ii) |
+|   IA   |      IEO       |   IU        |   IE        | I / I' (Ih) |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
 |   B    |       V        |    G        |   D         |    J    |
 | **З**  |     **Й**      |  **К**      | **Л**       |  **М**  |
@@ -721,12 +721,12 @@ Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėsckiy gaellsckiy gælìsckiy
 
 SHI ШИ, S'HI СХИ (SkHI), SKHI СКХИ,  
 CI ЦИ, C'A ЦА (CzA),  
-KIE КЕ, K'E КЭ (KEh), KI КИ,  
+KIE КЕ, K'E КЭ (KaE), KI КИ,  
 SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
-CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CEh),  
-Y'E ЙЭ (YEh), YIE ЙЕ, YI ЙИ, YA ЙА.
+CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CaE),  
+Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEG'E ЕГЭ (IEGEh), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JEhK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Niyu York => NY.
+IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JaEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Niyu York => NY.
 
 
 ## Набор на смартфоне
