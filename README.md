@@ -81,7 +81,8 @@ viu виу
 via виа
 
 vii вий  
-viii вии
+viiy вии (в окончании)  
+viii вии (не в окончании)
 
 czya ця  
 czyu цю  
@@ -111,13 +112,13 @@ Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
 
 ----
 
-Мария Mariia, синий sinii, кусты акации custy acaciii, Яков IAcov, мой moi, мои moii, мая maia, айа aiia, аиа aii-a, аллилуйя alliluiia, paranoiia, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
+Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков IAcov, мой moi, мои moii, мая maia, айа aiia, аиа aii-a, аллилуйя alliluiia, paranoiia, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
 
-Speciallenyie pravila dlya adaptatciii (experimentalleno):
+Speciallenyie pravila dlya adaptatciiy (experimentalleno):
 
 siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy, цзя tjia, maiya майя, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki, терийяки terii-yaki, Ryudjiy Рюдзи.
 
-Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiii latinicy (smotrite nije v starom opasaniii).
+Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opasaniiy).
 
 ----
 
@@ -189,7 +190,7 @@ Pod govor piyanyh mujichcov.
 
 // God napisaniia: 1841
 
-Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companiii "Moii-tvoii siiesty-diaelectricki".
+Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
 
 Piyanyi master po proiectu sdelal mekhanichesckii obiyect s izyiianom. IEsli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyuuchitte svoii oshibcki.
 
@@ -201,7 +202,7 @@ Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo 
 
 V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. IEoj colyuchiy i pohoj na neio.
 
-Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiii "Caligula Gai Iulii Caezarre" (.lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciii.
+Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiiy "Caligula Gai Iulii Caezarre" (.lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciiy.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshii mekhanic Vasilii.
 
