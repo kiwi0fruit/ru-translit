@@ -16,8 +16,8 @@ Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
 а б в г д  
 a b v g d
 
-е - - - - - ё - - - ж з - и  
-ie/e - ieo/eo - j z - i/ii/iy
+е - - - - - - - - - ё - - - - - ж з - и  
+ie/e/ye - ieo/eo/yeo - j z - i/ii/iy
 
 й - к - - - - л м н  
 i - c/k/ck - l m n
@@ -32,7 +32,7 @@ u f - - h/kh - c/cz - ch
 sh sch - hy/y - e/ae - iu/yu ia/ya
 
 ъ - - - - - - - - - - - ь  
-yi (podyiiezd) - iy (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi + e)
+yi (podyiiezd) - i (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi + e)
 
 
 ## Boleie podrobnoie opisaniie pravil
