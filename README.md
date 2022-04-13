@@ -19,8 +19,8 @@ a b v g d
 е - - - - - - - - - ё - - - - - ж з - и  
 ie/e/ye - ieo/eo/yeo - j z - i/ii/iy
 
-й - к - - - - л м н  
-i - c/k/ck - l m n
+й - - - к - - - - л м н  
+i/y - c/k/ck - l m n
 
 о п р с т  
 o p r s t
