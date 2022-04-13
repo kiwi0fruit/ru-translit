@@ -8,7 +8,10 @@
 
 Смысл любой русской латиницы я вижу только в использовании на указателях, латинизации имён, на выпендрёжных вывесках. Редкое использование в URL, никах, именах файлов или коментах. Ну вместо ужасного англотранслита или ужасных славянских латиниц. А вот латинизацию России я считаю плохой идеей и не приветствую.
 
-Novaia versiia latinicy. Teperre polnostiyu 'ASCII! Chastte sootvetstvii iz novogo opisaniia:
+Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
+
+
+## Chastte sootvetstvii iz novogo opisaniia
 
 а б в г д  
 a b v g d
@@ -31,11 +34,8 @@ sh sch - hy/y - e/ae - iu/yu ia/ya
 ъ - - - - - - - - - - - ь  
 yi (podyiiezd) - iy (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi + e)
 
-----
 
-UPD: Experimentallenaia diacritichescaia versiia russcoi latinicy: https://vk.com/wall-14213047_559
-
-----
+## Boleie podrobnoie opisaniie pravil
 
 S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
 Cstati, mojno oslabitte eto pravilo:  
@@ -184,8 +184,7 @@ pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus, iyerarkh, alliluiya, Yyeme
 
 Iisus - Исус (по правилам прилипания i)
 
-
-## Primer texta
+----
 
 Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
 
@@ -195,7 +194,8 @@ siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy,
 
 Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opasaniiy).
 
-----
+
+## Primer texta
 
 Alexandr Pushkin — Zimneie utro
 
