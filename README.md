@@ -49,6 +49,13 @@ Razdel pro [abbreviatury](#%D0%B0%D0%B1%D0%B1%D1%80%D0%B5%D0%B2%D0%B8%D0%B0%D1%8
 
 ----
 
+ie е  
+ieo ё  
+ia я  
+iu ю  
+io йо  
+iy и
+
 Isclyucheniia iz pravil posle soglasnyh pocazany (!):
 
 vyii выи  
@@ -69,6 +76,7 @@ veii веи
 vei вей  
 vee ви (!)  
 veo вё (!)  
+ve ве
 
 viee веэ  
 vieo вео  
@@ -96,6 +104,8 @@ cyo цио (!)
 ci ци (glavnoie napisaniie)  
 cy цы/ци  
 cae це/цэ
+
+----
 
 К pered ЕЁИ v oconchaniiah — ck
 К pered ЕЁИ inache — k
