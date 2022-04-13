@@ -184,11 +184,11 @@ Iisus - Исус (по правилам прилипания i)
 
 ----
 
-Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков IAcov, мой moi, мои moii, мая maia, айа aiia, аиа aii-a, аллилуйя alliluiia, paranoiia, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
+Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
 
 Speciallenyie pravila dlya adaptatciiy (experimentalleno):
 
-siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy, цзя tjia, maiya майя, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki, терийяки terii-yaki, Ryudjiy Рюдзи.
+siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy, цзя tjia, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki, терийяки terii-yaki, Ryudjiy Рюдзи.
 
 Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opasaniiy).
 
