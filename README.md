@@ -278,15 +278,15 @@ Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhoda
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshii mekhanic Vasilii.
 
-Lyubimcem Billebo byl iunyi Frodo Baeggins. Cogda Billebo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
+Lyubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
 
-Sluchaiu bylo ugodno, chtoby Billebo s Frodo iesche i rodilisse v odin denne, 22 sentyabrya.
+Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilisse v odin denne, 22 sentyabrya.
 
-– Frodo, mallechic moi, – scazal cac-to raz Billebo, – perebiralsya by ty co mne. Glyadishhe, i denne rojdeniia vmeste otmechali by.
+– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsya by ty co mne. Glyadishhe, i denne rojdeniia vmeste otmechali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste mejdu dvadczatiyu i tridczatiyu tremya, posle chego hobbit naconecz mojet schitatte sebya vzroslym.
 
-Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdeniia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billebo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
+Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdeniia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
 
 Imeietsya nescoleco ghiypothez proiiskhojdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
 
