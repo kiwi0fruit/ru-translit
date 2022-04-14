@@ -200,7 +200,7 @@ Iisus - Исус (по правилам прилипания i)
 
 Speciallenyie pravila dlya adaptatciiy (experimentalleno):
 
-siystema система, emodji эмоджи, emodjiy эмодзи, цзи tjiy, цзя tjia, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki, терийяки terii-yaki, Ryudjiy Рюдзи.
+siystema система, emodji эмоджи, emodjiy эмодзи, цзи cjiy, цзя cjia, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki, терийяки terii-yaki, Ryudjiy Рюдзи.
 
 Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opasaniiy).
 
