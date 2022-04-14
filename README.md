@@ -111,7 +111,7 @@ cae це/цэ
 
 Speciallenyie pravila dlya adaptatciiy:
 
-siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriyyaki, терийяки teriiyaki.
+siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
 Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
 
@@ -170,7 +170,9 @@ Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
 культура culltura (vmesto culletura)  
 Камиллка Camilllca (da, vot tacoi vot hack)  
 троллька trollleca  
-кристалл criystall (ne pered soglasnoi je)
+кристалл criystall (ne pered soglasnoi je)  
+culltura  
+Billbo
 
 ----
 
