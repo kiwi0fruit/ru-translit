@@ -111,7 +111,7 @@ cae це/цэ
 
 Speciallenyie pravila dlya adaptatciiy:
 
-siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki, терийяки terii-yaki.
+siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriyyaki, терийяки teriiyaki.
 
 Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
 
