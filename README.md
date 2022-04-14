@@ -105,6 +105,16 @@ ci ци (glavnoie napisaniie)
 cy цы/ци  
 cae це/цэ
 
+Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
+
+----
+
+Speciallenyie pravila dlya adaptatciiy:
+
+siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki, терийяки terii-yaki.
+
+Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
+
 ----
 
 К pered ЕЁИ v oconchaniiah — ck
@@ -112,6 +122,48 @@ cae це/цэ
 
 кз osnovnoie napisaniie — kz
 кз v isclyucheniiah — ckz, xz
+
+ssh сш
+shh шш
+shhe шь
+shhhe шшь
+
+cch кч
+chh чч
+chhe чь
+chhhe ччь
+
+ccz кц
+czz цц
+czze ць
+czzze цць
+
+цзя cjia
+цзи cji / cjiy
+цзе cjie
+цз cjz
+кж ckj
+
+жя jea
+жеа jiea
+жю jeu
+жеу jieu
+жё jeo
+жео jieo
+жиа jia
+жиу jiu
+жио jio
+джа dja
+джи dji
+
+дзя djia
+дзи djiy
+дзе djie
+джиа dhjia / dji-a
+
+piczza, caprichhio, accent, Buddha Будда, emodji эмоджи, emodjiy эмодзи, цзи cji, цзя cjia, Ryudjiy Рюдзи.
+
+----
 
 Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
 
@@ -193,16 +245,6 @@ iii - ии (в начале)
 pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus, iyerarkh, alliluiya, Yyemen (можно реформу в Yemen), IYeshua, Iiacov, paranoiya (можно реформу в paranoia).
 
 Iisus - Исус (по правилам прилипания i)
-
-----
-
-Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiiezd, obyiiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
-
-Speciallenyie pravila dlya adaptatciiy (experimentalleno):
-
-siystema система, emodji эмоджи, emodjiy эмодзи, цзи cjiy, цзя cjia, циан cyan, photo, Thieodor Теодор, Feodor Федор, culltura, Billbo, терияки teriiyaki, терийяки terii-yaki, Ryudjiy Рюдзи.
-
-Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opasaniiy).
 
 
 ## Primer texta
