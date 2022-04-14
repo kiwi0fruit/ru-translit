@@ -8,6 +8,10 @@
 
 Смысл любой русской латиницы я вижу только в использовании на указателях, латинизации имён, на выпендрёжных вывесках. Редкое использование в URL, никах, именах файлов или коментах. Ну вместо ужасного англотранслита или ужасных славянских латиниц. А вот латинизацию России я считаю плохой идеей и не приветствую.
 
+* [Chastte sootvetstvii iz novogo opisaniia](#chastte-sootvetstvii-iz-novogo-opisaniia)
+* [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
+* [Primer texta](#primer-texta)
+
 Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
 
 
@@ -171,7 +175,6 @@ Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
 Камиллка Camilllca (da, vot tacoi vot hack)  
 троллька trollleca  
 кристалл criystall (ne pered soglasnoi je)  
-culltura  
 Billbo
 
 ----
