@@ -117,48 +117,48 @@ Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovl
 
 ----
 
-К pered ЕЁИ v oconchaniiah — ck
+К pered ЕЁИ v oconchaniiah — ck  
 К pered ЕЁИ inache — k
 
-кз osnovnoie napisaniie — kz
+кз osnovnoie napisaniie — kz  
 кз v isclyucheniiah — ckz, xz
 
-ssh сш
-shh шш
-shhe шь
+ssh сш  
+shh шш  
+shhe шь  
 shhhe шшь
 
-cch кч
-chh чч
-chhe чь
+cch кч  
+chh чч  
+chhe чь  
 chhhe ччь
 
-ccz кц
-czz цц
-czze ць
+ccz кц  
+czz цц  
+czze ць  
 czzze цць
 
-цзя cjia
-цзи cji / cjiy
-цзе cjie
-цз cjz
+цзя cjia  
+цзи cji / cjiy  
+цзе cjie  
+цз cjz  
 кж ckj
 
-жя jea
-жеа jiea
-жю jeu
-жеу jieu
-жё jeo
-жео jieo
-жиа jia
-жиу jiu
-жио jio
-джа dja
+жя jea  
+жеа jiea  
+жю jeu  
+жеу jieu  
+жё jeo  
+жео jieo  
+жиа jia  
+жиу jiu  
+жио jio  
+джа dja  
 джи dji
 
-дзя djia
-дзи djiy
-дзе djie
+дзя djia  
+дзи djiy  
+дзе djie  
 джиа dhjia / dji-a
 
 piczza, caprichhio, accent, Buddha Будда, emodji эмоджи, emodjiy эмодзи, цзи cji, цзя cjia, Ryudjiy Рюдзи.
