@@ -253,7 +253,7 @@ yi - всегда йи, никогда не теряет йотирование
 iyi - ийи (в начале)  
 iii - ии (в начале)
 
-pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus, iyerarkh, alliluiya, Yyemen (можно реформу в Yemen), IYeshua, Iiacov, paranoiya (можно реформу в paranoia).
+pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus (можно реформу в IYesus), alliluiya, Yyemen (можно реформу в Yemen), IYeshua, Iiacov, paranoiya (можно реформу в paranoia).
 
 Iisus - Исус (по правилам прилипания i)
 
