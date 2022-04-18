@@ -861,7 +861,7 @@ Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėsckiy gaellsckiy gælìsckiy
 SHI ШИ, S'HI СХИ (SkHI), SKHI СКХИ,  
 CI ЦИ, C'A ЦА (CzA),  
 KIE КЕ, K'E КЭ (KaE), KI КИ,  
-SCHI СЧИ, ScHI ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
+S'CHI СЧИ (SCHI), SCH'I ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
 CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CaE),  
 Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
