@@ -178,7 +178,7 @@ piczza, caprichhio, accent, Buddha Будда, emodji эмоджи, emodjiy эм
 Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
 
 культура culltura (vmesto culletura)  
-Камиллка Camilllca (da, vot tacoi vot hack)  
+Камиллка Camillhca (da, vot tacoi vot hack)  
 троллька trollleca  
 кристалл criystall (ne pered soglasnoi je)  
 Billbo
