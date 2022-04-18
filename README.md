@@ -119,6 +119,8 @@ siystema система, циан cyan, photo, Thieodor Теодор, Feodor Ф�
 
 Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
 
+hiy ги (hiypotheza, hiyppopotam)
+
 ----
 
 К pered ЕЁИ v oconchaniiah — ck  
@@ -348,7 +350,7 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvenn
 
 Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdeniia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
 
-Imeietsya nescoleco ghiypothez proiiskhojdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
+Imeietsya nescoleco hiypothez proiiskhojdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
 
 V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zreniia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugiie priderjivaiutsya mneniia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoriia).
 
