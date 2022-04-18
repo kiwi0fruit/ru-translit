@@ -120,6 +120,7 @@ siystema система, циан cyan, photo, Thieodor Теодор, Feodor Ф�
 Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
 
 hiy и  
+hie ие  
 gh г
 
 ghiypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hierarkh иерарх, Hiyuston Хьюстон
