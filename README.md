@@ -175,7 +175,7 @@ czzze цць
 дзе dzje  
 дзиа dzjia
 
-piczza, caprichhio, accent, Buddha Будда, emodji эмоджи, emodjiy эмодзи, цзи cji, цзя cjia, Ryudjiy Рюдзи.
+piczza, caprichhio, accent, emodji эмоджи, emodzji эмодзи, цзи cji, цзя cjia, Ryudzji Рюдзи.
 
 ----
 
