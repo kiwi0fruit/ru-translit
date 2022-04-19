@@ -116,11 +116,11 @@ cae це/цэ
 Speciallenyie pravila dlya adaptatciiy:
 
 ou у  
-ouu оу  
+[o]uu [о]у  
 [ea]u [...]в  
 [ea]uu [...]у
 
-pouuchatte поучать, nouga нуга, IEuropa, aurora, autor, auura.
+pouuchatte поучать, nouga нуга, IEuropa, aurora, author, auura.
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
