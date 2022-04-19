@@ -66,7 +66,7 @@ vyii выи
 vyi вый  
 vyae выэ  
 vyoo выо  
-vyuu выу  
+vyou выу  
 vyaa выа
 
 vya вя  
@@ -114,6 +114,13 @@ cae це/цэ
 ----
 
 Speciallenyie pravila dlya adaptatciiy:
+
+ou у
+oou оу
+[ea]u в
+[ea]ou у 
+
+poouchatte поучать, nouga нуга, IEuropa, aurora, autor.
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
