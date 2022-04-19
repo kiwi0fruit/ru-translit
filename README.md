@@ -115,12 +115,18 @@ cae це/цэ
 
 Speciallenyie pravila dlya adaptatciiy:
 
-ou у  
-[o]uu [о]у  
-[ea]u [...]в  
-[ea]uu [...]у
+V nachale slov:
 
-pouuchatte поучать, nouga нуга, IEuropa, aurora, author, auura.
+^eu ^эв  
+^ieu ^ев
+^au ^ав  
+^iau ^яв  
+^euu ^эу  
+^ieuu ^еу
+^auu ^ау  
+^iauu ^яу  
+
+pouchatte поучать, nuga нуга, IEuropa, aurora, author, подавтор podavthor, auura, zauchitte, nauchitte.
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
