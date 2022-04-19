@@ -122,8 +122,8 @@ Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovl
 hiy и  
 hie е (йэ)  
 hiyye ие  
-hiie хие
-hiye хье
+hiie хие  
+hiye хье  
 gh г
 
 ghiypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон
