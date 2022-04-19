@@ -167,12 +167,13 @@ czzze цць
 жиу jiu  
 жио jio  
 джа dja  
-джи dji
+джи dji  
+джиа djia
 
-дзя djia  
-дзи djiy  
-дзе djie  
-джиа dhjia / dji-a
+дзя dzja  
+дзи dzji  
+дзе dzje  
+дзиа dzjia
 
 piczza, caprichhio, accent, Buddha Будда, emodji эмоджи, emodjiy эмодзи, цзи cji, цзя cjia, Ryudjiy Рюдзи.
 
