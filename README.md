@@ -64,17 +64,17 @@ Isclyucheniia iz pravil posle soglasnyh pocazany (!):
 
 vyii выи  
 vyi вый  
-vyae выэ  
+vyoe выэ  
 vyoo выо  
-vyuu выу  
-vyaa выа
+vyou выу  
+vyoa выа
 
-vya вя  
-vya-a вяа  
-vyu вю   
-vyu-u вюу  
-vyo вё (ne glavnoie napisaniie)  
-vyo-o вёо (ne glavnoie napisaniie)
+kya кя  
+kyu кю   
+kyo кё (ne glavnoie napisaniie)  
+kyo-a кёа  
+kyo-u кёу  
+kyo-o кёо (ne glavnoie napisaniie)
 
 veii веи  
 vei вей  
@@ -121,12 +121,12 @@ V nachale slov:
 ^ieu ^ев
 ^au ^ав  
 ^iau ^яв  
-^euu ^эу  
-^ieuu ^еу
-^auu ^ау  
-^iauu ^яу  
+^eou ^эу  
+^ieou ^еу
+^aou ^ау  
+^iaou ^яу  
 
-pouchatte поучать, nuga нуга, IEuropa, aurora, author, подавтор podavthor, auura, zauchitte, nauchitte.
+pouchatte поучать, nuga нуга, IEuropa, aurora, author, подавтор podavthor, aoura, zauchitte, nauchitte.
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
@@ -347,7 +347,7 @@ Pod govor piyanyh mujichcov.
 
 Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
 
-Piyanyi master po proiectu sdelal mekhanichesckii obiyect s izyiianom. IEsli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyuuchitte svoii oshibcki.
+Piyanyi master po proiectu sdelal mekhanichesckii obiyect s izyiianom. IEsli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
 
 V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obysckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
