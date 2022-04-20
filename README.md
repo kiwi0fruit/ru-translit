@@ -400,7 +400,7 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
 
 * **Aa** - а
-  * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIiA, РИиА RI'iA RIiiA, ИиИ I'iI IiiI)
+  * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIaA, РИaА RIa'A RIaaA)
 * **Bb** - бэ
 * **Cc** - це (C.; CPU ЦПУ, ЦА C'A CzA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
@@ -438,19 +438,21 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
-|   A    |       O        |    U        | E / 'E (AE) |   Hy    |
+| A / 'A (aA) | O / 'O (oO) | U / 'U (uU) | E / 'E (AE) |  Hy   |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
-|   IA   |      IEO       |   IU        |   IE        | I / I' (Ii) |
+|   IA   |      IEO       |   IU        |   IE        |  I / IY |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
 |   B    |       V        |    G        |   D         |    J    |
 | **З**  |     **Й**      |  **К**      | **Л**       |  **М**  |
-|   Z    |       Y        |    K        |   L         |    M    |
+|   Z    |  Y / 'Y (YY)   |    K        |   L         |    M    |
 | **Н**  |     **П**      |  **Р**      | **С**       |  **Т**  |
 |   N    |       P        |    R        |   S         |    T    |
 | **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
 |   F    |   H / 'H (KH)  | C / C' (CZ) |   Ch        |   Sh    |
 | **Щ**  |                |             |             |         |
 |  Sch   |                |             |             |         |
+
+*Все альтернативные варианты гласных и Й актуальны только после И (`I`).*
 
 *Буква Cc называется Це и в аббревиатуры идёт как C / Cz. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
@@ -459,7 +461,8 @@ CI ЦИ, C'A ЦА (CZA),
 KIE КЕ, K'E КЭ (KAE), KI КИ,  
 S'CHI СЧИ (ScHI), SCHI ЩИ, SCh СЧ, SchU ЩУ,  
 CI ЦИ, CHI ЧИ, C'HI ЦХИ (CZHI), CIE ЦЕ, C'E ЦЭ (CAE),  
-Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
+Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА,  
+I'Y ИЙ (IYY), II ИИ, IiIY ИиИ.
 
 IEG'E ЕГЭ (IEGAE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JAEK), JK'H ЖКХ (JKKH), NHL НХЛ, K'HL КХЛ (KKHL), IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, CHIM ЧИМ, Niyu York => NY.
 
