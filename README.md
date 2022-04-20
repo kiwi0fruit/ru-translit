@@ -118,11 +118,13 @@ cae це/цэ
 
 Speciallenyie pravila dlya adaptatciiy:
 
+dh д  
+bh б  
 bhv бв  
 bv в  
 bvy ви
 
-zabhveniie obhvoditte diyabvol Bvabvylon Bvyzantiia
+zabhveniie obhvoditte diyabvol Bvabvylon Bvyzantiia Buddha
 
 V nachale slov:
 
