@@ -11,6 +11,8 @@
 * [Chastte sootvetstvii iz novogo opisaniia](#chastte-sootvetstvii-iz-novogo-opisaniia)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
 * [Primer texta](#primer-texta)
+* [Vclyucheniia isostrannyh slov bez izmenenii](#vclyucheniia-inostrannyh-slov-bez-izmenenii)
+* [Abbreviatury](#abbreviatury)
 
 Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
 
@@ -49,7 +51,7 @@ Net: Iego. IUliia. Iug.
 
 Osobuiu actuallenostte priobretaiet razdel [Vclyucheniia isostrannyh slov bez izmenenii](#vclyucheniia-inostrannyh-slov-bez-izmenenii).
 
-Razdel pro [abbreviatury](#abbreviatury) toje byl obnovleon.
+Razdel pro [Abbreviatury](#abbreviatury) toje byl obnovleon.
 
 ----
 
