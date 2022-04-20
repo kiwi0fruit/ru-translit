@@ -440,11 +440,11 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
 | A / 'A (aA) | O / 'O (oO) | U / 'U (uU) | E / 'E (AE) |  Hy   |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
-|   IA   |      IEO       |   IU        |   IE        |  I / IY |
+|   IA   |      IEO       |   IU        |   IE        |    I    |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
 |   B    |       V        |    G        |   D         |    J    |
 | **З**  |     **Й**      |  **К**      | **Л**       |  **М**  |
-|   Z    |  Y / 'Y (YY)   |    K        |   L         |    M    |
+|   Z    |       Y        |    K        |   L         |    M    |
 | **Н**  |     **П**      |  **Р**      | **С**       |  **Т**  |
 |   N    |       P        |    R        |   S         |    T    |
 | **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
@@ -452,7 +452,7 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 | **Щ**  |                |             |             |         |
 |  SCH   |                |             |             |         |
 
-*Все альтернативные варианты гласных и Й с апострофом актуальны только после `I`. А вот IY актуальна после строчных букв в аббревиатуре.*
+*Все альтернативные варианты гласных АОУ с апострофом актуальны только после `I`.*
 
 *Буква Cc называется Це и в аббревиатуры идёт как C / C' (CZ). И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
@@ -462,7 +462,7 @@ KIE КЕ, K'E КЭ (KAE), KI КИ,
 S'CHI СЧИ (ScHI), SCHI ЩИ, SCh СЧ, SCHU ЩУ,  
 CI ЦИ, CHI ЧИ, C'HI ЦХИ (CZHI), CIE ЦЕ, C'E ЦЭ (CAE),  
 Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА,  
-I'Y ИЙ (IYY), II ИИ, IiIY ИиИ.
+IY ИЙ, II ИИ, IiI ИиИ.
 
 IEG'E ЕГЭ (IEGAE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JAEK), JK'H ЖКХ (JKKH), NHL НХЛ, K'HL КХЛ (KKHL), IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, CHIM ЧИМ, Niyu York => NY.
 
