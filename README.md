@@ -440,14 +440,18 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 
 *Буква Cc называется Це и в аббревиатуры идёт как C / Cz. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
-SHI ШИ, S'HI СХИ (SkHI), SKHI СКХИ,  
+SHI ШИ, S'HI СХИ (SkHI), SK'HI СКХИ (SKkHI),  
 CI ЦИ, C'A ЦА (CzA),  
 KIE КЕ, K'E КЭ (KaE), KI КИ,  
-S'CHI СЧИ (SCHI), SCH'I ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
+S'CHI СЧИ (ScHI), SCHI ЩИ, SCh СЧ, SchU ЩУ,  
 CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CaE),  
 Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JaEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Niyu York => NY.
+IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JaEK), JK'H ЖКХ (JKkH), NHL НХЛ, K'HL КХЛ (KkHL), IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Niyu York => NY.
+
+C'Z ЦЗ (CzZ, CZZ).
+
+Только ходовые диграфы всегда слитно в аббревиатура: SH, CH, KH, SCH, CZ.
 
 
 ## Vclyucheniia slov v verkhnem registre
