@@ -123,7 +123,7 @@ bh б
 bhv бв  
 bv в  
 bvy ви  
-bvy вы (в конце слова)
+bvy вы (v conce slova)
 
 zabhveniie, obhvoditte, diyabvol, Bvabvylon, Bvyzantiia, Buddha, Iiacobv, slova Iiacobvy, Iacobvlev.
 
@@ -152,9 +152,11 @@ hiyye ие
 hiie хие  
 hiye хье  
 gh г  
-ghy ги
+ghy ги  
+ghy гы (v conce slova)  
+tot je princip nado vzyatte i dlya drugih grechesckih digraphov (ph, th)
 
-ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон
+ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
 
 ----
 
