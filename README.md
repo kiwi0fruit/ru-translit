@@ -447,11 +447,11 @@ S'CHI СЧИ (ScHI), SCHI ЩИ, SCh СЧ, SchU ЩУ,
 CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CaE),  
 Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JaEK), JK'H ЖКХ (JKkH), NHL НХЛ, K'HL КХЛ (KkHL), IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Niyu York => NY.
+IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JaEK), JK'H ЖКХ (JKkH), NHL НХЛ, K'HL КХЛ (KkHL), IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, CHIM ЧИМ, Niyu York => NY.
 
 C'Z ЦЗ (CzZ, CZZ).
 
-Только ходовые диграфы всегда слитно в аббревиатура: SH, CH, KH, SCH, CZ.
+Только ходовые диграфы всегда слитно в аббревиатурах: SH, CH, KH, SCH, CZ. Перед заглавной `I` используются полные формы всегда.
 
 
 ## Vclyucheniia slov v verkhnem registre
