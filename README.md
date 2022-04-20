@@ -123,6 +123,9 @@ obysc обыск (mojno sdelatte reformu v объиск)
 obyyii обйи  
 вы-йи vy-yi
 
+ppeie пье (ne glavnoie napisaniie)  
+ppeia пья (ne glavnoie napisaniie)
+
 Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyyiezd, obyyiect (реформа в obiyect), piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
 
 ----
