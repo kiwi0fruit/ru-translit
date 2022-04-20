@@ -299,7 +299,7 @@ Iisus - Исус (по правилам прилипания i)
 Alexandr Pushkin — Zimneie utro
 
 Moroz i solnce; denne chudesnyi!  
-IEsche ty dremleshhe, drug prelestnyi —  
+Iesche ty dremleshhe, drug prelestnyi —  
 Pora, crasavicza, prosnisse:  
 Otcroi somcnuty negoi vzory  
 Navstrechu severnoi Aurory,  
@@ -342,8 +342,8 @@ Ni polnyi gordogo doveriia pocoi,
 Ni teomnoi stariny zavetnyie predaniya  
 Ne shevelyat vo mne otradnogo mechtaniya.  
 No ia lyublyu — za chto, ne znaiu sam —  
-IEio stepei holodnoie molchaniye,  
-IEio lesov bezbrejnyh colyhaniye,  
+Ieio stepei holodnoie molchaniye,  
+Ieio lesov bezbrejnyh colyhaniye,  
 Razlivy rec ieio, podobnyie moryam;  
 Proseolochnym puteom lyublyu scacatte v telege  
 I, vzorom medlennym pronzaia nochi tenne,  
@@ -366,15 +366,15 @@ Pod govor piyanyh mujichcov.
 
 Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
 
-Piyanyi master po proiectu sdelal mekhanichesckii obiyect s izyiianom. IEsli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
+Piyanyi master po proiectu sdelal mekhanichesckii obiyect s izyiianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
 
 V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obysckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
 
-Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj eckzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. IEsli tac poideot i dalleshe, to byudjetu prideotsya hudo.
+Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj eckzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. Iesli tac poideot i dalleshe, to byudjetu prideotsya hudo.
 
-V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. IEoj colyuchiy i pohoj na neio.
+V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. Ieoj colyuchiy i pohoj na neio.
 
 Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiiy "Caligula Gai Iulii Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciiy.
 
