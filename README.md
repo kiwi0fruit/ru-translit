@@ -118,6 +118,12 @@ cae це/цэ
 
 Speciallenyie pravila dlya adaptatciiy:
 
+bhv бв  
+bv в  
+bvy ви
+
+zabhveniie obhvoditte diyabvol Bvabvylon Bvyzantiia
+
 V nachale slov:
 
 ^eu ^эв  
@@ -130,6 +136,8 @@ V nachale slov:
 ^iaou ^яу  
 
 pouchatte поучать, nuga нуга, IEuropa, aurora, author, подавтор podavthor, aoura, zauchitte, nauchitte.
+
+IEsche:
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
