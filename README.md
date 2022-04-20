@@ -388,18 +388,18 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 * **Aa** - а
   * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIhA, РИхА RI'hA RIkhA)
 * **Bb** - бэ
-* **Cc** - це (перед гласными - C.; CPU ЦПУ, ЦА C'A CzA, CI ЦИ)
+* **Cc** - це (C.; CPU ЦПУ, ЦА C'A CzA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
   * отдельно предлог "к" пишется k
 * **Dd** - дэ
 * **Ee** - э (была Е (йэ) в математике)
-  * **IE** - е (IE., ЕГЭ IEG'E IEGaE, OBSIE ОБСЕ OBSIE)
+  * **IE** - е (IE., ЕГЭ IEG'E IEGAE, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
-  * **Eh** - э (E., ЕГЭ IEG'E IEGaE, ЭЭГ EEG, РИЭ RI'E RIaE)
+  * **Eh** - э (E., ЕГЭ IEG'E IEGAE, ЭЭГ EEG, РИЭ RI'E RIAE)
   * стандартно для Е (ЙЭ) используется только IE, а для Э после согласных - только 'E/aE.
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
-* **Hh** - хаш, в аббр. - ха (default), аш (в математике и исключениях) (H., KHL КХЛ, PH ПэАш)
+* **Hh** - хаш, в аббр. - ха (default), аш (в математике и исключениях) (H., K'HL КХЛ, PH ПэАш)
   * **Hy** - ы
 * **Ii** - и
 * **Jj** - жей, в аббр. - же (default), жи (в математике и исключениях)
@@ -424,7 +424,7 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
-| A / 'A (hA) | O / 'O (hO) | U / 'U (hU) | E / 'E (aE) |  Hy   |
+| A / 'A (hA) | O / 'O (hO) | U / 'U (hU) | E / 'E (AE) |  Hy   |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
 |   IA   |      IEO       |   IU        |   IE        | I / I' (Ih) |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
@@ -442,12 +442,12 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 
 SHI ШИ, S'HI СХИ (SkHI), SK'HI СКХИ (SKkHI),  
 CI ЦИ, C'A ЦА (CzA),  
-KIE КЕ, K'E КЭ (KaE), KI КИ,  
+KIE КЕ, K'E КЭ (KAE), KI КИ,  
 S'CHI СЧИ (ScHI), SCHI ЩИ, SCh СЧ, SchU ЩУ,  
-CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CaE),  
+CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CAE),  
 Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JaEK), JK'H ЖКХ (JKkH), NHL НХЛ, K'HL КХЛ (KkHL), IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, CHIM ЧИМ, Niyu York => NY.
+IEG'E ЕГЭ (IEGAE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JAEK), JK'H ЖКХ (JKkH), NHL НХЛ, K'HL КХЛ (KkHL), IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, CHIM ЧИМ, Niyu York => NY.
 
 C'Z ЦЗ (CzZ, CZZ).
 
