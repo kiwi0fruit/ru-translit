@@ -122,9 +122,10 @@ dh д
 bh б  
 bhv бв  
 bv в  
-bvy ви
+bvy ви  
+bvy вы (в конце слова)
 
-zabhveniie obhvoditte diyabvol Bvabvylon Bvyzantiia Buddha
+zabhveniie, obhvoditte, diyabvol, Bvabvylon, Bvyzantiia, Buddha, Iiacobv, slova Iiacobvy, Iacobvlev.
 
 V nachale slov:
 
