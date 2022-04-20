@@ -47,9 +47,9 @@ Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:
 Da: IEgo. Iuliia. IUg.  
 Net: Iego. IUliia. Iug.
 
-Osobuiu actuallenostte priobretaiet razdel [Vclyucheniia isostrannyh slov bez izmenenii](#%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%BB%D0%BE%D0%B2-%D0%B1%D0%B5%D0%B7-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9).
+Osobuiu actuallenostte priobretaiet razdel [Vclyucheniia isostrannyh slov bez izmenenii](#vclyucheniia-inostrannyh-slov-bez-izmenenii).
 
-Razdel pro [abbreviatury](#%D0%B0%D0%B1%D0%B1%D1%80%D0%B5%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D1%8B) toje byl obnovleon.
+Razdel pro [abbreviatury](#abbreviatury) toje byl obnovleon.
 
 ----
 
@@ -357,7 +357,7 @@ Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo 
 
 V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. IEoj colyuchiy i pohoj na neio.
 
-Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiiy "Caligula Gai Iulii Caezarre" (.lat. Caligula Gaius Iulius Caesar). Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciiy.
+Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiiy "Caligula Gai Iulii Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciiy.
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshii mekhanic Vasilii.
 
@@ -374,6 +374,113 @@ Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi 
 Imeietsya nescoleco ghiypothez proiiskhojdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
 
 V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zreniia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugiie priderjivaiutsya mneniia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoriia).
+
+
+## Abbreviatury
+
+В латинице используются фонетическо-кириллические аббревиатуры, которые вопреки записи сокращают по звучанию. Таким образом, названия букв в аббревиатурах (а так же диграфы) будут читаться как в кириллице.
+
+Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
+
+* **Aa** - а
+  * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIhA, РИхА RI'hA RIkhA)
+* **Bb** - бэ
+* **Cc** - це (перед гласными - C.; CPU ЦПУ, ЦА C'A CzA, CI ЦИ)
+  * **Ch** - че (Ch., ChS ЧС)
+  * отдельно предлог "к" пишется k
+* **Dd** - дэ
+* **Ee** - э (была Е (йэ) в математике)
+  * **IE** - е (IE., ЕГЭ IEG'E IEGaE, OBSIE ОБСЕ OBSIE)
+  * **IEO** - ё (IEO.)
+  * **Eh** - э (E., ЕГЭ IEG'E IEGaE, ЭЭГ EEG, РИЭ RI'E RIaE)
+  * стандартно для Е (ЙЭ) используется только IE, а для Э после согласных - только 'E/aE.
+* **Ff** - эф
+* **Gg** - гэ (была "же" в математике)
+* **Hh** - хаш, в аббр. - ха (default), аш (в математике и исключениях) (H., KHL КХЛ, PH ПэАш)
+  * **Hy** - ы
+* **Ii** - и
+* **Jj** - жей, в аббр. - же (default), жи (в математике и исключениях)
+* **Kk** - ка
+* **Ll** - эль, в аббр. - эл (default)
+* **Mm** - эм, **Nn** - эн, **Oo** - о, **Pp** - пэ, **Qq** - ку, **Rr** - эр
+* **Ss** - эс
+  * **Sh** - ша (Sh., SShA США), **Sch** - ща (Sch., MSch МЩ)
+* **Tt** - тэ
+* **Uu** - у
+  * **IU** - ю (IU. IUAR ЮАР)
+* **Vv** - вэ
+* **Ww** - дубль-вэ
+* **Xx** - икс
+* **Yy** - игрек (в аббр. обозначает: и-краткая, йот, и читается как "игрек"),
+  * **Hy** - ы (Hy.)
+* **Zz** - зэт, в аббр. - зэ (default), зэт (в математике и исключениях)
+
+Символы (комбинации) внутреннего уровня не являются самостоятельными буквами, но при этом имеют отдельные названия и входят в состав (фонетически образованных) аббревиатур - это нужно для совместимости с кириллицей.
+
+В скобках указаны ASCII-only обозначения.
+
+| **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
+|:------:|:--------------:|:-----------:|:-----------:|:-------:|
+| A / 'A (hA) | O / 'O (hO) | U / 'U (hU) | E / 'E (aE) |  Hy   |
+| **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
+|   IA   |      IEO       |   IU        |   IE        | I / I' (Ih) |
+| **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
+|   B    |       V        |    G        |   D         |    J    |
+| **З**  |     **Й**      |  **К**      | **Л**       |  **М**  |
+|   Z    |       Y        |    K        |   L         |    M    |
+| **Н**  |     **П**      |  **Р**      | **С**       |  **Т**  |
+|   N    |       P        |    R        |   S         |    T    |
+| **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
+|   F    |   H / 'H (kH)  | C / C' (Cz) |   Ch        |   Sh    |
+| **Щ**  |                |             |             |         |
+|  Sch   |                |             |             |         |
+
+*Буква Cc называется Це и в аббревиатуры идёт как C / Cz. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
+
+SHI ШИ, S'HI СХИ (SkHI), SKHI СКХИ,  
+CI ЦИ, C'A ЦА (CzA),  
+KIE КЕ, K'E КЭ (KaE), KI КИ,  
+S'CHI СЧИ (SCHI), SCH'I ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
+CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CaE),  
+Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
+
+IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JaEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Niyu York => NY.
+
+
+## Vclyucheniia inostrannyh slov bez izmenenii
+
+У каждого слова в русской латинице для меня есть настощая форма в кириллице. Слова в латинице — лишь альтернативное отображение настоящих слов в кирилице. А настоящие слова в латинице всегда помечены специальными знаками:
+
+Y-'khromosoma => Y-хромосома  
+Y'-khromosoma => Y-хромосома  
+creep'ota => creep'ота  
+'that's => that's  
+'citizens' => citizens'  
+''tis => 'tis  
+'Coca-Cola => Coca-Cola  
+'Coca Cola => Coca Кола  
+Coca-Col'ca => Coca-Col'ка  
+Coca Col'ca => Кока Col'ка  
+d'Artaniyan' => д'Артаньян  
+не поддерживается => полу-jeep (ибо нефиг)  
+
+sobaca .cat dog. => собака cat dog.  
+
+. This.  
+Is . horosho. =>  
+This.  
+Is хорошо.
+
+.This.  
+Is . horosho. =>  
+This.  
+Ис horosho.
+
+* Апостроф в начале слова делает настоящей латиницей вправо до первого пробельного символа. Имеет приоритет над апострофом в середине или конце.
+* Апостроф в конце слова делает кириллицу латиницей влево до первого пробельного символа. Имеет приоритет над апострофом в середине слова.
+* Апостроф в середине слова (или беспробельной последовательности) делит слово: слева настоящая латиница, справа кириллица латиницей.
+* Точка в начале слова делает настоящей латиницей вправо до конца предложения.
+* Точка, окруженная пробельными символами, делает настоящей латиницей до следующей такой же точки - можно несколько строк так пометить.
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
@@ -397,9 +504,7 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 * [Подробное описание](#%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
 * [TODO](#todo)
 * [Дополнительные примеры](#%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B)
-* [Аббревиатуры](#%D0%B0%D0%B1%D0%B1%D1%80%D0%B5%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D1%8B)
 * [Набор на смартфоне](#%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BD%D0%B0-%D1%81%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D0%B5)
-* [Включения иностранных слов без изменений](#%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%BB%D0%BE%D0%B2-%D0%B1%D0%B5%D0%B7-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9)
 * [Требование обратимости латиниц друг в друга - излишне](#%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86-%D0%B4%D1%80%D1%83%D0%B3-%D0%B2-%D0%B4%D1%80%D1%83%D0%B3%D0%B0---%D0%B8%D0%B7%D0%BB%D0%B8%D1%88%D0%BD%D0%B5)
 * [Версия для СМС](#%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BC%D1%81)
 * [Пример текста](#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0)
@@ -812,79 +917,6 @@ Kembriy, Kitèkæt, kitỳ-kæt, gey, gælėsckiy gaellsckiy gælìsckiy
 сьйя sìà sya, сйя sịà syiia, сьйс sėys sie-ys, сйс sȯys s-ys
 
 
-## Аббревиатуры
-
-*Раздел обновлён под новую версию латиницы.*
-
-В латинице используются фонетическо-кириллические аббревиатуры, которые вопреки записи сокращают по звучанию. Таким образом, названия букв в аббревиатурах (а так же диграфы) будут читаться как в кириллице.
-
-Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
-
-* **Aa** - а
-  * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIhA, РИхА RI'hA RIkhA)
-* **Bb** - бэ
-* **Cc** - це (перед гласными - C.; CPU ЦПУ, ЦА C'A CzA, CI ЦИ)
-  * **Ch** - че (Ch., ChS ЧС)
-  * отдельно предлог "к" пишется k
-* **Dd** - дэ
-* **Ee** - э (была Е (йэ) в математике)
-  * **IE** - е (IE., ЕГЭ IEG'E IEGaE, OBSIE ОБСЕ OBSIE)
-  * **IEO** - ё (IEO.)
-  * **Eh** - э (E., ЕГЭ IEG'E IEGaE, ЭЭГ EEG, РИЭ RI'E RIaE)
-  * стандартно для Е (ЙЭ) используется только IE, а для Э после согласных - только 'E/aE.
-* **Ff** - эф
-* **Gg** - гэ (была "же" в математике)
-* **Hh** - хаш, в аббр. - ха (default), аш (в математике и исключениях) (H., KHL КХЛ, PH ПэАш)
-  * **Hy** - ы
-* **Ii** - и
-* **Jj** - жей, в аббр. - же (default), жи (в математике и исключениях)
-* **Kk** - ка
-* **Ll** - эль, в аббр. - эл (default)
-* **Mm** - эм, **Nn** - эн, **Oo** - о, **Pp** - пэ, **Qq** - ку, **Rr** - эр
-* **Ss** - эс
-  * **Sh** - ша (Sh., SShA США), **Sch** - ща (Sch., MSch МЩ)
-* **Tt** - тэ
-* **Uu** - у
-  * **IU** - ю (IU. IUAR ЮАР)
-* **Vv** - вэ
-* **Ww** - дубль-вэ
-* **Xx** - икс
-* **Yy** - игрек (в аббр. обозначает: и-краткая, йот, и читается как "игрек"),
-  * **Hy** - ы (Hy.)
-* **Zz** - зэт, в аббр. - зэ (default), зэт (в математике и исключениях)
-
-Символы (комбинации) внутреннего уровня не являются самостоятельными буквами, но при этом имеют отдельные названия и входят в состав (фонетически образованных) аббревиатур - это нужно для совместимости с кириллицей.
-
-В скобках указаны ASCII-only обозначения.
-
-| **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
-|:------:|:--------------:|:-----------:|:-----------:|:-------:|
-| A / 'A (hA) | O / 'O (hO) | U / 'U (hU) | E / 'E (aE) |  Hy   |
-| **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
-|   IA   |      IEO       |   IU        |   IE        | I / I' (Ih) |
-| **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
-|   B    |       V        |    G        |   D         |    J    |
-| **З**  |     **Й**      |  **К**      | **Л**       |  **М**  |
-|   Z    |       Y        |    K        |   L         |    M    |
-| **Н**  |     **П**      |  **Р**      | **С**       |  **Т**  |
-|   N    |       P        |    R        |   S         |    T    |
-| **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
-|   F    |   H / 'H (kH)  | C / C' (Cz) |   Ch        |   Sh    |
-| **Щ**  |                |             |             |         |
-|  Sch   |                |             |             |         |
-
-*Буква Cc называется Це и в аббревиатуры идёт как C / Cz. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
-
-SHI ШИ, S'HI СХИ (SkHI), SKHI СКХИ,  
-CI ЦИ, C'A ЦА (CzA),  
-KIE КЕ, K'E КЭ (KaE), KI КИ,  
-S'CHI СЧИ (SCHI), SCH'I ЩИ (ScHI), SCh СЧ, SchU ЩУ,  
-CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CaE),  
-Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
-
-IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JaEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Niyu York => NY.
-
-
 ## Набор на смартфоне
 
 Оптимально удобный ввод на смартфоне - с помощью проприетарных клавиатур со свайпом. Расширений для самых популярных GBoard и Swift я не обнаружил. Добавить прямо в код клавиатуры Гугла русскую латиницу можно было только если бы был единый стандарт русской латиницы. Это не реально.
@@ -894,44 +926,6 @@ IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ,
 На данный момент я не использую свайп. Так что могу совет дать только по Windows и OpenBoard на Андроиде.
 
 Многие использованные гласные доступны в Windows в раскладке Британская Расширенная. На Андроиде в OpenBoard большинство доступно на раскладке латиница (без языка). Недоступные на Андроиде можно добавить в пользовательский словарь на какую-нибудь комбинацию. Вьетнамская и турецкая раскладки могут быть полезны на Андроиде (на Windows вьетнамская бесполезна).
-
-
-## Включения иностранных слов без изменений
-
-*Раздел обновлён под новую версию латиницы.*
-
-У каждого слова в русской латинице для меня есть настощая форма в кириллице. Слова в латинице — лишь альтернативное отображение настоящих слов в кирилице. А настоящие слова в латинице всегда помечены специальными знаками:
-
-Y-'khromosoma => Y-хромосома  
-Y'-khromosoma => Y-хромосома  
-creep'ota => creep'ота  
-'that's => that's  
-'citizens' => citizens'  
-''tis => 'tis  
-'Coca-Cola => Coca-Cola  
-'Coca Cola => Coca Кола  
-Coca-Col'ca => Coca-Col'ка  
-Coca Col'ca => Кока Col'ка  
-d'Artaniyan' => д'Артаньян  
-не поддерживается => полу-jeep (ибо нефиг)  
-
-sobaca .cat dog. => собака cat dog.  
-
-. This.  
-Is . horosho. =>  
-This.  
-Is хорошо.
-
-.This.  
-Is . horosho. =>  
-This.  
-Ис horosho.
-
-* Апостроф в начале слова делает настоящей латиницей вправо до первого пробельного символа. Имеет приоритет над апострофом в середине или конце.
-* Апостроф в конце слова делает кириллицу латиницей влево до первого пробельного символа. Имеет приоритет над апострофом в середине слова.
-* Апостроф в середине слова (или беспробельной последовательности) делит слово: слева настоящая латиница, справа кириллица латиницей.
-* Точка в начале слова делает настоящей латиницей вправо до конца предложения.
-* Точка, окруженная пробельными символами, делает настоящей латиницей до следующей такой же точки - можно несколько строк так пометить.
 
 
 ## Требование обратимости латиниц друг в друга - излишне
