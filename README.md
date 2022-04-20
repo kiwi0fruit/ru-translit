@@ -11,8 +11,9 @@
 * [Chastte sootvetstvii iz novogo opisaniia](#chastte-sootvetstvii-iz-novogo-opisaniia)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
 * [Primer texta](#primer-texta)
-* [Vclyucheniia isostrannyh slov bez izmenenii](#vclyucheniia-inostrannyh-slov-bez-izmenenii)
 * [Abbreviatury](#abbreviatury)
+* [Vclyucheniia slov v verkhnem registre](#vclyucheniia-slov-v-verkhnem-registre)
+* [Vclyucheniia isostrannyh slov bez izmenenii](#vclyucheniia-inostrannyh-slov-bez-izmenenii)
 
 Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
 
@@ -447,6 +448,15 @@ CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CaE),
 Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
 IEG'E ЕГЭ (IEGaE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JaEK), JKH ЖКХ, NHL НХЛ, KHL КХЛ, IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, ChIM ЧИМ, Niyu York => NY.
+
+
+## Vclyucheniia slov v verkhnem registre
+
+On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
+Он работает в ГИБДД. Сел вот такой . ЖУК ОГРОМНЫЙ. . Да .БОЛЬШОЙ.
+
+* Точка в начале слова делает словом в верхнем регистре вправо до первого пробельного символа.
+* Точка, окруженная пробельными символами, делает словами в верхнем регистре до следующей такой же точки - можно несколько строк так пометить.
 
 
 ## Vclyucheniia inostrannyh slov bez izmenenii
