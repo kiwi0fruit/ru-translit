@@ -402,7 +402,7 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 * **Aa** - а
   * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIaA, РИaА RIa'A RIaaA)
 * **Bb** - бэ
-* **Cc** - це (C.; CPU ЦПУ, ЦА C'A CzA, CI ЦИ)
+* **Cc** - це (C.; CPU ЦПУ, ЦА C'A CZA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
   * отдельно предлог "к" пишется k
 * **Dd** - дэ
@@ -413,7 +413,7 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
   * стандартно для Е (ЙЭ) используется только IE, а для Э после согласных - только 'E/AE.
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
-* **Hh** - хаш, в аббр. - ха (default), аш (в математике и исключениях) (H., K'HL КХЛ, PH ПэАш)
+* **Hh** - хаш, в аббр. - ха (default), аш (в математике и исключениях) (H., K'HL КХЛ KKHL, PH ПэАш)
   * **Hy** - ы
 * **Ii** - и
 * **Jj** - жей, в аббр. - же (default), жи (в математике и исключениях)
@@ -421,7 +421,7 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 * **Ll** - эль, в аббр. - эл (default)
 * **Mm** - эм, **Nn** - эн, **Oo** - о, **Pp** - пэ, **Qq** - ку, **Rr** - эр
 * **Ss** - эс
-  * **Sh** - ша (Sh., SShA США), **Sch** - ща (Sch., MSch МЩ)
+  * **Sh** - ша (Sh., SShA США), **SCH** - ща (Sch., MSCH МЩ)
 * **Tt** - тэ
 * **Uu** - у
   * **IU** - ю (IU. IUAR ЮАР)
@@ -450,16 +450,16 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 | **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
 |   F    |   H / 'H (KH)  | C / C' (CZ) |   Ch        |   Sh    |
 | **Щ**  |                |             |             |         |
-|  Sch   |                |             |             |         |
+|  SCH   |                |             |             |         |
 
-*Все альтернативные варианты гласных и Й актуальны только после И (`I`).*
+*Все альтернативные варианты гласных и Й с апострофом актуальны только после `I`. А вот IY актуальна после строчных букв в аббревиатуре.*
 
-*Буква Cc называется Це и в аббревиатуры идёт как C / Cz. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
+*Буква Cc называется Це и в аббревиатуры идёт как C / C' (CZ). И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
 SHI ШИ, S'HI СХИ (SKHI), SK'HI СКХИ (SKKHI),  
 CI ЦИ, C'A ЦА (CZA),  
 KIE КЕ, K'E КЭ (KAE), KI КИ,  
-S'CHI СЧИ (ScHI), SCHI ЩИ, SCh СЧ, SchU ЩУ,  
+S'CHI СЧИ (ScHI), SCHI ЩИ, SCh СЧ, SCHU ЩУ,  
 CI ЦИ, CHI ЧИ, C'HI ЦХИ (CZHI), CIE ЦЕ, C'E ЦЭ (CAE),  
 Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА,  
 I'Y ИЙ (IYY), II ИИ, IiIY ИиИ.
