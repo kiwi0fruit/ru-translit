@@ -400,7 +400,7 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
 
 * **Aa** - а
-  * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIhA, РИхА RI'hA RIkhA)
+  * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIiA, РИиА RI'iA RIiiA, ИиИ I'iI IiiI)
 * **Bb** - бэ
 * **Cc** - це (C.; CPU ЦПУ, ЦА C'A CzA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
@@ -410,7 +410,7 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
   * **IE** - е (IE., ЕГЭ IEG'E IEGAE, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
   * **Eh** - э (E., ЕГЭ IEG'E IEGAE, ЭЭГ EEG, РИЭ RI'E RIAE)
-  * стандартно для Е (ЙЭ) используется только IE, а для Э после согласных - только 'E/aE.
+  * стандартно для Е (ЙЭ) используется только IE, а для Э после согласных - только 'E/AE.
 * **Ff** - эф
 * **Gg** - гэ (была "же" в математике)
 * **Hh** - хаш, в аббр. - ха (default), аш (в математике и исключениях) (H., K'HL КХЛ, PH ПэАш)
@@ -438,9 +438,9 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
-| A / 'A (hA) | O / 'O (hO) | U / 'U (hU) | E / 'E (AE) |  Hy   |
+|   A    |       O        |    U        | E / 'E (AE) |   Hy    |
 | **Я**  |     **Ё**      |  **Ю**      | **Е**       |  **И**  |
-|   IA   |      IEO       |   IU        |   IE        | I / I' (Ih) |
+|   IA   |      IEO       |   IU        |   IE        | I / I' (Ii) |
 | **Б**  |     **В**      |  **Г**      | **Д**       |  **Ж**  |
 |   B    |       V        |    G        |   D         |    J    |
 | **З**  |     **Й**      |  **К**      | **Л**       |  **М**  |
@@ -465,7 +465,7 @@ IEG'E ЕГЭ (IEGAE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ,
 
 C'Z ЦЗ (CzZ, CZZ).
 
-Только ходовые диграфы всегда слитно в аббревиатурах: SH, CH, KH, SCH, CZ. Перед заглавной `I` используются полные формы всегда.
+Только ходовые диграфы всегда слитно в аббревиатурах: SH, CH, KH, SCH, CZ, AE. Перед заглавной `I` используются полные формы всегда.
 
 
 ## Vclyucheniia slov v verkhnem registre
