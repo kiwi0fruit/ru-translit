@@ -39,7 +39,7 @@ u f - - h/kh - c/cz - ch
 sh sch - hy/y - e/ae - iu/yu ia/ya
 
 ъ - - - - - - - - - - - ь  
-yi (podyiiezd) - i (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi + e)
+yi (podyyiezd) - i (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi + e)
 
 
 ## Boleie podrobnoie opisaniie pravil
@@ -116,14 +116,14 @@ cae це/цэ
 
 Tveordyi znac delaietsya s pomoschiyu perieoboznacheniia:
 
-podyiiezd подъезд  
-obyiisc объиск  
-vyyisckivatte выискивать (cepnoie pereoboznacheniie)  
+podyyiezd подъезд  
+obyyisc объиск  
+vyiisckivatte выискивать (cepnoie pereoboznacheniie)  
 obysc обыск (mojno sdelatte reformu v объиск)  
-obyiii обйи  
+obyyii обйи  
 вы-йи vy-yi
 
-Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiiezd, obyiiect (реформа в obiyect), piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
+Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyyiezd, obyyiect (реформа в obiyect), piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
 
 ----
 
@@ -236,7 +236,7 @@ Billbo
 
 2) Y всегда диграф либо с согласной слева, но делает твёрдой согласную и звучит (так, вожжи/vojji и вожжы/vojjy звучат мягкой и твёрдой ж), либо с гласной справа (йотирует), у согласных приоритет. Прилипчивая она. К гласным, которые слева, и согласным, которые справа, не прилипает. После гласных не прилипшая читается как й.
 
-3) Диграфы с Y имеют приоритет над диграфами с i.
+3) Диграфы с Y имеют приоритет над диграфом с iy.
 
 4) Триграфы согласная + ie, согл. + iy, согл. + ya, согл. + yu, согл. + yo читаются по-другому и имеют приоритет над 1-3).  
   sie - се (именно /sʲe/)  
@@ -249,8 +249,8 @@ Billbo
     khy - хы  
     siae - сиэ  
     sihy - сиы  
-    syaa - сыа  
-    syuu - сыу  
+    syoa - сыа  
+    syou - сыу  
     syoo - сыо
 
 5) Квадрографы согласная + iye, согл. + iya, согл. + iyu, согл. + iyo читаются по-другому и имеют приоритет над 1-4).  
@@ -293,7 +293,7 @@ oiya - ойя
 yye - йе (в начале)  
 yya - йя (в начале)
 
-yi - всегда йи, никогда не теряет йотирование
+yi - почти всегда йи, никогда не теряет йотирование, кроме обозначения твердого знака.
 
 iyi - ийи (в начале)  
 iii - ии (в начале)
@@ -375,9 +375,9 @@ Pod govor piyanyh mujichcov.
 
 Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
 
-Piyanyi master po proiectu sdelal mekhanichesckii obiyect s izyiianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyyigryvatte goncki i vyouchitte svoii oshibcki.
+Piyanyi master po proiectu sdelal mekhanichesckii obiyect s izyyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
 
-V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyiisckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
+V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyyisckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
 
