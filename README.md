@@ -148,9 +148,10 @@ hie е (йэ)
 hiyye ие  
 hiie хие  
 hiye хье  
-gh г
+gh г  
+ghy ги
 
-ghiypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон
+ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон
 
 ----
 
@@ -294,7 +295,7 @@ Moroz i solnce; denne chudesnyi!
 IEsche ty dremleshhe, drug prelestnyi —  
 Pora, crasavicza, prosnisse:  
 Otcroi somcnuty negoi vzory  
-Navstrechu severnoi Avrory,  
+Navstrechu severnoi Aurory,  
 Zvezdoiu severa iavisse!
 
 Vecheor, ty pomnishhe, viyuga zlilasse,  
@@ -382,7 +383,7 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvenn
 
 Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdeniia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
 
-Imeietsya nescoleco ghiypothez proiiskhojdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
+Imeietsya nescoleco ghypothez proiiskhojdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
 
 V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zreniia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugiie priderjivaiutsya mneniia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoriia).
 
