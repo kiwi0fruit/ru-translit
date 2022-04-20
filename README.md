@@ -448,22 +448,22 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 | **Н**  |     **П**      |  **Р**      | **С**       |  **Т**  |
 |   N    |       P        |    R        |   S         |    T    |
 | **Ф**  |     **Х**      |  **Ц**      | **Ч**       |  **Ш**  |
-|   F    |   H / 'H (kH)  | C / C' (Cz) |   Ch        |   Sh    |
+|   F    |   H / 'H (KH)  | C / C' (CZ) |   Ch        |   Sh    |
 | **Щ**  |                |             |             |         |
 |  Sch   |                |             |             |         |
 
 *Буква Cc называется Це и в аббревиатуры идёт как C / Cz. И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
-SHI ШИ, S'HI СХИ (SkHI), SK'HI СКХИ (SKkHI),  
-CI ЦИ, C'A ЦА (CzA),  
+SHI ШИ, S'HI СХИ (SKHI), SK'HI СКХИ (SKKHI),  
+CI ЦИ, C'A ЦА (CZA),  
 KIE КЕ, K'E КЭ (KAE), KI КИ,  
 S'CHI СЧИ (ScHI), SCHI ЩИ, SCh СЧ, SchU ЩУ,  
-CI ЦИ, CHI ЧИ, C'HI ЦХИ (CzHI), CIE ЦЕ, C'E ЦЭ (CAE),  
+CI ЦИ, CHI ЧИ, C'HI ЦХИ (CZHI), CIE ЦЕ, C'E ЦЭ (CAE),  
 Y'E ЙЭ (YE), YIE ЙЕ, YI ЙИ, YA ЙА.
 
-IEG'E ЕГЭ (IEGAE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JAEK), JK'H ЖКХ (JKkH), NHL НХЛ, K'HL КХЛ (KkHL), IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, CHIM ЧИМ, Niyu York => NY.
+IEG'E ЕГЭ (IEGAE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ, J'EK ЖЭК (JAEK), JK'H ЖКХ (JKKH), NHL НХЛ, K'HL КХЛ (KKHL), IEKA ЕКА, FIIA ФИЯ, CERN ЦЕРН, OBSIE ОБСЕ, GIBDD ГИБДД, CHIM ЧИМ, Niyu York => NY.
 
-C'Z ЦЗ (CzZ, CZZ).
+C'Z ЦЗ (CZZ).
 
 Только ходовые диграфы всегда слитно в аббревиатурах: SH, CH, KH, SCH, CZ, AE. Перед заглавной `I` используются полные формы всегда.
 
