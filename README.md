@@ -114,6 +114,14 @@ ci ци (glavnoie napisaniie)
 cy цы/ци  
 cae це/цэ
 
+Tveordyi znac delaietsya s pomoschiyu perieoboznacheniia:
+
+podyiiezd подъезд  
+obyiisc объиск  
+vyyisckivatte выискивать (cepnoie pereoboznacheniie)  
+obysc обыск (mojno sdelatte reformu v объиск)  
+вы-йи vy-yi
+
 Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiiezd, obyiiect (реформа в obiyect), piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costte-utille, грабьармия grabbe-armiia.
 
 ----
@@ -366,9 +374,9 @@ Pod govor piyanyh mujichcov.
 
 Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
 
-Piyanyi master po proiectu sdelal mekhanichesckii obiyect s izyiianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
+Piyanyi master po proiectu sdelal mekhanichesckii obiyect s izyiianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyyigryvatte goncki i vyouchitte svoii oshibcki.
 
-V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obysckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
+V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyiisckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
 
