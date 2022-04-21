@@ -122,12 +122,18 @@ cae це/цэ
 
 Tveordyi znac delaietsya s pomoschiyu perieoboznacheniia:
 
-podyyiezd подъезд  
+dyie дые, dyia дыя (v conce slova)  
+dyie дъе, dyia дъя (ne v conce slova)  
+dyiie дые, dyiia дыя (v lyubom meste, vmesto дыиэ, дыиа)  
+dyyie дъе, dyyia дъя (v lyubom meste, vmesto дыйиэ, дыйиа)
+
+podyiezd подъезд  
 obyyisc объиск  
-vyiisckivatte выискивать (cepnoie pereoboznacheniie)  
+vyiisckivatte выискивать  
 obysc обыск (mojno sdelatte reformu v объиск)  
 obyyii обйи  
-вы-йи vy-yi
+выйи vy-yi / vyi-i  
+выиа vy-iia / vyii-a  
 
 ppeie пье (ne glavnoie napisaniie)  
 ppeia пья (ne glavnoie napisaniie)
