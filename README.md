@@ -391,7 +391,7 @@ Pod govor piyanyh mujichcov.
 
 Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
 
-Piyanyi master po proiectu sdelal mekhanichesckii obyyiect s izyyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
+Piyanyi master po proiectu sdelal mekhanichesckii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
 
 V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyyisckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
