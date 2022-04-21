@@ -39,7 +39,7 @@ u f - - h/kh - c/cz - ch
 sh sch - hy/y - e/ae - iu/yu ia/ya
 
 ъ
-yi (podyiezd — ne v conce slova) / yyi (дъе dyyie — v lyubom meste)
+y (podyiezd — ne v conce slova) / yy (дъе dyyie — v lyubom meste posle soglasnyh)
 
 ь
 i (diyavol) / tte (brattesya, glushhe — udvoieniie soglasnoi + e)
