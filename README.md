@@ -38,13 +38,13 @@ u f - - h/kh - c/cz - ch
 ш - щ - - ы - - - - э - - - ю - - я  
 sh sch - hy/y - e/ae - iu/yu ia/ya
 
-ъ
+ъ  
 y (podyiezd — ne v conce slova) / - (дъе d-ie — v conce slova)
 
-ь
+ь  
 i (diyavol) / tte (brattesya, glushhe — udvoieniie soglasnoi + e)
 
-ые
+ые  
 yie (novyie — v conce slova) / yyie (подыезд podyyiezd — ne v conce slova)
 
 
