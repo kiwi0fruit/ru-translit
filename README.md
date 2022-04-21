@@ -73,8 +73,6 @@ iy и
 
 Isclyucheniia iz pravil posle soglasnyh pocazany (!):
 
-vyii выи  
-vyi вый  
 vyoe выэ  
 vyoo выо  
 vyou выу  
@@ -122,23 +120,28 @@ cae це/цэ
 
 Tveordyi znac delaietsya s pomoschiyu perieoboznacheniia:
 
+vyii выи  
+vyi вый (v conce slova)  
+vyi въи (ne v conce slova)  
 dyie дые, dyia дыя (v conce slova)  
 dyie дъе, dyia дъя (ne v conce slova)  
-dyiie дые, dyiia дыя (v lyubom meste, vmesto дыиэ, дыиа)  
-dyyie дъе, dyyia дъя (v lyubom meste, vmesto дыйиэ, дыйиа)
+
+dyys дыйc (v lyubom meste)  
+dyyie дые, dyyia дыя (v lyubom meste)  
+d-ie дъе, d-ia дъя (v conce)  
 
 podyiezd подъезд  
-obyyisc объиск  
+obyisc объиск  
 vyiisckivatte выискивать  
 obysc обыск (mojno sdelatte reformu v объиск)  
-obyyii обйи  
+obyyi обйи  
 выйи vy-yi / vyi-i  
 выиа vy-iia / vyii-a  
 
 ppeie пье (ne glavnoie napisaniie)  
 ppeia пья (ne glavnoie napisaniie)
 
-Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyyiezd, obyyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
+Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
 
 Sochetaniie "yy" zagnano podalleshe, i v obschem-to optcionalleno: obysc / obyyisc, otygrysh / otyyigrysh.
 
@@ -395,7 +398,7 @@ Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaius
 
 Piyanyi master po proiectu sdelal mekhanichesckii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
 
-V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obysckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
+V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyisckival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
 
