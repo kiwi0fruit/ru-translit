@@ -38,8 +38,14 @@ u f - - h/kh - c/cz - ch
 ш - щ - - ы - - - - э - - - ю - - я  
 sh sch - hy/y - e/ae - iu/yu ia/ya
 
-ъ - - - - - - - - - - - ь  
-yi (podyyiezd) - i (diyavol) / tte (brattesya,glushhe — udvoieniie soglasnoi + e)
+ъ
+yi (podyiezd — ne v conce slova) / yyi (дъе dyyie — v conce slova ili v lyubom meste)
+
+ь
+i (diyavol) / tte (brattesya, glushhe — udvoieniie soglasnoi + e)
+
+ые
+yie (novyie — v conce slova) / yiie (подыезд podyiiezd — ne v conce slova ili v lyubom meste)
 
 
 ## Boleie podrobnoie opisaniie pravil
