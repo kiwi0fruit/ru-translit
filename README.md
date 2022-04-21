@@ -126,8 +126,8 @@ vyi въи (ne v conce slova)
 dyie дые, dyia дыя (v conce slova)  
 dyie дъе, dyia дъя (ne v conce slova)  
 
-dyys дыйc (v lyubom meste)  
-dyyie дые, dyyia дыя (v lyubom meste)  
+dyy дый (v lyubom meste)  
+dyiie дые, dyiia дыя (v lyubom meste)  
 d-ie дъе, d-ia дъя (v conce)  
 
 podyiezd подъезд  
