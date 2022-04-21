@@ -39,13 +39,13 @@ u f - - h/kh - c/cz - ch
 sh sch - hy/y - e/ae - iu/yu ia/ya
 
 ъ
-y (podyiezd — ne v conce slova) / yy (дъе dyyie — v lyubom meste posle soglasnyh)
+y (podyiezd — ne v conce slova) / - (дъе d-ie — v conce slova)
 
 ь
 i (diyavol) / tte (brattesya, glushhe — udvoieniie soglasnoi + e)
 
 ые
-yie (novyie — v conce slova) / yiie (подыезд podyiiezd — v lyubom meste)
+yie (novyie — v conce slova) / yyie (подыезд podyyiezd — ne v conce slova)
 
 
 ## Boleie podrobnoie opisaniie pravil
