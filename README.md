@@ -126,15 +126,15 @@ vyi въи (ne v conce slova)
 dyie дые, dyia дыя (v conce slova)  
 dyie дъе, dyia дъя (ne v conce slova)  
 
-dyy дый (v lyubom meste)  
-dyiie дые, dyiia дыя (v lyubom meste)  
-d-ie дъе, d-ia дъя (v conce)  
+vyy вый (v lyubom meste)  
+vyyie вые, vyyia выя, vyyi выйи (v lyubom meste)  
+v-ie въе, v-ia въя (v conce)  
 
 podyiezd подъезд  
 obyisc объиск  
 vyiisckivatte выискивать  
 obysc обыск (mojno sdelatte reformu v объиск)  
-obyyi обйи  
+обйи ob-yi  
 выйи vy-yi / vyi-i  
 выиа vy-iia / vyii-a  
 
