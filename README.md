@@ -52,11 +52,11 @@ yie (novyie — v conce slova) / yiie (vyiiezd — ne v conce slova)
 
 S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
 Cstati, mojno oslabitte eto pravilo:  
-Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:  
+Delatte takiie zameny tolleco tam, gde iestte risc pereputatte:  
 Da: IEgo. Iuliia. IUg.  
 Net: Iego. IUliia. Iug.
 
-Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojeniia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primeneniie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
+Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojeniia posle tochki. No vot cogda ne bylo tochki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primeneniie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
 
 Osobuiu actuallenostte priobretaiet razdel [Vclyucheniia isostrannyh slov bez izmenenii](#vclyucheniia-inostrannyh-slov-bez-izmenenii).
 
@@ -134,7 +134,7 @@ vyiezd въезд
 vyiiezd выезд  
 podyiezd подъезд  
 obyisc объиск  
-vyiisckivatte выискивать  
+vyiiskivatte выискивать  
 obysc обыск (mojno sdelatte reformu v объиск)  
 обйи ob-yi  
 выиа vy-iia / vyii-a  
@@ -186,7 +186,7 @@ hiye хье
 gh г  
 ghy ги  
 ghy гы (v conce slova)  
-tot je princip nado vzyatte i dlya drugih grechesckih digraphov (ph, th)
+tot je princip nado vzyatte i dlya drugih grecheskih digraphov (ph, th)
 
 ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
 
