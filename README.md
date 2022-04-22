@@ -45,7 +45,7 @@ y (podyiezd — ne v conce slova) / - (дъе d-ie — v conce slova)
 i (diyavol) / tte (brattesya, glushhe — udvoieniie soglasnoi + e)
 
 ые  
-yie (novyie — v conce slova) / yyie (подыезд podyyiezd — ne v conce slova)
+yie (novyie — v conce slova) / yiie (vyiiezd — ne v conce slova)
 
 
 ## Boleie podrobnoie opisaniie pravil
