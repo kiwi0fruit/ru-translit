@@ -223,6 +223,8 @@ czzze цць
 цз cjz  
 кж ckj
 
+gj ж
+
 жя jea  
 жеа jiea  
 жю jeu  
@@ -241,7 +243,7 @@ czzze цць
 дзе dzje  
 дзиа dzjia
 
-piczza, caprichhio, accent, emodji эмоджи, emodzji эмодзи, цзи cji, цзя cjia, Ryudzji Рюдзи.
+piczza, caprichhio, accent, emodji эмоджи, emodzji эмодзи, цзи cji, цзя cjia, Ryudzji Рюдзи, byudgjet, sergjeant (сержянт).
 
 ----
 
