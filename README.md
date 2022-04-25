@@ -8,17 +8,19 @@
 
 Смысл любой русской латиницы я вижу только в использовании на указателях, латинизации имён, на выпендрёжных вывесках. Редкое использование в URL, никах, именах файлов или коментах. Ну вместо ужасного англотранслита или ужасных славянских латиниц. А вот латинизацию России я считаю плохой идеей и не приветствую.
 
-* [Chastte sootvetstvii iz novogo opisaniia](#chastte-sootvetstvii-iz-novogo-opisaniia)
+* [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
+* [Resheniie problemy nachala slov tipa iod i iion](#resheniie-problemy-nachala-slov-tipa-iod-i-iion)
+* [Optimizatcia napisanii iia i iiu v conce slova](#optimizatcia-napisanii-iia-i-iiu-v-conce-slova)
 * [Primer texta](#primer-texta)
 * [Abbreviatury](#abbreviatury)
-* [Vclyucheniia slov v verkhnem registre](#vclyucheniia-slov-v-verkhnem-registre)
-* [Vclyucheniia isostrannyh slov bez izmenenii](#vclyucheniia-inostrannyh-slov-bez-izmenenii)
+* [Vclyuchenia slov v verkhnem registre](#vclyuchenia-slov-v-verkhnem-registre)
+* [Vclyuchenia isostrannyh slov bez izmenenii](#vclyuchenia-inostrannyh-slov-bez-izmenenii)
 
 Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
 
 
-## Chastte sootvetstvii iz novogo opisaniia
+## Chastte sootvetstvii iz novogo opisania
 
 а б в г д  
 a b v g d
@@ -262,7 +264,8 @@ Billbo
 
 scheotca, scheot, vesnushhchatyi, rashchuvstvovalsya, rashchleneniie.
 
-----
+
+## Resheniie problemy nachala slov tipa iod i iion
 
 Конкретизация правил russcoi latinicy для проблем начала слов типа йод, ион:
 
@@ -338,6 +341,29 @@ pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus (можно реформу 
 Iisus - Исус (по правилам прилипания i)
 
 
+## Optimizatcia napisanii iia i iiu v conce slova
+
+Всё тоже самое, только проводится оптимизация написаний в конце слова (только в конце слова):
+
+sia сия (вместо siia)  
+siu сию (вместо siiu)  
+siaa сиа  
+siou сиу  
+
+Но при этом остаются:
+
+siiy сии  
+siieo сиё  
+siio сийо  
+siie сие
+
+Последнее нужно, чтобы, например, писать декольте с явно мягкой ДЕ - чтобы мочь передать неправильное произношение в речи письменно. К тому же, оно точно должно значить Е после удвоенных согласных — больше нет альтернативных написаний.
+
+diecolletie дєкольтє
+
+Эта версия задумывалась как троллинг любителей писать Вания (Vania) вместо Ваня. Но полностью логично сделать не удалось, ибо единственный способ написать декольтє — это написать декольтие - decolletie (decolletye, decolletee, decollettee, decolletteae - ещё хуже). А фонетическая выразительность для меня важнее.
+
+
 ## Primer texta
 
 Alexandr Pushkin — Zimneie utro
@@ -382,7 +408,7 @@ Lermontov M.IU. — Rodina
 Lyublyu otchiznu ia, no strannoiu lyuboviyu!  
 Ne pobedit ieio rassudoc moi.  
 Ni slava, cuplennaia croviyu,  
-Ni polnyi gordogo doveriia pocoi,  
+Ni polnyi gordogo doveria pocoi,  
 Ni teomnoi stariny zavetnyie predaniya  
 Ne shevelyat vo mne otradnogo mechtaniya.  
 No ia lyublyu — za chto, ne znaiu sam —  
@@ -406,7 +432,7 @@ Smotrette do polnochi gotov
 Na plyascu s topaniyem i svistom  
 Pod govor piyanyh mujichcov.
 
-// God napisaniia: 1841
+// God napisania: 1841
 
 Pieony i vasilleki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshii v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectriki".
 
@@ -428,15 +454,15 @@ Lyubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devyanosto devy
 
 Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilisse v odin denne, 22 sentyabrya.
 
-– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsya by ty co mne. Glyadishhe, i denne rojdeniia vmeste otmechali by.
+– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsya by ty co mne. Glyadishhe, i denne rojdenia vmeste otmechali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste mejdu dvadczatiyu i tridczatiyu tremya, posle chego hobbit naconecz mojet schitatte sebya vzroslym.
 
-Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdeniia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
+Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdenia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
 
-Imeietsya nescoleco ghypothez proiiskhojdeniia sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
+Imeietsya nescoleco ghypothez proiiskhojdenia sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
 
-V sujdeniiah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zreniia. Odni schitaiut, chto sobaki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescollekih predcov), drugiie priderjivaiutsya mneniia, chto vse sobaki proiizoshli ot odnogo predca (monophiyletichescaia thieoriia).
+V sujdeniiah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenia. Odni schitaiut, chto sobaki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescollekih predcov), drugiie priderjivaiutsya mnenia, chto vse sobaki proiizoshli ot odnogo predca (monophiyletichescaia thieoria).
 
 
 ## Abbreviatury
@@ -517,7 +543,7 @@ C'Z ЦЗ (CZZ).
 Только ходовые диграфы всегда слитно в аббревиатурах: SH, CH, KH, SCH, CZ, AE. Перед заглавной `I` используются полные формы всегда.
 
 
-## Vclyucheniia slov v verkhnem registre
+## Vclyuchenia slov v verkhnem registre
 
 On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
 Он работает в ГИБДД. Сел вот такой . ЖУК ОГРОМНЫЙ. . Да .БОЛЬШОЙ.
@@ -526,7 +552,7 @@ On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
 * Точка, окруженная пробельными символами, делает словами в верхнем регистре до следующей такой же точки - можно несколько строк так пометить.
 
 
-## Vclyucheniia inostrannyh slov bez izmenenii
+## Vclyuchenia inostrannyh slov bez izmenenii
 
 У каждого слова в русской латинице для меня есть настощая форма в кириллице. Слова в латинице — лишь альтернативное отображение настоящих слов в кирилице. А настоящие слова в латинице всегда помечены специальными знаками:
 
