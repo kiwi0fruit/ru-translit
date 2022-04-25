@@ -146,7 +146,7 @@ ppeia пья (ne glavnoie napisaniie)
 
 Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
 
-Sochetaniie "yy" zagnano podalleshe, i v obschem-to optcionalleno: obysc / obyyisc, otygrysh / otyyigrysh.
+Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
 ----
 
@@ -444,7 +444,7 @@ V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po re
 
 Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
 
-Maer nebolleshogo gorodishki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj ekzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. Iesli tac poideot i dalleshe, to byudjetu prideotsya hudo.
+Maer nebolleshogo gorodishki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj ekzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. Iesli tac poideot i dalleshe, to byudgjetu prideotsya hudo.
 
 V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. Ieoj colyuchii i pohoj na neio.
 
