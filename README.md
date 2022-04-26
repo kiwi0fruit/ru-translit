@@ -28,8 +28,8 @@ a b v g d
 е - - - - - - - - - ё - - - - - ж з - и  
 ie/e/ye - ieo/eo/yeo - j z - i/ii/iy
 
-й - - - к - - л м н  
-i/y - c/k - l m n
+й - - - к - - - - л м н  
+i/y - c/ck/k - l m n
 
 о п р с т  
 o p r s t
@@ -54,11 +54,11 @@ yie (novyie — v conce slova) / yiie (vyiiezd — ne v conce slova)
 
 S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
 Cstati, mojno oslabitte eto pravilo:  
-Delatte takiie zameny tolleco tam, gde iestte risc pereputatte:  
+Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:  
 Da: IEgo. Iuliia. IUg.  
 Net: Iego. IUliia. Iug.
 
-Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojeniia posle tochki. No vot cogda ne bylo tochki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primeneniie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
+Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojeniia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primeneniie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
 
 Osobuiu actuallenostte priobretaiet razdel [Vclyucheniia isostrannyh slov bez izmenenii](#vclyucheniia-inostrannyh-slov-bez-izmenenii).
 
@@ -188,13 +188,14 @@ hiye хье
 gh г  
 ghy ги  
 ghy гы (v conce slova)  
-tot je princip nado vzyatte i dlya drugih grecheskih digraphov (ph, th)
+tot je princip nado vzyatte i dlya drugih grechesckih digraphov (ph, th)
 
 ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
 
 ----
 
-К pered ЕЁИ — k
+К pered ЕЁИ v oconchaniiah — ck  
+К pered ЕЁИ v osnove — k  
 
 кз osnovnoie napisaniie — kz  
 кз v isclyucheniiah — ckz, xz
@@ -394,8 +395,8 @@ I rechca podo lledom blestit.
 Vsya comnata iantarnym blescom  
 Ozarena. Veseolym trescom  
 Treschit zatoplennaia pechhe.  
-Priiatno dumatte u lejanki.  
-No znaieshhe: ne velette li v sanki  
+Priiatno dumatte u lejancki.  
+No znaieshhe: ne velette li v sancki  
 Cobylcu buruiu zaprechhe?
 
 Scollezya po utrennnemu snegu,  
@@ -436,15 +437,15 @@ Pod govor piyanyh mujichcov.
 
 // God napisania: 1841
 
-Pieony i vasilleki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshii v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectriki".
+Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshii v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
 
-Piyanyi master po proiectu sdelal mekhanicheskii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte gonki i vyouchitte svoii oshibki.
+Piyanyi master po proiectu sdelal mekhanichesckii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
 
-V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po reke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyiskival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
+V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyiskival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
 
-Maer nebolleshogo gorodishki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj ekzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. Iesli tac poideot i dalleshe, to byudgjetu prideotsya hudo.
+Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj ekzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. Iesli tac poideot i dalleshe, to byudgjetu prideotsya hudo.
 
 V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. Ieoj colyuchii i pohoj na neio.
 
@@ -452,7 +453,7 @@ Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhoda
 
 "Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshii mekhanic Vasilii.
 
-Lyubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
+Lyubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
 
 Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilisse v odin denne, 22 sentyabrya.
 
@@ -462,9 +463,9 @@ Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvenn
 
 Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdenia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
 
-Imeietsya nescoleco ghypothez proiiskhojdenia sobaki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
+Imeietsya nescoleco ghypothez proiiskhojdenia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
 
-V sujdeniiah ucheonyh o predcah domashnei sobaki prisutstvuiut dve tochki zrenia. Odni schitaiut, chto sobaki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescollekih predcov), drugiie priderjivaiutsya mnenia, chto vse sobaki proiizoshli ot odnogo predca (monophiyletichescaia thieoria).
+V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugiie priderjivaiutsya mnenia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoria).
 
 
 ## Abbreviatury
