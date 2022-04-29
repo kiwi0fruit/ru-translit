@@ -75,17 +75,17 @@ iy и
 
 Isclyucheniia iz pravil posle soglasnyh pocazany (!):
 
-vyoe выэ  
-vyoo выо  
-vyou выу  
-vyoa выа
+vye выэ  
+vyeo выо  
+vyeu выу  
+vyea выа  
+vye-a выэ-а  
+vye-u выэ-у  
+vye-o выэ-о
 
 kya кя  
 kyu кю   
 kyo кё (ne glavnoie napisaniie)  
-kyo-a кёа  
-kyo-u кёу  
-kyo-o кёо (ne glavnoie napisaniie)
 
 veii веи  
 vei вей  
@@ -167,12 +167,12 @@ V nachale slov:
 ^ieu ^ев
 ^au ^ав  
 ^iau ^яв  
-^eou ^эу  
-^ieou ^еу
-^aou ^ау  
-^iaou ^яу  
+^euu ^эу  
+^ieuu ^еу
+^auu ^ау  
+^iauu ^яу  
 
-pouchatte поучать, nuga нуга, IEuropa, aurora, author, подавтор podavthor, aoura, zauchitte, nauchitte.
+pouchatte поучать, nuga нуга, IEuropa, aurora, author, подавтор podavthor, auura, zauchitte, nauchitte.
 
 IEsche:
 
@@ -289,10 +289,11 @@ scheotca, scheot, vesnushhchatyi, rashchuvstvovalsya, rashchleneniie.
     khy - хы  
     siae - сиэ  
     sihy - сиы  
-    syoa - сыа  
-    syou - сыу  
-    syoo - сыо
-    syoe - сыэ
+    syhy - сыы  
+    syea - сыа  
+    syeu - сыу  
+    syeo - сыо
+    sye - сыэ
 
 5) Квадрографы согласная + iye, согл. + iya, согл. + iyu, согл. + iyo читаются по-другому и имеют приоритет над 1-4).  
   siye - сье  
@@ -439,7 +440,7 @@ Pod govor piyanyh mujichcov.
 
 Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshii v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
 
-Piyanyi master po proiectu sdelal mekhanichesckii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyouchitte svoii oshibcki.
+Piyanyi master po proiectu sdelal mekhanichesckii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyeuchitte svoii oshibcki.
 
 V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyiskival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
