@@ -2,11 +2,11 @@
 
 <img src="./russcaia-black.png" alt="dicritics" width="200px">
 
-# Новая, не до конца описанная Русская латиница от kiwi0fruit (Russcaia Latinicza)
+# Novaia, ne do concza opisannaia Russcaia Latinicza ot kiwi0fruit
 
-Латница, в которой CA читается как КА - как у культурных европейцев (https://vk.com/wall-14213047_336). Группа ВКонтакте: https://vk.com/club14213047
+Latinicza, v cotoroi CA chitaietsya cac KA - cac u cullturnyh ieuropeicev (https://vk.com/wall-14213047_336). Gruppa VKontakte: https://vk.com/club14213047
 
-Смысл любой русской латиницы я вижу только в использовании на указателях, латинизации имён, на выпендрёжных вывесках. Редкое использование в URL, никах, именах файлов или коментах. Ну вместо ужасного англотранслита или ужасных славянских латиниц. А вот латинизацию России я считаю плохой идеей и не приветствую.
+Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah, latinizatciiy imeon, na vypendreojnyh vyvescah. Redcoie ispollezovaniie v 'URL, nickah, imenah failov ili commentah. Nu vmesto ujasnogo anglotranslita ili ujasnyh slavyansckih latinicz. A vot latinizatciu Rossiiy ia schitaiu plohoi ideiei i ne privetstvuiu.
 
 * [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
@@ -17,7 +17,7 @@
 * [Vclyuchenia slov v verkhnem registre](#vclyuchenia-slov-v-verkhnem-registre)
 * [Vclyuchenia isostrannyh slov bez izmenenii](#vclyuchenia-inostrannyh-slov-bez-izmenenii)
 
-Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
+Novaia versia latinicy. Teperre polnostiyu 'ASCII!
 
 
 ## Chastte sootvetstvii iz novogo opisania
@@ -58,7 +58,7 @@ Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:
 Da: IEgo. Iuliia. IUg.  
 Net: Iego. IUliia. Iug.
 
-Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojeniia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primeneniie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
+Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojenia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primeneniie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
 
 Osobuiu actuallenostte priobretaiet razdel [Vclyucheniia isostrannyh slov bez izmenenii](#vclyucheniia-inostrannyh-slov-bez-izmenenii).
 
@@ -73,7 +73,7 @@ iu ю
 io йо  
 iy и
 
-Isclyucheniia iz pravil posle soglasnyh pocazany (!):
+Isclyuchenia iz pravil posle soglasnyh pocazany (!):
 
 vye выэ  
 vyeo выо  
@@ -104,8 +104,8 @@ viu виу
 via виа
 
 vii вий  
-viiy вии (в окончании)  
-viii вии (не в окончании)
+viiy вии (v oconchaniiy)  
+viii вии (ne v oconchaniiy)
 
 czya ця  
 czyu цю  
@@ -120,7 +120,7 @@ ci ци (glavnoie napisaniie)
 cy цы/ци  
 cae це/цэ
 
-Tveordyi znac delaietsya s pomoschiyu perieoboznacheniia:
+Tveordyi znac delaietsya s pomoschiyu perieoboznachenia:
 
 vyii выи  
 vyi вый (v conce slova)  
@@ -144,7 +144,7 @@ obysc обыск (mojno sdelatte reformu v объиск)
 ppeie пье (ne glavnoie napisaniie)  
 ppeia пья (ne glavnoie napisaniie)
 
-Мария Mariia, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
+пиявка piiavca, Мария Maria, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
 
 Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
@@ -159,7 +159,7 @@ bv в
 bvy ви  
 bvy вы (v conce slova)
 
-zabhveniie, obhvoditte, diyabvol, Bvabvylon, Bvyzantiia, Buddha, Iiacobv, slova Iiacobvy, Iacobvlev.
+zabhveniie, obhvoditte, diyabvol, Bvabvylon, Bvyzantia, Buddha, Iiacobv, slova Iiacobvy, Iacobvlev.
 
 V nachale slov:
 
@@ -178,7 +178,7 @@ IEsche:
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
-Cac imenno osuschestvlyatte adaptatciiu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
+Cac imenno osuschestvlyatte adaptatciu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
 
 hiy и  
 hie е (йэ)  
@@ -190,7 +190,7 @@ ghy ги
 ghy гы (v conce slova)  
 tot je princip nado vzyatte i dlya drugih grechesckih digraphov (ph, th)
 
-ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
+ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteria истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
 
 ----
 
@@ -258,11 +258,11 @@ Billbo
 
 ----
 
-Правиля для щ-сч для обратимости.
+Pravila dlya щ-сч dlya obratimosti.
 
 щ sch  
-сч sch - в словарных словах, читающихся как [ɕ], [ʂ] или [ɕː]  
-сч shch - остальные (всякие [ɕt͡ɕ], [ɕˈt͡ɕ] или [ʂt͡ɕ] попадают сюда)  
+сч sch - v slovarnyh slovah, chitaiuschihsya cac [ɕ], [ʂ] ili [ɕː]  
+сч shch - ostallenyie (vsyackiie [ɕt͡ɕ], [ɕˈt͡ɕ] ili [ʂt͡ɕ] popadaiut syuda)  
 шч shhch
 
 scheotca, scheot, vesnushhchatyi, rashchuvstvovalsya, rashchleneniie.
