@@ -144,7 +144,7 @@ obysc обыск (mojno sdelatte reformu v объиск)
 ppeie пье (ne glavnoie napisaniie)  
 ppeia пья (ne glavnoie napisaniie)
 
-пиявка piiavca, Мария Maria, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
+пиявка piiavca, Мария Maria, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
 
 Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
@@ -190,7 +190,7 @@ ghy ги
 ghy гы (v conce slova)  
 tot je princip nado vzyatte i dlya drugih grechesckih digraphov (ph, th)
 
-ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteria истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
+ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoria история, hiysteria истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
 
 ----
 
@@ -200,7 +200,7 @@ ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппоп
 кз osnovnoie napisaniie — kz  
 кз v isclyucheniiah — ckz, xz
 
-ck к — этимологичный вариант  
+ck к — etiymologichnyi variant  
 hockey
 
 ssh сш  
