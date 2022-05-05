@@ -511,9 +511,9 @@ Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya n
   * **Hy** - ы (Hy.)
 * **Zz** - зэт, v abbr. - зэ ('default), зэт (v mathematicke i isclyucheniiah)
 
-Символы (комбинации) внутреннего уровня не являются самостоятельными буквами, но при этом имеют отдельные названия и входят в состав (фонетически образованных) аббревиатур - это нужно для совместимости с кириллицей.
+Siymbvoly (combinatciiy) vnutrennego urovnya ne iavlyaiutsya samostoiatellenymi bucvami, no pri etom imeiut otdellenyie nazvania i vkhodyat v sostav (phoneticheski obrazovannyh) abbreviatur - eto nujno dlya sovmestimosti s kiyrillicei.
 
-В скобках указаны ASCII-only обозначения.
+V scobcah ucazany 'ASCII-only oboznachenia.
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
@@ -531,9 +531,9 @@ Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya n
 | **Щ**  |                |             |             |         |
 |  SCH   |                |             |             |         |
 
-*Все альтернативные варианты гласных АОУ с апострофом актуальны только после `I`.*
+*Vse allternativnyie varianty glasnyh AOU ("АОУ") s apostrophom actualleny tolleco posle `I`.*
 
-*Буква Cc называется Це и в аббревиатуры идёт как C / C' (CZ). И обозначает она там начальный __звук__ Ц. А все начальные звуки Ка в аббревиатурах обозначаются "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
+*Bucva "C" nazyvaietsya "Це" i v abbreviatury ideot cac C / C' (CZ). I oboznachaiet ona tam nachallenyi __zvuc__ "Ц". A vse nachallenyie zvucki "ка" v abbreviaturah oboznachaiutsya "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
 SHI ШИ, S'HI СХИ (SKHI), SK'HI СКХИ (SKKHI),  
 CI ЦИ, C'A ЦА (CZA),  
@@ -547,7 +547,7 @@ IEG'E ЕГЭ (IEGAE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ,
 
 C'Z ЦЗ (CZZ).
 
-Только ходовые диграфы всегда слитно в аббревиатурах: SH, CH, KH, SCH, CZ, AE. Перед заглавной `I` используются полные формы всегда.
+Tolleco hodovyie digraphy vsegda slitno v abbreviaturah: SH, CH, KH, SCH, CZ, AE. Pered zaglavnoi `I` ispollezuiutsya polnyie formy vsegda.
 
 
 ## Vclyuchenia slov v verkhnem registre
