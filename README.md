@@ -9,13 +9,13 @@ Latinicza, v cotoroi CA chitaietsya cac KA - cac u cullturnyh ieuropeicev (https
 Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah, latinizatciiy imeon, na vypendreojnyh vyvescah. Redcoie ispollezovaniie v 'URL, nickah, imenah failov ili commentah. Nu vmesto ujasnogo anglotranslita ili ujasnyh slavyansckih latinicz. A vot latinizatciu Rossiiy ia schitaiu plohoi ideiei i ne privetstvuiu.
 
 * [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
+* [Primer texta](#primer-texta)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
 * [Speciallenyie pravila dlya adaptatciiy zaiimstvovanii](#speciallenyie-pravila-dlya-adaptatciiy-zaiimstvovanii)
 * [Speciallenyie pravila dlya sch,shch dlya obratimosti](#speciallenyie-pravila-dlya-schshch-dlya-obratimosti)
 * [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-iaiuioie-s-zaglavnoi-bucvy)
 * [Resheniie problemy nachala slov tipa iod i iion](#resheniie-problemy-nachala-slov-tipa-iod-i-iion)
 * [Optimizatcia napisanii iia i iiu v conce slova](#optimizatcia-napisanii-iia-i-iiu-v-conce-slova)
-* [Primer texta](#primer-texta)
 * [Abbreviatury](#abbreviatury)
 * [Vclyuchenia slov v verkhnem registre](#vclyuchenia-slov-v-verkhnem-registre)
 * [Vclyuchenia isostrannyh slov bez izmenenii](#vclyuchenia-inostrannyh-slov-bez-izmenenii)
@@ -51,6 +51,107 @@ i (diyavol) / tte (brattesya, glushhe — udvoieniie soglasnoi + e)
 
 ые  
 yie (novyie — v conce slova) / yiie (vyiiezd — ne v conce slova)
+
+
+## Primer texta
+
+Alexandr Pushkin — Zimneie utro
+
+Moroz i solnce; denne chudesnyi!  
+Iesche ty dremleshhe, drug prelestnyi —  
+Pora, crasavicza, prosnisse:  
+Otcroi somcnuty negoi vzory  
+Navstrechu severnoi Aurory,  
+Zvezdoiu severa iavisse!
+
+Vecheor, ty pomnishhe, viyuga zlilasse,  
+Na mutnom nebe mgla nosilasse;  
+Luna, cac blednoie pyatno,  
+Scvozze tuchi mrachnyie jeltela,  
+I ty pechallenaia sidela —  
+A nynche… poglyadi v ocno:
+
+Pod golubymi nebesami  
+Velicolepnymi covrami,  
+Blestya na solnce, sneg lejit;  
+Prozrachnyi les odin cherneiet,  
+I ielle scvozze inei zeleneiet,  
+I rechca podo lledom blestit.
+
+Vsya comnata iantarnym blescom  
+Ozarena. Veseolym trescom  
+Treschit zatoplennaia pechhe.  
+Priiatno dumatte u lejancki.  
+No znaieshhe: ne velette li v sancki  
+Cobylcu buruiu zaprechhe?
+
+Scollezya po utrennnemu snegu,  
+Drug milyi, predadimsya begu  
+Netoroplivogo conya  
+I navestim polya pustyie,  
+Lesa, nedavno stolle gustyie,  
+I bereg, milyi dlya menya.  
+
+Lermontov M.IU. — Rodina
+
+Lyublyu otchiznu ia, no strannoiu lyuboviyu!  
+Ne pobedit ieio rassudoc moi.  
+Ni slava, cuplennaia croviyu,  
+Ni polnyi gordogo doveria pocoi,  
+Ni teomnoi stariny zavetnyie predaniya  
+Ne shevelyat vo mne otradnogo mechtaniya.  
+No ia lyublyu — za chto, ne znaiu sam —  
+Ieio stepei holodnoie molchaniye,  
+Ieio lesov bezbrejnyh colyhaniye,  
+Razlivy rec ieio, podobnyie moryam;  
+Proseolochnym puteom lyublyu scacatte v telege  
+I, vzorom medlennym pronzaia nochi tenne,  
+Vstrechatte po storonam, vzdyhaia o nochlege,  
+Drojaschiie ogni pechallenyh derevenne;  
+Lyublyu dymoc spaleonnoi jnivy,  
+V stepi nochuiuschii oboz  
+I na holme sredde jeoltoi nivy  
+Chetu beleiuschih bereoz.  
+S otradoi, mnogim neznacomoi,  
+IA viju polnoie gumno,  
+Izbu, pocrytuiu solomoi,  
+S reznymi stavnyami ocno;  
+I v prazdnic, vecherom rosistym,  
+Smotrette do polnochi gotov  
+Na plyascu s topaniyem i svistom  
+Pod govor piyanyh mujichcov.
+
+// God napisania: 1841
+
+Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshii v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
+
+Piyanyi master po proiectu sdelal mekhanichesckii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyeuchitte svoii oshibcki.
+
+V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyiskival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
+
+Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
+
+Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj ekzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. Iesli tac poideot i dalleshe, to byudgjetu prideotsya hudo.
+
+V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. Ieoj colyuchii i pohoj na neio.
+
+Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiiy "Caligula Gai Iulii Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciiy.
+
+"Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshii mekhanic Vasilii.
+
+Lyubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
+
+Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilisse v odin denne, 22 sentyabrya.
+
+– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsya by ty co mne. Glyadishhe, i denne rojdenia vmeste otmechali by.
+
+Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste mejdu dvadczatiyu i tridczatiyu tremya, posle chego hobbit naconecz mojet schitatte sebya vzroslym.
+
+Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdenia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
+
+Imeietsya nescoleco ghypothez proiiskhojdenia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
+
+V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugiie priderjivaiutsya mnenia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoria).
 
 
 ## Boleie podrobnoie opisaniie pravil
@@ -369,107 +470,6 @@ Posledneie nujno, chtoby, naprimer, pisatte "декольте" s iavno myagcoi "
 diecolletie дєкольтє
 
 Eta versia zadumyvalasse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня". No polnostiyu logichno sdelatte ne udalosse, ibo iedinstvennyi sposob napisatte "декольтє" — eto napisatte "декольтие" — decolletie (decolletye, decolletee, decollettee, decolletteae - iesche huje). A photetichescaia vyrazitellenostte dlya menya vajneie.
-
-
-## Primer texta
-
-Alexandr Pushkin — Zimneie utro
-
-Moroz i solnce; denne chudesnyi!  
-Iesche ty dremleshhe, drug prelestnyi —  
-Pora, crasavicza, prosnisse:  
-Otcroi somcnuty negoi vzory  
-Navstrechu severnoi Aurory,  
-Zvezdoiu severa iavisse!
-
-Vecheor, ty pomnishhe, viyuga zlilasse,  
-Na mutnom nebe mgla nosilasse;  
-Luna, cac blednoie pyatno,  
-Scvozze tuchi mrachnyie jeltela,  
-I ty pechallenaia sidela —  
-A nynche… poglyadi v ocno:
-
-Pod golubymi nebesami  
-Velicolepnymi covrami,  
-Blestya na solnce, sneg lejit;  
-Prozrachnyi les odin cherneiet,  
-I ielle scvozze inei zeleneiet,  
-I rechca podo lledom blestit.
-
-Vsya comnata iantarnym blescom  
-Ozarena. Veseolym trescom  
-Treschit zatoplennaia pechhe.  
-Priiatno dumatte u lejancki.  
-No znaieshhe: ne velette li v sancki  
-Cobylcu buruiu zaprechhe?
-
-Scollezya po utrennnemu snegu,  
-Drug milyi, predadimsya begu  
-Netoroplivogo conya  
-I navestim polya pustyie,  
-Lesa, nedavno stolle gustyie,  
-I bereg, milyi dlya menya.  
-
-Lermontov M.IU. — Rodina
-
-Lyublyu otchiznu ia, no strannoiu lyuboviyu!  
-Ne pobedit ieio rassudoc moi.  
-Ni slava, cuplennaia croviyu,  
-Ni polnyi gordogo doveria pocoi,  
-Ni teomnoi stariny zavetnyie predaniya  
-Ne shevelyat vo mne otradnogo mechtaniya.  
-No ia lyublyu — za chto, ne znaiu sam —  
-Ieio stepei holodnoie molchaniye,  
-Ieio lesov bezbrejnyh colyhaniye,  
-Razlivy rec ieio, podobnyie moryam;  
-Proseolochnym puteom lyublyu scacatte v telege  
-I, vzorom medlennym pronzaia nochi tenne,  
-Vstrechatte po storonam, vzdyhaia o nochlege,  
-Drojaschiie ogni pechallenyh derevenne;  
-Lyublyu dymoc spaleonnoi jnivy,  
-V stepi nochuiuschii oboz  
-I na holme sredde jeoltoi nivy  
-Chetu beleiuschih bereoz.  
-S otradoi, mnogim neznacomoi,  
-IA viju polnoie gumno,  
-Izbu, pocrytuiu solomoi,  
-S reznymi stavnyami ocno;  
-I v prazdnic, vecherom rosistym,  
-Smotrette do polnochi gotov  
-Na plyascu s topaniyem i svistom  
-Pod govor piyanyh mujichcov.
-
-// God napisania: 1841
-
-Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshii v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
-
-Piyanyi master po proiectu sdelal mekhanichesckii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyeuchitte svoii oshibcki.
-
-V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyiskival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
-
-Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsya mazatte iod na ranu.
-
-Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj ekzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. Iesli tac poideot i dalleshe, to byudgjetu prideotsya hudo.
-
-V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. Ieoj colyuchii i pohoj na neio.
-
-Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiiy "Caligula Gai Iulii Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciiy.
-
-"Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshii mekhanic Vasilii.
-
-Lyubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
-
-Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilisse v odin denne, 22 sentyabrya.
-
-– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsya by ty co mne. Glyadishhe, i denne rojdenia vmeste otmechali by.
-
-Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste mejdu dvadczatiyu i tridczatiyu tremya, posle chego hobbit naconecz mojet schitatte sebya vzroslym.
-
-Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdenia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
-
-Imeietsya nescoleco ghypothez proiiskhojdenia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
-
-V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugiie priderjivaiutsya mnenia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoria).
 
 
 ## Abbreviatury
