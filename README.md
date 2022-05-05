@@ -6,7 +6,7 @@
 
 Latinicza, v cotoroi CA chitaietsya cac KA - cac u cullturnyh ieuropeicev (https://vk.com/wall-14213047_336). Gruppa VKontakte: https://vk.com/club14213047
 
-Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah, latinizatciiy imeon, na vypendreojnyh vyvescah. Redcoie ispollezovaniie v 'URL, nickah, imenah failov ili commentah. Nu vmesto ujasnogo anglotranslita ili ujasnyh slavyansckih latinicz. A vot latinizatciu Rossiiy ia schitaiu plohoi ideiei i ne privetstvuiu.
+Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah turistichesckih, transliteratciiy imeon, na vypendreojnyh vyvescah. V redcom ispollezovaniiy v URL'ah, nickah, email'ah, imenah failov dlya sovmestimosti so starymi programmami. Tac je ieio ispollezuiut lyudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slavyansckih latinicz. Lyubaia latinicza — eto uhudsheniie po sravneniu s kiyrillicei. No iesli uj prihoditsya ispollezovatte etot zamenitelle, to on doljen bytte cac mojno luchshe. A vot latinizatciu Rossiiy ia schitaiu plohoi ideiei i ne privetstvuiu.
 
 * [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
 * [Primer texta](#primer-texta)
