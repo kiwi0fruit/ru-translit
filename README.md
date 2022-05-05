@@ -276,7 +276,7 @@ Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, 
 
 1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychno smyagchaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchaie ii/iy iotirovaniie pochti teryaietsya - tac ono prinyato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchvaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
-2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, 'ожжи/vojji i 'ожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchvaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
+2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, vожжи/vojji i vожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchvaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
 3) Digraphy s ' imeiut prioritet nad digraphom iy.
 
@@ -297,7 +297,7 @@ Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, 
     syeo - сыо
     sye - сыэ
 
-5) Quadrography soglasnaia + iye, sogl. + iya, sogl. + iyu, sogl. + iyo читаются по-другому и имеют приоритет над 1-4).  
+5) Quadrography soglasnaia + iye, sogl. + iya, sogl. + iyu, sogl. + iyo chitaiutsya po-drugomu i imeiut prioritet nad 1-4).  
   siye - сье  
   siya - сья  
   siyu - сью  
