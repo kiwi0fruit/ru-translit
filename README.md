@@ -263,9 +263,10 @@ Pravila dlya щ-сч dlya obratimosti.
 щ sch  
 сч sch - v slovarnyh slovah, chitaiuschihsya cac [ɕ], [ʂ] ili [ɕː]  
 сч shch - ostallenyie (vsyackiie [ɕt͡ɕ] ili [ʂt͡ɕ] popadaiut syuda)  
-шч shhch
+шч shch - v slovarnyh slovah  
+шч shhch - ostallenyie  
 
-scheotca, scheot, vesnushhchatyi, rashchuvstvovalsya, rashchleneniie.
+scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchleneniie.
 
 Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans legcosti programmnoi realizatciiy obratimosti i phonetichnosti pissema.
 
