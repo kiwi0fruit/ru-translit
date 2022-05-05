@@ -10,7 +10,7 @@ Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah, 
 
 * [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
-* [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-ia-iu-io-ie-s-zaglavnoi-bucvy)
+* [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-iaiuioie-s-zaglavnoi-bucvy)
 * [Resheniie problemy nachala slov tipa iod i iion](#resheniie-problemy-nachala-slov-tipa-iod-i-iion)
 * [Optimizatcia napisanii iia i iiu v conce slova](#optimizatcia-napisanii-iia-i-iiu-v-conce-slova)
 * [Primer texta](#primer-texta)
