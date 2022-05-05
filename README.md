@@ -282,6 +282,14 @@ piczza, caprichhio, accent, emodji эмоджи.
 кз osnovnoie napisaniie — kz  
 кз v isclyucheniiah — ckz, xz
 
+x кс  
+cz ц (tam, gde etiymologicheski nujna "z")  
+tci ци  
+tczi тци  
+thci тци
+
+voxzal вокзал, ekzema экзема, militcia милиция, Knotczing Кнотцинг, otcziklevatte отциклевать, othcifroval отцифровал.
+
 цзя cjia  
 цзи cji  
 цзе cjie  
