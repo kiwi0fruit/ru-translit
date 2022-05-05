@@ -10,6 +10,7 @@ Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah, 
 
 * [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
+* [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-ia-iu-io-ie-s-zaglavnoi-bucvy)
 * [Resheniie problemy nachala slov tipa iod i iion](#resheniie-problemy-nachala-slov-tipa-iod-i-iion)
 * [Optimizatcia napisanii iia i iiu v conce slova](#optimizatcia-napisanii-iia-i-iiu-v-conce-slova)
 * [Primer texta](#primer-texta)
@@ -51,14 +52,6 @@ yie (novyie — v conce slova) / yiie (vyiiezd — ne v conce slova)
 
 
 ## Boleie podrobnoie opisaniie pravil
-
-S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
-Cstati, mojno oslabitte eto pravilo:  
-Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:  
-Da: IEgo. Iuliia. IUg.  
-Net: Iego. IUliia. Iug.
-
-Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojenia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primeneniie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
 
 Osobuiu actuallenostte priobretaiet razdel [Vclyuchenia isostrannyh slov bez izmenenii](#vclyuchenia-inostrannyh-slov-bez-izmenenii).
 
@@ -269,6 +262,17 @@ Pravila dlya щ-сч dlya obratimosti.
 scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchleneniie.
 
 Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans legcosti programmnoi realizatciiy obratimosti i phonetichnosti pissema.
+
+
+## Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy
+
+S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
+Cstati, mojno oslabitte eto pravilo:  
+Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:  
+Da: IEgo. Iuliia. IUg.  
+Net: Iego. IUliia. Iug.
+
+Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojenia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primeneniie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
 
 
 ## Resheniie problemy nachala slov tipa iod i iion
