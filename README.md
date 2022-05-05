@@ -267,7 +267,7 @@ Pravila dlya щ-сч dlya obratimosti.
 
 scheotca, scheot, vesnushhchatyi, rashchuvstvovalsya, rashchleneniie.
 
-Tacoi podkhod vozmojet iz-za togo, chto СЧ chitaietsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans legcosti programmnoi realizatciiy obratimosti i phonetichnosti pissema.
+Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans legcosti programmnoi realizatciiy obratimosti i phonetichnosti pissema.
 
 
 ## Resheniie problemy nachala slov tipa iod i iion
