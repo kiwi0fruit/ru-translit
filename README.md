@@ -174,7 +174,7 @@ V nachale slov:
 
 pouchatte поучать, nuga нуга, IEuropa, aurora, author, подавтор podavthor, auura, zauchitte, nauchitte.
 
-IEsche:
+Iesche:
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
@@ -272,22 +272,22 @@ Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac �
 
 ## Resheniie problemy nachala slov tipa iod i iion
 
-Конкретизация правил russcoi latinicy для проблем начала слов типа йод, ион:
+Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, ион (iod i iion):
 
-1) i всегда образует диграф либо с согласной слева (обычно смягчает согласную и звучит), либо с гласной справа (йотирует, в случае ii/iy йотирование почти теряется - так оно принято в устной речи русской: моя, мои), у согласных приоритет. Прилипчивая она. К гласным, которые слева, и согласным, которые справа, не прилипает. После гласных не прилипшая читается как й.
+1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychno smyagchaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchaie ii/iy iotirovaniie pochti teryaietsya - tac ono prinyato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchvaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
-2) Y всегда диграф либо с согласной слева, но делает твёрдой согласную и звучит (так, вожжи/vojji и вожжы/vojjy звучат мягкой и твёрдой ж), либо с гласной справа (йотирует), у согласных приоритет. Прилипчивая она. К гласным, которые слева, и согласным, которые справа, не прилипает. После гласных не прилипшая читается как й.
+2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, 'ожжи/vojji i 'ожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchvaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
-3) Диграфы с Y имеют приоритет над диграфом с iy.
+3) Digraphy s ' imeiut prioritet nad digraphom iy.
 
-4) Триграфы согласная + ie, согл. + iy, согл. + ya, согл. + yu, согл. + yo читаются по-другому и имеют приоритет над 1-3).  
-  sie - се (именно /sʲe/)  
+4) Trigraphy soglasnaia + ie, sogl. + iy, sogl. + ya, sogl. + yu, sogl. + yo chitaiutsya po-drugomu i imeiut prioritet nad 1-3).  
+  sie - се (imenno /sʲe/)  
   siy - си  
   sya - ся  
   syu - сю  
-  syo - сё (не главное написание)
-  * Фиксы к триграфам:  
-    hy - ы (обычно h ето ха)  
+  syo - сё (ne glavnoie napisaniie)
+  * Fixy k trigrapham:  
+    hy - ы (obychno h eto "ха")  
     khy - хы  
     siae - сиэ  
     sihy - сиы  
@@ -297,20 +297,20 @@ Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac �
     syeo - сыо
     sye - сыэ
 
-5) Квадрографы согласная + iye, согл. + iya, согл. + iyu, согл. + iyo читаются по-другому и имеют приоритет над 1-4).  
+5) Quadrography soglasnaia + iye, sogl. + iya, sogl. + iyu, sogl. + iyo читаются по-другому и имеют приоритет над 1-4).  
   siye - сье  
   siya - сья  
   siyu - сью  
   siyo - сьо  
   siyeo - сьё
-  * Фиксы к квадрографам (это всё не главные написания):  
+  * Fixy k quadrographam (eto vseo ne glavnyie napisania):  
     siiye - сие  
     siiya - сия  
     siiyu - сию  
     siiyo - сийо  
     siiyeo - сиё
 
-Примеры применения правил для i и y:
+Primery primenenia pravil dlya i,Y:
 
 s - съ  
 si - си  
@@ -322,29 +322,29 @@ siia - сия
 moii - мои  
 iia - иа
 
-iye - ие (в начале)  
-iya - ия (в начале)  
-iiie - ие (в начале, не основное написание)  
-iiia - ия (в начале, не основное написание)
+iye - ие (v nachale)  
+iya - ия (v nachale)  
+iiie - ие (v nachale, ne osnovnoie napisaniie)  
+iiia - ия (v nachale, ne osnovnoie napisaniie)
 
 oiie - оиэ  
 oiia - оиа
 
 oiye - ойе  
 oiya - ойя  
-(в случае словообразования, нарушающего морфологический принцип в основе слова придётся писать oi-ie)
+(v sluchaie slovoobrazovania, narushaiuschego morphologichesckii princip v osnove slova, prideotsya pisatte "oi-ie")
 
-yye - йе (в начале)  
-yya - йя (в начале)
+yye - йе (v nachale)  
+yya - йя (v nachale)
 
-yi - почти всегда йи, никогда не теряет йотирование, кроме обозначения твердого знака.
+yi - pochti vsegda "йи"; nicogda ne teryaiet iotirovaniie, crome oboznachenia tveordogo znaca.
 
-iyi - ийи (в начале)  
-iii - ии (в начале)
+iyi - ийи (v nachale)  
+iii - ии (v nachale)
 
-pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus (можно реформу в IYesus), alliluiya, Yyemen (можно реформу в Yemen), IYeshua, Iiacov, paranoiya (можно реформу в paranoia).
+pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus (mojno reformu v IYesus), alliluiya, Yyemen (mojno reformu v Yemen), IYeshua, Iiacov, paranoiya (mojno reformu v paranoia).
 
-Iisus - Исус (по правилам прилипания i)
+Iisus - Исус (po pravilam prilipania "i")
 
 
 ## Optimizatcia napisanii iia i iiu v conce slova
