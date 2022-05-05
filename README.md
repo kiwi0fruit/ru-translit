@@ -275,9 +275,9 @@ Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac �
 
 Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, ион (iod i iion):
 
-1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychno smyagchaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchaie ii/iy iotirovaniie pochti teryaietsya - tac ono prinyato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchvaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
+1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychno smyagchaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchaie ii/iy iotirovaniie pochti teryaietsya - tac ono prinyato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchivaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
-2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vojji i вожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchvaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
+2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vojji i вожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchivaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
 3) Digraphy s ' imeiut prioritet nad digraphom iy.
 
@@ -474,30 +474,30 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 
 ## Abbreviatury
 
-В латинице используются фонетическо-кириллические аббревиатуры, которые вопреки записи сокращают по звучанию. Таким образом, названия букв в аббревиатурах (а так же диграфы) будут читаться как в кириллице.
+V altinice ispollezuiutsya phonetichesco-kiyrillichesckiie abbreviatury, cotoryie vopreki zapisi socraschaiut po zvuchaniu. Tackim obrazom, nazvania bucv v abbreviaturah (a tac je digraphy) budut chitattesya cac v kiyrillice.
 
-Изменения в названиях букв и диграфов (сокращения по звучанию опираются на названия букв):
+Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya na nazvania bucv):
 
 * **Aa** - а
   * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIaA, РИaА RIa'A RIaaA)
 * **Bb** - бэ
 * **Cc** - це (C.; CPU ЦПУ, ЦА C'A CZA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
-  * отдельно предлог "к" пишется k
+  * otdelleno predlog "к" pishetsya "k"
 * **Dd** - дэ
-* **Ee** - э (была Е (йэ) в математике)
+* **Ee** - э (byla "Е" ("ЙЭ") v mathematicke)
   * **IE** - е (IE., ЕГЭ IEG'E IEGAE, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
   * **Eh** - э (E., ЕГЭ IEG'E IEGAE, ЭЭГ EEG, РИЭ RI'E RIAE)
-  * стандартно для Е (ЙЭ) используется только IE, а для Э после согласных - только 'E/AE.
+  * standartno dlya "Е" ("ЙЭ") ispollezuietsya tolleco IE, a dlya "Э" posle soglasnyh - tolleco 'E/AE.
 * **Ff** - эф
-* **Gg** - гэ (была "же" в математике)
-* **Hh** - хаш, в аббр. - ха (default), аш (в математике и исключениях) (H., K'HL КХЛ KKHL, PH ПэАш)
+* **Gg** - гэ (byla "же" v mathematicke)
+* **Hh** - хаш, v abbr. - ха ('default), аш (v mathematicke i isclyucheniiah) (H., K'HL КХЛ KKHL, PH ПэАш)
   * **Hy** - ы
 * **Ii** - и
-* **Jj** - жей, в аббр. - же (default), жи (в математике и исключениях)
+* **Jj** - жей, v abbr. - же ('default), жи (v mathematicke i isclyucheniiah)
 * **Kk** - ка
-* **Ll** - эль, в аббр. - эл (default)
+* **Ll** - эль, v abbr. - эл ('default)
 * **Mm** - эм, **Nn** - эн, **Oo** - о, **Pp** - пэ, **Qq** - ку, **Rr** - эр
 * **Ss** - эс
   * **Sh** - ша (Sh., SShA США), **SCH** - ща (Sch., MSCH МЩ)
@@ -507,9 +507,9 @@ V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zren
 * **Vv** - вэ
 * **Ww** - дубль-вэ
 * **Xx** - икс
-* **Yy** - игрек (в аббр. обозначает: и-краткая, йот, и читается как "игрек"),
+* **Yy** - игрек (v abbr. oboznachaiet: i-cratcaia, iot, i chitaietsya cac "игрек"),
   * **Hy** - ы (Hy.)
-* **Zz** - зэт, в аббр. - зэ (default), зэт (в математике и исключениях)
+* **Zz** - зэт, v abbr. - зэ ('default), зэт (v mathematicke i isclyucheniiah)
 
 Символы (комбинации) внутреннего уровня не являются самостоятельными буквами, но при этом имеют отдельные названия и входят в состав (фонетически образованных) аббревиатур - это нужно для совместимости с кириллицей.
 
@@ -592,6 +592,7 @@ This.
 * Apostroph v conce slova delaiet kiyrilliczu latinicei vlevo do pervogo probellenogo siymbvola. Imeiet prioritet nad apostrophom v seredine slova (d'Artaniyan' => д'Артаньян).
 * Apostroph v seredine slova (ili besprobellenoi posledovatellenosti) delit slovo: sleva nastoiaschaia latinicza, sprava kiyrillicza latinicei.
 * Apostroph, ocrujeonnyi probellenymi siymbvolami, delaiet nastoiaschei latinicei do sleduiuschego tacogo je apostropha - mojno nescolleco stroc tac pometitte.
+* Ne rabotaiet v abbreviaturah. Formallenyi priznac abbreviatury - oconchaniie na zaglavnuiu bucvu ili na zaglavnuiu bucvu + digraph Sh,Ch (s popravcoi na recursiu).
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
