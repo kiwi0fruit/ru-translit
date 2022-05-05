@@ -349,25 +349,25 @@ Iisus - Исус (po pravilam prilipania "i")
 
 ## Optimizatcia napisanii iia i iiu v conce slova
 
-Всё тоже самое, только проводится оптимизация написаний в конце слова (только в конце слова):
+Vseo toje samoie, tolleco provoditsya optimizatcia napisanii v conce slova (tolleco v conce slova):
 
-sia сия (вместо siia)  
-siu сию (вместо siiu)  
+sia сия (vmesto siia)  
+siu сию (vmesto siiu)  
 siaa сиа  
 siou сиу  
 
-Но при этом остаются:
+No pri etom ostaiutsya:
 
 siiy сии  
 siieo сиё  
 siio сийо  
 siie сие
 
-Последнее нужно, чтобы, например, писать декольте с явно мягкой ДЕ - чтобы мочь передать неправильное произношение в речи письменно. К тому же, оно точно должно значить Е после удвоенных согласных — больше нет альтернативных написаний.
+Posledneie nujno, chtoby, naprimer, pisatte "декольте" s iavno myagcoi "ДЕ" - chtoby mochhe peredatte nepravillenoie proiiznosheniie v rechi pissemenno. K tomu je, ono tochno doljno znachitte "Е" ("йэ") posle udvoiennyh soglasnyh — bolleshe net allternativnyh napisanii.
 
 diecolletie дєкольтє
 
-Эта версия задумывалась как троллинг любителей писать Вания (Vania) вместо Ваня. Но полностью логично сделать не удалось, ибо единственный способ написать декольтє — это написать декольтие - decolletie (decolletye, decolletee, decollettee, decolletteae - ещё хуже). А фонетическая выразительность для меня важнее.
+Eta versia zadumyvalasse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня". No polnostiyu logichno sdelatte ne udalosse, ibo iedinstvennyi sposob napisatte "декольтє" — eto napisatte "декольтие" — decolletie (decolletye, decolletee, decollettee, decolletteae - iesche huje). A photetichescaia vyrazitellenostte dlya menya vajneie.
 
 
 ## Primer texta
