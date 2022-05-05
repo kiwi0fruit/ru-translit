@@ -363,6 +363,7 @@ Billbo
 сч shch - ostallenyie (vsyackiie [ɕt͡ɕ] ili [ʂt͡ɕ] popadaiut syuda)  
 шч shch - v slovarnyh slovah  
 шч shhch - ostallenyie  
+шшч shshch  
 
 scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchleneniie.
 
