@@ -309,11 +309,11 @@ zabhveniie, obhvoditte, diyabvol, Bvabvylon, Bvyzantia, Buddha, Iiacobv, slova I
 V nachale slov:
 
 ^eu ^эв  
-^ieu ^ев
+^ieu ^ев  
 ^au ^ав  
 ^iau ^яв  
 ^euu ^эу  
-^ieuu ^еу
+^ieuu ^еу  
 ^auu ^ау  
 ^iauu ^яу  
 
@@ -323,7 +323,7 @@ Iesche:
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
-Cac imenno osuschestvlyatte adaptatciu iz drugih iazycov — cherpatte vdohnovleniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
+Cac imenno osuschestvlyatte adaptatciu iz drugih iazycov — cherpatte vdohnoveniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
 
 hiy и  
 hie е (йэ)  
