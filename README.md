@@ -10,6 +10,7 @@ Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah, 
 
 * [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
+* [Speciallenyie pravila dlya adaptatciiy zaiimstvovanii](#speciallenyie-pravila-dlya-adaptatciiy-zaiimstvovanii)
 * [Speciallenyie pravila dlya sch,shch dlya obratimosti](#speciallenyie-pravila-dlya-schshch-dlya-obratimosti)
 * [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-iaiuioie-s-zaglavnoi-bucvy)
 * [Resheniie problemy nachala slov tipa iod i iion](#resheniie-problemy-nachala-slov-tipa-iod-i-iion)
@@ -53,10 +54,6 @@ yie (novyie — v conce slova) / yiie (vyiiezd — ne v conce slova)
 
 
 ## Boleie podrobnoie opisaniie pravil
-
-Osobuiu actuallenostte priobretaiet razdel [Vclyuchenia isostrannyh slov bez izmenenii](#vclyuchenia-inostrannyh-slov-bez-izmenenii).
-
-Razdel pro [Abbreviatury](#abbreviatury) toje byl obnovleon.
 
 ie е  
 ieo ё  
@@ -142,7 +139,62 @@ Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
 ----
 
-Speciallenyie pravila dlya adaptatciiy:
+К pered ЕЁИ v oconchaniiah — ck  
+К pered ЕЁИ v osnove — k  
+
+кз osnovnoie napisaniie — kz  
+кз v isclyucheniiah — ckz, xz
+
+ssh сш  
+shh шш  
+shhe шь  
+shhhe шшь
+
+cch кч  
+chh чч  
+chhe чь  
+chhhe ччь
+
+ccz кц  
+czz цц  
+czze ць  
+czzze цць
+
+жя jea  
+жеа jiea  
+жю jeu  
+жеу jieu  
+жё jeo  
+жео jieo  
+жиа jia  
+жиу jiu  
+жио jio  
+джа dja  
+джи dji  
+джиа djia
+
+piczza, caprichhio, accent, emodji эмоджи.
+
+
+## Speciallenyie pravila dlya adaptatciiy zaiimstvovanii
+
+кз osnovnoie napisaniie — kz  
+кз v isclyucheniiah — ckz, xz
+
+цзя cjia  
+цзи cji  
+цзе cjie  
+цз cjz  
+кж ckj
+
+gj ж
+
+дзя dzja  
+дзи dzji  
+дзе dzje  
+дзиа dzjia
+
+emodzji эмодзи, цзи cji, цзя cjia, Ryudzji Рюдзи, byudgjet, sergjeant (сержянт).
 
 dh д  
 bh б  
@@ -183,60 +235,6 @@ ghy гы (v conce slova)
 tot je princip nado vzyatte i dlya drugih grechesckih digraphov (ph, th)
 
 ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoria история, hiysteria истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
-
-----
-
-К pered ЕЁИ v oconchaniiah — ck  
-К pered ЕЁИ v osnove — k  
-
-кз osnovnoie napisaniie — kz  
-кз v isclyucheniiah — ckz, xz
-
-ck к — etiymologichnyi variant  
-hockey
-
-ssh сш  
-shh шш  
-shhe шь  
-shhhe шшь
-
-cch кч  
-chh чч  
-chhe чь  
-chhhe ччь
-
-ccz кц  
-czz цц  
-czze ць  
-czzze цць
-
-цзя cjia  
-цзи cji  
-цзе cjie  
-цз cjz  
-кж ckj
-
-gj ж
-
-жя jea  
-жеа jiea  
-жю jeu  
-жеу jieu  
-жё jeo  
-жео jieo  
-жиа jia  
-жиу jiu  
-жио jio  
-джа dja  
-джи dji  
-джиа djia
-
-дзя dzja  
-дзи dzji  
-дзе dzje  
-дзиа dzjia
-
-piczza, caprichhio, accent, emodji эмоджи, emodzji эмодзи, цзи cji, цзя cjia, Ryudzji Рюдзи, byudgjet, sergjeant (сержянт).
 
 ----
 
