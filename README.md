@@ -358,7 +358,7 @@ Billbo
 
 scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchleneniie.
 
-Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans legcosti programmnoi realizatciiy obratimosti i phonetichnosti pissema.
+Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans leogcosti programmnoi realizatciiy obratimosti i phonetichnosti pissema.
 
 
 ## Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy
