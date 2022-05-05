@@ -380,7 +380,7 @@ Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, 
 
 2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vojji i вожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchivaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
-3) Digraphy s ' imeiut prioritet nad digraphom iy.
+3) Digraphy s Y imeiut prioritet nad digraphom iy.
 
 4) Trigraphy soglasnaia + ie, sogl. + iy, sogl. + ya, sogl. + yu, sogl. + yo chitaiutsya po-drugomu i imeiut prioritet nad 1-3).  
   sie - се (imenno /sʲe/)  
