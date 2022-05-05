@@ -555,13 +555,13 @@ C'Z ЦЗ (CZZ).
 On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
 Он работает в ГИБДД. Сел вот такой . ЖУК ОГРОМНЫЙ. . Да .БОЛЬШОЙ.
 
-* Точка в начале слова делает словом в верхнем регистре вправо до первого пробельного символа.
-* Точка, окруженная пробельными символами, делает словами в верхнем регистре до следующей такой же точки - можно несколько строк так пометить.
+* Tochca v nachale slova delaiet slovom v verkhnem registre vpravo do pervogo probellenogo siymbvola.
+* Tochca, ocrujeonnaia probellenymi siymbvolami, delaiet slovami v verkhmen registre do sleduiuschei tocoi je tochcki - mojno nescolleco stroc tac pometitte.
 
 
 ## Vclyuchenia inostrannyh slov bez izmenenii
 
-У каждого слова в русской латинице для меня есть настощая форма в кириллице. Слова в латинице — лишь альтернативное отображение настоящих слов в кирилице. А настоящие слова в латинице всегда помечены специальными знаками:
+U cajdogo slova v Russcoi Latinice dlya menya iestte nastoiaschaia forma v kiyrillice. Slova v latinice — lishhe allternativnoie otobrajeniie nastoiaschih slov v kiyrillice. A nastoiaschiie slova v latinice vsegda pomecheny speciallenymi znacami:
 
 Y-'khromosoma => Y-хромосома  
 Y'-khromosoma => Y-хромосома  
@@ -574,7 +574,7 @@ creep'ota => creep'ота
 Coca-Col'ca => Coca-Col'ка  
 Coca Col'ca => Кока Col'ка  
 d'Artaniyan' => д'Артаньян  
-не поддерживается => полу-jeep (ибо нефиг)  
+ne podderjivaietsya => полу-jeep (ibo nefig)  
 
 Sobaca ' cat dog. ' Yes. => Собака cat dog. Ес.
 
@@ -588,10 +588,10 @@ Is horosho. =>
 This.  
 Ис horosho.
 
-* Апостроф в начале слова делает настоящей латиницей вправо до первого пробельного символа. Имеет приоритет над апострофом в середине или конце.
-* Апостроф в конце слова делает кириллицу латиницей влево до первого пробельного символа. Имеет приоритет над апострофом в середине слова.
-* Апостроф в середине слова (или беспробельной последовательности) делит слово: слева настоящая латиница, справа кириллица латиницей.
-* Апостроф, окруженный пробельными символами, делает настоящей латиницей до следующего такого же апострофа - можно несколько строк так пометить.
+* Apostroph v nachale slova delaiet nastoiaschei latinicei vpravo do pervogo probellenogo siymbvola. Imeiet prioritet nad apostrophom v seredine ili v conce.
+* Apostroph v conce slova delaiet kiyrilliczu latinicei vlevo do pervogo probellenogo siymbvola. Imeiet prioritet nad apostrophom v seredine slova (d'Artaniyan' => д'Артаньян).
+* Apostroph v seredine slova (ili besprobellenoi posledovatellenosti) delit slovo: sleva nastoiaschaia latinicza, sprava kiyrillicza latinicei.
+* Apostroph, ocrujeonnyi probellenymi siymbvolami, delaiet nastoiaschei latinicei do sleduiuschego tacogo je apostropha - mojno nescolleco stroc tac pometitte.
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
