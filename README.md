@@ -262,10 +262,12 @@ Pravila dlya щ-сч dlya obratimosti.
 
 щ sch  
 сч sch - v slovarnyh slovah, chitaiuschihsya cac [ɕ], [ʂ] ili [ɕː]  
-сч shch - ostallenyie (vsyackiie [ɕt͡ɕ], [ɕˈt͡ɕ] ili [ʂt͡ɕ] popadaiut syuda)  
+сч shch - ostallenyie (vsyackiie [ɕt͡ɕ] ili [ʂt͡ɕ] popadaiut syuda)  
 шч shhch
 
 scheotca, scheot, vesnushhchatyi, rashchuvstvovalsya, rashchleneniie.
+
+Tacoi podkhod vozmojet iz-za togo, chto СЧ chitaietsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans legcosti programmnoi realizatciiy obratimosti i phonetichnosti pissema.
 
 
 ## Resheniie problemy nachala slov tipa iod i iion
@@ -753,8 +755,6 @@ This.
 Ẹẹ Ị ị Ọọ Ẏẏ Ạạ Ụụ  
 Ēē Ī ī Ōō Ȳȳ Āā Ūū  
 Ěě Ǐ ǐ Ǒǒ Ǎǎ Ǔǔ
-
-<img src="./diac.png" alt="dicritics" width="200px">
 
 æİȯėċġĝĵɉḥḅḍṭṣẓḳḷṇẹịọẏạụ ÆȮĖĊĠĜĴɈḤḄḌṬṢẒḲḶṆẸỊỌẎẠỤ
 
