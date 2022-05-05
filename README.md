@@ -10,6 +10,7 @@ Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah, 
 
 * [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
+* [Speciallenyie pravila dlya sch,shch dlya obratimosti](#speciallenyie-pravila-dlya-schshch-dlya-obratimosti)
 * [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-iaiuioie-s-zaglavnoi-bucvy)
 * [Resheniie problemy nachala slov tipa iod i iion](#resheniie-problemy-nachala-slov-tipa-iod-i-iion)
 * [Optimizatcia napisanii iia i iiu v conce slova](#optimizatcia-napisanii-iia-i-iiu-v-conce-slova)
@@ -56,8 +57,6 @@ yie (novyie — v conce slova) / yiie (vyiiezd — ne v conce slova)
 Osobuiu actuallenostte priobretaiet razdel [Vclyuchenia isostrannyh slov bez izmenenii](#vclyuchenia-inostrannyh-slov-bez-izmenenii).
 
 Razdel pro [Abbreviatury](#abbreviatury) toje byl obnovleon.
-
-----
 
 ie е  
 ieo ё  
@@ -249,9 +248,8 @@ Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
 кристалл criystall (ne pered soglasnoi je)  
 Billbo
 
-----
 
-Pravila dlya щ-сч dlya obratimosti.
+## Speciallenyie pravila dlya sch,shch dlya obratimosti
 
 щ sch  
 сч sch - v slovarnyh slovah, chitaiuschihsya cac [ɕ], [ʂ] ili [ɕː]  
