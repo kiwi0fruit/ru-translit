@@ -480,9 +480,7 @@ sio сио
 
 diecolletiee дєкольтє
 
-Posledneie nujno, chtoby, naprimer, pisatte "декольте" s iavno myagcoi "ТЕ" - chtoby mochhe peredatte nepravillenoie proiiznoshenie v rechi pissemenno. K tomu je, ono tochno doljno znachitte "Е" ("йэ") posle udvoiennyh soglasnyh — bolleshe net allternativnyh napisanii.
-
-Eta versia zadumyvalasse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня".
+Eto izmenenie zadumyvalosse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня", no ocazalosse vpolne godnym i dlya osnovnoi versiiy.
 
 
 ## Abbreviatury
