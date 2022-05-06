@@ -478,9 +478,9 @@ sii сий
 siy сий  
 sio сио  
 
-Posledneie nujno, chtoby, naprimer, pisatte "декольте" s iavno myagcoi "ДЕ" - chtoby mochhe peredatte nepravillenoie proiiznosheniie v rechi pissemenno. K tomu je, ono tochno doljno znachitte "Е" ("йэ") posle udvoiennyh soglasnyh — bolleshe net allternativnyh napisanii.
+diecolletiee дєкольтє
 
-diecolletie дєкольтє
+Posledneie nujno, chtoby, naprimer, pisatte "декольте" s iavno myagcoi "ТЕ" - chtoby mochhe peredatte nepravillenoie proiiznoshenie v rechi pissemenno. K tomu je, ono tochno doljno znachitte "Е" ("йэ") posle udvoiennyh soglasnyh — bolleshe net allternativnyh napisanii.
 
 Eta versia zadumyvalasse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня".
 
