@@ -15,7 +15,7 @@ Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah t
 * [Speciallenyie pravila dlya sch,shch dlya obratimosti](#speciallenyie-pravila-dlya-schshch-dlya-obratimosti)
 * [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-iaiuioie-s-zaglavnoi-bucvy)
 * [Resheniie problemy nachala slov tipa iod i iion](#resheniie-problemy-nachala-slov-tipa-iod-i-iion)
-* [Optimizatcia napisanii iia i iiu v conce slova](#optimizatcia-napisanii-iia-i-iiu-v-conce-slova)
+* [Optimizatcia napisanii iia,iiu,iie v conce slova](#optimizatcia-napisanii-iiaiiuiie-v-conce-slova)
 * [Abbreviatury](#abbreviatury)
 * [Vclyuchenia slov v verkhnem registre](#vclyuchenia-slov-v-verkhnem-registre)
 * [Vclyuchenia isostrannyh slov bez izmenenii](#vclyuchenia-inostrannyh-slov-bez-izmenenii)
@@ -458,21 +458,25 @@ pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus (mojno reformu v IYesus), a
 Iisus - Исус (po pravilam prilipania "i")
 
 
-## Optimizatcia napisanii iia i iiu v conce slova
+## Optimizatcia napisanii iia,iiu,iie v conce slova
 
 Vseo toje samoie, tolleco provoditsya optimizatcia napisanii v conce slova (tolleco v conce slova):
 
 sia сия (vmesto siia)  
 siu сию (vmesto siiu)  
+sie сие (vmesto siie)  
+sieo сиё (vmesto siieo)  
 siaa сиа  
-siou сиу  
+siuu сиу  
+siee се (imenno /sʲe/)  
 
 No pri etom ostaiutsya:
 
 siiy сии  
-siieo сиё  
 siio сийо  
-siie сие
+sii сий  
+siy сий  
+sio сио  
 
 Posledneie nujno, chtoby, naprimer, pisatte "декольте" s iavno myagcoi "ДЕ" - chtoby mochhe peredatte nepravillenoie proiiznosheniie v rechi pissemenno. K tomu je, ono tochno doljno znachitte "Е" ("йэ") posle udvoiennyh soglasnyh — bolleshe net allternativnyh napisanii.
 
