@@ -6,15 +6,15 @@
 
 Latinicza, v cotoroi CA chitaietsya cac KA - cac u cullturnyh ieuropeicev (https://vk.com/wall-14213047_336). Gruppa VKontakte: https://vk.com/club14213047
 
-Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah turistichesckih, transliteratciiy imeon, na vypendreojnyh vyvescah. V redcom ispollezovaniiy v URL'ah, nickah, email'ah, imenah failov dlya sovmestimosti so starymi programmami. Tac je ieio ispollezuiut lyudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slavyansckih latinicz. Lyubaia latinicza — eto uhudsheniie po sravneniu s kiyrillicei. No iesli uj prihoditsya ispollezovatte etot zamenitelle, to on doljen bytte cac mojno luchshe. A vot latinizatciu Rossiiy ia schitaiu plohoi ideiei i ne privetstvuiu.
+Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah turistichesckih, transliteratciiy imeon, na vypendreojnyh vyvescah. V redcom ispollezovaniiy v URL'ah, nickah, email'ah, imenah failov dlya sovmestimosti so starymi programmami. Tac je ieio ispollezuiut lyudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slavyansckih latinicz. Lyubaia latinicza — eto uhudshenie po sravneniu s kiyrillicei. No iesli uj prihoditsya ispollezovatte etot zamenitelle, to on doljen bytte cac mojno luchshe. A vot latinizatciu Rossiiy ia schitaiu plohoi ideiei i ne privetstvuiu.
 
 * [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
 * [Primer texta](#primer-texta)
-* [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
+* [Boleie podrobnoie opisanie pravil](#boleie-podrobnoie-opisanie-pravil)
 * [Speciallenyie pravila dlya adaptatciiy zaiimstvovanii](#speciallenyie-pravila-dlya-adaptatciiy-zaiimstvovanii)
 * [Speciallenyie pravila dlya sch,shch dlya obratimosti](#speciallenyie-pravila-dlya-schshch-dlya-obratimosti)
 * [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-iaiuioie-s-zaglavnoi-bucvy)
-* [Resheniie problemy nachala slov tipa iod i iion](#resheniie-problemy-nachala-slov-tipa-iod-i-iion)
+* [Reshenie problemy nachala slov tipa iod i iion](#reshenie-problemy-nachala-slov-tipa-iod-i-iion)
 * [Optimizatcia napisanii iia,iiu,iie v conce slova](#optimizatcia-napisanii-iiaiiuiie-v-conce-slova)
 * [Abbreviatury](#abbreviatury)
 * [Vclyuchenia slov v verkhnem registre](#vclyuchenia-slov-v-verkhnem-registre)
@@ -47,7 +47,7 @@ sh sch - hy/y - e/ae - iu/yu ia/ya
 y (podyiezd — ne v conce slova) / - (дъе d-ie — v conce slova)
 
 ь  
-i (diyavol) / tte (brattesya, glushhe — udvoieniie soglasnoi + e)
+i (diyavol) / tte (brattesya, glushhe — udvoienie soglasnoi + e)
 
 ые  
 yie (novyie — v conce slova) / yiie (vyiiezd — ne v conce slova)
@@ -107,7 +107,7 @@ Razlivy rec ieio, podobnyie moryam;
 Proseolochnym puteom lyublyu scacatte v telege  
 I, vzorom medlennym pronzaia nochi tenne,  
 Vstrechatte po storonam, vzdyhaia o nochlege,  
-Drojaschiie ogni pechallenyh derevenne;  
+Drojaschie ogni pechallenyh derevenne;  
 Lyublyu dymoc spaleonnoi jnivy,  
 V stepi nochuiuschii oboz  
 I na holme sredde jeoltoi nivy  
@@ -147,14 +147,14 @@ Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilisse v odin denne, 22 
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste mejdu dvadczatiyu i tridczatiyu tremya, posle chego hobbit naconecz mojet schitatte sebya vzroslym.
 
-Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdenia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletiie – toje znammenatellenaia data – sovershennoletiie po-hobbitski.
+Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdenia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletie – toje znammenatellenaia data – sovershennoletie po-hobbitski.
 
 Imeietsya nescoleco ghypothez proiiskhojdenia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
 
-V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugiie priderjivaiutsya mnenia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoria).
+V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugie priderjivaiutsya mnenia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoria).
 
 
-## Boleie podrobnoie opisaniie pravil
+## Boleie podrobnoie opisanie pravil
 
 ie е  
 ieo ё  
@@ -175,7 +175,7 @@ vye-o выэ-о
 
 kya кя  
 kyu кю   
-kyo кё (ne glavnoie napisaniie)  
+kyo кё (ne glavnoie napisanie)  
 
 veii веи  
 vei вей  
@@ -187,7 +187,7 @@ viee веэ
 vieo вео  
 
 vi ви  
-viy ви (!) ne glavnoie napisaniie  
+viy ви (!) ne glavnoie napisanie  
 vie ве (!)  
 vio вио  
 viu виу  
@@ -202,11 +202,11 @@ czyu цю
 ceo цё  
 cza ца  
 cya циа (!)  
-czu цу (glavnoie napisaniie)  
+czu цу (glavnoie napisanie)  
 cyu циу (!)  
-czo цо (glavnoie napisaniie)  
+czo цо (glavnoie napisanie)  
 cyo цио (!)  
-ci ци (glavnoie napisaniie)  
+ci ци (glavnoie napisanie)  
 cy цы/ци  
 cae це/цэ
 
@@ -231,10 +231,10 @@ obysc обыск (mojno sdelatte reformu v объиск)
 обйи ob-yi  
 выиа vy-iia / vyii-a  
 
-ppeie пье (ne glavnoie napisaniie)  
-ppeia пья (ne glavnoie napisaniie)
+ppeie пье (ne glavnoie napisanie)  
+ppeia пья (ne glavnoie napisanie)
 
-пиявка piiavca, Мария Maria, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
+пиявка piiavca, Мария Maria, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие sinie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
 
 Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
@@ -243,7 +243,7 @@ Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 К pered ЕЁИ v oconchaniiah — ck  
 К pered ЕЁИ v osnove — k  
 
-кз osnovnoie napisaniie — kz  
+кз osnovnoie napisanie — kz  
 кз v isclyucheniiah — ckz, xz
 
 ssh сш  
@@ -279,7 +279,7 @@ piczza, caprichhio, accent, emodji эмоджи.
 
 ## Speciallenyie pravila dlya adaptatciiy zaiimstvovanii
 
-кз osnovnoie napisaniie — kz  
+кз osnovnoie napisanie — kz  
 кз v isclyucheniiah — ckz, xz
 
 x кс  
@@ -312,7 +312,7 @@ bv в
 bvy ви  
 bvy вы (v conce slova)
 
-zabhveniie, obhvoditte, diyabvol, Bvabvylon, Bvyzantia, Buddha, Iiacobv, slova Iiacobvy, Iacobvlev.
+zabhvenie, obhvoditte, diyabvol, Bvabvylon, Bvyzantia, Buddha, Iiacobv, slova Iiacobvy, Iacobvlev.
 
 V nachale slov:
 
@@ -331,7 +331,7 @@ Iesche:
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
-Cac imenno osuschestvlyatte adaptatciu iz drugih iazycov — cherpatte vdohnoveniie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
+Cac imenno osuschestvlyatte adaptatciu iz drugih iazycov — cherpatte vdohnovenie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
 
 hiy и  
 hie е (йэ)  
@@ -360,12 +360,12 @@ Billbo
 
 щ sch  
 сч sch - v slovarnyh slovah, chitaiuschihsya cac [ɕ], [ʂ] ili [ɕː]  
-сч shch - ostallenyie (vsyackiie [ɕt͡ɕ] ili [ʂt͡ɕ] popadaiut syuda)  
+сч shch - ostallenyie (vsyackie [ɕt͡ɕ] ili [ʂt͡ɕ] popadaiut syuda)  
 шч shch - v slovarnyh slovah  
 шч shhch - ostallenyie  
 шшч shshch  
 
-scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchleneniie.
+scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchlenenie.
 
 Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans leogcosti programmnoi realizatciiy obratimosti i phonetichnosti pissema.
 
@@ -374,18 +374,18 @@ Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac �
 
 S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
 Cstati, mojno oslabitte eto pravilo:  
-Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:  
+Delatte tackie zameny tolleco tam, gde iestte risc pereputatte:  
 Da: IEgo. Iuliia. IUg.  
 Net: Iego. IUliia. Iug.
 
-Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojenia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primeneniie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
+Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojenia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primenenie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
 
 
-## Resheniie problemy nachala slov tipa iod i iion
+## Reshenie problemy nachala slov tipa iod i iion
 
 Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, ион (iod i iion):
 
-1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychno smyagchaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchaie ii/iy iotirovaniie pochti teryaietsya - tac ono prinyato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchivaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
+1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychno smyagchaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchaie ii/iy iotirovanie pochti teryaietsya - tac ono prinyato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchivaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
 2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vojji i вожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchivaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
@@ -396,7 +396,7 @@ Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, 
   siy - си  
   sya - ся  
   syu - сю  
-  syo - сё (ne glavnoie napisaniie)
+  syo - сё (ne glavnoie napisanie)
   * Fixy k trigrapham:  
     hy - ы (obychno h eto "ха")  
     khy - хы  
@@ -435,8 +435,8 @@ iia - иа
 
 iye - ие (v nachale)  
 iya - ия (v nachale)  
-iiie - ие (v nachale, ne osnovnoie napisaniie)  
-iiia - ия (v nachale, ne osnovnoie napisaniie)
+iiie - ие (v nachale, ne osnovnoie napisanie)  
+iiia - ия (v nachale, ne osnovnoie napisanie)
 
 oiie - оиэ  
 oiia - оиа
@@ -448,7 +448,7 @@ oiya - ойя
 yye - йе (v nachale)  
 yya - йя (v nachale)
 
-yi - pochti vsegda "йи"; nicogda ne teryaiet iotirovaniie, crome oboznachenia tveordogo znaca.
+yi - pochti vsegda "йи"; nicogda ne teryaiet iotirovanie, crome oboznachenia tveordogo znaca.
 
 iyi - ийи (v nachale)  
 iii - ии (v nachale)
@@ -487,7 +487,7 @@ Eta versia zadumyvalasse cac trolling lyubitelei pisatte "Вания" (Vania) vm
 
 ## Abbreviatury
 
-V altinice ispollezuiutsya phonetichesco-kiyrillichesckiie abbreviatury, cotoryie vopreki zapisi socraschaiut po zvuchaniu. Tackim obrazom, nazvania bucv v abbreviaturah (a tac je digraphy) budut chitattesya cac v kiyrillice.
+V altinice ispollezuiutsya phonetichesco-kiyrillichesckie abbreviatury, cotoryie vopreki zapisi socraschaiut po zvuchaniu. Tackim obrazom, nazvania bucv v abbreviaturah (a tac je digraphy) budut chitattesya cac v kiyrillice.
 
 Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya na nazvania bucv):
 
@@ -574,7 +574,7 @@ On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
 
 ## Vclyuchenia inostrannyh slov bez izmenenii
 
-U cajdogo slova v Russcoi Latinice dlya menya iestte nastoiaschaia forma v kiyrillice. Slova v latinice — lishhe allternativnoie otobrajeniie nastoiaschih slov v kiyrillice. A nastoiaschiie slova v latinice vsegda pomecheny speciallenymi znacami:
+U cajdogo slova v Russcoi Latinice dlya menya iestte nastoiaschaia forma v kiyrillice. Slova v latinice — lishhe allternativnoie otobrajenie nastoiaschih slov v kiyrillice. A nastoiaschie slova v latinice vsegda pomecheny speciallenymi znacami:
 
 Y-'khromosoma => Y-хромосома  
 Y'-khromosoma => Y-хромосома  
@@ -605,7 +605,7 @@ This.
 * Apostroph v conce slova delaiet kiyrilliczu latinicei vlevo do pervogo probellenogo siymbvola. Imeiet prioritet nad apostrophom v seredine slova (d'Artaniyan' => д'Артаньян).
 * Apostroph v seredine slova (ili besprobellenoi posledovatellenosti) delit slovo: sleva nastoiaschaia latinicza, sprava kiyrillicza latinicei.
 * Apostroph, ocrujeonnyi probellenymi siymbvolami, delaiet nastoiaschei latinicei do sleduiuschego tacogo je apostropha - mojno nescolleco stroc tac pometitte.
-* Ne rabotaiet v abbreviaturah. Formallenyi priznac abbreviatury - oconchaniie na zaglavnuiu bucvu ili na zaglavnuiu bucvu + digraph Sh,Ch (s popravcoi na recursiu).
+* Ne rabotaiet v abbreviaturah. Formallenyi priznac abbreviatury - oconchanie na zaglavnuiu bucvu ili na zaglavnuiu bucvu + digraph Sh,Ch (s popravcoi na recursiu).
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
