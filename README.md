@@ -109,7 +109,7 @@ I, vzorom medlennym pronzaia nochi tenne,
 Vstrechatte po storonam, vzdyhaia o nochlege,  
 Drojaschie ogni pechallenyh derevenne;  
 Lyublyu dymoc spaleonnoi jnivy,  
-V stepi nochuiuschii oboz  
+V stepi nochuiuschiy oboz  
 I na holme sredde jeoltoi nivy  
 Chetu beleiuschih bereoz.  
 S otradoi, mnogim neznacomoi,  
@@ -123,7 +123,7 @@ Pod govor piyanyh mujichcov.
 
 // God napisania: 1841
 
-Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshii v Siaetl na rabotu v companiiy "Moii-tvoii siiesty-diaelectricki".
+Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companii "Moii-tvoii siiesty-diaelectricki".
 
 Piyanyi master po proiectu sdelal mekhanichesckii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyeuchitte svoii oshibcki.
 
@@ -133,11 +133,11 @@ Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu pride
 
 Maer nebolleshogo gorodishcki otcryl tabliczu exelya i vozmutilsya cenoi novogo excavatora. Aj ekzema snova stala iego bespocoiitte. Oh uj eta pocupca vechnogo dvigatelya v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlya Endi. Iesli tac poideot i dalleshe, to byudgjetu prideotsya hudo.
 
-V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. Ieoj colyuchii i pohoj na neio.
+V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas scheotca novaia, no pozje ona stanet staraia. Chernysh lyubit cogda iego cheshut ieiu. Ieoj colyuchiy i pohoj na neio.
 
-Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companiiy "Caligula Gai Iulii Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatciiy.
+Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companii "Caligula Gai Iuliy Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatcii.
 
-"Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshii mekhanic Vasilii.
+"Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshiy mekhanic Vasiliy.
 
 Lyubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
 
@@ -193,9 +193,10 @@ vio вио
 viu виу  
 via виа
 
-vii вий  
-viiy вии (v oconchaniiy)  
-viii вии (ne v oconchaniiy)
+viy вий (v oconchanii)  
+vii вий (ne v oconchanii)  
+vii вии (v oconchanii)  
+viii вии (ne v oconchanii)
 
 czya ця  
 czyu цю  
@@ -234,7 +235,7 @@ obysc обыск (mojno sdelatte reformu v объиск)
 ppeie пье (ne glavnoie napisanie)  
 ppeia пья (ne glavnoie napisanie)
 
-пиявка piiavca, Мария Maria, синий sinii, кусты акации custy acaciiy, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие sinie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
+пиявка piiavca, Мария Maria, синий siniy, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие sinie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
 
 Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
@@ -331,7 +332,7 @@ Iesche:
 
 siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
 
-Cac imenno osuschestvlyatte adaptatciu iz drugih iazycov — cherpatte vdohnovenie v predyduschei versiiy latinicy (smotrite nije v starom opisaniiy).
+Cac imenno osuschestvlyatte adaptatciu iz drugih iazycov — cherpatte vdohnovenie v predyduschei versii latinicy (smotrite nije v starom opisanii).
 
 hiy и  
 hie е (йэ)  
@@ -367,7 +368,7 @@ Billbo
 
 scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchlenenie.
 
-Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans leogcosti programmnoi realizatciiy obratimosti i phonetichnosti pissema.
+Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans leogcosti programmnoi realizatcii obratimosti i phonetichnosti pissema.
 
 
 ## Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy
@@ -375,8 +376,8 @@ Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac �
 S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
 Cstati, mojno oslabitte eto pravilo:  
 Delatte tackie zameny tolleco tam, gde iestte risc pereputatte:  
-Da: IEgo. Iuliia. IUg.  
-Net: Iego. IUliia. Iug.
+Da: IEgo. Iulia. IUg.  
+Net: Iego. IUlia. Iug.
 
 Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojenia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primenenie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
 
@@ -415,11 +416,11 @@ Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, 
   siyo - сьо  
   siyeo - сьё
   * Fixy k quadrographam (eto vseo ne glavnyie napisania):  
-    siiye - сие  
-    siiya - сия  
-    siiyu - сию  
-    siiyo - сийо  
-    siiyeo - сиё
+    siyye - сие  
+    siyya - сия  
+    siyyu - сию  
+    siyyo - сийо  
+    siyyeo - сиё
 
 Primery primenenia pravil dlya i,Y:
 
@@ -443,7 +444,7 @@ oiia - оиа
 
 oiye - ойе  
 oiya - ойя  
-(v sluchaie slovoobrazovania, narushaiuschego morphologichesckii princip v osnove slova, prideotsya pisatte "oi-ie")
+(v sluchaie slovoobrazovania, narushaiuschego morphologichesckiy princip v osnove slova, prideotsya pisatte "oi-ie")
 
 yye - йе (v nachale)  
 yya - йя (v nachale)
@@ -453,7 +454,7 @@ yi - pochti vsegda "йи"; nicogda ne teryaiet iotirovanie, crome oboznachenia t
 iyi - ийи (v nachale)  
 iii - ии (v nachale)
 
-pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus (mojno reformu v IYesus), alliluiya, Yyemen (mojno reformu v Yemen), IYeshua, Iiacov, paranoiya (mojno reformu v paranoia).
+pianino, myaso, iantarnyi, piiavca, iion, iod, Iiisus (mojno reformu v IYesus), alliluiya, Yyemen (mojno reformu v Yemen), IYeshua, Iiacov, paranoiya (mojno reformu v paranoia).
 
 Iisus - Исус (po pravilam prilipania "i")
 
@@ -521,7 +522,7 @@ Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya n
   * **Hy** - ы (Hy.)
 * **Zz** - зэт, v abbr. - зэ ('default), зэт (v mathematicke i isclyucheniiah)
 
-Siymbvoly (combinatciiy) vnutrennego urovnya ne iavlyaiutsya samostoiatellenymi bucvami, no pri etom imeiut otdellenyie nazvania i vkhodyat v sostav (phoneticheski obrazovannyh) abbreviatur - eto nujno dlya sovmestimosti s kiyrillicei.
+Siymbvoly (combinatcii) vnutrennego urovnya ne iavlyaiutsya samostoiatellenymi bucvami, no pri etom imeiut otdellenyie nazvania i vkhodyat v sostav (phoneticheski obrazovannyh) abbreviatur - eto nujno dlya sovmestimosti s kiyrillicei.
 
 V scobcah ucazany 'ASCII-only oboznachenia.
 
