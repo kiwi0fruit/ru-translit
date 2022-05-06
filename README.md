@@ -482,7 +482,7 @@ Posledneie nujno, chtoby, naprimer, pisatte "декольте" s iavno myagcoi "
 
 diecolletie дєкольтє
 
-Eta versia zadumyvalasse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня". No polnostiyu logichno sdelatte ne udalosse, ibo iedinstvennyi sposob napisatte "декольтє" — eto napisatte "декольтие" — decolletie (decolletye, decolletee, decollettee, decolletteae - iesche huje). A photetichescaia vyrazitellenostte dlya menya vajneie.
+Eta versia zadumyvalasse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня".
 
 
 ## Abbreviatury
