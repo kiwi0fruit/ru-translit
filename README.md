@@ -193,10 +193,11 @@ vio вио
 viu виу  
 via виа
 
-viy вий (v oconchanii)  
-vii вий (ne v oconchanii)  
-vii вии (v oconchanii)  
-viii вии (ne v oconchanii)
+viy ви (ne v conce)  
+viy вий (v conce)  
+vii вий (ne v conce)  
+vii вии (v conce)  
+viii вии (ne v conce)
 
 czya ця  
 czyu цю  
@@ -235,7 +236,7 @@ obysc обыск (mojno sdelatte reformu v объиск)
 ppeie пье (ne glavnoie napisanie)  
 ppeia пья (ne glavnoie napisanie)
 
-пиявка piiavca, Мария Maria, синий siniy, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие sinie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
+пиявка piiavca, Мария Maria, синий siniy, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие sinie, on trollle, o trollie (posle udvoiennyh soglasnyh prioritet), on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
 
 Марии Marii (socr. ot Mariii), Мариинский Mariiinsckiy, Бия Bia (socr. ot Biia), Бийск Biisc.
 
@@ -481,6 +482,10 @@ siio сийо
 sio сио  
 
 diecolletiee дєкольтє
+
+Posle udvoiennyh soglasnyh u znachenia "Е" (йэ) - prioritet:
+
+o trollie о тролле, promillie промилле, trolliie троллие.
 
 Eto izmenenie zadumyvalosse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня", no ocazalosse vpolne godnym i dlya osnovnoi versii.
 
