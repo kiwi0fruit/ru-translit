@@ -487,7 +487,7 @@ Posle udvoiennyh soglasnyh u znachenia "Е" (йэ) - prioritet:
 
 o trollie о тролле, promillie промилле, trolliie троллие.
 
-Eto izmenenie zadumyvalosse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня", no ocazalosse vpolne godnym i dlya osnovnoi versii.
+Eto izmenenie zadumyvalosse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня" i "Мние" (Mnie) vmesto "Мне", no ocazalosse vpolne godnym i dlya osnovnoi versii.
 
 
 ## Abbreviatury
