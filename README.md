@@ -125,7 +125,7 @@ Pod govor piyanyh mujichcov.
 
 Pieony i vasillecki vseo iesche rastut na polyane vozle derevni Peony, schitaiuscheisya bogatoi. V nei rodilsya izvestnyi pianist, pereiehavshiy v Siaetl na rabotu v companii "Moii-tvoii siiesty-diaelectricki".
 
-Piyanyi master po proiectu sdelal mekhanichesckii obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyeuchitte svoii oshibcki.
+Piyanyi master po proiectu sdelal mekhanichesckiy obyiect s izyianom. Iesli brac ne obnarujitsya, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyeuchitte svoii oshibcki.
 
 V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel Djeordjje Maximus, conne v palleto i rvanyh djinsah, cotoryi cogo-to obyiskival, i pricazal vsem myttesya i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
@@ -237,7 +237,7 @@ ppeia пья (ne glavnoie napisanie)
 
 пиявка piiavca, Мария Maria, синий siniy, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие sinie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
 
-Марии Marii (socr. ot Mariii), Мариинский Mariiinsckiy.
+Марии Marii (socr. ot Mariii), Мариинский Mariiinsckiy, Бия Bia (socr. ot Biia), Бийск Biisc.
 
 Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
