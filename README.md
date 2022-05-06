@@ -137,7 +137,7 @@ V etom vide phraza ot A do IA nachinaiet vyglyadette sovsem po-drugomu. Seichas 
 
 Skhod mestnyh jitelei indiiscoi derevni sikkhov reshal chto je delatte s otkhodami companii "Caligula Gai Iuliy Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatcii.
 
-"Cto s mechom k nam prideot, tot ot mecha i..." - ne smog dogovoritte starshiy mekhanic Vasiliy.
+"Cto s mechom c nam prideot, tot ot mecha i..." - ne smog dogovoritte starshiy mekhanic Vasiliy.
 
 Lyubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devyanosto devyatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlojil pereselittesya v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vojdeleniiem posmatrivavshih na usaddebu, ruhnuli oconchatelleno.
 
@@ -147,7 +147,7 @@ Sluchaiu bylo ugodno, chtoby Billbo s Frodo iesche i rodilisse v odin denne, 22 
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste mejdu dvadczatiyu i tridczatiyu tremya, posle chego hobbit naconecz mojet schitatte sebya vzroslym.
 
-Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdenia, k etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletie – toje znammenatellenaia data – sovershennoletie po-hobbitski.
+Proshlo iesche dvenadczatte let. V Zasumcah cajdyi god veselo otmechali dvoinoi denne rojdenia, c etomu privycli, no lyubomu bylo iasno, chto nyneshnei oseniyu gotovitsya nechto nieobychnoie. Billbo ispolnyalosse 111 let – vozrast dlya hobbita vessema pochtennyi, da i chislo lyubopytnoie, nu a Frodo gotovilsya otmetitte tridczatitreohletie – toje znammenatellenaia data – sovershennoletie po-hobbitski.
 
 Imeietsya nescoleco ghypothez proiiskhojdenia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsya volc i necotoryie vidy shacalov.
 
@@ -389,9 +389,9 @@ Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojenia
 
 Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, ион (iod i iion):
 
-1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychno smyagchaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchaie ii/iy iotirovanie pochti teryaietsya - tac ono prinyato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchivaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
+1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychno smyagchaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchaie ii/iy iotirovanie pochti teryaietsya - tac ono prinyato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
-2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vojji i вожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchivaia ona bucva. K glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
+2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vojji i вожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
 
 3) Digraphy s Y imeiut prioritet nad digraphom iy.
 
@@ -401,7 +401,7 @@ Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, 
   sya - ся  
   syu - сю  
   syo - сё (ne glavnoie napisanie)
-  * Fixy k trigrapham:  
+  * Fixy c trigrapham:  
     hy - ы (obychno h eto "ха")  
     khy - хы  
     siae - сиэ  
@@ -418,7 +418,7 @@ Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, 
   siyu - сью  
   siyo - сьо  
   siyeo - сьё
-  * Fixy k quadrographam (eto vseo ne glavnyie napisania):  
+  * Fixy c quadrographam (eto vseo ne glavnyie napisania):  
     siyye - сие  
     siyya - сия  
     siyyu - сию  
@@ -501,7 +501,6 @@ Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya n
 * **Bb** - бэ
 * **Cc** - це (C.; CPU ЦПУ, ЦА C'A CZA, CI ЦИ)
   * **Ch** - че (Ch., ChS ЧС)
-  * otdelleno predlog "к" pishetsya "k"
 * **Dd** - дэ
 * **Ee** - э (byla "Е" ("ЙЭ") v mathematicke)
   * **IE** - е (IE., ЕГЭ IEG'E IEGAE, OBSIE ОБСЕ OBSIE)
@@ -528,6 +527,12 @@ Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya n
 * **Yy** - игрек (v abbr. oboznachaiet: i-cratcaia, iot, i chitaietsya cac "игрек"),
   * **Hy** - ы (Hy.)
 * **Zz** - зэт, v abbr. - зэ ('default), зэт (v mathematicke i isclyucheniiah)
+
+otdellenaia C — К  
+otdellenaia c — к  
+otdellenaia C. — Ц  
+otdellenaia c. — ц  
+v abbreviaturah C — Ц  
 
 Siymbvoly (combinatcii) vnutrennego urovnya ne iavlyaiutsya samostoiatellenymi bucvami, no pri etom imeiut otdellenyie nazvania i vkhodyat v sostav (phoneticheski obrazovannyh) abbreviatur - eto nujno dlya sovmestimosti s kiyrillicei.
 
