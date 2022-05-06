@@ -237,6 +237,8 @@ ppeia пья (ne glavnoie napisanie)
 
 пиявка piiavca, Мария Maria, синий siniy, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие sinie, on trollle, o trollie, on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
 
+Марии Marii (socr. ot Mariii), Мариинский Mariiinsckiy.
+
 Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
 ----
