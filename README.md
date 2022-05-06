@@ -6,24 +6,24 @@
 
 Latinicza, v cotoroi CA chitaietsya cac KA - cac u cullturnyh ieuropeicev (https://vk.com/wall-14213047_336). Gruppa VKontakte: https://vk.com/club14213047
 
-Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovaniiy na ucazatelyah turistichesckih, transliteratciiy imeon, na vypendreojnyh vyvescah. V redcom ispollezovaniiy v URL'ah, nickah, email'ah, imenah failov dlya sovmestimosti so starymi programmami. Tac je ieio ispollezuiut lyudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slavyansckih latinicz. Lyubaia latinicza — eto uhudshenie po sravneniu s kiyrillicei. No iesli uj prihoditsya ispollezovatte etot zamenitelle, to on doljen bytte cac mojno luchshe. A vot latinizatciu Rossiiy ia schitaiu plohoi ideiei i ne privetstvuiu.
+Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovanii na ucazatelyah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollezovanii v URL'ah, nickah, email'ah, imenah failov dlya sovmestimosti so starymi programmami. Tac je ieio ispollezuiut lyudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slavyansckih latinicz. Lyubaia latinicza — eto uhudshenie po sravneniu s kiyrillicei. No iesli uj prihoditsya ispollezovatte etot zamenitelle, to on doljen bytte cac mojno luchshe. A vot latinizatciu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
 
-* [Chastte sootvetstvii iz novogo opisania](#chastte-sootvetstvii-iz-novogo-opisania)
+* [Chastte sootvetstviy iz novogo opisania](#chastte-sootvetstviy-iz-novogo-opisania)
 * [Primer texta](#primer-texta)
 * [Boleie podrobnoie opisanie pravil](#boleie-podrobnoie-opisanie-pravil)
-* [Speciallenyie pravila dlya adaptatciiy zaiimstvovanii](#speciallenyie-pravila-dlya-adaptatciiy-zaiimstvovanii)
+* [Speciallenyie pravila dlya adaptatcii zaiimstvovaniy](#speciallenyie-pravila-dlya-adaptatcii-zaiimstvovaniy)
 * [Speciallenyie pravila dlya sch,shch dlya obratimosti](#speciallenyie-pravila-dlya-schshch-dlya-obratimosti)
 * [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-iaiuioie-s-zaglavnoi-bucvy)
 * [Reshenie problemy nachala slov tipa iod i iion](#reshenie-problemy-nachala-slov-tipa-iod-i-iion)
-* [Optimizatcia napisanii iia,iiu,iie v conce slova](#optimizatcia-napisanii-iiaiiuiie-v-conce-slova)
+* [Optimizatcia napisaniy iia,iiu,iie v conce slova](#optimizatcia-napisaniy-iiaiiuiie-v-conce-slova)
 * [Abbreviatury](#abbreviatury)
 * [Vclyuchenia slov v verkhnem registre](#vclyuchenia-slov-v-verkhnem-registre)
-* [Vclyuchenia isostrannyh slov bez izmenenii](#vclyuchenia-inostrannyh-slov-bez-izmenenii)
+* [Vclyuchenia isostrannyh slov bez izmeneniy](#vclyuchenia-inostrannyh-slov-bez-izmeneniy)
 
 Novaia versia latinicy. Teperre polnostiyu 'ASCII!
 
 
-## Chastte sootvetstvii iz novogo opisania
+## Chastte sootvetstviy iz novogo opisania
 
 а б в г д  
 a b v g d
@@ -277,7 +277,7 @@ czzze цць
 piczza, caprichhio, accent, emodji эмоджи.
 
 
-## Speciallenyie pravila dlya adaptatciiy zaiimstvovanii
+## Speciallenyie pravila dlya adaptatcii zaiimstvovaniy
 
 кз osnovnoie napisanie — kz  
 кз v isclyucheniiah — ckz, xz
@@ -458,29 +458,28 @@ pianino, myaso, iantarnyi, Mariia, iion, iod, Iiisus (mojno reformu v IYesus), a
 Iisus - Исус (po pravilam prilipania "i")
 
 
-## Optimizatcia napisanii iia,iiu,iie v conce slova
+## Optimizatcia napisaniy iia,iiu,iie v conce slova
 
-Vseo toje samoie, tolleco provoditsya optimizatcia napisanii v conce slova (tolleco v conce slova):
+Vseo toje samoie, tolleco provoditsya optimizatcia napisaniy v conce slova (tolleco v conce slova):
 
 sia сия (vmesto siia)  
 siu сию (vmesto siiu)  
 sie сие (vmesto siie)  
 sieo сиё (vmesto siieo)  
+sii сии (vmesto siii)  
+siy сий (vmesto sii)  
 siaa сиа  
 siuu сиу  
 siee се (imenno /sʲe/)  
 
 No pri etom ostaiutsya:
-
-siiy сии  
+  
 siio сийо  
-sii сий  
-siy сий  
 sio сио  
 
 diecolletiee дєкольтє
 
-Eto izmenenie zadumyvalosse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня", no ocazalosse vpolne godnym i dlya osnovnoi versiiy.
+Eto izmenenie zadumyvalosse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня", no ocazalosse vpolne godnym i dlya osnovnoi versii.
 
 
 ## Abbreviatury
@@ -570,7 +569,7 @@ On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
 * Tochca, ocrujeonnaia probellenymi siymbvolami, delaiet slovami v verkhmen registre do sleduiuschei tocoi je tochcki - mojno nescolleco stroc tac pometitte.
 
 
-## Vclyuchenia inostrannyh slov bez izmenenii
+## Vclyuchenia inostrannyh slov bez izmeneniy
 
 U cajdogo slova v Russcoi Latinice dlya menya iestte nastoiaschaia forma v kiyrillice. Slova v latinice — lishhe allternativnoie otobrajenie nastoiaschih slov v kiyrillice. A nastoiaschie slova v latinice vsegda pomecheny speciallenymi znacami:
 
