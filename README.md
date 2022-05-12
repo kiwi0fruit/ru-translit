@@ -621,12 +621,12 @@ This.
 
 ## Speciallenyi regjim chtenia
 
-U russckih slov v conce net apostropha cac pravilo. Poetomu dvoinoi odinarnyi apostroph v conce slova mogjno perenaznachitte cac **allternativnyi regjim chtenia slov**:
+U russckih slov v conce net apostropha cac pravilo. Poetomu odinarnyi apostroph v conce slova mogjno perenaznachitte cac **allternativnyi regjim chtenia slov**:
 
 chor чор  
-chor'' хор  
+chor' хор  
 Christos Чристос  
-Christos'' Христос  
+Christos' Христос  
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
