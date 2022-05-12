@@ -19,6 +19,7 @@ Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovanii na ucazatelyah tu
 * [Abbreviatury](#abbreviatury)
 * [Vclyuchenia slov v verkhnem registre](#vclyuchenia-slov-v-verkhnem-registre)
 * [Vclyuchenia isostrannyh slov bez izmeneniy](#vclyuchenia-inostrannyh-slov-bez-izmeneniy)
+* [Speciallenyi regjim chtenia](#speciallenyi-regjim-chtenia)
 
 Novaia versia latinicy. Teperre polnostiyu 'ASCII!
 
@@ -616,6 +617,16 @@ This.
 * Apostroph v seredine slova (ili besprobellenoi posledovatellenosti) delit slovo: sleva nastoiaschaia latinicza, sprava kiyrillicza latinicei.
 * Apostroph, ocrujeonnyi probellenymi siymbvolami, delaiet nastoiaschei latinicei do sleduiuschego tacogo je apostropha - mojno nescolleco stroc tac pometitte.
 * Ne rabotaiet v abbreviaturah. Formallenyi priznac abbreviatury - oconchanie na zaglavnuiu bucvu ili na zaglavnuiu bucvu + digraph Sh,Ch (s popravcoi na recursiu).
+
+
+## Speciallenyi regjim chtenia
+
+U russckih slov v conce net apostropha cac pravilo. Poetomu dvoinoi odinarnyi apostroph v conce slova mogjno perenaznachitte cac **allternativnyi regjim chtenia slov**:
+
+chor чор  
+chor'' хор  
+Christos Чристос  
+Christos'' Христос  
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
