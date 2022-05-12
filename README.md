@@ -627,6 +627,23 @@ chor чор
 chor' хор  
 Christos Чристос  
 Christos' Христос  
+mechanichhesckiy' механический
+
+Teperre novyie oboznachenia (vsegda, a ne tolleco v osobom regjime):
+
+chh ч  
+cch чч  
+ckch кч  
+kch кч
+
+No:
+
+ccz кц  
+cce кце
+
+Tacoie ispollezovanie ne conflictuiet s predyiduschim razdelom.
+
+V angliiscom i franczuzscom eta problema reshaietsya zauchivaniiem slov-isclyucheniy. Po ideie tac mogjno sdelatte i v russcom, no po mne apostroph stoiit poprobovatte.
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
