@@ -388,16 +388,13 @@ piczza, capricchio, accent, emodgji эмоджи.
 
 ## Speciiallenyie pravila dlia adaptatcii zaiimstvovanij
 
-кз osnovnoie napisanie — kz  
-кз v isclyucheniiah — ckz, xz
+кз osnovnoie napisaniie — kz  
+кз v isclyuchenijah — ckz, xz
 
 x кс  
-cz ц (tam, gde etiymologicheski nujna "z")  
-tci ци  
-tczi тци  
-thci тци
+cz ц (tam, gde etiymologicheski nudjna "z")  
 
-voxzal вокзал, ekzema экзема, militcia милиция, Knotczing Кнотцинг, otcziklevatte отциклевать, othcifroval отцифровал.
+voxzal вокзал, ekzema экзема, Knotczing Кнотцинг, ottcziklevatte отциклевать.
 
 цзя cjia  
 цзи cji  
@@ -405,14 +402,12 @@ voxzal вокзал, ekzema экзема, militcia милиция, Knotczing К�
 цз cjz  
 кж ckj
 
-gj ж
-
 дзя dzja  
 дзи dzji  
 дзе dzje  
 дзиа dzjia
 
-emodzji эмодзи, цзи cji, цзя cjia, Ryudzji Рюдзи, byudgjet, sergjeant (сержянт).
+emodzji эмодзи, цзи cji, цзя cjia, Ryudzji Рюдзи, biudgjet, sergjeant (сержянт).
 
 dh д  
 bh б  
@@ -421,31 +416,31 @@ bv в
 bvy ви  
 bvy вы (v conce slova)
 
-zabhvenie, obhvoditte, diyabvol, Bvabvylon, Bvyzantia, Buddha, Iiacobv, slova Iiacobvy, Iacobvlev.
+zabhvenie, obhvoditte, diyabvol, Bvabvylon, Bvyzantia, Buddha, IIacobv, slova IIacobvy, Iacobvlev.
 
-pouchatte поучать, nuga нуга, IEvropa, avrora, avthor, подавтор podavthor, aura, zauchitte, nauchitte.
+pouchiatte поучать, nuga нуга, IEvropa, avrora, avthor, подавтор podavthor, aura, zauchitte, nauchitte.
 
-Iesche:
+Iescheo:
 
-siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki.
+siystema система, циан cyan, photo, Theodor Теодор, Feodor Федор, терияки teriyyaki.
 
-Cac imenno osuschestvlyatte adaptatciu iz drugih iazycov — cherpatte vdohnovenie v predyduschei versii latinicy (smotrite nije v starom opisanii).
+Cac imenno osuschestvliatte adaptatciiu iz drugih iazycov — cherpatte vdohnoveniie v predyduschei versii latinicy (smotrite nizje v starom opisanii).
 
 hiy и  
 hie е (йэ)  
 hiyye ие  
-hiie хие  
+hiie  хиэ/хие  
 hiye хье  
 gh г  
 ghy ги  
 ghy гы (v conce slova)  
-tot je princip nado vzyatte i dlya drugih grechesckih digraphov (ph, th)
+tot je princip nado vziatte i dlia drugih grechesckih digraphov (ph, th)
 
-ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoria история, hiysteria истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
+ghypotheza гипотеза, hiypotheca ипотека, ghippopotam гиппопотам, hiyppodrom ипподром, hiystoriia история, hiysteriia истерия, hiyyerarkh иерарх, Hielena Елена, Hiyuston Хьюстон, physica физика, graph, graphy графы.
 
 ----
 
-Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
+Otdellenoie pravilo dlia "ль" v iscliuchenijah (ll pered soglasnymi):
 
 культура culltura (vmesto culletura)  
 Камиллка Camillhca (da, vot tacoi vot hack)  
@@ -463,20 +458,20 @@ Billbo
 шч shhch - ostallenyie  
 шшч shshch  
 
-scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchlenenie.
+scheotca, scheot, vesnushchatyi, rashchuvstvovalsia, rashchleneniie.
 
-Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans leogcosti programmnoi realizatcii obratimosti i phonetichnosti pissema.
+Tacoi podkhod vozmogjen iz-za togo, chzto i СЧ, i ШЧ chitaiutsia tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsia balans leogcosti programmnoi realizatcii obratimosti i phonetichznosti pissema.
 
 
 ## Speciiallenyie pravila dlia ia,iu,io,ie s zaglavnoi bucvy
 
-S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
-Cstati, mojno oslabitte eto pravilo:  
-Delatte tackie zameny tolleco tam, gde iestte risc pereputatte:  
+S zaglavnoi bucvy ia,iu,io,ie pishutsia cac IA,IU,IO,IE.  
+Cstati, mogjno oslabitte eto pravilo:  
+Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:  
 Da: IEgo. Iulia. IUg.  
 Net: Iego. IUlia. Iug.
 
-Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojenia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primenenie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
+Eto pavilo mogjno dopolnitelleno oslabitte i ne primeniatte v nachiale predlogjenia posle tochzcki. No vot cogda ne bylo tochzcki raneie, cotoraia ochevidno zadaieot context, to nellezia opustitte primeneniie. V sluchiaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochznaia L (l) ne pishetsia - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviiatura ИХ pishetsia I'H (IKH). 2 lh vody eto 2000 ml.
 
 
 ## Resheniie problemy nachiala slov tiypa iod i iion
@@ -560,9 +555,9 @@ UPD: IIesus chitaietsia cac Иесус, a ne Иэсус, cotoryi budet IIaesus.
 
 ## Abbreviiatury
 
-V altinice ispollezuiutsya phonetichesco-kiyrillichesckie abbreviatury, cotoryie vopreki zapisi socraschaiut po zvuchaniu. Tackim obrazom, nazvania bucv v abbreviaturah (a tac je digraphy) budut chitattesya cac v kiyrillice.
+V latinice ispollezuiutsia phonetichesco-kiyrillichesckiie abbreviiatury, cotoryie vopreki zapisi socraschiaiut po zvuchianiiu. Tackim obrazom, nazvaniia bucv v abbreviiaturah (a tac je digraphy) budut chitattesia cac v kiyrillice.
 
-Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya na nazvania bucv):
+Izmeneniia v nazvanijah bucv i digraphov (socrascheniia po zvuchaniiu opiraiutsia na nazvaniia bucv):
 
 * **Aa** - а
   * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIaA, РИaА RIa'A RIaaA)
@@ -574,13 +569,13 @@ Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya n
   * **IE** - е (IE., ЕГЭ IEG'E IEGAE, OBSIE ОБСЕ OBSIE)
   * **IEO** - ё (IEO.)
   * **Eh** - э (E., ЕГЭ IEG'E IEGAE, ЭЭГ EEG, РИЭ RI'E RIAE)
-  * standartno dlya "Е" ("ЙЭ") ispollezuietsya tolleco IE, a dlya "Э" posle soglasnyh - tolleco 'E/AE.
+  * standartno dlia "Е" ("ЙЭ") ispollezuietsia tolleco IE, a dlia "Э" posle soglasnyh - tolleco 'E/AE.
 * **Ff** - эф
 * **Gg** - гэ (byla "же" v mathematicke)
-* **Hh** - хаш, v abbr. - ха ('default), аш (v mathematicke i isclyucheniiah) (H., K'HL КХЛ KKHL, PH ПэАш)
+* **Hh** - хаш, v abbr. - ха ('default), аш (v mathematicke i iscliuchenijah) (H., K'HL КХЛ KKHL, PH ПэАш)
   * **Hy** - ы
 * **Ii** - и
-* **Jj** - жей, v abbr. - же ('default), жи (v mathematicke i isclyucheniiah)
+* **Jj** - жей, v abbr. - же ('default), жи (v mathematicke i iscliuchenijah)
 * **Kk** - ка
 * **Ll** - эль, v abbr. - эл ('default)
 * **Mm** - эм, **Nn** - эн, **Oo** - о, **Pp** - пэ, **Qq** - ку, **Rr** - эр
@@ -592,19 +587,19 @@ Izmenenia v nazvaniiah bucv i digraphov (socraschenia po zvuchaniu opiraiutsya n
 * **Vv** - вэ
 * **Ww** - дубль-вэ
 * **Xx** - икс
-* **Yy** - игрек (v abbr. oboznachaiet: i-cratcaia, iot, i chitaietsya cac "игрек"),
+* **Yy** - игрек (v abbr. oboznachaiet: i-cratcaia, iot, i chitaietsia cac "игрек"),
   * **Hy** - ы (Hy.)
-* **Zz** - зэт, v abbr. - зэ ('default), зэт (v mathematicke i isclyucheniiah)
+* **Zz** - зэт, v abbr. - зэ ('default), зэт (v mathematicke i iscliuchenijah)
 
 otdellenaia C — К  
 otdellenaia c — к  
 otdellenaia C. — Ц  
 otdellenaia c. — ц  
-v abbreviaturah C — Ц  
+v abbreviiaturah C — Ц  
 
-Siymbvoly (combinatcii) vnutrennego urovnya ne iavlyaiutsya samostoiatellenymi bucvami, no pri etom imeiut otdellenyie nazvania i vkhodyat v sostav (phoneticheski obrazovannyh) abbreviatur - eto nujno dlya sovmestimosti s kiyrillicei.
+Siymbvoly (combinatcii) vnutrennego urovnia ne iavliaiutsia samostoiatellenymi bucvami, no pri etom imeiut otdellenyie nazvaniia i vkhodiat v sostav (phoneticheski obrazovannyh) abbreviiatur - eto nudjno dlia sovmestimosti s kiyrillicei.
 
-V scobcah ucazany 'ASCII-only oboznachenia.
+V scobcah ucazany 'ASCII-only oboznacheniia.
 
 | **А**  |     **О**      |  **У**      | **Э**       |  **Ы**  |
 |:------:|:--------------:|:-----------:|:-----------:|:-------:|
@@ -622,9 +617,9 @@ V scobcah ucazany 'ASCII-only oboznachenia.
 | **Щ**  |                |             |             |         |
 |  SCH   |                |             |             |         |
 
-*Vse allternativnyie varianty glasnyh AOU ("АОУ") s apostrophom actualleny tolleco posle `I`.*
+*Vse allternativnyie variianty glasnyh AOU ("АОУ") s apostrophom actualleny tolleco posle `I`.*
 
-*Bucva "C" nazyvaietsya "Це" i v abbreviatury ideot cac C / C' (CZ). I oboznachaiet ona tam nachallenyi __zvuc__ "Ц". A vse nachallenyie zvucki "ка" v abbreviaturah oboznachaiutsya "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
+*Bucva "C" nazyvaietsia "Це" i v abbreviiatury ideot cac C / C' (CZ). I oboznachiaiet ona tam nachiallenyi __zvuc__ "Ц". A vse nachiallenyie zvucki "ка" v abbreviiaturah oboznachiaiutsia "K": Carina Petrova => K.Petrova. Ciceron Romanov => C.Romanov.*  
 
 SHI ШИ, S'HI СХИ (SKHI), SK'HI СКХИ (SKKHI),  
 CI ЦИ, C'A ЦА (CZA),  
@@ -638,7 +633,7 @@ IEG'E ЕГЭ (IEGAE), OBJ ОБЖ, CPU ЦПУ, ChS ЧС, SShA США, EEG ЭЭГ,
 
 C'Z ЦЗ (CZZ).
 
-Tolleco hodovyie digraphy vsegda slitno v abbreviaturah: SH, CH, KH, SCH, CZ, AE. Pered zaglavnoi `I` ispollezuiutsya polnyie formy vsegda.
+Tolleco hodovyie digraphy vsegda slitno v abbreviiaturah: SH, CH, KH, SCH, CZ, AE. Pered zaglavnoi `I` ispollezuiutsia polnyie formy vsegda.
 
 
 ## Vcliucheniia slov v verkhnem registre
@@ -646,13 +641,13 @@ Tolleco hodovyie digraphy vsegda slitno v abbreviaturah: SH, CH, KH, SCH, CZ, AE
 On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
 Он работает в ГИБДД. Сел вот такой . ЖУК ОГРОМНЫЙ. . Да .БОЛЬШОЙ.
 
-* Tochca v nachale slova delaiet slovom v verkhnem registre vpravo do pervogo probellenogo siymbvola.
-* Tochca, ocrujeonnaia probellenymi siymbvolami, delaiet slovami v verkhmen registre do sleduiuschei tocoi je tochcki - mojno nescolleco stroc tac pometitte.
+* Tochzca v nachiale slova delaiet slovom v verkhnem registre vpravo do pervogo probellenogo siymbvola.
+* Tochzca, ocrugjeonnaia probellenymi siymbvolami, delaiet slovami v verkhmen registre do sleduiuschei tacoi je tochzcki - mogjno nescolleco stroc tac pometitte.
 
 
 ## Vcliucheniia inostrannyh slov bez izmenenij
 
-U cajdogo slova v Russcoi Latinice dlya menya iestte nastoiaschaia forma v kiyrillice. Slova v latinice — lishhe allternativnoie otobrajenie nastoiaschih slov v kiyrillice. A nastoiaschie slova v latinice vsegda pomecheny speciallenymi znacami:
+U cajdogo slova v Russcoi Latinice dlia menia iestte nastoiaschiaia forma v kiyrillice. Slova v latinice — lishhe allternativnoie otobrazjeniie nastoiaschih slov v kiyrillice. A nastoiaschiie slova v latinice vsegda pomecheny speciiallenymi znacami:
 
 Y-'khromosoma => Y-хромосома  
 Y'-khromosoma => Y-хромосома  
@@ -665,7 +660,7 @@ creep'ota => creep'ота
 Coca-Col'ca => Coca-Col'ка  
 Coca Col'ca => Кока Col'ка  
 d'Artaniyan' => д'Артаньян  
-ne podderjivaietsya => полу-jeep (ibo nefig)  
+ne podderjivaietsia => полу-jeep (ibo nefig)  
 
 Sobaca ' cat dog. ' Yes. => Собака cat dog. Ес.
 
@@ -679,11 +674,11 @@ Is horosho. =>
 This.  
 Ис horosho.
 
-* Apostroph v nachale slova delaiet nastoiaschei latinicei vpravo do pervogo probellenogo siymbvola. Imeiet prioritet nad apostrophom v seredine ili v conce.
-* Apostroph v conce slova delaiet kiyrilliczu latinicei vlevo do pervogo probellenogo siymbvola. Imeiet prioritet nad apostrophom v seredine slova (d'Artaniyan' => д'Артаньян).
-* Apostroph v seredine slova (ili besprobellenoi posledovatellenosti) delit slovo: sleva nastoiaschaia latinicza, sprava kiyrillicza latinicei.
-* Apostroph, ocrujeonnyi probellenymi siymbvolami, delaiet nastoiaschei latinicei do sleduiuschego tacogo je apostropha - mojno nescolleco stroc tac pometitte.
-* Ne rabotaiet v abbreviaturah. Formallenyi priznac abbreviatury - oconchanie na zaglavnuiu bucvu ili na zaglavnuiu bucvu + digraph Sh,Ch (s popravcoi na recursiu).
+* Apostroph v nachiale slova delaiet nastoiaschei latinicei vpravo do pervogo probellenogo siymbvola. Imeiet prioritet nad apostrophom v seredine ili v conce.
+* Apostroph v conce slova delaiet kiyrilliciu latinicei vlevo do pervogo probellenogo siymbvola. Imeiet prioritet nad apostrophom v seredine slova (d'Artaniyan' => д'Артаньян).
+* Apostroph v seredine slova (ili besprobellenoi posledovatellenosti) delit slovo: sleva nastoiaschiaia latinicia, sprava kiyrillicia latinicei.
+* Apostroph, ocrugjeonnyi probellenymi siymbvolami, delaiet nastoiaschei latinicei do sleduiuschego tacogo je apostropha - mogjno nescolleco stroc tac pometitte.
+* Ne rabotaiet v abbreviiaturah. Formallenyi priznac abbreviiatury - oconchianiie na zaglavnuiu bucvu ili na zaglavnuiu bucvu + digraph Sh,Ch (s popravcoi na recursiiu).
 
 
 ## Sovmestimaia diiacritichescaia versiia
