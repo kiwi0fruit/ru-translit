@@ -163,7 +163,7 @@ V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zr
 
 ## Boleie podrobnoie opisaniie pravil
 
-Teperre "ij" vsegda znachit "/ij/" (cac pervoie hiystorichescoie ispollzovaniie), no v ostallnyh sluchiaiah "j" eto "[ж]".
+Teperre "ij" vsegda znachit "[ɪj]" (pochzti cac pervoie hiystorichescoie ispollzovaniie), no v ostallnyh sluchiaiah "j" eto "[ʐ]".
 
 sija - сия  
 sidju - сижу  
