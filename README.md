@@ -58,6 +58,14 @@ i (diyavol) / tte (brattesia, glushhe — udvoieniie soglasnoi + e)
 yie (novyie — v conce slova) / yije (vyijezd — ne v conce slova)
 
 
+Cheredovaniia:
+ж / j-gj-dj-zj;  
+ч / ch(iez)-tch;  
+ц / c(yiez)-tc(yiez);  
+ш / sh;  
+щ / sch(iez)-stch.
+
+
 ## Primer texta
 
 Alexandr Pushkin — Zimneie utro
@@ -324,7 +332,7 @@ czzze цць
 жиу jiu  
 жио jio  
 
-piczza, capricchio, accent, emodji эмоджи.
+piczza, capricchio, accent, emodgji эмоджи.
 
 
 ## Speciiallenyie pravila dlia adaptatcii zaiimstvovanij
