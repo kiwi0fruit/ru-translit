@@ -8,7 +8,7 @@ Latinicia, v cotoroi CA chitaietsia cac KA - cac u cullturnyh ievropeicev (https
 
 Smysl liuboi russcoi latinicy ia vidju tolleco v ispollezovanii na ucazateliah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollezovanii v URL'ah, nickah, email'ah, imenah failov dlia sovmestimosti so starymi programmami. Tac je ieio ispollezuiut liudi so strannym hobbi russcoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slaviansckih latinicz. Liubaia latinicia — eto uhudsheniie po sravneniiu s kiyrillicei. No iesli uj prihoditsia ispollezovatte etot zamenitelle, to on dolgjen bytte cac mogjno luchzshe. A vot latinizatciiu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
 
-* [Chastte sootvetstvij iz novogo opisaniia](#chastte-sootvetstvij-iz-novogo-opisaniia)
+* [Chiastte sootvetstvij iz novogo opisaniia](#chiastte-sootvetstvij-iz-novogo-opisaniia)
 * [Primer texta](#primer-texta)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
 * [Speciiallenyie pravila dlia adaptatcii zaiimstvovanij](#speciiallenyie-pravila-dlia-adaptatcii-zaiimstvovanij)
@@ -23,7 +23,7 @@ Smysl liuboi russcoi latinicy ia vidju tolleco v ispollezovanii na ucazateliah t
 Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
 
 
-## Chastte sootvetstvij iz novogo opisaniia
+## Chiastte sootvetstvij iz novogo opisaniia
 
 а б в г д  
 a b v g d
@@ -331,11 +331,11 @@ Vvoditsia cheredovallenicia:
   ц/c(yiez): cena,  
   щ/sch(iez): iescheo.  
 
-тч ttch — ottcheot  
-тц ttcz — ottcia, ottcy  
+тч ttch(iez) — ottcheot  
+тц ttc(yiez) — ottcia, ottcy  
 sttch стч (cogda chitaietsia otdelleno)  
 shch сч (cogda chitaietsia otdelleno, no shch mogjet chitattesia i slitno cac Щ)  
-thch тх — othchimera  
+thch тх — othchyimera  
 (pitanie — pischia, teriaietsia T)
 
 Eto mogjno interpretirovatte tac, chzto cogda proverochznaia etiymologiia teriaietsia iz lexicona, to zj,gj,dj teriaiut pervuiu bucvu i stanoviatsia prosto 'j" — blago chitaietsia odinacovo.
@@ -350,7 +350,7 @@ medja, medjdu, mediana.
 
 ----
 
-К pered ЕЁИ v oconchanijah — ck  
+К pered ЕЁИ v oconchianijah — ck  
 К pered ЕЁИ v osnove — k  
 
 кз osnovnoie napisaniie — kz  
@@ -452,13 +452,13 @@ Billbo
 ## Speciiallenyie pravila dlia sch,shch dlia obratimosti
 
 щ sch  
-сч sch - v slovarnyh slovah, chitaiuschihsya cac [ɕ], [ʂ] ili [ɕː]  
-сч shch - ostallenyie (vsyackie [ɕt͡ɕ] ili [ʂt͡ɕ] popadaiut syuda)  
+сч sch - v slovarnyh slovah, chitaiuschihsia cac [ɕ], [ʂ] ili [ɕː]  
+сч shch - ostallenyie (vsiackiie [ɕt͡ɕ] ili [ʂt͡ɕ] popadaiut siuda)  
 шч shch - v slovarnyh slovah  
 шч shhch - ostallenyie  
 шшч shshch  
 
-scheotca, scheot, vesnushchatyi, rashchuvstvovalsia, rashchleneniie.
+scheotca, scheot, vesnushchiatyi, rashchiuvstvovalsia, rashchzleneniie.
 
 Tacoi podkhod vozmogjen iz-za togo, chzto i СЧ, i ШЧ chitaiutsia tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsia balans leogcosti programmnoi realizatcii obratimosti i phonetichznosti pissema.
 
@@ -476,22 +476,22 @@ Eto pavilo mogjno dopolnitelleno oslabitte i ne primeniatte v nachiale predlogje
 
 ## Resheniie problemy nachiala slov tiypa iod i iion
 
-Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, ион (iod i iion):
+Concretizatciia pravil Russcoi Latinicy dlia problem nachiala slova tiypa йод, ион (iod i iion):
 
-1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychno smyagchaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchaie ii/iy iotirovanie pochti teryaietsya - tac ono prinyato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
+1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychzno smiagchiaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchiaie ii/iy iotirovanie pochzti teriaietsia - tac ono priniato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsia cac "й" (iot).
 
-2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vojji i вожжы/vojjy zvuchat myagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsya cac "й" (iot).
+2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vozjji i вожжы/vozjjy zvuchiat miagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsia cac "й" (iot).
 
 3) Digraphy s Y imeiut prioritet nad digraphom iy.
 
-4) Trigraphy soglasnaia + ie, sogl. + iy, sogl. + ya, sogl. + yu, sogl. + yo chitaiutsya po-drugomu i imeiut prioritet nad 1-3).  
+4) Trigraphy soglasnaia + ie, sogl. + iy, sogl. + ya, sogl. + yu, sogl. + yo chitaiutsia po-drugomu i imeiut prioritet nad 1-3).  
   sie - се (imenno /sʲe/)  
   siy - си  
   sya - ся  
   syu - сю  
   syo - сё (ne glavnoie napisanie)
   * Fixy c trigrapham:  
-    hy - ы (obychno h eto "ха")  
+    hy - ы (obychzno h eto "ха")  
     khy - хы  
     siae - сиэ  
     sihy - сиы  
@@ -501,7 +501,7 @@ Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, 
     syeo - сыо
     sye - сыэ
 
-5) Quadrography soglasnaia + iye, sogl. + iya, sogl. + iyu, sogl. + iyo chitaiutsya po-drugomu i imeiut prioritet nad 1-4).  
+5) Quadrography soglasnaia + iye, sogl. + iya, sogl. + iyu, sogl. + iyo chitaiutsia po-drugomu i imeiut prioritet nad 1-4).  
   siye - сье  
   siya - сья  
   siyu - сью  
@@ -514,7 +514,7 @@ Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, 
     siyyo - сийо  
     siyyeo - сиё
 
-Primery primenenia pravil dlya i,Y:
+Primery primenenia pravil dlia i,Y:
 
 s - съ  
 si - си  
@@ -526,27 +526,27 @@ siia - сия
 moii - мои  
 iia - иа
 
-iye - ие (v nachale)  
-iya - ия (v nachale)  
-iiie - ие (v nachale, ne osnovnoie napisanie)  
-iiia - ия (v nachale, ne osnovnoie napisanie)
+iye - ие (v nachiale)  
+iya - ия (v nachiale)  
+iiie - ие (v nachiale, ne osnovnoie napisanie)  
+iiia - ия (v nachiale, ne osnovnoie napisanie)
 
 oiie - оиэ  
 oiia - оиа
 
 oiye - ойе  
 oiya - ойя  
-(v sluchaie slovoobrazovania, narushaiuschego morphologichesckij princip v osnove slova, prideotsya pisatte "oi-ie")
+(v sluchiaie slovoobrazovania, narushaiuschego morphologichesckij princip v osnove slova, prideotsia pisatte "oi-ie")
 
-yye - йе (v nachale)  
-yya - йя (v nachale)
+yye - йе (v nachiale)  
+yya - йя (v nachiale)
 
-yi - pochti vsegda "йи"; nicogda ne teryaiet iotirovanie, crome oboznachenia tveordogo znaca.
+yi - pochzti vsegda "йи"; nicogda ne teriaiet iotirovanie, crome oboznachenia tveordogo znaca.
 
-iyi - ийи (v nachale)  
-iii - ии (v nachale)
+iyi - ийи (v nachiale)  
+iii - ии (v nachiale)
 
-pianino, myaso, iantarnyi, piiavca, iion, iod, Iiisus (mojno reformu v IYesus), alliluiya, Yyemen (mojno reformu v Yemen), IYeshua, Iiacov, paranoiya (mojno reformu v paranoia).
+pianino, miaso, iantarnyi, piiavca, iion, iod, Iiisus (mogjno reformu v IYesus), alliluiya, Yyemen (mogjno reformu v Yemen), IYeshua, Iiacov, paranoiya (mogjno reformu v paranoia).
 
 Iisus - Исус (po pravilam prilipania "i")
 
@@ -557,7 +557,7 @@ UPD: IIesus chitaietsia cac Иесус, a ne Иэсус, cotoryi budet IIaesus.
 
 V latinice ispollezuiutsia phonetichesco-kiyrillichesckiie abbreviiatury, cotoryie vopreki zapisi socraschiaiut po zvuchianiiu. Tackim obrazom, nazvaniia bucv v abbreviiaturah (a tac je digraphy) budut chitattesia cac v kiyrillice.
 
-Izmeneniia v nazvanijah bucv i digraphov (socrascheniia po zvuchaniiu opiraiutsia na nazvaniia bucv):
+Izmeneniia v nazvanijah bucv i digraphov (socrascheniia po zvuchianiiu opiraiutsia na nazvaniia bucv):
 
 * **Aa** - а
   * **IA** - я (IA., FIIA ФИЯ, РИА RI'A RIaA, РИaА RIa'A RIaaA)
@@ -587,7 +587,7 @@ Izmeneniia v nazvanijah bucv i digraphov (socrascheniia po zvuchaniiu opiraiutsi
 * **Vv** - вэ
 * **Ww** - дубль-вэ
 * **Xx** - икс
-* **Yy** - игрек (v abbr. oboznachaiet: i-cratcaia, iot, i chitaietsia cac "игрек"),
+* **Yy** - игрек (v abbr. oboznachiaiet: i-cratcaia, iot, i chitaietsia cac "игрек"),
   * **Hy** - ы (Hy.)
 * **Zz** - зэт, v abbr. - зэ ('default), зэт (v mathematicke i iscliuchenijah)
 
