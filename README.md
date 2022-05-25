@@ -449,6 +449,10 @@ Otdellenoie pravilo dlia "ль" v iscliuchenijah (ll pered soglasnymi):
 кристалл criystall (ne pered soglasnoi je)  
 Billbo
 
+----
+
+machjina машина, Chjanelle, Chjampanscoie, blanchjirovatte, machyina махина, nachinal начинал.
+
 
 ## Speciiallenyie pravila dlia sch,shch dlia obratimosti
 
