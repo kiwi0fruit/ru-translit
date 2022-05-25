@@ -275,11 +275,11 @@ theo - тео
 
 vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chzto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
 
-пиявка pijavca, Мария Mariia, синий sinij, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollia, Колька Collca, троллька trolllca, Аллен Allien, сиеста sijesta, диэлектрик diielectric, синие siniie, on trollle, o trollie (posle udvoiennyh soglasnyh prioritet), on conne, o cone, meod, nieobychzno, on leod, net llda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
+пиявка pijavca, Мария Mariia, синий sinij, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollia, Колька Colleca, троллька trollleca, Аллен Allien, сиеста sijesta, диэлектрик diielectric, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychzno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
 
 Марии Marii, Мариинский Mariinsckiy, Бия Biia, Бийск Bijsc.
 
-Optcionallno: obysc / obyisc, otygrysh / otyigrysh.
+Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
 ----
 
