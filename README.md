@@ -15,7 +15,6 @@ Smysl liuboi russcoi latinicy ia vidju tolleco v ispollezovanii na ucazateliah t
 * [Speciiallenyie pravila dlia sch,shch dlia obratimosti](#speciiallenyie-pravila-dlia-schshch-dlia-obratimosti)
 * [Speciiallenyie pravila dlia ia,iu,io,ie s zaglavnoi bucvy](#speciiallenyie-pravila-dlia-iaiuioie-s-zaglavnoi-bucvy)
 * [Resheniie problemy nachiala slov tiypa iod i iion](#resheniie-problemy-nachiala-slov-tiypa-iod-i-iion)
-* [Optimizatciia napisanij iia,iiu,iie v conce slova](#optimizatciia-napisanij-iiaiiuiie-v-conce-slova)
 * [Abbreviiatury](#abbreviiatury)
 * [Vcliucheniia slov v verkhnem registre](#vcliucheniia-slov-v-verkhnem-registre)
 * [Vcliucheniia isostrannyh slov bez izmenenij](#vcliucheniia-inostrannyh-slov-bez-izmenenij)
@@ -277,7 +276,7 @@ vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyi
 
 пиявка pijavca, Мария Mariia, синий sinij, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollia, Колька Colleca, троллька trollleca, Аллен Allien, сиеста sijesta, диэлектрик diielectric, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychzno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
 
-Марии Marii, Мариинский Mariinsckiy, Бия Biia, Бийск Bijsc.
+Марии Marii, Мариинский Mariinsckij, Бия Biia, Бийск Bijsc.
 
 Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
@@ -361,7 +360,7 @@ pouchatte поучать, nuga нуга, IEvropa, avrora, avthor, подавто
 
 Iesche:
 
-siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki, терийяки teriiyaki.
+siystema система, циан cyan, photo, Thieodor Теодор, Feodor Федор, терияки teriyyaki.
 
 Cac imenno osuschestvlyatte adaptatciu iz drugih iazycov — cherpatte vdohnovenie v predyduschei versii latinicy (smotrite nije v starom opisanii).
 
@@ -475,7 +474,7 @@ oiia - оиа
 
 oiye - ойе  
 oiya - ойя  
-(v sluchaie slovoobrazovania, narushaiuschego morphologichesckiy princip v osnove slova, prideotsya pisatte "oi-ie")
+(v sluchaie slovoobrazovania, narushaiuschego morphologichesckij princip v osnove slova, prideotsya pisatte "oi-ie")
 
 yye - йе (v nachale)  
 yya - йя (v nachale)
@@ -488,34 +487,6 @@ iii - ии (v nachale)
 pianino, myaso, iantarnyi, piiavca, iion, iod, Iiisus (mojno reformu v IYesus), alliluiya, Yyemen (mojno reformu v Yemen), IYeshua, Iiacov, paranoiya (mojno reformu v paranoia).
 
 Iisus - Исус (po pravilam prilipania "i")
-
-
-## Optimizatciia napisanij iia,iiu,iie v conce slova
-
-Vseo toje samoie, tolleco provoditsya optimizatcia napisaniy v conce slova (tolleco v conce slova):
-
-sia сия (vmesto siia)  
-siu сию (vmesto siiu)  
-sie сие (vmesto siie)  
-sieo сиё (vmesto siieo)  
-sii сии (vmesto siii)  
-siy сий (vmesto sii)  
-siaa сиа  
-siuu сиу  
-siee се (imenno /sʲe/)  
-
-No pri etom ostaiutsya:
-  
-siio сийо  
-sio сио  
-
-diecolletiee дєкольтє
-
-Posle udvoiennyh soglasnyh u znachenia "Е" (йэ) - prioritet:
-
-o trollie о тролле, promillie промилле, trolliie троллие.
-
-Eto izmenenie zadumyvalosse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня" i "Мние" (Mnie) vmesto "Мне", no ocazalosse vpolne godnym i dlya osnovnoi versii.
 
 
 ## Abbreviiatury
