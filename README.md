@@ -268,9 +268,18 @@ chy - хи
 chyi - хи (pered soglasnymi, ne glavnoie napisaniie)  
 cha - ха  
 chya - хиа  
-chae - хе
+chae - хе  
+chsz - хз  
+chssz - хсз  
+архь arkhhe (ibo nefig)
+
+To iestte, dlia digrapha 'ch chzteniie zavisit ot togo, sleduiut li bucvy [iez] posle.
 
 theo - тео  
+
+Christos, chimera, archaeolog, archaei, centner, circ.
+
+Chem, chzto, nichzto, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachyicardia.
 
 vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chzto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
 
@@ -282,23 +291,25 @@ Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
 
 ----
 
-К pered ЕЁИ v oconchaniiah — ck  
+К pered ЕЁИ v oconchanijah — ck  
 К pered ЕЁИ v osnove — k  
 
-кз osnovnoie napisanie — kz  
-кз v isclyucheniiah — ckz, xz
+кз osnovnoie napisaniie — kz  
+кз v isclyuchenijah — ckz, xz
 
 ssh сш  
 shh шш  
 shhe шь  
 shhhe шшь
 
-cch кч  
+ckch(iez) кч(...)  
+kch(iez) кч(...)  
+cch чч  
 chh чч  
 chhe чь  
 chhhe ччь
 
-ccz кц  
+cc(yiez) кц(...)  
 czz цц  
 czze ць  
 czzze цць
@@ -312,11 +323,8 @@ czzze цць
 жиа jia  
 жиу jiu  
 жио jio  
-джа dja  
-джи dji  
-джиа djia
 
-piczza, caprichhio, accent, emodji эмоджи.
+piczza, capricchio, accent, emodji эмоджи.
 
 
 ## Speciiallenyie pravila dlia adaptatcii zaiimstvovanij
@@ -487,6 +495,8 @@ iii - ии (v nachale)
 pianino, myaso, iantarnyi, piiavca, iion, iod, Iiisus (mojno reformu v IYesus), alliluiya, Yyemen (mojno reformu v Yemen), IYeshua, Iiacov, paranoiya (mojno reformu v paranoia).
 
 Iisus - Исус (po pravilam prilipania "i")
+
+UPD: IIesus chitaietsia cac Иесус, a ne Иэсус, cotoryi budet IIaesus.
 
 
 ## Abbreviiatury
