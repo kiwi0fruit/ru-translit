@@ -357,18 +357,7 @@ bvy вы (v conce slova)
 
 zabhvenie, obhvoditte, diyabvol, Bvabvylon, Bvyzantia, Buddha, Iiacobv, slova Iiacobvy, Iacobvlev.
 
-V nachale slov:
-
-^eu ^эв  
-^ieu ^ев  
-^au ^ав  
-^iau ^яв  
-^euu ^эу  
-^ieuu ^еу  
-^auu ^ау  
-^iauu ^яу  
-
-pouchatte поучать, nuga нуга, IEuropa, aurora, author, подавтор podavthor, auura, zauchitte, nauchitte.
+pouchatte поучать, nuga нуга, IEvropa, avrora, avthor, подавтор podavthor, aura, zauchitte, nauchitte.
 
 Iesche:
 
