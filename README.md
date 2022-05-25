@@ -6,7 +6,7 @@
 
 Latinicia, v cotoroi CA chitaietsia cac KA - cac u cullturnyh ievropeicev (https://vk.com/wall-14213047_336). Gruppa VKontakte: https://vk.com/club14213047
 
-Smysl liuboi russcoi latinicy ia vidju tolleco v ispollezovanii na ucazateliah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollezovanii v URL'ah, nickah, email'ah, imenah failov dlia sovmestimosti so starymi programmami. Tac je ieio ispollezuiut liudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slaviansckih latinicz. Liubaia latinicia — eto uhudsheniie po sravneniiu s kiyrillicei. No iesli uj prihoditsia ispollezovatte etot zamenitelle, to on dolgjen bytte cac mogjno luchzshe. A vot latinizatciiu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
+Smysl liuboi russcoi latinicy ia vidju tolleco v ispollezovanii na ucazateliah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollezovanii v URL'ah, nickah, email'ah, imenah failov dlia sovmestimosti so starymi programmami. Tac je ieio ispollezuiut liudi so strannym hobbi russcoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slaviansckih latinicz. Liubaia latinicia — eto uhudsheniie po sravneniiu s kiyrillicei. No iesli uj prihoditsia ispollezovatte etot zamenitelle, to on dolgjen bytte cac mogjno luchzshe. A vot latinizatciiu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
 
 * [Chastte sootvetstvij iz novogo opisaniia](#chastte-sootvetstvij-iz-novogo-opisaniia)
 * [Primer texta](#primer-texta)
