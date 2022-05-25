@@ -392,9 +392,10 @@ piczza, capricchio, accent, emodgji эмоджи.
 кз v isclyuchenijah — ckz, xz
 
 x кс  
-cz ц (tam, gde etiymologicheski nudjna "z")  
+tz ц (tam, gde etiymologicheski nudjna tolleco "z")  
+thz тз
 
-voxzal вокзал, ekzema экзема, Knotczing Кнотцинг, ottcziklevatte отциклевать.
+voxzal, ekzema экзема, Knottzing Кнотцинг, ottziklevatte отциклевать, tziclevatte.
 
 цзя cjia  
 цзи cji  
