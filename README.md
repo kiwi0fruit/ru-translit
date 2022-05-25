@@ -2,56 +2,62 @@
 
 <img src="./russcaia-black.png" alt="dicritics" width="200px">
 
-# Novaia, ne do concza opisannaia Russcaia Latinicza ot kiwi0fruit
+# Novaia, ne do concia opisannaia Russcaia Latinicia ot kiwi0fruit
 
-Latinicza, v cotoroi CA chitaietsya cac KA - cac u cullturnyh ieuropeicev (https://vk.com/wall-14213047_336). Gruppa VKontakte: https://vk.com/club14213047
+Latinicia, v cotoroi CA chitaietsia cac KA - cac u cullturnyh ievropeicev (https://vk.com/wall-14213047_336). Gruppa VKontakte: https://vk.com/club14213047
 
-Smysl lyuboi russcoi latinicy ia viju tolleco v ispollezovanii na ucazatelyah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollezovanii v URL'ah, nickah, email'ah, imenah failov dlya sovmestimosti so starymi programmami. Tac je ieio ispollezuiut lyudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slavyansckih latinicz. Lyubaia latinicza — eto uhudshenie po sravneniu s kiyrillicei. No iesli uj prihoditsya ispollezovatte etot zamenitelle, to on doljen bytte cac mojno luchshe. A vot latinizatciu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
+Smysl liuboi russcoi latinicy ia vidju tollco v ispollzovanii na ucazateliah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollzovanii v URL'ah, nickah, email'ah, imenah failov dlia sovmestimosti so starymi programmami. Tac je ieio ispollzuiut liudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slaviansckih latinicz. Liubaia latinicia — eto uhudsheniie po sravneniiu s kiyrillicei. No iesli uj prihoditsia ispollzovatte etot zamenitelle, to on dolgjen bytte cac mogjno luchzshe. A vot latinizatciiu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
 
-* [Chastte sootvetstviy iz novogo opisania](#chastte-sootvetstviy-iz-novogo-opisania)
+* [Chastte sootvetstvij iz novogo opisaniia](#chastte-sootvetstvij-iz-novogo-opisaniia)
 * [Primer texta](#primer-texta)
-* [Boleie podrobnoie opisanie pravil](#boleie-podrobnoie-opisanie-pravil)
-* [Speciallenyie pravila dlya adaptatcii zaiimstvovaniy](#speciallenyie-pravila-dlya-adaptatcii-zaiimstvovaniy)
-* [Speciallenyie pravila dlya sch,shch dlya obratimosti](#speciallenyie-pravila-dlya-schshch-dlya-obratimosti)
-* [Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlya-iaiuioie-s-zaglavnoi-bucvy)
-* [Reshenie problemy nachala slov tipa iod i iion](#reshenie-problemy-nachala-slov-tipa-iod-i-iion)
-* [Optimizatcia napisaniy iia,iiu,iie v conce slova](#optimizatcia-napisaniy-iiaiiuiie-v-conce-slova)
-* [Abbreviatury](#abbreviatury)
-* [Vclyuchenia slov v verkhnem registre](#vclyuchenia-slov-v-verkhnem-registre)
-* [Vclyuchenia isostrannyh slov bez izmeneniy](#vclyuchenia-inostrannyh-slov-bez-izmeneniy)
-* [Speciallenyi regjim chtenia](#speciallenyi-regjim-chtenia)
+* [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
+* [Speciiallnyie pravila dlia adaptatcii zaiimstvovanij](#speciallenyie-pravila-dlia-adaptatcii-zaiimstvovanij)
+* [Speciiallnyie pravila dlia sch,shch dlia obratimosti](#speciallenyie-pravila-dlia-schshch-dlia-obratimosti)
+* [Speciiallnyie pravila dlia ia,iu,io,ie s zaglavnoi bucvy](#speciallenyie-pravila-dlia-iaiuioie-s-zaglavnoi-bucvy)
+* [Resheniie problemy nachiala slov tiypa iod i iion](#resheniie-problemy-nachiala-slov-tiypa-iod-i-iion)
+* [Optimizatciia napisanij iia,iiu,iie v conce slova](#optimizatciia-napisanij-iiaiiuiie-v-conce-slova)
+* [Abbreviiatury](#abbreviatury)
+* [Vcliucheniia slov v verkhnem registre](#vcliucheniia-slov-v-verkhnem-registre)
+* [Vcliucheniia isostrannyh slov bez izmenenij](#vcliucheniia-inostrannyh-slov-bez-izmenenij)
+* [Speciiallnyi regjim chzteniia](#speciiallnyi-regjim-chzteniia)
 
-Novaia versia latinicy. Teperre polnostiyu 'ASCII!
+Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
 
 
-## Chastte sootvetstviy iz novogo opisania
+## Chastte sootvetstvij iz novogo opisaniia
 
 а б в г д  
 a b v g d
 
-е - - - - - - - - - ё - - - - - ж з - и  
-ie/e/ye - ieo/eo/yeo - j z - i/ii/iy
+е - - - - - - - - - ё - - - - - ж  
+ie/e/ye - ieo/eo/yeo - j/gj/dj/zj
 
-й - - - к - - - - л м н  
-i/y - c/ck/k - l m n
+з - и  
+z - i/ii/iy
+
+й - - - - - к - - - л м н  
+i/y/j - c/ck/k - l m n
 
 о п р с т  
 o p r s t
 
-у ф - х - - - - - ц - - ч  
-u f - - h/kh - c/cz - ch
+у - ф - х - - - - - - - - ц - - - - ч  
+u - f - - h/kh/ch - c(yiez) - ch(iez)
 
-ш - щ - - ы - - - - э - - - ю - - я  
-sh sch - hy/y - e/ae - iu/yu ia/ya
+ш - - щ  
+sh - sch(iez)
+
+ы - - - - - - э - - - - ю - - - я  
+y/yi/hy - e/ae - iu/yu - ia/ya
 
 ъ  
 y (podyiezd — ne v conce slova) / - (дъе d-ie — v conce slova)
 
 ь  
-i (diyavol) / tte (brattesya, glushhe — udvoienie soglasnoi + e)
+i (diyavol) / tte (brattesia, glushhe — udvoieniie soglasnoi + e)
 
 ые  
-yie (novyie — v conce slova) / yiie (vyiiezd — ne v conce slova)
+yie (novyie — v conce slova) / yije (vyijezd — ne v conce slova)
 
 
 ## Primer texta
@@ -155,7 +161,7 @@ Imeietsya nescolleco ghypothez proiiskhojdenia sobacki, naiiboleie veroiatnymi i
 V sujdeniiah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodyaschaia ot nescolleckih predcov), drugie priderjivaiutsya mnenia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia thieoria).
 
 
-## Boleie podrobnoie opisanie pravil
+## Boleie podrobnoie opisaniie pravil
 
 ie е  
 ieo ё  
@@ -282,7 +288,7 @@ czzze цць
 piczza, caprichhio, accent, emodji эмоджи.
 
 
-## Speciallenyie pravila dlya adaptatcii zaiimstvovaniy
+## Speciiallnyie pravila dlia adaptatcii zaiimstvovanij
 
 кз osnovnoie napisanie — kz  
 кз v isclyucheniiah — ckz, xz
@@ -361,7 +367,7 @@ Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
 Billbo
 
 
-## Speciallenyie pravila dlya sch,shch dlya obratimosti
+## Speciiallnyie pravila dlia sch,shch dlia obratimosti
 
 щ sch  
 сч sch - v slovarnyh slovah, chitaiuschihsya cac [ɕ], [ʂ] ili [ɕː]  
@@ -375,7 +381,7 @@ scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchlenenie.
 Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans leogcosti programmnoi realizatcii obratimosti i phonetichnosti pissema.
 
 
-## Speciallenyie pravila dlya ia,iu,io,ie s zaglavnoi bucvy
+## Speciiallnyie pravila dlia ia,iu,io,ie s zaglavnoi bucvy
 
 S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
 Cstati, mojno oslabitte eto pravilo:  
@@ -386,7 +392,7 @@ Net: Iego. IUlia. Iug.
 Eto pavilo mojno dopolnitelleno oslabitte i ne primenyatte v nachale predlojenia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezya opustitte primenenie. V sluchaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochnaia L (l) ne pishetsya - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviatura ИХ pishetsya I'H (IKH). 2 lh vody eto 2000 ml.
 
 
-## Reshenie problemy nachala slov tipa iod i iion
+## Resheniie problemy nachiala slov tiypa iod i iion
 
 Concretizatcia pravil Russcoi Latinicy dlya problem nachala slova tiypa йод, ион (iod i iion):
 
@@ -463,7 +469,7 @@ pianino, myaso, iantarnyi, piiavca, iion, iod, Iiisus (mojno reformu v IYesus), 
 Iisus - Исус (po pravilam prilipania "i")
 
 
-## Optimizatcia napisaniy iia,iiu,iie v conce slova
+## Optimizatciia napisanij iia,iiu,iie v conce slova
 
 Vseo toje samoie, tolleco provoditsya optimizatcia napisaniy v conce slova (tolleco v conce slova):
 
@@ -491,7 +497,7 @@ o trollie о тролле, promillie промилле, trolliie троллие.
 Eto izmenenie zadumyvalosse cac trolling lyubitelei pisatte "Вания" (Vania) vmesto "Ваня" i "Мние" (Mnie) vmesto "Мне", no ocazalosse vpolne godnym i dlya osnovnoi versii.
 
 
-## Abbreviatury
+## Abbreviiatury
 
 V altinice ispollezuiutsya phonetichesco-kiyrillichesckie abbreviatury, cotoryie vopreki zapisi socraschaiut po zvuchaniu. Tackim obrazom, nazvania bucv v abbreviaturah (a tac je digraphy) budut chitattesya cac v kiyrillice.
 
@@ -574,7 +580,7 @@ C'Z ЦЗ (CZZ).
 Tolleco hodovyie digraphy vsegda slitno v abbreviaturah: SH, CH, KH, SCH, CZ, AE. Pered zaglavnoi `I` ispollezuiutsya polnyie formy vsegda.
 
 
-## Vclyuchenia slov v verkhnem registre
+## Vcliucheniia slov v verkhnem registre
 
 On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
 Он работает в ГИБДД. Сел вот такой . ЖУК ОГРОМНЫЙ. . Да .БОЛЬШОЙ.
@@ -583,7 +589,7 @@ On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
 * Tochca, ocrujeonnaia probellenymi siymbvolami, delaiet slovami v verkhmen registre do sleduiuschei tocoi je tochcki - mojno nescolleco stroc tac pometitte.
 
 
-## Vclyuchenia inostrannyh slov bez izmeneniy
+## Vcliucheniia inostrannyh slov bez izmenenij
 
 U cajdogo slova v Russcoi Latinice dlya menya iestte nastoiaschaia forma v kiyrillice. Slova v latinice — lishhe allternativnoie otobrajenie nastoiaschih slov v kiyrillice. A nastoiaschie slova v latinice vsegda pomecheny speciallenymi znacami:
 
@@ -619,9 +625,9 @@ This.
 * Ne rabotaiet v abbreviaturah. Formallenyi priznac abbreviatury - oconchanie na zaglavnuiu bucvu ili na zaglavnuiu bucvu + digraph Sh,Ch (s popravcoi na recursiu).
 
 
-## Speciallenyi regjim chtenia
+## Speciiallnyi regjim chzteniia
 
-U russckih slov v conce net apostropha cac pravilo. Poetomu odinarnyi apostroph v conce slova mogjno perenaznachitte cac **allternativnyi regjim chtenia slov**:
+U russckih slov v conce net apostropha cac pravilo. Poetomu odinarnyi apostroph v conce slova mogjno perenaznachitte cac **allternativnyi regjim chztenia slov**:
 
 chor чор  
 chor' хор  
