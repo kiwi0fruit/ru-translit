@@ -697,7 +697,7 @@ ie => è,
 nieon - nèon, alliergic - allèrgic.
 
 iy => ỳ,  
-siystema - sỳstema, Bvabviylon - Bvabvỳlon.
+siystema - sỳstema.
 
 iyy => iỳa,  
 teriyyaki => teriỳaki.
