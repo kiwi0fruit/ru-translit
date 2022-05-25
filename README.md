@@ -166,7 +166,7 @@ Teperre "ij" vsegda znachit "[ɪj]" (pochzti cac pervoie hiystorichescoie ispoll
 
 sija - сия  
 sidju - сижу  
-Jizja - жижа (po umolchianiiu — zj)  
+jizja - жижа (po umolchianiiu — zj)  
 (ж - j-gj-dj-zj — smotrite nizje)
 
 ie е  
