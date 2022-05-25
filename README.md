@@ -548,7 +548,7 @@ iii - ии (v nachiale)
 
 piianino, miaso, iantarnyi, pijavca, iion, iod, Iiisus (mogjno reformu v IJesus), alleluija, Yyemen (mogjno reformu v Yemen), IJeshua, IIacov, paranoija (mogjno reformu v paranoia).
 
-Iisus - Исус (po pravilam prilipania "i").
+Iisus - Исус (po pravilam prilipaniia "i").
 
 
 ## Abbreviiatury
