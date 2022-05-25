@@ -312,7 +312,7 @@ Vvoditsia cheredovallenicia:
   c/c(yiez): durac - duraczckiy,  
   t/tc(yiez): ?,  
   sc/sch(iez): iscal - ischet,  
-  st/stch: svist - svistchu, жёстко jeostco - jestche жёстче,  
+  st/stch: svist - svistchu, жёстко jeostco - jeostche жёстче,  
 2) Etiymologichznyie variianty:  
   ж/j: deja vyu, Jeanna,  
   ж/zj: Parizj (optcionalleno),  
