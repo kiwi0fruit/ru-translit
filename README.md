@@ -478,27 +478,27 @@ Eto pavilo mogjno dopolnitelleno oslabitte i ne primeniatte v nachiale predlogje
 
 Concretizatciia pravil Russcoi Latinicy dlia problem nachiala slova tiypa йод, ион (iod i iion):
 
-1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychzno smiagchiaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchiaie ii/iy iotirovanie pochzti teriaietsia - tac ono priniato v ustnoi rechi russcoi: моя/moia, мои/moii). U soglasnyh prioritet. Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsia cac "й" (iot).
+1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychzno smiagchiaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchiaie ii/iy iotirovaniie pochzti teriaietsia - tac ono priniato v ustnoi rechi russcoi: моя/moia, мои/moii). Posle soglasnoi pered glasnoi -- smiagchiaiet (crome isliuchenij tiypa sii,sio). Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsia cac "й" (iot).
 
-2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vozjji i вожжы/vozjjy zvuchiat miagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). U soglasnyh prioritet. Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsia cac "й" (iot).
+2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vozjji i вожжы/vozjjy zvuchiat miagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). Posle soglasnoi pered glasnoi -- smiagchiaiet (crome isliuchenij tiypa syi,syy). Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsia cac "й" (iot).
 
 3) Digraphy s Y imeiut prioritet nad digraphom iy.
 
 4) Trigraphy soglasnaia + ie, sogl. + iy, sogl. + ya, sogl. + yu, sogl. + yo chitaiutsia po-drugomu i imeiut prioritet nad 1-3).  
-  sie - се (imenno /sʲe/)  
-  siy - си  
-  sya - ся  
-  syu - сю  
-  syo - сё (ne glavnoie napisanie)
+  sie - се (imenno /sʲe/, ne glavnoie napisaniie)  
+  si,siy - си  
+  sia,sya - ся  
+  siu,syu - сю  
+  seo,syo - сё  
   * Fixy c trigrapham:  
     hy - ы (obychzno h eto "ха")  
     khy - хы  
-    siae - сиэ  
+    siiae,siie - сиэ  
     sihy - сиы  
     syhy - сыы  
-    syea - сыа  
-    syeu - сыу  
-    syeo - сыо
+    syaa - сыа  
+    syuu - сыу  
+    syuo - сыо
     sye - сыэ
 
 5) Quadrography soglasnaia + iye, sogl. + iya, sogl. + iyu, sogl. + iyo chitaiutsia po-drugomu i imeiut prioritet nad 1-4).  
@@ -507,50 +507,48 @@ Concretizatciia pravil Russcoi Latinicy dlia problem nachiala slova tiypa йод
   siyu - сью  
   siyo - сьо  
   siyeo - сьё
-  * Fixy c quadrographam (eto vseo ne glavnyie napisania):  
+  * Fixy c quadrographam (eto vseo ne glavnyie napisaniia):  
     siyye - сие  
     siyya - сия  
     siyyu - сию  
     siyyo - сийо  
     siyyeo - сиё
 
-Primery primenenia pravil dlia i,Y:
+Primery primeneniia pravil dlia i,Y:
 
 s - съ  
 si - си  
-sia - сиа  
+sia - ся  
+siia - сиа.../сия$
 i - и  
 ii - и  
 ia - я  
-siia - сия  
 moii - мои  
 iia - иа
 
-iye - ие (v nachiale)  
-iya - ия (v nachiale)  
-iiie - ие (v nachiale, ne osnovnoie napisanie)  
-iiia - ия (v nachiale, ne osnovnoie napisanie)
+ije - ие (v nachiale)  
+ija - ия (v nachiale)  
+iiie - ие (v nachiale, ne osnovnoie napisaniie)  
+iiia - ия (v nachiale, ne osnovnoie napisaniie)
 
 oiie - оиэ  
 oiia - оиа
 
-oiye - ойе  
-oiya - ойя  
-(v sluchiaie slovoobrazovania, narushaiuschego morphologichesckij princip v osnove slova, prideotsia pisatte "oi-ie")
+oije - ойе  
+oija - ойя  
+(v sluchiaie slovoobrazovaniia, narushaiuschego morphologichesckij princip v osnove slova, prideotsia pisatte "oi-ie")
 
 yye - йе (v nachiale)  
 yya - йя (v nachiale)
 
-yi - pochzti vsegda "йи"; nicogda ne teriaiet iotirovanie, crome oboznachenia tveordogo znaca.
+yi - pochzti vsegda "йи"; nicogda ne teriaiet iotirovaniie, crome oboznacheniia tveordogo znaca.
 
 iyi - ийи (v nachiale)  
 iii - ии (v nachiale)
 
-pianino, miaso, iantarnyi, piiavca, iion, iod, Iiisus (mogjno reformu v IYesus), alliluiya, Yyemen (mogjno reformu v Yemen), IYeshua, Iiacov, paranoiya (mogjno reformu v paranoia).
+piianino, miaso, iantarnyi, pijavca, iion, iod, Iiisus (mogjno reformu v IJesus), alleluija, Yyemen (mogjno reformu v Yemen), IJeshua, IIacov, paranoija (mogjno reformu v paranoia).
 
-Iisus - Исус (po pravilam prilipania "i")
-
-UPD: IIesus chitaietsia cac Иесус, a ne Иэсус, cotoryi budet IIaesus.
+Iisus - Исус (po pravilam prilipania "i").
 
 
 ## Abbreviiatury
@@ -683,17 +681,17 @@ This.
 
 ## Sovmestimaia diiacritichescaia versiia
 
-sii[aeu] => sì[aeu] (v conce slova), sij[aeu] => sì[aeu] (v seredine slova),  
-Mariia - Marìa, siniie - sinìe, sijesta - sìesta.
+sii[aeu] => sì[aeu] (v conce slova), sij[aeu] => sì[aeu] (v seredine slova), ^ij[oaeu] => ^ìe[òàèù], 
+Mariia - Marìa, siniie - sinìe, sijesta - sìesta, IJesus => Ìesus.
 
-sii[aeu] => si[àèù] (v seredine slova), iiaa => ià, (iiuu => iù),  
-piianino - piànino, mediiaa => medià.
+sii[aeu] => si[àèù] (v seredine slova), iiaa => ià, (iiuu => iù), ^ii[oaeu] => ^i[òàèù],  
+piianino - piànino, mediiaa => medià, iion - iòn.
 
 vyuu => vyù, (vyaa => vyà, vyoo => vyò),  
 vyuuchil - vyùchil.
 
-ii => ì,  
-oni moii - oni moì, iion - ìon.
+ii => ì (drugiie),  
+oni moii - oni moì.
 
 ie => è,  
 nieon - nèon, alliergic - allèrgic.
