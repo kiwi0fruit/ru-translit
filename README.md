@@ -6,20 +6,19 @@
 
 Latinicia, v cotoroi CA chitaietsia cac KA - cac u cullturnyh ievropeicev (https://vk.com/wall-14213047_336). Gruppa VKontakte: https://vk.com/club14213047
 
-Smysl liuboi russcoi latinicy ia vidju tollco v ispollzovanii na ucazateliah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollzovanii v URL'ah, nickah, email'ah, imenah failov dlia sovmestimosti so starymi programmami. Tac je ieio ispollzuiut liudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slaviansckih latinicz. Liubaia latinicia — eto uhudsheniie po sravneniiu s kiyrillicei. No iesli uj prihoditsia ispollzovatte etot zamenitelle, to on dolgjen bytte cac mogjno luchzshe. A vot latinizatciiu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
+Smysl liuboi russcoi latinicy ia vidju tolleco v ispollezovanii na ucazateliah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollezovanii v URL'ah, nickah, email'ah, imenah failov dlia sovmestimosti so starymi programmami. Tac je ieio ispollzuiut liudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slaviansckih latinicz. Liubaia latinicia — eto uhudsheniie po sravneniiu s kiyrillicei. No iesli uj prihoditsia ispollzovatte etot zamenitelle, to on dolgjen bytte cac mogjno luchzshe. A vot latinizatciiu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
 
 * [Chastte sootvetstvij iz novogo opisaniia](#chastte-sootvetstvij-iz-novogo-opisaniia)
 * [Primer texta](#primer-texta)
 * [Boleie podrobnoie opisaniie pravil](#boleie-podrobnoie-opisaniie-pravil)
-* [Speciiallnyie pravila dlia adaptatcii zaiimstvovanij](#speciiallnyie-pravila-dlia-adaptatcii-zaiimstvovanij)
-* [Speciiallnyie pravila dlia sch,shch dlia obratimosti](#speciiallnyie-pravila-dlia-schshch-dlia-obratimosti)
-* [Speciiallnyie pravila dlia ia,iu,io,ie s zaglavnoi bucvy](#speciiallnyie-pravila-dlia-iaiuioie-s-zaglavnoi-bucvy)
+* [Speciiallenyie pravila dlia adaptatcii zaiimstvovanij](#speciiallenyie-pravila-dlia-adaptatcii-zaiimstvovanij)
+* [Speciiallenyie pravila dlia sch,shch dlia obratimosti](#speciiallenyie-pravila-dlia-schshch-dlia-obratimosti)
+* [Speciiallenyie pravila dlia ia,iu,io,ie s zaglavnoi bucvy](#speciiallenyie-pravila-dlia-iaiuioie-s-zaglavnoi-bucvy)
 * [Resheniie problemy nachiala slov tiypa iod i iion](#resheniie-problemy-nachiala-slov-tiypa-iod-i-iion)
 * [Optimizatciia napisanij iia,iiu,iie v conce slova](#optimizatciia-napisanij-iiaiiuiie-v-conce-slova)
 * [Abbreviiatury](#abbreviiatury)
 * [Vcliucheniia slov v verkhnem registre](#vcliucheniia-slov-v-verkhnem-registre)
 * [Vcliucheniia isostrannyh slov bez izmenenij](#vcliucheniia-inostrannyh-slov-bez-izmenenij)
-* [Speciiallnyi regjim chzteniia](#speciiallnyi-regjim-chzteniia)
 
 Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
 
@@ -323,7 +322,7 @@ czzze цць
 piczza, caprichhio, accent, emodji эмоджи.
 
 
-## Speciiallnyie pravila dlia adaptatcii zaiimstvovanij
+## Speciiallenyie pravila dlia adaptatcii zaiimstvovanij
 
 кз osnovnoie napisanie — kz  
 кз v isclyucheniiah — ckz, xz
@@ -402,7 +401,7 @@ Otdellenoie pravilo dlya "ль" v isclyucheniiah (ll pered soglasnymi):
 Billbo
 
 
-## Speciiallnyie pravila dlia sch,shch dlia obratimosti
+## Speciiallenyie pravila dlia sch,shch dlia obratimosti
 
 щ sch  
 сч sch - v slovarnyh slovah, chitaiuschihsya cac [ɕ], [ʂ] ili [ɕː]  
@@ -416,7 +415,7 @@ scheotca, scheot, vesnushchatyi, rashchuvstvovalsya, rashchlenenie.
 Tacoi podkhod vozmojet iz-za togo, chto i СЧ, i ШЧ chitaiutsya tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsya balans leogcosti programmnoi realizatcii obratimosti i phonetichnosti pissema.
 
 
-## Speciiallnyie pravila dlia ia,iu,io,ie s zaglavnoi bucvy
+## Speciiallenyie pravila dlia ia,iu,io,ie s zaglavnoi bucvy
 
 S zaglavnoi bucvy ia,iu,io,ie pishutsya cac IA,IU,IO,IE.  
 Cstati, mojno oslabitte eto pravilo:  
@@ -658,33 +657,6 @@ This.
 * Apostroph v seredine slova (ili besprobellenoi posledovatellenosti) delit slovo: sleva nastoiaschaia latinicza, sprava kiyrillicza latinicei.
 * Apostroph, ocrujeonnyi probellenymi siymbvolami, delaiet nastoiaschei latinicei do sleduiuschego tacogo je apostropha - mojno nescolleco stroc tac pometitte.
 * Ne rabotaiet v abbreviaturah. Formallenyi priznac abbreviatury - oconchanie na zaglavnuiu bucvu ili na zaglavnuiu bucvu + digraph Sh,Ch (s popravcoi na recursiu).
-
-
-## Speciiallnyi regjim chzteniia
-
-U russckih slov v conce net apostropha cac pravilo. Poetomu odinarnyi apostroph v conce slova mogjno perenaznachitte cac **allternativnyi regjim chztenia slov**:
-
-chor чор  
-chor' хор  
-Christos Чристос  
-Christos' Христос  
-mechanichhesckiy' механический
-
-Teperre novyie oboznachenia (vsegda, a ne tolleco v osobom regjime):
-
-chh ч  
-cch чч  
-ckch кч  
-kch кч
-
-No:
-
-ccz кц  
-cce кце
-
-Tacoie ispollezovanie ne conflictuiet s predyiduschim razdelom.
-
-V angliiscom i franczuzscom eta problema reshaietsya zauchivaniiem slov-isclyucheniy. Po ideie tac mogjno sdelatte i v russcom, no po mne apostroph stoiit poprobovatte.
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
