@@ -169,6 +169,49 @@ V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zr
 
 ## Boleie podrobnoie opisaniie pravil
 
+V novoi versii vmesto ж/j ispollezuietsia ж/j-gj-dj-zj. A vot v abbreviiatury vseo tac je ideot cac J.
+
+Vvoditsia cheredovallenicia:
+
+1) Proveriaietsia cheredovanijem:  
+  z/zj: moroz - morozjennoie, mazal - mazjet,  
+  g/gj: beg - begjal, slog - slogjil,  
+  d/dj: hudo - hudje, rodil - rodjdenie,  
+  c/ch(iez): durac - duracheoc,  
+  t/tch: metil - metchenyi,  
+  c/c(yiez): durac - duraczckiy,  
+  t/tc(yiez): ?,  
+2) Etiymologichznyie variianty:  
+  j: deja vyu, Jeanna,  
+  zj: Parizj (optcionalleno),  
+  gj: sergjeant,  
+  ch(iez): Chester,  
+  tch: mattch,  
+  c/c(yiez): Ciceron,  
+  t/tc(yiez): militciia,  
+3) Variiant cogda nellezia proveritte:  
+  j: je, mujic,  
+4) Po suti bez cheredovaniia:  
+  h/sh: sluh - slyshatte,  
+  s/sh: prosil - prosheniie,  
+  sh: tam gde net cheredovaniia,  
+  ch(iez): tam, gde net cheredovania,  
+
+тч ttch — ottcheot  
+тц ttcz — ottcia, ottcy  
+
+Eto mogjno interpretirovatte tac, chzto cogda proverochznaia etiymologiia teriaietsia iz lexicona, to zj,gj,dj teriaiut pervuiu bucvu i stanoviatsia prosto 'j" — blago chitaietsia odinacovo.
+
+поджёг poddjeog, розжиг rozzjig, гжель gzjelle (eiymologiia ne iasna, poetomu neitrallenoie zj), Vologda, vologdjanin. No mogjno i: ghje гже, ggje гже. Ne zabyvaiem pro isclyuchenie дзя-дзи-...: dzja-dzji-...
+
+Osobennosti provercki cheredovanijem dolgjny bytte formalleno opredeleny po tiypu cac opredeliaiutsia pravila orfographii. Mogjno daje vvoditte iscusstvenno sposoby provercki:
+
+"межа" proiizoshla ot praiindoievropeiscogo "med*", no v russcom poteriala vseh rodstvennicov s "мед". Potom byli zaiimstvovaniia "медиана", "медаитор", i cac by rodstvennicki (no ochenne dalleniie) poiavilisse. Mogjno formalleno ih schitatte proverochznymi i pisatte:
+
+medja, medjdu, mediana.
+
+----
+
 Teperre "ij" vsegda znachit "[ɪj]" (pochzti cac pervoie hiystorichescoie ispollezovaniie), no v ostallenyh sluchiaiah "j" eto "[ʐ]".
 
 sija - сия  
