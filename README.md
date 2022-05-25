@@ -6,7 +6,7 @@
 
 Latinicia, v cotoroi CA chitaietsia cac KA - cac u cullturnyh ievropeicev (https://vk.com/wall-14213047_336). Gruppa VKontakte: https://vk.com/club14213047
 
-Smysl liuboi russcoi latinicy ia vidju tolleco v ispollezovanii na ucazateliah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollezovanii v URL'ah, nickah, email'ah, imenah failov dlia sovmestimosti so starymi programmami. Tac je ieio ispollzuiut liudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slaviansckih latinicz. Liubaia latinicia — eto uhudsheniie po sravneniiu s kiyrillicei. No iesli uj prihoditsia ispollzovatte etot zamenitelle, to on dolgjen bytte cac mogjno luchzshe. A vot latinizatciiu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
+Smysl liuboi russcoi latinicy ia vidju tolleco v ispollezovanii na ucazateliah turistichesckih, transliteratcii imeon, na vypendreojnyh vyvescah. V redcom ispollezovanii v URL'ah, nickah, email'ah, imenah failov dlia sovmestimosti so starymi programmami. Tac je ieio ispollezuiut liudi so strannym hobbi ruscoi latinicy. Nu vmesto ujasnogo anglotranslita ili ujasnyh slaviansckih latinicz. Liubaia latinicia — eto uhudsheniie po sravneniiu s kiyrillicei. No iesli uj prihoditsia ispollezovatte etot zamenitelle, to on dolgjen bytte cac mogjno luchzshe. A vot latinizatciiu Rossii ia schitaiu plohoi ideiei i ne privetstvuiu.
 
 * [Chastte sootvetstvij iz novogo opisaniia](#chastte-sootvetstvij-iz-novogo-opisaniia)
 * [Primer texta](#primer-texta)
@@ -74,7 +74,7 @@ Vecheor, ty pomnishhe, viyuga zlilasse,
 Na mutnom nebe mgla nosilasse;  
 Luna, cac blednoie piatno,  
 Scvozze tuchi mrachznyie jeltela,  
-I ty pechiallnaia sidela —  
+I ty pechiallenaia sidela —  
 A nynche… pogliadi v ocno:
 
 Pod golubymi nebesami  
@@ -82,7 +82,7 @@ Velicolepnymi covrami,
 Blestia na solnce, sneg legjit;  
 Prozrachznyi les odin cherneiet,  
 I ielle scvozze inei zeleneiet,  
-I rechzca podo lldom blestit.
+I rechzca podo lledom blestit.
 
 Vsia comnata iantarnym blescom  
 Ozarena. Veseolym trescom  
@@ -91,7 +91,7 @@ Prijatno dumatte u legjancki.
 No znaieshhe: ne velette li v sancki  
 Cobylcu buruiu zaprechhe?
 
-Scollzia po utrennnemu snegu,  
+Scollezia po utrennnemu snegu,  
 Drug milyi, predadimsia begu  
 Netoroplivogo conia  
 I navestim polia pustyie,  
@@ -113,7 +113,7 @@ Razlivy rec ieio, podobnyie moriam;
 Proseolochznym puteom liubliu scacatte v telege  
 I, vzorom medlennym pronzaia nochi tenne,  
 Vstretchatte po storonam, vzdyhaia o nochzlege,  
-Drogjaschiie ogni pechiallnyh derevenne;  
+Drogjaschiie ogni pechiallenyh derevenne;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochiuiuschij oboz  
 I na holme sredde jeoltoi nivy  
@@ -129,15 +129,15 @@ Pod govor piyanyh mujichzcov.
 
 // God napisaniia: 1841
 
-Pieony i vasillcki vseo iescheo rastut na poliane vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshij v Siiaetl na rabotu v companii "Moii-tvoii sijesty-diielectricki".
+Pieony i vasillecki vseo iescheo rastut na poliane vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piianist, pereiehavshij v Siiaetl na rabotu v companii "Moii-tvoii sijesty-diielectricki".
 
-Piyanyi master po proiectu sdelal mechanichesckij obyiect s izyianom. Iesli brac ne obnarujitsia, to belyie bolidy bollshe ne smogut vyiigryvatte goncki i vyuuchitte svoii oshibcki.
+Piyanyi master po proiectu sdelal mechanichesckij obyiect s izyianom. Iesli brac ne obnarujitsia, to belyie bolidy bolleshe ne smogut vyiigryvatte goncki i vyuuchitte svoii oshibcki.
 
 V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel 'George Maximus, conne v palleto i rvanyh dgjeensah (jeans'ah), cotoryi cogo-to obyiskival, i pricazal vsem myttesia i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
-Prepodobnyi Bayes podkinul igrallnyie costi. Vypalo shestte, znachit iemu prideotsia mazatte iod na ranu.
+Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsia mazatte iod na ranu.
 
-Maer nebollshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj ekzema snova stala iego bespocoiitte. Oh uj eta pocupca vechznogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. Iesli tac poideot i dallshe, to biudgjetu prideotsia hudo.
+Maer nebolleshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj ekzema snova stala iego bespocoiitte. Oh uj eta pocupca vechznogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. Iesli tac poideot i dalleshe, to biudgjetu prideotsia hudo.
 
 V etom vide phraza ot A do IA nachinaiet vygliadette sovsem po-drugomu. Seichias scheotca novaia, no pozdje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ieoj coliuchij i pohodj na neio.
 
@@ -145,28 +145,28 @@ Skhod mestnyh jitelei indijscoi derevni sikkhov reshal chzto je delatte s otkhod
 
 "Cto s mecheom c nam prideot, tot ot mechia i..." - ne smog dogovoritte starshij mechanic Vasilij.
 
-Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlogjil pereselittesia v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vozjdelenijem posmatrivavshih na usaddebu, ruhnuli oconchiatellno.
+Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlogjil pereselittesia v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vozjdelenijem posmatrivavshih na usaddebu, ruhnuli oconchiatelleno.
 
 Sluchiaiu bylo ugodno, chztoby Billbo s Frodo iescheo i rodilisse v odin denne, 22 sentiabria.
 
-– Frodo, mallchic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdeniia vmeste otmetchali by.
+– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdeniia vmeste otmetchali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste medjdu dvadciatiyu i tridciatiyu tremia, posle chego hobbit naconecz mogjet schitatte sebia vzroslym.
 
-Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchali dvoinoi denne rodjdeniia, c etomu privycli, no liubomu bylo iasno, chzto nyneshnei oseniyu gotovitsia nechzto nieobychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletiie – toje znamenatellnaia data – sovershennoletiie po-hobbitski.
+Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchali dvoinoi denne rodjdeniia, c etomu privycli, no liubomu bylo iasno, chzto nyneshnei oseniyu gotovitsia nechzto nieobychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletiie – toje znamenatellenaia data – sovershennoletiie po-hobbitski.
 
-Imeietsia nescollco ghypothez proiiskhodjdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
+Imeietsia nescolleco ghypothez proiiskhodjdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zreniia. Odni schitaiut, chzto sobacki - poliyphiyletichescaia gruppa (proiiskhodiaschiaia ot nescollckih predcov), drugiie priderjivaiutsia mneniia, chzto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia theoriia).
+V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zreniia. Odni schitaiut, chzto sobacki - poliyphiyletichescaia gruppa (proiiskhodiaschiaia ot nescolleckih predcov), drugiie priderjivaiutsia mneniia, chzto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia theoriia).
 
 
 ## Boleie podrobnoie opisaniie pravil
 
-Teperre "ij" vsegda znachit "[ɪj]" (pochzti cac pervoie hiystorichescoie ispollzovaniie), no v ostallnyh sluchiaiah "j" eto "[ʐ]".
+Teperre "ij" vsegda znachit "[ɪj]" (pochzti cac pervoie hiystorichescoie ispollezovaniie), no v ostallenyh sluchiaiah "j" eto "[ʐ]".
 
 sija - сия  
 sidju - сижу  
-dizju - дижу (po umolchianiiu — zj)  
+Jizja - жижа (po umolchianiiu — zj)  
 (ж - j-gj-dj-zj — smotrite nizje)
 
 ie е  
@@ -272,10 +272,8 @@ chya - хиа
 chae - хе
 
 theo - тео  
-lls льс (vsegda)  
-ls лс (vsegda)
 
-na lldu, dollca, culltura, molva, vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chzto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
+vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chzto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
 
 пиявка pijavca, Мария Mariia, синий sinij, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollia, Колька Collca, троллька trolllca, Аллен Allien, сиеста sijesta, диэлектрик diielectric, синие siniie, on trollle, o trollie (posle udvoiennyh soglasnyh prioritet), on conne, o cone, meod, nieobychzno, on leod, net llda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
 
