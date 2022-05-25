@@ -308,7 +308,7 @@ Vvoditsia cheredovallenicia:
   g/gj: beg - begjal, slog - slogjil,  
   d/dj: hudo - hudje, rodil - rodjdenie,  
   c/ch(iez): durac - duracheoc,  
-  t/tch: metil - metchenyi,  
+  t/tch: metil - metchenyi, vstretil - vstretcha,  
   c/c(yiez): durac - duraczckiy,  
   t/tc(yiez): ?,  
   sc/sch(iez): iscal - ischet,  
@@ -325,10 +325,10 @@ Vvoditsia cheredovallenicia:
   h/sh: sluh - slyshatte,  
   s/sh: prosil - prosheniie,  
   ж/j: je, mujic,  
-  ш/sh: tam, gde net cheredovaniia,  
-  ч/ch(iez): tam, gde net cheredovaniia,  
-  ц/c(yiez): tam, gde net cheredovaniia,  
-  щ/sch(iez): tam, gde net cheredovania.  
+  ш/sh: mashina,  
+  ч/ch(iez): chias,  
+  ц/c(yiez): cena,  
+  щ/sch(iez): iescheo.  
 
 тч ttch — ottcheot  
 тц ttcz — ottcia, ottcy  
