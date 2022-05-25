@@ -681,7 +681,7 @@ This.
 
 ## Sovmestimaia diiacritichescaia versiia
 
-sii[aeu] => sì[aeu] (v conce slova), sij[aeu] => sì[aeu] (v seredine slova), ^ij[oaeu] => ^ìe[òàèù], 
+sii[aeu] => sì[aeu] (v conce slova), sij[aeu] => sì[aeu] (v seredine slova), ^ij[oaeu] => ^ìe[òàèù],  
 Mariia - Marìa, siniie - sinìe, sijesta - sìesta, IJesus => Ìesus.
 
 sii[aeu] => si[àèù] (v seredine slova), iiaa => ià, (iiuu => iù), ^ii[oaeu] => ^i[òàèù],  
