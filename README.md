@@ -163,6 +163,13 @@ V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zr
 
 ## Boleie podrobnoie opisaniie pravil
 
+Teperre "ij" vsegda znachit "/ij/" (cac pervoie hiystorichescoie ispollzovaniie), no v ostallnyh sluchiaiah "j" eto "[ж]".
+
+sija - сия  
+sidju - сижу  
+dizju - дижу (po umolchianiiu — zj)  
+(ж - j-gj-dj-zj — smotrite nizje)
+
 ie е  
 ieo ё  
 ia я  
@@ -170,56 +177,64 @@ iu ю
 io йо  
 iy и
 
-Isclyuchenia iz pravil posle soglasnyh pocazany (!):
+Iscliucheniia iz pravil posle soglasnyh pocazany (!):
 
 vye выэ  
-vyeo выо  
-vyeu выу  
-vyea выа  
-vye-a выэ-а  
-vye-u выэ-у  
-vye-o выэ-о
+vyoo выо  
+vyuu выу  
+vyaa выа  
+vya-a вя-а (ne glavnoie napisaniie)  
+vyu-u вю-у (ne glavnoie napisaniie)  
+vyu-o вё-о (ne glavnoie napisaniie)  
 
-kya кя  
-kyu кю   
-kyo кё (ne glavnoie napisanie)  
+kya кя (ne glavnoie napisaniie)  
+kyu кю (ne glavnoie napisaniie)  
+kyo кё (ne glavnoie napisaniie)  
 
 veii веи  
 vei вей  
 vee ви (!)  
 veo вё (!)  
-ve ве
 
 viee веэ  
 vieo вео  
 
 vi ви  
-viy ви (!) ne glavnoie napisanie  
-vie ве (!)  
-vio вио  
-viu виу  
-via виа
+viy ви (ne glavnoie napisaniie)  
+ve ве  
+vie ве (ne glavnoie napisaniie)  
+vio вио (!)  
+viu вю  
+via вя  
+viiu виу (v seredine slova)  
+viia виа (v seredine slova)  
+viiu вию (v conce slova)  
+viia вия (v conce slova)  
+viiuu - виу (v conce slova)  
+viiaa - виа (v conce slova)  
+viju - вию (v seredine slova)  
+vija - вия (v seredine slova)  
 
-viy ви (ne v conce)  
-viy вий (v conce)  
-vii вий (ne v conce)  
-vii вии (v conce)  
-viii вии (ne v conce)
+vij вий  
+vii вии
 
-czya ця  
-czyu цю  
-ceo цё  
-cza ца  
-cya циа (!)  
-czu цу (glavnoie napisanie)  
-cyu циу (!)  
-czo цо (glavnoie napisanie)  
-cyo цио (!)  
-ci ци (glavnoie napisanie)  
+czia ця  
+cziu цю  
+czeo цё  
+cia ца  
+ciia циа  
+ciu цу  
+ciiu циу  
+cya циа (!) (ne glavnoie napisaniie)  
+cyu циу (!) (ne glavnoie napisaniie)  
+cyo цио (!) (ne glavnoie napisaniie)  
+cio цио  
+ceo цо (glavnoie napisaniie)  
+ci ци (glavnoie napisaniie)  
 cy цы/ци  
 cae це/цэ
 
-Tveordyi znac delaietsya s pomoschiyu perieoboznachenia:
+Tveordyi znac delaietsia s pomoschiyu perieoboznacheniia:
 
 vyii выи  
 vyi вый (v conce slova)  
@@ -228,26 +243,46 @@ dyie дые, dyia дыя (v conce slova)
 dyie дъе, dyia дъя (ne v conce slova)  
 
 vyy вый (v lyubom meste)  
-vyiie вые, vyiia выя, vyyi выйи (v lyubom meste)  
+vyije вые, vyija выя, vyiyi выйи (v lyubom meste)  
 v-ie въе, v-ia въя (v conce)  
 
 vyiezd въезд  
-vyiiezd выезд  
+vyijezd выезд  
 podyiezd подъезд  
 obyisc объиск  
 vyiiskivatte выискивать  
-obysc обыск (mojno sdelatte reformu v объиск)  
-обйи ob-yi  
-выиа vy-iia / vyii-a  
+obysc обыск (mogjno sdelatte reformu v объиск)  
+обйи obyyi  
+выиа vyiia  
 
-ppeie пье (ne glavnoie napisanie)  
-ppeia пья (ne glavnoie napisanie)
+ppeie пье (ne glavnoie napisaniie)  
+ppeia пья (ne glavnoie napisaniie)
 
-пиявка piiavca, Мария Maria, синий siniy, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollya, Колька Colleca, троллька trollleca, Аллен Allien, сиеста siiesta, синие sinie, on trollle, o trollie (posle udvoiennyh soglasnyh prioritet), on conne, o cone, meod, nieobychno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmia.
+che - че  
+chia - ча (~чя)  
+chiu - чу (~чю)  
+chi - чи  
+chieo - чео  
+chiy - чи  
+chie - че
 
-Марии Marii (socr. ot Mariii), Мариинский Mariiinsckiy, Бия Bia (socr. ot Biia), Бийск Biisc.
+chy - хи  
+chyi - хи (pered soglasnymi, ne glavnoie napisaniie)  
+cha - ха  
+chya - хиа  
+chae - хе
 
-Optcionalleno: obysc / obyisc, otygrysh / otyigrysh.
+theo - тео  
+lls льс (vsegda)  
+ls лс (vsegda)
+
+na lldu, dollca, culltura, molva, vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chzto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
+
+пиявка pijavca, Мария Mariia, синий sinij, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maiya майя, аиа aiia, аллилуйя alliluiya, paranoiya, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollia, Колька Collca, троллька trolllca, Аллен Allien, сиеста sijesta, диэлектрик diielectric, синие siniie, on trollle, o trollie (posle udvoiennyh soglasnyh prioritet), on conne, o cone, meod, nieobychzno, on leod, net llda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
+
+Марии Marii, Мариинский Mariinsckiy, Бия Biia, Бийск Bijsc.
+
+Optcionallno: obysc / obyisc, otygrysh / otyigrysh.
 
 ----
 
