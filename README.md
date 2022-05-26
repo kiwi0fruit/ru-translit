@@ -64,7 +64,8 @@ Cheredovaniia:
 ч / ch(iez)-tch(ie);  
 ц / c(yiez)-tc(yiez);  
 ш / sh;  
-щ / sch(iez)-stch(ie).
+щ / sch(iez)-stch(ie);  
+чт / cht;  
 
 
 ## Primer texta
