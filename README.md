@@ -272,7 +272,7 @@ chi - чи
 chieo - чео  
 chiy - чи  
 chie - че  
-chz$ - ч$
+chz\$ - ч\$
 
 chy - хи  
 chyi - хи (pered soglasnymi, ne glavnoie napisaniie)  
@@ -282,7 +282,7 @@ chae - хе
 chsz - хз  
 chssz - хсз  
 архь arkhhe (ibo nefig)  
-ch$ - х$
+ch\$ - х\$
 
 To iestte, dlia digrapha 'ch chzteniie zavisit ot togo, sleduiut li bucvy [iez] posle. "chto" - eto vsegda "что". 
 Chtoby napisatte "хто" cherez "ch" nudjno ispollezovatte "chtho" ili "chtto". 
