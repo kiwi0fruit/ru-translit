@@ -719,7 +719,7 @@ Udareniia:
 nichego => acut,  
 gravis => cryshca.
 
-vyiezd въезд, vyijezd vyìezd выезд, podyiezd подъезд, obyiect, obyisc объиск, vyiiskivatte vyìskivatte, piianino piànino, pijavca pìavca, piyanyi, diyabvol dìàbvol, on - sinij, oni - actcii, Iuliia Iulìa, iasnaia, Mariia Marìa, Marii, Mariinsckij, Бия Biia Bìa, Бийск Bijsc, sociializm sociàlizm, acaciia acacìa, militciia militcìa, Яковлев Iacobvlev, Иаков IIacobv Iàcobv, Иесус IJesus Ìesus, мой moi, мои moii moì, мая maia, aija aìa айя, аиа aiia aiia, аллилуйя alleluija alleluìa, paranoija paranoìa, Allien Allèn, sijesta sìesta, diielectric dièlectric, siniie sinìe, on trollle, o trollie o trollè, meod, nieon nèon.
+vyiezd въезд, vyijezd vyìezd выезд, podyiezd подъезд, obyiect (reforma v obiyect obìèct), obyisc объиск, vyiiskivatte vyìskivatte, piianino piànino, pijavca pìavca, piyanyi, diyabvol dìàbvol, on - sinij, oni - actcii, Iuliia Iulìa, iasnaia, Mariia Marìa, Marii, Mariinsckij, Бия Biia Bìa, Бийск Bijsc, sociializm sociàlizm, acaciia acacìa, militciia militcìa, Яковлев Iacobvlev, Иаков IIacobv Iàcobv, Иесус IJesus Ìesus, мой moi, мои moii moì, мая maia, aija aìa айя, аиа aiia aiia, аллилуйя alleluija alleluìa, paranoija paranoìa, Allien Allèn, sijesta sìesta, diielectric dièlectric, siniie sinìe, on trollle, o trollie o trollè, meod, nieon nèon.
 
 
 ### Primer texta
@@ -794,7 +794,7 @@ Pod govor piyanyh mujichzcov.
 
 Pieony i vasillecki vseo iescheo rastut na poliane vozle derevni Peony, schitaiuscheisia bogatoi. V nei rodilsia izvestnyi piànist, pereiehavshij v Siàetl na rabotu v companii "Moì-tvoì sìesty-dièlectricki".
 
-Piyanyi master po proiectu sdelal mechanichesckij obyiect s izyianom. Iesli brac ne obnarujitsia, to belyie bolidy bolleshe ne smogut vyìgryvatte goncki i vyùchitte svoì oshibcki.
+Piyanyi master po proiectu sdelal mechanichesckij obìèct s izyianom. Iesli brac ne obnarujitsia, to belyie bolidy bolleshe ne smogut vyìgryvatte goncki i vyùchitte svoì oshibcki.
 
 V pìèse pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel 'George Maximus, conne v palleto i rvanyh dgjeensah (jeans'ah), cotoryi cogo-to obyiskival, i pricazal vsem myttesia i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
