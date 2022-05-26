@@ -61,10 +61,10 @@ yie (novyie — v conce slova) / yije (vyijezd — ne v conce slova)
 
 Cheredovaniia:
 ж / j-gj-dj-zj;  
-ч / ch(iez)-tch(ie);  
+ч / ch(iez)-tch(ie-);  
 ц / c(yiez)-tc(yiez);  
 ш / sh;  
-щ / sch(iez)-stch(ie);  
+щ / sch(iez)-stch(ie-);  
 чт / cht;  
 
 
@@ -76,7 +76,7 @@ Moroz i solnce; denne chiudesnyi!
 Iescheo ty dremleshhe, drug prelestnyi —  
 Pora, crasavicia, prosnisse:  
 Otcroi somcnuty negoi vzory  
-Navstretchiu severnoi Avrory,  
+Navstretchu severnoi Avrory,  
 Zvezdoiu severa iavisse!
 
 Vecheor, ty pomnishhe, viyuga zlilasse,  
@@ -313,11 +313,11 @@ Vvoditsia cheredovallenicia:
   g/gj: beg - begjal, slog - slogjil,  
   d/dj: hudo - hudje, rodil - rodjdenie,  
   c/ch(iez): durac - duracheoc,  
-  t/tch(ie): metil - metchenyi, vstretil - vstretchia,  
+  t/tch(ie-): metil - metchenyi, vstretil - vstretcha,  
   c/c(yiez): durac - duraczckiy,  
   t/tc(yiez): ?,  
   sc/sch(iez): iscal - ischet,  
-  st/stch(ie): svist - svistchiu, жёстко jeostco - jeostche жёстче,  
+  st/stch(ie-): svist - svistchu, жёстко jeostco - jeostche жёстче,  
 2) Etiymologichznyie variianty:  
   ж/j: deja vyu, Jeanna,  
   ж/zj: Parizj (optcionalleno),  
@@ -336,6 +336,7 @@ Vvoditsia cheredovallenicia:
   щ/sch(iez): iescheo.  
 
 тч ttch(iez) — ottcheot, prichialil - ottchialil,  
+(iz-za etogo v osnove posle tch pishetsia tchia, v vne osnovy mogjno pisatte tcha)  
 тц ttc(yiez) — ottcia, ottcy,  
 sttch стч (cogda chitaietsia otdelleno)  
 shch сч (cogda chitaietsia otdelleno, no shch mogjet chitattesia i slitno cac Щ)  
@@ -737,7 +738,7 @@ Moroz i solnce; denne chiudesnyi!
 Iescheo ty dremleshhe, drug prelestnyi —  
 Pora, crasavicia, prosnisse:  
 Otcroi somcnuty negoi vzory  
-Navstretchiu severnoi Avrory,  
+Navstretchu severnoi Avrory,  
 Zvezdoiu severa iavisse!
 
 Vecheor, ty pomnishhe, viyuga zlilasse,  
