@@ -295,7 +295,7 @@ theo - тео
 
 Christos, chimera, archaeolog, archaei, centner, circ.
 
-Chem, chto, nichto, chtecz, chthonichesckij, Moloch + to = Molochhto, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
+Chem, chto, nichto, chtecz, chthonichesckij, Moloch + to = Molochtto, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
 
 vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
 
