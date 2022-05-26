@@ -700,13 +700,16 @@ vyuuchil - vyùchil.
 ii => ì (drugiie),  
 oni moii - oni moì.
 
-ie => è,  
-nieon - nèon, alliergic - allèrgic.
+vieo => veò,  
+nieon - neòn.
+
+vae => vè (cogda etiymologiia ne ot A),  
+parter - partèr, Shaganae - Shaganè.
 
 iy => ỳ,  
 siystema - sỳstema.
 
-iyy => iỳa,  
+iyy => iỳ,  
 teriyyaki - teriỳaki.
 
 iy[oaeui] => ì[òàèùì] (tolleco etiymologichesckiie vkhodjdeniia),  
@@ -716,10 +719,10 @@ Bonus:
 Lion - Lỳon.
 
 Udareniia:  
-nichego => acut,  
+nichego => acut,
 gravis => cryshca.
 
-vyiezd въезд, vyijezd vyìezd выезд, podyiezd подъезд, obyiect (reforma v obiyect obìèct), obyisc объиск, vyiiskivatte vyìskivatte, piianino piànino, pijavca pìavca, piyanyi, diyabvol dìàbvol, on - sinij, oni - actcii, Iuliia Iulìa, iasnaia, Mariia Marìa, Marii, Mariinsckij, Бия Biia Bìa, Бийск Bijsc, sociializm sociàlizm, acaciia acacìa, militciia militcìa, Яковлев Iacobvlev, Иаков IIacobv Iàcobv, Иесус IJesus Ìesus, мой moi, мои moii moì, мая maia, aija aìa айя, аиа aiia aiia, аллилуйя alleluija alleluìa, paranoija paranoìa, Allien Allèn, sijesta sìesta, diielectric dièlectric, siniie sinìe, on trollle, o trollie o trollè, meod, nieon nèon.
+vyiezd въезд, vyijezd vyìezd выезд, podyiezd подъезд, obyiect (reforma v obiyect obìèct), obyisc объиск, vyiiskivatte vyìskivatte, piianino piànino, pijavca pìavca, piyanyi, diyabvol dìàbvol, on - sinij, oni - actcii, Iuliia Iulìa, iasnaia, Mariia Marìa, Marii, Mariinsckij, Бия Biia Bìa, Бийск Bijsc, sociializm sociàlizm, acaciia acacìa, militciia militcìa, Яковлев Iacobvlev, Иаков IIacobv Iàcobv, Иесус IJesus Ìesus, мой moi, мои moii moì, мая maia, aija aìa айя, аиа aiia aiia, аллилуйя allieluija allieluìa, paranoija paranoìa, Allien, sijesta sìesta, diielectric dièlectric, siniie sinìe, on trollle, o trollie, meod, nieon neòn.
 
 
 ### Primer texta
@@ -800,7 +803,7 @@ V pìèse pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po r
 
 Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsia mazatte iod na ranu.
 
-Maer nebolleshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo excavatora. Aj ekzema snova stala iego bespocoìtte. Oh uj eta pocupca vechznogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. Iesli tac poideot i dalleshe, to biudgjetu prideotsia hudo.
+Maer nebolleshogo gorodishcki otcryl tabliciu exèlia i vozmutilsia cenoi novogo excavatora. Aj ekzèma snova stala iego bespocoìtte. Oh uj eta pocupca vechznogo dvigatelia v proshlom godu! A tac je pocupca aeroplana-ecranoleota dlia Endi. Iesli tac poideot i dalleshe, to biudgjetu prideotsia hudo.
 
 V etom vide phraza ot A do IA nachinaiet vygliadette sovsem po-drugomu. Seichias scheotca novaia, no pozdje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ieoj coliuchij i pohodj na neio.
 
