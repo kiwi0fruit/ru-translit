@@ -92,7 +92,7 @@ Velicolepnymi covrami,
 Blestia na solnce, sneg legjit;  
 Prozrachznyi les odin cherneiet,  
 I ielle scvozze inei zeleneiet,  
-I rechzca podo lledom blestit.
+I rechca podo lledom blestit.
 
 Vsia comnata iantarnym blescom  
 Ozarena. Veseolym trescom  
@@ -135,7 +135,7 @@ S reznymi stavniami ocno;
 I v prazdnic, vecherom rosistym,  
 Smotrette do polnochi gotov  
 Na pliascu s topaniyem i svistom  
-Pod govor piyanyh mujichzcov.
+Pod govor piyanyh mujichcov.
 
 // God napisaniia: 1841
 
@@ -167,7 +167,7 @@ Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoin
 
 Imeietsia nescolleco ghypothez proiiskhodjdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zreniia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodiaschiaia ot nescolleckih predcov), drugiie priderjivaiutsia mneniia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia theoriia).
+V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zreniia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodiaschiaia ot nescolleckih predcov), drugiie priderjivaiutsia mneniia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia theoriia).
 
 
 ## Boleie podrobnoie opisaniie pravil
@@ -484,7 +484,7 @@ Delatte tackiie zameny tolleco tam, gde iestte risc pereputatte:
 Da: IEgo. Iulia. IUg.  
 Net: Iego. IUlia. Iug.
 
-Eto pavilo mogjno dopolnitelleno oslabitte i ne primeniatte v nachiale predlogjenia posle tochzcki. No vot cogda ne bylo tochzcki raneie, cotoraia ochevidno zadaieot context, to nellezia opustitte primeneniie. V sluchiaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochznaia L (l) ne pishetsia - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviiatura ИХ pishetsia I'H (IKH). 2 lh vody eto 2000 ml.
+Eto pavilo mogjno dopolnitelleno oslabitte i ne primeniatte v nachiale predlogjenia posle tochcki. No vot cogda ne bylo tochcki raneie, cotoraia ochevidno zadaieot context, to nellezia opustitte primeneniie. V sluchiaie, cogda v kiyrillice eto otdellenyie bucvy, stoiit pisatte vseo v verkhnem registre: IA, IU, IEO, IE. Otdellenaia strochznaia L (l) ne pishetsia - vmesto neio vsegda lh: л. / lh., И. / I. "Их" s bolleshoi bucvy pishetsya IH. Abbreviiatura ИХ pishetsia I'H (IKH). 2 lh vody eto 2000 ml.
 
 
 ## Resheniie problemy nachiala slov tiypa iod i iion
@@ -652,8 +652,8 @@ Tolleco hodovyie digraphy vsegda slitno v abbreviiaturah: SH, CH, KH, SCH, CZ, A
 On rabotaiet v GIBDD. Sel vot tacoi . JUC OGROMNYI. . Da .BOLLESHOI. =>
 Он работает в ГИБДД. Сел вот такой . ЖУК ОГРОМНЫЙ. . Да .БОЛЬШОЙ.
 
-* Tochzca v nachiale slova delaiet slovom v verkhnem registre vpravo do pervogo probellenogo siymbvola.
-* Tochzca, ocrugjeonnaia probellenymi siymbvolami, delaiet slovami v verkhmen registre do sleduiuschei tacoi je tochzcki - mogjno nescolleco stroc tac pometitte.
+* Tochca v nachiale slova delaiet slovom v verkhnem registre vpravo do pervogo probellenogo siymbvola.
+* Tochca, ocrugjeonnaia probellenymi siymbvolami, delaiet slovami v verkhmen registre do sleduiuschei tacoi je tochcki - mogjno nescolleco stroc tac pometitte.
 
 
 ## Vcliucheniia inostrannyh slov bez izmenenij
@@ -756,7 +756,7 @@ Velicolepnymi covrami,
 Blestia na solnce, sneg legjit;  
 Prozrachznyi les odin cherneiet,  
 I ielle scvozze inei zeleneiet,  
-I rechzca podo lledom blestit.
+I rechca podo lledom blestit.
 
 Vsia comnata iantarnym blescom  
 Ozarena. Veseolym trescom  
@@ -799,7 +799,7 @@ S reznymi stavniami ocno;
 I v prazdnic, vecherom rosistym,  
 Smotrette do polnochi gotov  
 Na pliascu s topaniyem i svistom  
-Pod govor piyanyh mujichzcov.
+Pod govor piyanyh mujichcov.
 
 // God napisanìa: 1841
 
@@ -831,7 +831,7 @@ Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoin
 
 Imeietsia nescolleco ghypothez proìskhodjdenìa sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sudjdenìah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zrenìa. Odni schitaiut, chto sobacki - polỳphỳletichescaia gruppa (proìskhodiaschiaia ot nescolleckih predcov), drugìe priderjivaiutsia mnenìa, chto vse sobacki proìzoshli ot odnogo predca (monophỳletichescaia theorìa).
+V sudjdenìah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochcki zrenìa. Odni schitaiut, chto sobacki - polỳphỳletichescaia gruppa (proìskhodiaschiaia ot nescolleckih predcov), drugìe priderjivaiutsia mnenìa, chto vse sobacki proìzoshli ot odnogo predca (monophỳletichescaia theorìa).
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
