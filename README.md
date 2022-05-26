@@ -487,7 +487,7 @@ Eto pavilo mogjno dopolnitelleno oslabitte i ne primeniatte v nachiale predlogje
 
 Concretizatciia pravil Russcoi Latinicy dlia problem nachiala slova tiypa йод, ион (iod i iion):
 
-1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychzno smiagchiaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchiaie ii/iy iotirovaniie pochzti teriaietsia - tac ono priniato v ustnoi rechi russcoi: моя/moia, мои/moii). Posle soglasnoi pered glasnoi -- smiagchiaiet (crome isliuchenij tiypa sii,sio). Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsia cac "й" (iot).
+1) i vsegda obrazuiet digraph libo s soglasnoi sleva (obychzno smiagchiaiet soglasnuiu i zvuchit), libo s glasnoi sprava (iotiruiet, v sluchiaie ii/iy iotirovaniie pochti teriaietsia - tac ono priniato v ustnoi rechi russcoi: моя/moia, мои/moii). Posle soglasnoi pered glasnoi -- smiagchiaiet (crome isliuchenij tiypa sii,sio). Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsia cac "й" (iot).
 
 2) Y vsegda obrazuiet digraph libo s soglasnoi sleva, no delaiet tveordoi soglasnuiu i zvuchit (tac, вожжи/vozjji i вожжы/vozjjy zvuchiat miagcoi i tveordoi "ж", sootvetstvenno), libo s glasnoi sprava (iotiruiet). Posle soglasnoi pered glasnoi -- smiagchiaiet (crome isliuchenij tiypa syi,syy). Prilipchivaia ona bucva. C glasnym, cotoryie sleva, i soglasnym, cotoryie sprava, ne prilipaiet. Posle glasnyh ne prilipshaia chitaietsia cac "й" (iot).
 
@@ -550,7 +550,7 @@ oija - ойя
 yye - йе (v nachiale)  
 yya - йя (v nachiale)
 
-yi - pochzti vsegda "йи"; nicogda ne teriaiet iotirovaniie, crome oboznacheniia tveordogo znaca.
+yi - pochti vsegda "йи"; nicogda ne teriaiet iotirovaniie, crome oboznacheniia tveordogo znaca.
 
 iyi - ийи (v nachiale)  
 iii - ии (v nachiale)
@@ -775,7 +775,7 @@ Ne pobedit ieio rassudoc moi.
 Ni slava, cuplennaia croviyu,  
 Ni polnyi gordogo doverìa pocoi,  
 Ni teomnoi stariny zavetnyie predaniya  
-Ne sheveliat vo mne otradnogo mechztaniya.  
+Ne sheveliat vo mne otradnogo mechtaniya.  
 No ia liubliu — za chto, ne znaiu sam —  
 Ieio stepei holodnoie molchianiye,  
 Ieio lesov bezbregjnyh colyhaniye,  
@@ -823,7 +823,7 @@ Sluchiaiu bylo ugodno, chtoby Billbo s Frodo iescheo i rodilisse v odin denne, 2
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste medjdu dvadciatiyu i tridciatiyu tremia, posle chego hobbit naconecz mogjet schitatte sebia vzroslym.
 
-Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoinoi denne rodjdenìa, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto neòbychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletìe – toje znamenatellenaia data – sovershennoletìe po-hobbitski.
+Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoinoi denne rodjdenìa, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto neòbychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletìe – toje znamenatellenaia data – sovershennoletìe po-hobbitski.
 
 Imeietsia nescolleco ghypothez proìskhodjdenìa sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
