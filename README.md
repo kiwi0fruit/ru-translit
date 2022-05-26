@@ -61,10 +61,10 @@ yie (novyie — v conce slova) / yije (vyijezd — ne v conce slova)
 
 Cheredovaniia:
 ж / j-gj-dj-zj;  
-ч / ch(iez)-tch;  
+ч / ch(iez)-tch(ie);  
 ц / c(yiez)-tc(yiez);  
 ш / sh;  
-щ / sch(iez)-stch.
+щ / sch(iez)-stch(ie).
 
 
 ## Primer texta
@@ -75,7 +75,7 @@ Moroz i solnce; denne chiudesnyi!
 Iescheo ty dremleshhe, drug prelestnyi —  
 Pora, crasavicia, prosnisse:  
 Otcroi somcnuty negoi vzory  
-Navstretchu severnoi Avrory,  
+Navstretchiu severnoi Avrory,  
 Zvezdoiu severa iavisse!
 
 Vecheor, ty pomnishhe, viyuga zlilasse,  
@@ -114,13 +114,13 @@ Ni slava, cuplennaia croviyu,
 Ni polnyi gordogo doveriia pocoi,  
 Ni teomnoi stariny zavetnyie predaniya  
 Ne sheveliat vo mne otradnogo mechztaniya.  
-No ia liubliu — za chzto, ne znaiu sam —  
+No ia liubliu — za chto, ne znaiu sam —  
 Ieio stepei holodnoie molchianiye,  
 Ieio lesov bezbregjnyh colyhaniye,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochznym puteom liubliu scacatte v telege  
 I, vzorom medlennym pronzaia nochi tenne,  
-Vstretchatte po storonam, vzdyhaia o nochzlege,  
+Vstretchiatte po storonam, vzdyhaia o nochzlege,  
 Drogjaschiie ogni pechiallenyh derevenne;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochiuiuschij oboz  
@@ -149,23 +149,23 @@ Maer nebolleshogo gorodishcki otcryl tabliciu exelia i vozmutilsia cenoi novogo 
 
 V etom vide phraza ot A do IA nachinaiet vygliadette sovsem po-drugomu. Seichias scheotca novaia, no pozdje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ieoj coliuchij i pohodj na neio.
 
-Skhod mestnyh jitelei indijscoi derevni sikkhov reshal chzto je delatte s otkhodami companii "Caligula Gai Iulij Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatcii.
+Skhod mestnyh jitelei indijscoi derevni sikkhov reshal chto je delatte s otkhodami companii "Caligula Gai Iulij Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatcii.
 
 "Cto s mecheom c nam prideot, tot ot mechia i..." - ne smog dogovoritte starshij mechanic Vasilij.
 
 Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviatte, on vdrug usynovil sirotu Frodo, sdelal svoiim naslednicom i predlogjil pereselittesia v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vozjdelenijem posmatrivavshih na usaddebu, ruhnuli oconchiatelleno.
 
-Sluchiaiu bylo ugodno, chztoby Billbo s Frodo iescheo i rodilisse v odin denne, 22 sentiabria.
+Sluchiaiu bylo ugodno, chtoby Billbo s Frodo iescheo i rodilisse v odin denne, 22 sentiabria.
 
-– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdeniia vmeste otmetchali by.
+– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdeniia vmeste otmetchiali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste medjdu dvadciatiyu i tridciatiyu tremia, posle chego hobbit naconecz mogjet schitatte sebia vzroslym.
 
-Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchali dvoinoi denne rodjdeniia, c etomu privycli, no liubomu bylo iasno, chzto nyneshnei oseniyu gotovitsia nechzto nieobychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletiie – toje znamenatellenaia data – sovershennoletiie po-hobbitski.
+Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoinoi denne rodjdeniia, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto nieobychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletiie – toje znamenatellenaia data – sovershennoletiie po-hobbitski.
 
 Imeietsia nescolleco ghypothez proiiskhodjdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zreniia. Odni schitaiut, chzto sobacki - poliyphiyletichescaia gruppa (proiiskhodiaschiaia ot nescolleckih predcov), drugiie priderjivaiutsia mneniia, chzto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia theoriia).
+V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zreniia. Odni schitaiut, chto sobacki - poliyphiyletichescaia gruppa (proiiskhodiaschiaia ot nescolleckih predcov), drugiie priderjivaiutsia mneniia, chto vse sobacki proiizoshli ot odnogo predca (monophiyletichescaia theoriia).
 
 
 ## Boleie podrobnoie opisaniie pravil
@@ -271,7 +271,8 @@ chiu - чу (~чю)
 chi - чи  
 chieo - чео  
 chiy - чи  
-chie - че
+chie - че  
+chz$ - ч$
 
 chy - хи  
 chyi - хи (pered soglasnymi, ne glavnoie napisaniie)  
@@ -280,17 +281,19 @@ chya - хиа
 chae - хе  
 chsz - хз  
 chssz - хсз  
-архь arkhhe (ibo nefig)
+архь arkhhe (ibo nefig)  
+ch$ - х$
 
-To iestte, dlia digrapha 'ch chzteniie zavisit ot togo, sleduiut li bucvy [iez] posle.
+To iestte, dlia digrapha 'ch chzteniie zavisit ot togo, sleduiut li bucvy [iez] posle. "chto" - eto vsegda "что". 
+Chtoby napisatte "хто" cherez "ch" nudjno ispollezovatte "chtho" ili "chtto". 
 
 theo - тео  
 
 Christos, chimera, archaeolog, archaei, centner, circ.
 
-Chem, chzto, nichzto, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
+Chem, chto, nichto, chztecz, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
 
-vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chzto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
+vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
 
 пиявка pijavca, Мария Mariia, синий sinij, кусты акации custy acacii, Яков Iacov, мой moi, мои moii, мая maia, maija майя, аиа aiia, аллилуйя alliluija, paranoija, подъезд podyiezd, obyiect, piyanca, diyavol, тролль trollle, тролля trollia, Колька Colleca, троллька trollleca, Аллен Allien, сиеста sijesta, диэлектрик diielectric, синие siniie, on trollle, o trollie, on conne, o cone, meod, nieobychzno, on leod, net lleda, есть iestte, костьутиль costteutille, грабьармия grabbearmiia.
 
@@ -309,11 +312,11 @@ Vvoditsia cheredovallenicia:
   g/gj: beg - begjal, slog - slogjil,  
   d/dj: hudo - hudje, rodil - rodjdenie,  
   c/ch(iez): durac - duracheoc,  
-  t/tch: metil - metchenyi, vstretil - vstretcha,  
+  t/tch(ie): metil - metchenyi, vstretil - vstretchia,  
   c/c(yiez): durac - duraczckiy,  
   t/tc(yiez): ?,  
   sc/sch(iez): iscal - ischet,  
-  st/stch: svist - svistchu, жёстко jeostco - jeostche жёстче,  
+  st/stch(ie): svist - svistchiu, жёстко jeostco - jeostche жёстче,  
 2) Etiymologichznyie variianty:  
   ж/j: deja vyu, Jeanna,  
   ж/zj: Parizj (optcionalleno),  
@@ -331,14 +334,14 @@ Vvoditsia cheredovallenicia:
   ц/c(yiez): cena,  
   щ/sch(iez): iescheo.  
 
-тч ttch(iez) — ottcheot  
-тц ttc(yiez) — ottcia, ottcy  
+тч ttch(iez) — ottcheot, prichialil - ottchialil,  
+тц ttc(yiez) — ottcia, ottcy,  
 sttch стч (cogda chitaietsia otdelleno)  
 shch сч (cogda chitaietsia otdelleno, no shch mogjet chitattesia i slitno cac Щ)  
 thch тх — othchyimera  
 (pitanie — pischia, teriaietsia T)
 
-Eto mogjno interpretirovatte tac, chzto cogda proverochznaia etiymologiia teriaietsia iz lexicona, to zj,gj,dj teriaiut pervuiu bucvu i stanoviatsia prosto 'j" — blago chitaietsia odinacovo.
+Eto mogjno interpretirovatte tac, chto cogda proverochznaia etiymologiia teriaietsia iz lexicona, to zj,gj,dj teriaiut pervuiu bucvu i stanoviatsia prosto 'j" — blago chitaietsia odinacovo.
 
 поджёг poddjeog, розжиг rozzjig, гжель gzjelle (eiymologiia ne iasna, poetomu neitrallenoie zj), Vologda, vologdjanin. No mogjno i: ghje гже, ggje гже. Ne zabyvaiem pro isclyuchenie дзя-дзи-...: dzja-dzji-...
 
@@ -465,7 +468,7 @@ machjina машина, Chjanelle, Chjampanscoie, blanchjirovatte, machyina ма�
 
 scheotca, scheot, vesnushchiatyi, rashchiuvstvovalsia, rashchzleneniie.
 
-Tacoi podkhod vozmogjen iz-za togo, chzto i СЧ, i ШЧ chitaiutsia tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsia balans leogcosti programmnoi realizatcii obratimosti i phonetichznosti pissema.
+Tacoi podkhod vozmogjen iz-za togo, chto i СЧ, i ШЧ chitaiutsia tolleco cac Щ, Ш, ЩЧ ili ШЧ. V tacom podkhode presleduietsia balans leogcosti programmnoi realizatcii obratimosti i phonetichznosti pissema.
 
 
 ## Speciiallenyie pravila dlia ia,iu,io,ie s zaglavnoi bucvy
@@ -733,7 +736,7 @@ Moroz i solnce; denne chiudesnyi!
 Iescheo ty dremleshhe, drug prelestnyi —  
 Pora, crasavicia, prosnisse:  
 Otcroi somcnuty negoi vzory  
-Navstretchu severnoi Avrory,  
+Navstretchiu severnoi Avrory,  
 Zvezdoiu severa iavisse!
 
 Vecheor, ty pomnishhe, viyuga zlilasse,  
@@ -772,13 +775,13 @@ Ni slava, cuplennaia croviyu,
 Ni polnyi gordogo doverìa pocoi,  
 Ni teomnoi stariny zavetnyie predaniya  
 Ne sheveliat vo mne otradnogo mechztaniya.  
-No ia liubliu — za chzto, ne znaiu sam —  
+No ia liubliu — za chto, ne znaiu sam —  
 Ieio stepei holodnoie molchianiye,  
 Ieio lesov bezbregjnyh colyhaniye,  
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochznym puteom liubliu scacatte v telege  
 I, vzorom medlennym pronzaia nochi tenne,  
-Vstretchatte po storonam, vzdyhaia o nochzlege,  
+Vstretchiatte po storonam, vzdyhaia o nochzlege,  
 Drogjaschìe ogni pechiallenyh derevenne;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochiuiuschij oboz  
@@ -807,23 +810,23 @@ Maer nebolleshogo gorodishcki otcryl tabliciu exèlia i vozmutilsia cenoi novogo
 
 V etom vide phraza ot A do IA nachinaiet vygliadette sovsem po-drugomu. Seichias scheotca novaia, no pozdje ona stanet staraia. Chernysh liubit cogda iego cheshut ieiu. Ieoj coliuchij i pohodj na neio.
 
-Skhod mestnyh jitelei indijscoi derevni sikkhov reshal chzto je delatte s otkhodami companii "Caligula Gai Iulij Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatcii.
+Skhod mestnyh jitelei indijscoi derevni sikkhov reshal chto je delatte s otkhodami companii "Caligula Gai Iulij Caezarre" (lat. ' Caligula Gaius Iulius Caesar). ' Odin iz prisutstvuiuschih nosil hoholoc na golove. On i nasheol vyhod iz situatcii.
 
 "Cto s mecheom c nam prideot, tot ot mechia i..." - ne smog dogovoritte starshij mechanic Vasilij.
 
 Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto deviatte, on vdrug usynovil sirotu Frodo, sdelal svoìm naslednicom i predlogjil pereselittesia v Zasumcki. Tut uj vse nadejdy Dericulle-Baegginsov, davno s vozjdelenìem posmatrivavshih na usaddebu, ruhnuli oconchiatelleno.
 
-Sluchiaiu bylo ugodno, chztoby Billbo s Frodo iescheo i rodilisse v odin denne, 22 sentiabria.
+Sluchiaiu bylo ugodno, chtoby Billbo s Frodo iescheo i rodilisse v odin denne, 22 sentiabria.
 
-– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdenìa vmeste otmetchali by.
+– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdenìa vmeste otmetchiali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste medjdu dvadciatiyu i tridciatiyu tremia, posle chego hobbit naconecz mogjet schitatte sebia vzroslym.
 
-Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchali dvoinoi denne rodjdenìa, c etomu privycli, no liubomu bylo iasno, chzto nyneshnei oseniyu gotovitsia nechzto neòbychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletìe – toje znamenatellenaia data – sovershennoletìe po-hobbitski.
+Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoinoi denne rodjdenìa, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto neòbychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletìe – toje znamenatellenaia data – sovershennoletìe po-hobbitski.
 
 Imeietsia nescolleco ghypothez proìskhodjdenìa sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
-V sudjdenìah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zrenìa. Odni schitaiut, chzto sobacki - polỳphỳletichescaia gruppa (proìskhodiaschiaia ot nescolleckih predcov), drugìe priderjivaiutsia mnenìa, chzto vse sobacki proìzoshli ot odnogo predca (monophỳletichescaia theorìa).
+V sudjdenìah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zrenìa. Odni schitaiut, chto sobacki - polỳphỳletichescaia gruppa (proìskhodiaschiaia ot nescolleckih predcov), drugìe priderjivaiutsia mnenìa, chto vse sobacki proìzoshli ot odnogo predca (monophỳletichescaia theorìa).
 
 
 # Устаревшее описание Русской латиницы от kiwi0fruit (Russcaia Latinicia)
