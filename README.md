@@ -66,6 +66,7 @@ Cheredovaniia:
 ш / sh;  
 щ / sch(iez)-stch(ie-);  
 чт / cht;  
+чк / chc(k);  
 
 
 ## Primer texta
@@ -285,8 +286,10 @@ chssz - хсз
 архь arkhhe (ibo nefig)  
 ch - х (pered sogl. ili v conce)
 
-To iestte, dlia digrapha 'ch chteniie zavisit ot togo, sleduiut li bucvy [iez] posle. "cht" - eto vsegda "чт". 
-Chtoby napisatte "хт" cherez "ch" nudjno ispollezovatte "chth" ili "chht". 
+To iestte, dlia digrapha 'ch chteniie zavisit ot togo, sleduiut li bucvy [iez] posle.
+
+"чт" - eto vsegda "cht". Chtoby napisatte "хт" cherez "ch" nudjno ispollezovatte "chth" ili "chht".  
+"chc(k)" - eto vsegda "чк". Chtoby napisatte "хк" cherez "ch" nudjno ispollezovatte "chk" ili "chhc(k)".  
 
 theo - тео  
 
