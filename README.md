@@ -819,7 +819,7 @@ Sluchiaiu bylo ugodno, chztoby Billbo s Frodo iescheo i rodilisse v odin denne, 
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste medjdu dvadciatiyu i tridciatiyu tremia, posle chego hobbit naconecz mogjet schitatte sebia vzroslym.
 
-Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchali dvoinoi denne rodjdenìa, c etomu privycli, no liubomu bylo iasno, chzto nyneshnei oseniyu gotovitsia nechzto nèobychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletìe – toje znamenatellenaia data – sovershennoletìe po-hobbitski.
+Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchali dvoinoi denne rodjdenìa, c etomu privycli, no liubomu bylo iasno, chzto nyneshnei oseniyu gotovitsia nechzto neòbychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletìe – toje znamenatellenaia data – sovershennoletìe po-hobbitski.
 
 Imeietsia nescolleco ghypothez proìskhodjdenìa sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
