@@ -61,10 +61,10 @@ yie (novyie — v conce slova) / yije (vyijezd — ne v conce slova)
 
 Cheredovaniia:
 ж / j-gj-dj-zj;  
-ч / ch(iez)-tch(ie-);  
+ч / ch(iez)-tch;  
 ц / c(yiez)-tc(yiez);  
 ш / sh;  
-щ / sch(iez)-stch(ie-);  
+щ / sch(iez)-stch;  
 чт / cht;  
 чк / chc(k);  
 
@@ -122,7 +122,7 @@ Ieio lesov bezbregjnyh colyhaniye,
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochznym puteom liubliu scacatte v telege  
 I, vzorom medlennym pronzaia nochi tenne,  
-Vstretchiatte po storonam, vzdyhaia o nochzlege,  
+Vstretchatte po storonam, vzdyhaia o nochzlege,  
 Drogjaschiie ogni pechiallenyh derevenne;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochiuiuschij oboz  
@@ -159,11 +159,11 @@ Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto devi
 
 Sluchiaiu bylo ugodno, chtoby Billbo s Frodo iescheo i rodilisse v odin denne, 22 sentiabria.
 
-– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdeniia vmeste otmetchiali by.
+– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdeniia vmeste otmetchali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste medjdu dvadciatiyu i tridciatiyu tremia, posle chego hobbit naconecz mogjet schitatte sebia vzroslym.
 
-Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoinoi denne rodjdeniia, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto nieobychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletiie – toje znamenatellenaia data – sovershennoletiie po-hobbitski.
+Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchali dvoinoi denne rodjdeniia, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto nieobychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletiie – toje znamenatellenaia data – sovershennoletiie po-hobbitski.
 
 Imeietsia nescolleco ghypothez proiiskhodjdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
@@ -316,11 +316,11 @@ Vvoditsia cheredovallenicia:
   g/gj: beg - begjal, slog - slogjil,  
   d/dj: hudo - hudje, rodil - rodjdenie,  
   c/ch(iez): durac - duracheoc,  
-  t/tch(ie-): metil - metchenyi, vstretil - vstretcha,  
+  t/tch: metil - metchenyi, vstretil - vstretcha,  
   c/c(yiez): durac - duraczckiy,  
   t/tc(yiez): ?,  
   sc/sch(iez): iscal - ischet,  
-  st/stch(ie-): svist - svistchu, жёстко jeostco - jeostche жёстче,  
+  st/stch: svist - svistchu, жёстко jeostco - jeostche жёстче,  
 2) Etiymologichznyie variianty:  
   ж/j: deja vyu, Jeanna,  
   ж/zj: Parizj (optcionalleno),  
@@ -338,8 +338,8 @@ Vvoditsia cheredovallenicia:
   ц/c(yiez): cena,  
   щ/sch(iez): iescheo.  
 
-тч ttch(iez) — ottcheot, prichialil - ottchialil,  
-(iz-za etogo v osnove posle tch pishetsia tchia, v vne osnovy mogjno pisatte tcha)  
+тч ttch — ottcheot, prichialil - ottchalil,  
+(Poiavliaietsia cheredovaniie chia-cha)  
 тц ttc(yiez) — ottcia, ottcy,  
 sttch стч (cogda chitaietsia otdelleno)  
 shch сч (cogda chitaietsia otdelleno, no shch mogjet chitattesia i slitno cac Щ)  
@@ -786,7 +786,7 @@ Ieio lesov bezbregjnyh colyhaniye,
 Razlivy rec ieio, podobnyie moriam;  
 Proseolochznym puteom liubliu scacatte v telege  
 I, vzorom medlennym pronzaia nochi tenne,  
-Vstretchiatte po storonam, vzdyhaia o nochzlege,  
+Vstretchatte po storonam, vzdyhaia o nochzlege,  
 Drogjaschìe ogni pechiallenyh derevenne;  
 Liubliu dymoc spaleonnoi jnivy,  
 V stepi nochiuiuschij oboz  
@@ -823,11 +823,11 @@ Liubimcem Billbo byl iunyi Frodo Baeggins. Cogda Billbo stucnulo devianosto devi
 
 Sluchiaiu bylo ugodno, chtoby Billbo s Frodo iescheo i rodilisse v odin denne, 22 sentiabria.
 
-– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdenìa vmeste otmetchiali by.
+– Frodo, mallechic moi, – scazal cac-to raz Billbo, – perebiralsia by ty co mne. Gliadishhe, i denne rodjdenìa vmeste otmetchali by.
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste medjdu dvadciatiyu i tridciatiyu tremia, posle chego hobbit naconecz mogjet schitatte sebia vzroslym.
 
-Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoinoi denne rodjdenìa, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto neòbychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletìe – toje znamenatellenaia data – sovershennoletìe po-hobbitski.
+Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchali dvoinoi denne rodjdenìa, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto neòbychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletìe – toje znamenatellenaia data – sovershennoletìe po-hobbitski.
 
 Imeietsia nescolleco ghypothez proìskhodjdenìa sobacki, naìboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
