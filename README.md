@@ -339,7 +339,7 @@ Vvoditsia cheredovallenicia:
 sttch стч (cogda chitaietsia otdelleno)  
 shch сч (cogda chitaietsia otdelleno, no shch mogjet chitattesia i slitno cac Щ)  
 thch тх — othchyimera  
-(pitanie — pischia, teriaietsia T)
+(pitaniie — pischia, teriaietsia T)
 
 Eto mogjno interpretirovatte tac, chto cogda proverochznaia etiymologiia teriaietsia iz lexicona, to zj,gj,dj teriaiut pervuiu bucvu i stanoviatsia prosto 'j" — blago chitaietsia odinacovo.
 
