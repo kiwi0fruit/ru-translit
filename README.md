@@ -689,10 +689,10 @@ This.
 Celiyu dannoi versii bylo bytte vizualleno pohodjei na bezdiàcritichescuiu. Poetomu, napisanìe miagcogo znaca ostalosse bez izmenenij.
 
 sii[aeu] => sì[aeu] (v conce slova), sij[aeu] => sì[aeu] (v seredine slova), ^ij[oaeu] => ^ìe[òàèù],  
-Mariia - Marìa, siniie - sinìe, sijesta - sìesta, IJesus => Ìesus.
+Mariia - Marìa, siniie - sinìe, sijesta - sìesta, IJesus - Ìesus.
 
 sii[aeu] => si[àèù] (v seredine slova), iiaa => ià, (iiuu => iù), ^ii[oaeu] => ^i[òàèù],  
-piianino - piànino, mediiaa => medià, iion - iòn.
+piianino - piànino, mediiaa - medià, iion - iòn.
 
 vyuu => vyù, (vyaa => vyà, vyoo => vyò),  
 vyuuchil - vyùchil.
@@ -707,16 +707,19 @@ iy => ỳ,
 siystema - sỳstema.
 
 iyy => iỳa,  
-teriyyaki => teriỳaki.
+teriyyaki - teriỳaki.
+
+iy[oaeui] => ì[òàèùì] (tolleco etiymologichesckiie vkhodjdeniia),  
+piyesa - pìèsa, diyabvol - dìàbvol.
 
 Bonus:  
-Lion => Lỳon.
+Lion - Lỳon.
 
 Udareniia:  
 nichego => acut,  
 gravis => cryshca.
 
-vyiezd въезд, vyijezd vyìezd выезд, podyiezd подъезд, obyiect, obyisc объиск, vyiiskivatte vyìskivatte, piianino piànino, pijavca pìavca, piyanyi, diyabvol, on - sinij, oni - actcii, Iuliia Iulìa, iasnaia, Mariia Marìa, Marii, Mariinsckij, Бия Biia Bìa, Бийск Bijsc, sociializm sociàlizm, acaciia acacìa, militciia militcìa, Яковлев Iacobvlev, Иаков IIacobv Iàcobv, Иесус IJesus Ìesus, мой moi, мои moii moì, мая maia, aija aìa айя, аиа aiia aiia, аллилуйя alleluija alleluìa, paranoija paranoìa, Allien Allèn, sijesta sìesta, diielectric dièlectric, siniie sinìe, on trollle, o trollie o trollè, meod, nieon nèon.
+vyiezd въезд, vyijezd vyìezd выезд, podyiezd подъезд, obyiect, obyisc объиск, vyiiskivatte vyìskivatte, piianino piànino, pijavca pìavca, piyanyi, diyabvol dìàbvol, on - sinij, oni - actcii, Iuliia Iulìa, iasnaia, Mariia Marìa, Marii, Mariinsckij, Бия Biia Bìa, Бийск Bijsc, sociializm sociàlizm, acaciia acacìa, militciia militcìa, Яковлев Iacobvlev, Иаков IIacobv Iàcobv, Иесус IJesus Ìesus, мой moi, мои moii moì, мая maia, aija aìa айя, аиа aiia aiia, аллилуйя alleluija alleluìa, paranoija paranoìa, Allien Allèn, sijesta sìesta, diielectric dièlectric, siniie sinìe, on trollle, o trollie o trollè, meod, nieon nèon.
 
 
 ### Primer texta
@@ -793,7 +796,7 @@ Pieony i vasillecki vseo iescheo rastut na poliane vozle derevni Peony, schitaiu
 
 Piyanyi master po proiectu sdelal mechanichesckij obyiect s izyianom. Iesli brac ne obnarujitsia, to belyie bolidy bolleshe ne smogut vyìgryvatte goncki i vyùchitte svoì oshibcki.
 
-V piyese pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel 'George Maximus, conne v palleto i rvanyh dgjeensah (jeans'ah), cotoryi cogo-to obyiskival, i pricazal vsem myttesia i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
+V pìèse pro devushcu v zeleonom platiyice vse sadilisse na ladiyi i plyli po recke. No tut iz lesa vyshel 'George Maximus, conne v palleto i rvanyh dgjeensah (jeans'ah), cotoryi cogo-to obyiskival, i pricazal vsem myttesia i gotovitte buliyon. Znachit snova piyeom do lysyh aqualangistov.
 
 Prepodobnyi Bayes podkinul igrallenyie costi. Vypalo shestte, znachit iemu prideotsia mazatte iod na ranu.
 
