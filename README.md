@@ -686,6 +686,8 @@ This.
 
 ## Sovmestimaia diiacritichescaia versiia
 
+Celiyu dannoi versii bylo bytte vizualleno pohodjei na bezdiàcritichescuiu. Poetomu, napisanìe miagcogo znaca ostalosse bez izmenenij.
+
 sii[aeu] => sì[aeu] (v conce slova), sij[aeu] => sì[aeu] (v seredine slova), ^ij[oaeu] => ^ìe[òàèù],  
 Mariia - Marìa, siniie - sinìe, sijesta - sìesta, IJesus => Ìesus.
 
@@ -713,6 +715,8 @@ Lion => Lỳon.
 Udareniia:  
 nichego => acut,  
 gravis => cryshca.
+
+vyiezd въезд, vyijezd vyìezd выезд, podyiezd подъезд, obyiect, obyisc объиск, vyiiskivatte vyìskivatte, piianino piànino, pijavca pìavca, piyanyi, diyabvol, on - sinij, oni - actcii, Iuliia Iulìa, iasnaia, Mariia Marìa, Marii, Mariinsckij, Бия Biia Bìa, Бийск Bijsc, sociializm sociàlizm, acaciia acacìa, militciia militcìa, Яковлев Iacobvlev, Иаков IIacobv Iàcobv, Иесус IJesus Ìesus, мой moi, мои moii moì, мая maia, aija aìa айя, аиа aiia aiia, аллилуйя alleluija alleluìa, paranoija paranoìa, Allien Allèn, sijesta sìesta, diielectric dièlectric, siniie sinìe, on trollle, o trollie o trollè, meod, nieon nèon.
 
 
 ### Primer texta
