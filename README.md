@@ -113,7 +113,7 @@ Ne pobedit ieio rassudoc moi.
 Ni slava, cuplennaia croviyu,  
 Ni polnyi gordogo doveriia pocoi,  
 Ni teomnoi stariny zavetnyie predaniya  
-Ne sheveliat vo mne otradnogo mechztaniya.  
+Ne sheveliat vo mne otradnogo mechtaniya.  
 No ia liubliu — za chto, ne znaiu sam —  
 Ieio stepei holodnoie molchianiye,  
 Ieio lesov bezbregjnyh colyhaniye,  
@@ -161,7 +161,7 @@ Sluchiaiu bylo ugodno, chtoby Billbo s Frodo iescheo i rodilisse v odin denne, 2
 
 Frodo v tu poru hodil v dorostcah. Tac hobbity zovut molodeojje v bezotvetstvennom vozraste medjdu dvadciatiyu i tridciatiyu tremia, posle chego hobbit naconecz mogjet schitatte sebia vzroslym.
 
-Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoinoi denne rodjdeniia, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto nieobychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochztennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletiie – toje znamenatellenaia data – sovershennoletiie po-hobbitski.
+Proshlo iescheo dvenadciatte let. V Zasumcah cajdyi god veselo otmetchiali dvoinoi denne rodjdeniia, c etomu privycli, no liubomu bylo iasno, chto nyneshnei oseniyu gotovitsia nechto nieobychznoie. Billbo ispolnialosse 111 let – vozrast dlia hobbita vessema pochtennyi, da i chislo liubopytnoie, nu a Frodo gotovilsia otmetitte tridciatitreohletiie – toje znamenatellenaia data – sovershennoletiie po-hobbitski.
 
 Imeietsia nescolleco ghypothez proiiskhodjdeniia sobacki, naiiboleie veroiatnymi ieio predcami schitaiutsia volc i necotoryie vidy shacalov.
 
@@ -170,7 +170,7 @@ V sudjdenijah ucheonyh o predcah domashnei sobacki prisutstvuiut dve tochzcki zr
 
 ## Boleie podrobnoie opisaniie pravil
 
-Teperre "ij" vsegda znachit "[ɪj] / [jj]" (pochzti cac pervoie hiystorichescoie ispollezovaniie), no v ostallenyh sluchiaiah "j" eto "[ʐ]".
+Teperre "ij" vsegda znachit "[ɪj] / [jj]" (pochti cac pervoie hiystorichescoie ispollezovaniie), no v ostallenyh sluchiaiah "j" eto "[ʐ]".
 
 sija - сия  
 sidju - сижу  
@@ -284,14 +284,14 @@ chssz - хсз
 архь arkhhe (ibo nefig)  
 ch - х (pered sogl. ili v conce)
 
-To iestte, dlia digrapha 'ch chzteniie zavisit ot togo, sleduiut li bucvy [iez] posle. "chto" - eto vsegda "что". 
-Chtoby napisatte "хто" cherez "ch" nudjno ispollezovatte "chtho" ili "chtto". 
+To iestte, dlia digrapha 'ch chteniie zavisit ot togo, sleduiut li bucvy [iez] posle. "cht" - eto vsegda "чт". 
+Chtoby napisatte "хт" cherez "ch" nudjno ispollezovatte "chth" ili "chht". 
 
 theo - тео  
 
 Christos, chimera, archaeolog, archaei, centner, circ.
 
-Chem, chto, nichto, chztecz, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
+Chem, chto, nichto, chtecz, chthonichesckij, Moloch + to = Molochhto, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
 
 vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
 
