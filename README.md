@@ -37,12 +37,17 @@ iei, alliergiia, mera, piyesa,
 ieojic, meod, piyeom,  
 toje, mogjno, hudje, nizje.  
 
-з - - и - - - - й - - - - к  
-z - i/ii/iy - i/y/j - c/ck/k  
+з - - и - - - - й - ий - - к  
+z - i/ii/iy - i/y - - ij - c/ck/k  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-mir, oni moii, siystema,  
+mir, oni moii, piianino, mediiaa, siystema,  
 on moi, iod, York, sinij,  
 cot, u recki, kisa.  
+
+и(еёюя)  
+ij(eua) [ne v conce slova] / ii(eua) [inache]  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+pijavca, sijesta, Mariia, siniie.  
 
 л м н о п р с т у ф  
 l m n o p r s t u f  
