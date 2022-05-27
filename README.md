@@ -298,13 +298,13 @@ chzth - чт
 ччк - chchc(k)  
 chhc(k) - хк (slovoobrazovaniie po-umolchianiiu)  
 chk - хк (etiymologichznyi variiant ili slovoobrazovaniie po-umolchianiiu dlia k[ie] **ne** na granice s oconchianijem)  
-chzk - чк  
+chck - чк  
 
 theo - тео  
 
 Christos, chimera, archaeolog, archaei, centner, circ.
 
-Chem, chto, nichto, chtecz, chthonichesckij, archhcorova архкорова, archhtigr архтигр, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
+Chem, chto, nichto, chtecz, chthonichesckij, archhcorova архкорова, archhtigr архтигр, archkisa, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
 
 vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
 
