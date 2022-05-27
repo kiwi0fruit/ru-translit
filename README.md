@@ -33,7 +33,7 @@ a b v g d
 е - - - - - - - - - ё - - - - - - - ж  
 ie/e/ye - ieo/eo/yeo - j/gj/dj/zj  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-iei, alliergiia, nieon, mera, piyesa,  
+moiei, alliergiia, nieon, mera, piyesa,  
 ieojic, meod, piyeom,  
 toje, mogjno, hudje, nizje.  
 
@@ -47,7 +47,12 @@ cot, u recki, kisa.
 и(еёюя)  
 ij(eua) [ne v conce slova] / ii(eua) [inache]  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-pijavca, sijesta, Mariia, siniie.  
+pijavca, sijesta, Mariia, siniie.
+
+й(еёюя)  
+ij(eua)/iy(eua)  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+allieluija, maiya.  
 
 л м н о п р с т у ф  
 l m n o p r s t u f  
@@ -75,8 +80,8 @@ y/yi/hy - e/ae - iu/yu - ia/ya
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 byt, obyisc, hy,  
 etot, maer,  
-iug, liubit, viyuga,  
-iasno, miaso, piyanca.  
+moiu, liubit, viyuga,  
+moia, miaso, piyanca.  
 
 ъ  
 y(i) [ne v conce slova] / "-" [inache]  
