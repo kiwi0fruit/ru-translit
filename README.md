@@ -25,48 +25,68 @@ Novaia versiia latinicy. Teperre polnostiyu 'ASCII!
 
 ## Chiastte sootvetstvij iz novogo opisaniia
 
+(s cheredovanijami)
+
 а б в г д  
-a b v g d
+a b v g d  
 
-е - - - - - - - - - ё - - - - - ж  
-ie/e/ye - ieo/eo/yeo - j/gj/dj/zj
+е - - - - - - - - - ё - - - - - - - ж  
+ie/e/ye - ieo/eo/yeo - j/gj/dj/zj  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+iei, alliergiia, mera, piyesa,  
+ieojic, meod, piyeom,  
+toje, mogjno, hudje, nizje.  
 
-з - и  
-z - i/ii/iy
+з - - и - - - - й - - - - к  
+z - i/ii/iy - i/y/j - c/ck/k  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+mir, oni moii, siystema,  
+on moi, iod, York, sinij,  
+cot, u recki, kisa.  
 
-й - - - - - к - - - л м н  
-i/y/j - c/ck/k - l m n
+л м н о п р с т у ф  
+l m n o p r s t u f  
 
-о п р с т  
-o p r s t
+х - - - - - - - - - - -ц - - - - - - - - - - - ч  
+h/kh/ch - c(yiez)/tc(yiez) - ch(ieztc)/tch  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+hohot, skhod, chrom, chaos,  
+cycl, circ, cena, ciaplia, zaiacz, actciia,  
+cherep, chist, chiai, mechz, net ruchec, metchen.  
 
-у - ф - х - - - - - - - - ц - - - - ч  
-u - f - - h/kh/ch - c(yiez) - ch(iez)
+чт - - чк  
+cht - chc(k)  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+chto, ruchca.  
 
-ш - - щ  
-sh - sch(iez)
+ш - - - - - - щ - - - - - - - - - сч  
+sh - sch(ieztc)/tsch - sch/shch  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+scheca, schit, ischet, svistchu,  
+scheot, rashchzlenil.  
 
 ы - - - - - - э - - - - ю - - - я  
-y/yi/hy - e/ae - iu/yu - ia/ya
+y/yi/hy - e/ae - iu/yu - ia/ya  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+byt, obyisc, hy,  
+etot, maer,  
+iug, liubit, viyuga,  
+iasno, miaso, piyanca.  
 
-ъ  
-y (podyiezd — ne v conce slova) / - (дъе d-ie — v conce slova)
+ъ
+y(i) [ne v conce slova] / "-" [inache]  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+podyiezd, объиск obyisc, дъе d-ie.  
 
-ь  
-i (diyavol) / tte (brattesia, glushhe — udvoieniie soglasnoi + e)
+ь
+i(y) [pered иеёоюя] / 2 x sogl.+ e [inache]  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+diyavol, brattesia, glushhe.  
 
-ые  
-yie (novyie — v conce slova) / yije (vyijezd — ne v conce slova)
-
-
-Cheredovaniia:
-ж / j-gj-dj-zj;  
-ч / ch(iez)-tch;  
-ц / c(yiez)-tc(yiez);  
-ш / sh;  
-щ / sch(iez)-stch;  
-чт / cht;  
-чк / chc(k);  
+ые
+yie [v conce slova] / yije [inache]  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+novyie, vyijezd.  
 
 
 ## Primer texta
