@@ -40,7 +40,7 @@ toje, mogjno, hudje, nizje.
 з - - и - - - - й - ий - - к  
 z - i/ii/iy - i/y - - ij - c/ck/k  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-mir, oni moii, piianino, mediiaa, siystema,  
+mir, oni moii, iion, piianino, mediiaa, siystema,  
 on moi, iod, York, sinij,  
 cot, u recki, kisa.  
 
