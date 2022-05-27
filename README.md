@@ -78,17 +78,17 @@ etot, maer,
 iug, liubit, viyuga,  
 iasno, miaso, piyanca.  
 
-ъ
+ъ  
 y(i) [ne v conce slova] / "-" [inache]  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 podyiezd, объиск obyisc, дъе d-ie.  
 
-ь
+ь  
 i(y) [pered иеёоюя] / 2 x sogl.+ e [inache]  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 diyavol, brattesia, glushhe.  
 
-ые
+ые  
 yie [v conce slova] / yije [inache]  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 novyie, vyijezd.  
