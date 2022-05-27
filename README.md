@@ -33,7 +33,7 @@ a b v g d
 е - - - - - - - - - ё - - - - - - - ж  
 ie/e/ye - ieo/eo/yeo - j/gj/dj/zj  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-iei, alliergiia, mera, piyesa,  
+iei, alliergiia, nieon, mera, piyesa,  
 ieojic, meod, piyeom,  
 toje, mogjno, hudje, nizje.  
 
