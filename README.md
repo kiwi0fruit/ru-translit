@@ -288,14 +288,23 @@ ch - х (pered sogl. ili v conce)
 
 To iestte, dlia digrapha 'ch chteniie zavisit ot togo, sleduiut li bucvy [iez] posle.
 
-"чт" - eto vsegda "cht". Chtoby napisatte "хт" cherez "ch" nudjno ispollezovatte "chth" ili "chtt". "чтт" budet "chztt".  
-"chc(k)" - eto vsegda "чк". Chtoby napisatte "хк" cherez "ch" nudjno ispollezovatte "chk" ili "chcc(k)". "чкк" budet "chzcc(k)".  
+чт - cht  
+ччт - chcht  
+chht - хт (slovoobrazovaniie po-umolchianiiu)  
+chth - хт (etiymologichznyi variiant)  
+chzth - чт  
+
+чк - chc(k)  
+ччк - chchc(k)  
+chhc(k) - хк (slovoobrazovaniie po-umolchianiiu)  
+chk - хк (etiymologichznyi variiant ili slovoobrazovaniie po-umolchianiiu dlia k[ie] **ne** na granice s oconchianijem)  
+chzk - чк  
 
 theo - тео  
 
 Christos, chimera, archaeolog, archaei, centner, circ.
 
-Chem, chto, nichto, chtecz, chthonichesckij, Moloch + to = Molochtto, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
+Chem, chto, nichto, chtecz, chthonichesckij, archhcorova архкорова, archhtigr архтигр, chisto, chiaschia, ne plachhe, chor, chaerubvim, archszaim архзайм, архьел arkhiyel (ibo nefig), архь arkhhe (ibo nefig), архъел archyiel, tachyon, capricchio, tachycardia.
 
 vzgliad, gliadit, gliadia na, piianino, pijavca, piyanyi, obyiect, podyiezd, vyijezd, diyabvol, on - sinij, oni - actcii, jadnostte, antizjadnostte, chyimera, alchymiia, chaerubvim, archaeolog, tachyon, chistota, chto, chrom, Christos, iesli, Iuliia, iasnaia, Mariia, Marii, Mariinsckij, sociializm, acaciia, militciia.
 
