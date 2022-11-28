@@ -429,7 +429,7 @@ I IY K L M
 N O P R S  
 T U F H C  
 Q SH SQ  
-- HY -  
+\- HY \-  
 E IU IA
 
 Coralina Alexeievna => K.A.  
@@ -554,12 +554,12 @@ Dlea C (Ц) etiymologia ulucceshena s pomosqiyu specialnyh pravil ccetenia dlea 
 
 ## 8) Staryie narabotki, cotoryie nujno adaptirovatte
 
-## 8.1) Vcliucheniia slov v verkhnem registre
+### 8.1) Vcliucheniia slov v verkhnem registre
 
 *Byla ispolzovana tocceca, no eto plohoi variant. Nado pridumatte drugoi.*
 
 
-## 8.2) Vcleucenia inostrannyh slov bez izmeneniy
+### 8.2) Vcleucenia inostrannyh slov bez izmeneniy
 
 U cajdogo slova v Russcoi Latinicze dlea menea iestte nastoiasceaia forma v kyrillicze. Slova v latinicze — lish alternativnoie otobrajenie nastoiasqih slov v kyrillicze. A nastoiascqie slova v latinicze vsegda pomeqeny specialnymi znacami:
 
