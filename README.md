@@ -10,7 +10,7 @@ Latinicza, v cotoroi CA qitaietsea cac KA - cac u culturnyh ievropeiciev ([vk.co
 Smysl leuboi russcoi latinicy ia viju tolco v ispolzovanii na ucazateleah turisticeskih, transliteratcii imeon. V redcom ispolzovanii v URL'ah, nickah, email'ah, imenah failov dlea sovmestimosti so starymi programmami. Tac ge ieieo ispolzuiut leudi so strannym hobbi russcoi latinicy. Nu vmesto ugeasnogo anglotranslita ili ugeasnyh slaveanskih latinicz. Leubaia latinicza — eto uhudshenie po sravneniu s kyrilliciei. No iesli ugj prihoditsea ispolzovatte etot zamenitelle, to on dollgen bytte cac mogjno lucceshe. A vot latinizatciu Rossii ia sqitaiu plohoi ideiei i ne privetstvuiu.
 
 Sravnenie s translitami-predshestvennicami
-==========================================
+------------------------------------------
 
 0) Kyrillicza
 1) Pravila transliteratcii mejdunarodnyh telegramm,
@@ -45,7 +45,7 @@ Sravnenie s translitami-predshestvennicami
 [Сравнительная таблица систем транслитерации](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%B0_%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B5%D0%B9#%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8)
 
 Boleie podrobno (v scobcah ucazany predyidusqie ili sleduiusqie bucvy)
-======================================================================
+----------------------------------------------------------------------
 
 А Б В Д  
 a b v d
@@ -271,7 +271,7 @@ Imeietsea nescolco ghypothez proiishhojdenia sobaki, naiiboleie veroiatnymi ieio
 V sujdeniiah uceonyh o predcah domashnei sobaki prisutstvuiut dve tocceki zrenia. Odni sqitaiut, cceto sobaki - poliyphyleticescaia gruppa (proiishhodeasceaia ot nescolkih predcov), drugie pridergyvaiutsea mnenia, cceto vse sobaki proiizoshli ot odnogo predca (monophyleticescaia theoria).
 
 
-# 1) Utoccenenia
+## 1) Utoccenenia
 
 ### 1.1) Dlea Ц-Ч-К
 
@@ -361,14 +361,14 @@ novyie новые (в конце слова)
 vyiiavleatte выявлять (не в конце слова)
 
 
-# 2) Zaiimstvovania
+## 2) Zaiimstvovania
 
 V zaiimstvovaniiah mogjno ispolzovatte х/ch — chrom, archiv, a tac ge ч/tch — tchecknutte чекнуть (vmesto obyccenyh х/h i ч/c(e)/q(ie)).
 
 mushqueteor, aqvarium (sporno, no interesno).
 
 
-# 3) "Greceskiy spisoc" specialnogo ccetenia u digraphov i socetaniy vagjnyh dlea grecescoi etiymologii
+## 3) "Greceskiy spisoc" specialnogo ccetenia u digraphov i socetaniy vagjnyh dlea grecescoi etiymologii
 
 Glavnoie ccetenie:
 
@@ -417,7 +417,7 @@ holod холод, bloha, blohi блохи.
 предъисторический = предысторический = pred-historiceskiy, полуисторический = polu-historiceskiy.
 
 
-# 4) Abbreviatury
+## 4) Abbreviatury
 
 Abbreviatury stroiatsea phoneticeski - cac zvuqit pervaia bucva (a na samom dele cacaia bucva pishetsea pervoi v kyrillicze), to i ideot v abbreviaturu.
 
@@ -453,7 +453,7 @@ SShA = SS'A = SSA
 Novyi York => NIY
 
 
-# 5) Nazvania bucv v raznyh contextah
+## 5) Nazvania bucv v raznyh contextah
 
 E - "Э" (e) — v abbreviaturah tac ge, v mathematike — "Е-Йэ" (ie),  
 C - "Ци" (ci), v abbreviaturah i mathematike — "Це" (cae),  
@@ -485,7 +485,7 @@ IU - "Ю" (iu),
 IA - "Я" (ia).
 
 
-# 6) Как я разделил "C" между К,Ч,Ц и разделил "G" между Г,Ж
+## 6) Как я разделил "C" между К,Ч,Ц и разделил "G" между Г,Ж
 
 // "Е" (йэ) после согласных в этой латинице — просто "E" (seraia). "Ы" после согласных — просто "Y" (byla). //
 
@@ -525,7 +525,7 @@ regyim режим, drognul - ne drogy, ingener, Enerdgy Энерджи, injector
 noga - moii nogi - na noghe.
 
 
-# 7) Ceredovania
+## 7) Ceredovania
 
 mog - moget, dollg - dollgen, dollgjno должно, odollgyl (g/g(eyj) - г/ж)  
 mog - mogjno можно (g/g(eyj) - г/ж)  
@@ -552,7 +552,7 @@ vysoco - vyshe (s/sh - с/ш)
 Dlea C (Ц) etiymologia ulucceshena s pomosqiyu specialnyh pravil ccetenia dlea "ци+гласная-или-йот" (tci[yeuioa] — pozitcia) — pro etiymologiu greco-rimskih slov vseo ravno nujno znatte, ccetoby pisatte. C sogealeniu. A mestami voobsce prideotsea pisatte ts vmesto c(...): tsundaerae.
 
 
-# 8) Staryie narabotki, cotoryie nujno adaptirovatte
+## 8) Staryie narabotki, cotoryie nujno adaptirovatte
 
 ## 8.1) Vcliucheniia slov v verkhnem registre
 
