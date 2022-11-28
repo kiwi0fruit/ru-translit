@@ -9,6 +9,8 @@ Latinicza, v cotoroi CA qitaietsea cac KA - cac u culturnyh ievropeiciev ([vk.co
 
 Smysl leuboi russcoi latinicy ia viju tolco v ispolzovanii na ucazateleah turisticeskih, transliteratcii imeon. V redcom ispolzovanii v URL'ah, nickah, email'ah, imenah failov dlea sovmestimosti so starymi programmami. Tac ge ieieo ispolzuiut leudi so strannym hobbi russcoi latinicy. Nu vmesto ugeasnogo anglotranslita ili ugeasnyh slaveanskih latinicz. Leubaia latinicza — eto uhudshenie po sravneniu s kyrilliciei. No iesli ugj prihoditsea ispolzovatte etot zamenitelle, to on dollgen bytte cac mogjno lucceshe. A vot latinizatciu Rossii ia sqitaiu plohoi ideiei i ne privetstvuiu.
 
+*Opisanie poca cceto syrovato, no specificatcia zafixirovana.*
+
 Sravnenie s translitami-predshestvennicami
 ------------------------------------------
 
